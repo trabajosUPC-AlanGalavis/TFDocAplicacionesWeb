@@ -50,7 +50,7 @@ Soto Kong Requena, Andres Eduardo
     2. User Stories.
     3. Impact Mapping.
     4. Product Backlog.
-9. **Capítulo IV: Product Design.**
+5. **Capítulo IV: Product Design.**
     1. Style Guidelines.
         1. General Style Guidelines.
         2. Web Style Guidelines.
@@ -78,7 +78,7 @@ Soto Kong Requena, Andres Eduardo
         2. Class Dictionary.
     8. Database Design.
         1. Database Diagram.
-11. **Capítulo V: Product Implementation, Validation & Deployment.**
+6. **Capítulo V: Product Implementation, Validation & Deployment.**
     1. Software Configuration Management.
         1. Software Development Environment Configuration.
         2. Source Code Management.
@@ -94,9 +94,9 @@ Soto Kong Requena, Andres Eduardo
             6. Services Documentation Evidence for Sprint Review.
             7. Software Deployment Evidence for Sprint Review.
             8. Team Collaboration Insights during Sprint.
-12. **Conclusiones.**
-13. **Bibliografía.**
-14. **Anexos.**
+7. **Conclusiones.**
+8. **Bibliografía.**
+9. **Anexos.**
 
 
 

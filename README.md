@@ -3,7 +3,7 @@
 Ingeniería de Software
 Aplicaciones Web
 Docente:** Juan Carlos Tinoco Licas
-Ciclo 2023-01
+Ciclo 2023-02
 ## Team members:
 Commetant Rubiños, Jessica Elizabeth
 Espinoza Rodriguez, Nicolas Antonio

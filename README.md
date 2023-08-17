@@ -1,21 +1,27 @@
 # Informe TB1
-**Universidad Peruana de Ciencias Aplicadas
-Ingeniería de Software
-Aplicaciones Web
-Docente:** Juan Carlos Tinoco Licas
+**Universidad Peruana de Ciencias Aplicadas**
+
+**Ingeniería de Software**
+
+**Aplicaciones Web - SW51**
+
+**Docente:** Juan Carlos Tinoco Licas
+
 Ciclo 2023-02
 ## Team members:
-Commetant Rubiños, Jessica Elizabeth
-Espinoza Rodriguez, Nicolas Antonio
-Galavis Du Bois, Alan Enrique
-Seminario Garbin, Carlo Luca
-Soto Kong Requena, Andres Eduardo
+| Nombre |Código|
+|:-------:|:----------:|
+|Commetant Rubiños, Jessica Elizabeth|U20211C009|
+|Espinoza Rodriguez, Nicolas Antonio|U202110278|
+|Galavis Du Bois, Alan Enrique|U202110223|
+|Seminario Garbin, Carlo Luca|U20211A475|
+|Soto Kong Requena, Andres Eduardo|U202116113|
 
 ## Registro de versiones del informe
 
 | Versión |Fecha|Autor|Descripción de modificación |
 |:-------:|:----------:|:---------------------------------------------:|:--------------------:|
-|1.0|15/08/2023|Commetant, Espinoza, Galavis, Seminario, Soto|Lorem ipsum dolor sit amet|
+|1.0|15/08/2023|Commetant, Espinoza, Galavis, Seminario, Soto|Creación del documento de trabajo en formato markdown|
 
 ## Contenido
 
@@ -112,7 +118,7 @@ Lorem ipsum dolor sit amet
 | :--------| :--------: |
 | Mi nombre es **Nicolás Antonio Espinoza Rodriguez**. Tengo 19 años y estoy estudiando la carrera de ingeniería de software en la UPC desde el año 2021. Soy una persona creativa e imaginativa, lo que me ayuda a aportar soluciones para resolver los problemas en común. También, me considero empático y colaborativo, lo que facilita el trabajo en equipo con mis compañeros. Finalmente, me considero una persona ordenada y con ambición, lo que ayuda a trazar metas posibles y significativas para la solución que queremos presentar como equipo.|<img src="https://hackmd.io/_uploads/H1dUSaqhn.png" alt="Nicolas Espinoza" width="250px" />
 | Mi nombre es **Alan Enrique Galavis Du Bois**, tengo 20 años y actualmente curso el sexto ciclo de la carrera de ingeniería de software en la UPC (Universidad Peruana de Ciencias Aplicadas). Considero que soy organizado, perseverante y creativo, cualidades que me serán de gran utilidad al momento de trabajar en equipo. Me apasiona encontrar soluciones innovadoras a problemas relacionados con la computación. Al haber crecido en la era digital, estoy familiarizado con el uso de tecnologías de la información y la comunicación.|![](https://hackmd.io/_uploads/S1znb692n.png)|
-Mi nombre es **Carlo Luca Seminario Garbín** tengo 19 años de edad y actualmente curso el sexto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo considero que soy bueno identificando problemáticas y buscando soluciones, a lo que le puedo sumar los conocimientos previos de los ciclos anteriores en cursos de programación y de empresas.|![](https://hackmd.io/_uploads/SJvfXTq22.png)|
+Mi nombre es **Carlo Luca Seminario Garbín** tengo 19 años de edad y actualmente curso el sexto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo considero que soy bueno identificando problemáticas y proponiendo soluciones, a lo que le puedo sumar los conocimientos previos de los ciclos anteriores en cursos de programación y conocimientos adquiridos mediante mi aprendizaje autónomo.|![](https://hackmd.io/_uploads/SJvfXTq22.png)|
 Mi nombre es **Andrés Eduardo Soto Kong Requena**, soy estudiante de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Me gusta generar soluciones para problemas digitales, es por ello que elegí dicha carrera. Además, me considero bueno para trabajar en situaciones bajo estrés. De la misma forma, considero que las situaciones de mi vida personal me han preparado para afrontar una gran variedad de situaciones en las áreas, tanto laboral como social. Finalmente, soy una persona responsable, lo cual me ha ayudado en una gran cantidad de ocasiones en el momento de la entrega de trabajos.|![](https://hackmd.io/_uploads/r1eHSaq32.png)|
 
 

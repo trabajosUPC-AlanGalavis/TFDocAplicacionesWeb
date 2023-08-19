@@ -32,10 +32,10 @@ Ciclo 2023-02
     2. Solution Profile.
         1. Antecedentes y Problemática.
         2. Lean UX Process.
-            1.Lean UX Problem Statements.
-            2.Lean UX Assumptions.
-            3.Lean UX Hypothesis Statements.
-            4.Lean UX Canvas.
+            1. Lean UX Problem Statements.
+            2. Lean UX Assumptions.
+            3. Lean UX Hypothesis Statements.
+            4. Lean UX Canvas.
     3. Segmentos objetivo.
 2. **Capítulo II: Requirements Elicitation & Analysis.**
     1. Competidores.

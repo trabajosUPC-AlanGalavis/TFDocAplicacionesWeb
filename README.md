@@ -1,21 +1,25 @@
 # Informe TB1
 **Universidad Peruana de Ciencias Aplicadas**
 
-**Ingeniería de Software**
+**Facultad de ingeniería**
 
-**Aplicaciones Web - SW51**
+**Aplicaciones Web**
 
 **Docente:** Juan Carlos Tinoco Licas
 
+**Sección:** SW51  
+
 Ciclo 2023-02
-## Team members:
-| Nombre |Código|
-|:-------:|:----------:|
-|Commetant Rubiños, Jessica Elizabeth|U20211C009|
-|Espinoza Rodriguez, Nicolas Antonio|U202110278|
-|Galavis Du Bois, Alan Enrique|U202110223|
-|Seminario Garbin, Carlo Luca|U20211A475|
-|Soto Kong Requena, Andres Eduardo|U202116113|
+
+## Team members: 
+    
+|                Nombre                |   Código   |
+|:------------------------------------:|:----------:|
+| Commetant Rubiños, Jessica Elizabeth | U20211C009 |
+| Espinoza Rodriguez, Nicolas Antonio  | U202110278 |
+|    Galavis Du Bois, Alan Enrique     | U202110223 |
+|     Seminario Garbin, Carlo Luca     | U20211A475 |
+|  Soto Kong Requena, Andres Eduardo   | U202116113 |
 
 ## Registro de versiones del informe
 

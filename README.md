@@ -113,8 +113,13 @@ Ciclo 2023-02
 ## Capítulo I: Introducción.
 
 ### 1. **Startup Profile.**
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 ####     1.1. Descripción del startup
-Lorem ipsum dolor sit amet
+La startup que se presenta recibe como nombre “Integradis”. Esta se enfoca en ofrecer proyectos de software que ayuden a la optimización de procesos en entornos empresariales. Se cuenta con un equipo técnico capacitado en crear aplicaciones que aporten calidad de vida necesaria a las empresas productoras que cuentan con sistemas antiguos y propensos a fallos.
+
+Como **misión** de la startup se plantea “crear productos basados en la realidad que permitan una mejoría en el desarrollo de los procesos productivos”. Para ello, la startup enfoca sus esfuerzos en la identificación de problemas frecuentes de los trabajadores y en la búsqueda de sus soluciones mediante el uso del software.
+
+Por otro lado, la **visión** de la startup consiste en “ser la ayuda número uno de las empresas para la simplificación de procesos productivos en el Perú”. Se busca la confianza de las empresas para que las soluciones de la startup puedan formar parte de los distintos rubros de la industria de producción. A su vez, el equipo busca ser reconocido nacionalmente como un modelo de negocio sostenible y comprometido con brindar un servicio de calidad que satisfaga las necesidades de los usuarios.
 ####     1.2. Perfiles de los integrantes del equipo
 
 
@@ -282,7 +287,7 @@ Lorem ipsum dolor sit amet
 ####     7.2. Class Dictionary.
 Lorem ipsum dolor sit amet
 ### 8. **Database Design.**
-Para el presente proyecto se ha seleccionado el motor de base de datos MySQL porque es una plataforma escalable con una interfaz sencilla y fácil de usar. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
+Para el presente proyecto se ha seleccionado el motor de base de datos MySQL porque es una plataforma escalable con una interfaz sencilla y fácil de usar debido a la familiaridad del grupo con el motor de Microsoft SQL Server. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
 ####     8.1. Database Diagram.
 ![GreenhousePhysicalDataModel](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a2c4c664-9dcc-43b1-ae47-a1c5045267af)
 

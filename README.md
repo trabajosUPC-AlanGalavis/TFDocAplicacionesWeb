@@ -281,7 +281,12 @@ Finalmente, en relación a las principales empresas exportadoras de champiñones
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 1. **Competidores.**
 ####     1.1. Análisis competitivo.
-Lorem ipsum dolor sit amet
+
+![vista_analisis](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/6848f634-37c6-4496-81db-36d7d7cffd90) 
+**Visualización:** https://docs.google.com/spreadsheets/d/1Hn_evhnXSpAuNpxrVHCGnnAEhjVeSZmi/edit?usp=sharing&ouid=112038083029343506182&rtpof=true&sd=true 
+
+**Descarga:** [Integradis_Analisis_Competitivo.xlsx](https://github.com/Integradis-OpenSource/TFDocOpenSource/files/12501907/Integradis_Analisis_Competitivo.xlsx) 
+
 ####     1.2. Estrategias y tácticas frente a competidores.
 En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas  de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
 

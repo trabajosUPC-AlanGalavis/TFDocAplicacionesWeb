@@ -262,7 +262,7 @@ El producto debe integrar una interfaz sencilla, inclusiva y dinámica. Debe ent
     **Cuando** se perciba una reducción del 50% en el margen de error de registro de datos de procesos productivos dentro de la plataforma.  
 
 #####         **2.2.4.Lean UX Canvas.**
-A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
+El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
 
 ![Integradis_Lean Canvas](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/901dcbe9-c395-4f62-9fb0-bf32980a4ba8)
 **Fuente:** https://app.mural.co/t/integradis6182/m/integradis6182/1693601172741/46f0026bfe73d12af59e3bc71c203bee710eb32a?sender=ufdf66b413172c812625a4806 
@@ -281,6 +281,7 @@ Finalmente, en relación a las principales empresas exportadoras de champiñones
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 1. **Competidores.**
 ####     1.1. Análisis competitivo.
+El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
 
 ![vista_analisis](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/6848f634-37c6-4496-81db-36d7d7cffd90) 
 **Visualización:** https://docs.google.com/spreadsheets/d/1Hn_evhnXSpAuNpxrVHCGnnAEhjVeSZmi/edit?usp=sharing&ouid=112038083029343506182&rtpof=true&sd=true 

@@ -268,7 +268,20 @@ Administrador:
 https://uxpressia.com/w/0zjVz/p/K12gT/m/6xYWr
 
 ####     3.4. Empathy Mapping.
-Lorem ipsum dolor sit amet
+
+* Técnico Supervisor:
+
+![Empathy Map Técnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/e4c3829e-d60f-4e7b-bf96-39dece6dd4cc)
+
+https://uxpressia.com/w/0zjVz/p/K12gT/p/obQDr
+
+* Administrador:
+
+![Empathy Map Administrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/3e915a48-741d-4088-8145-d7bc43655d04)
+
+
+https://uxpressia.com/w/0zjVz/p/K12gT/p/I5oHs
+
 ####     3.5. As-is Scenario Mapping.
 
 Técnico Supervisor:

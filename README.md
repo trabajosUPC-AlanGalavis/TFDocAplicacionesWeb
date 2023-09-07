@@ -7,7 +7,7 @@
 
 **Docente:** Juan Carlos Tinoco Licas
 
-**Sección:** SW51  
+**Sección:** SW51
 
 Ciclo 2023-02
 
@@ -21,11 +21,15 @@ Ciclo 2023-02
 |     Seminario Garbin, Carlo Luca     | U20211A475 |
 |  Soto Kong Requena, Andres Eduardo   | U202116113 |
 
+
 ## Registro de versiones del informe
 
-| Versión |Fecha|Autor|Descripción de modificación |
-|:-------:|:----------:|:---------------------------------------------:|:--------------------:|
+|Versión|Fecha|Autor|Descripción de modificación|
+|:-:|:-:|:-:|-|
 |1.0|15/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Creación del documento de trabajo en formato markdown|
+|1.1|20/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
+|1.2|23/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
+
 
 ## Contenido
 
@@ -115,11 +119,11 @@ Ciclo 2023-02
 ### 1. **Startup Profile.**
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 ####     1.1. Descripción del startup
-La startup, presentada con el nombre de “Integradis”,se enfoca en ofrecer una solución de índole tecnológica avanzada a la industria champiñonera del Perú. Para ello, implementa una plataforma encargada de segmentar el proceso de producción del cultivo de champiñones en determinadas fases. Estas involucran la elaboración del compost, fase de cocina (cocción, pasteurización y acondicionamiento del búnker), la recolección y siembra, la administración de procesos, entre otros. Así mismo, se establece un análisis efectivo entre datos históricos de previo registro y actualizados a tiempo real para la trazabilidad de metas a largo plazo como agroempresa. Es así que, se evalúan los costos operativos actuales, la demanda de exportaciones y se toman futuras decisiones dentro del mercado. Nuestra misión es revolucionar la forma en que las fábricas de champiñones monitorean, registran y optimizan sus procesos de producción a través de una aplicación web intuitiva y poderosa. 
+La startup, presentada con el nombre de “Integradis”, se enfoca en ofrecer una solución de índole tecnológica avanzada a la industria champiñonera del Perú. Para ello, implementa una plataforma encargada de segmentar el proceso de producción del cultivo de champiñones en determinadas fases. Estas involucran la elaboración del compost, fase de cocina (cocción, pasteurización y acondicionamiento del búnker), la recolección y siembra, la administración de procesos, entre otros. Así mismo, se establece un análisis efectivo entre datos históricos de previo registro y actualizados a tiempo real para la trazabilidad de metas a largo plazo como agroempresa. Es así que, se evalúan los costos operativos actuales, la demanda de exportaciones y se toman futuras decisiones dentro del mercado. Nuestra misión es revolucionar la forma en que las fábricas de champiñones monitorean, registran y optimizan sus procesos de producción a través de una aplicación web intuitiva y poderosa. 
 
-Misión: Revolucionar la documentación de los procesos fundamentales de las fábricas enfocadas en la producción de champiñones del Perú.
+**Misión:** Revolucionar la documentación de los procesos fundamentales de las fábricas enfocadas en la producción de champiñones del Perú.
 
-Visión: GreenHouse se direcciona a ser la plataforma más destacada dentro del mercado respecto al registro de procesos para los próximos tres años. 
+**Visión:** GreenHouse se direcciona a ser la plataforma más destacada dentro del mercado respecto al registro de procesos para los próximos tres años. 
 Integradis busca ser reconocido como un modelo de negocio sostenible y comprometido en brindar un servicio de calidad capaz de satisfacer las necesidades de los usuarios.
 
 ##### Logotipo de la Startup:
@@ -127,15 +131,17 @@ Integradis busca ser reconocido como un modelo de negocio sostenible y compromet
 ##### Logotipo del servicio
 ![logotipo_servicio](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/24685994-1b60-4a6e-9c38-0380e92027d8)
 
+
 ####     1.2. Perfiles de los integrantes del equipo
 
-| Perfiles de los integrantes del equipo |        |
+||Perfiles de los integrantes del equipo|
 | :--------| :--------: |
-| Mi nombre es **Nicolás Antonio Espinoza Rodriguez**. Tengo 19 años y estoy estudiando la carrera de ingeniería de software en la UPC desde el año 2021. Soy una persona creativa e imaginativa, lo que me ayuda a aportar soluciones para resolver los problemas en común. También, me considero empático y colaborativo, lo que facilita el trabajo en equipo con mis compañeros. Finalmente, me considero una persona ordenada y con ambición, lo que ayuda a trazar metas posibles y significativas para la solución que queremos presentar como equipo. Soy competente en los lenguajes de programación C++, Python y Javascript. Además, tengo conocimiento de tecnologías ágiles y software de control de versiones|<img src="https://hackmd.io/_uploads/H1dUSaqhn.png" alt="Nicolas Espinoza" width="250px" />
-| Mi nombre es **Alan Enrique Galavis Du Bois**, tengo 20 años y actualmente curso el sexto ciclo de la carrera de ingeniería de software en la UPC (Universidad Peruana de Ciencias Aplicadas). Considero que soy organizado, perseverante y creativo, cualidades que me serán de gran utilidad al momento de trabajar en equipo. Me apasiona encontrar soluciones innovadoras a problemas relacionados con la computación. Al haber crecido en la era digital, estoy familiarizado con el uso de tecnologías de la información y la comunicación.|![](https://hackmd.io/_uploads/S1znb692n.png)|
-Mi nombre es **Carlo Luca Seminario Garbín** tengo 19 años de edad y actualmente curso el sexto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo considero que soy bueno identificando problemáticas y proponiendo soluciones, a lo que le puedo sumar los conocimientos previos de los ciclos anteriores en cursos de programación y conocimientos adquiridos mediante mi aprendizaje autónomo.|![](https://hackmd.io/_uploads/SJvfXTq22.png)|
+| Mi nombre es **Nicolás Antonio Espinoza Rodriguez**. Tengo 19 años y estoy estudiando la carrera de ingeniería de software en la UPC desde el año 2021. Soy una persona creativa e imaginativa, lo que me ayuda a aportar soluciones para resolver los problemas en común. También, me considero empático y colaborativo, lo que facilita el trabajo en equipo con mis compañeros. Finalmente, me considero una persona ordenada y con ambición, lo que ayuda a trazar metas posibles y significativas para la solución que queremos presentar como equipo.|![](https://hackmd.io/_uploads/H1dUSaqhn.png)
+| Mi nombre es **Alan Enrique Galavis Du Bois**, tengo 20 años y actualmente curso el sexto ciclo de la carrera de ingeniería de software en la UPC (Universidad Peruana de Ciencias Aplicadas). Considero que soy organizado, perseverante y creativo, cualidades que me serán de gran utilidad al momento de trabajar en equipo. Me apasiona encontrar soluciones innovadoras a problemas relacionados con la computación. Al haber crecido en la era digital, estoy familiarizado con el uso de tecnologías de la información y la comunicación.|![](https://hackmd.io/_uploads/S1znb692n.png')|
+Mi nombre es **Carlo Luca Seminario Garbín** tengo 19 años de edad y actualmente curso el quinto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo considero que soy bueno identificando problemáticas y buscando soluciones, a lo que le puedo sumar los conocimientos previos de los ciclos anteriores en cursos de programación y de empresas.|![](https://hackmd.io/_uploads/SJvfXTq22.png)|
 Mi nombre es **Andrés Eduardo Soto Kong Requena**, soy estudiante de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Me gusta generar soluciones para problemas digitales, es por ello que elegí dicha carrera. Además, me considero bueno para trabajar en situaciones bajo estrés. De la misma forma, considero que las situaciones de mi vida personal me han preparado para afrontar una gran variedad de situaciones en las áreas, tanto laboral como social. Finalmente, soy una persona responsable, lo cual me ha ayudado en una gran cantidad de ocasiones en el momento de la entrega de trabajos.|![](https://hackmd.io/_uploads/r1eHSaq32.png)|
 Mi nombre es **Jessica Elizabeth Comettant Rubiños** y tengo 19 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el quinto ciclo de mi carrera. Gracias a las asignaturas correspondientes a la malla curricular de mi carrera, cuento con las habilidades intelectuales propicias para el desarrollo del proyecto. Asimismo, mi personalidad se encuentra basada en la autonomía. Por lo tanto, he sido capaz de extender mis conocimientos de programación con mayor material de estudio. Finalmente, destaco de mi personalidad la empatía, la responsabilidad, la amabilidad y la capacidad de trabajar en equipo.|![](https://hackmd.io/_uploads/HkXOtvkCh.png)
+
 
 ### 2. **Solution Profile.**
 ####     2.1. Antecedentes y Problemática
@@ -187,7 +193,7 @@ El sistema puede ser utilizado por múltiples técnicos, supervisores y administ
 ####     2.2. Lean UX Process
 #####         **2.2.1.Lean UX Problem Statements.**
 ###### **Problem Statement:** 
-El propósito de GreenHouse es proporcionar a las fábricas champiñoneras del Perú un sistema de monitoreo de cultivos ágil mediante el cual técnicos supervisores y administradores del personal trabajador podrán registrar los procesos productivos implicados en la producción de champiñones.
+El propósito de Greenhouse es proporcionar a las fábricas champiñoneras del Perú un sistema de monitoreo de cultivos ágil mediante el cual técnicos supervisores y administradores del personal trabajador podrán registrar los procesos productivos implicados en la producción de champiñones.
 
 El problema está presente al momento de realizar el registro de características en constante desarrollo durante el proceso de crecimiento de champiñones. Esta ineficiencia del registro y la dependencia del personal técnico y de supervisión hacia métodos manuales, como registros en papel y hojas de cálculo digitales conlleva a un aumento significativo en el margen de error. En primer lugar, se percibe un incremento en la cantidad de errores dentro del ingreso de datos de manera manual que incluyen omisiones, errores de transcripción y falta de consistencia en la información, relevante para la gestión de las fases posteriores de cultivo.
 
@@ -265,7 +271,7 @@ El producto debe integrar una interfaz sencilla, inclusiva y dinámica. Debe ent
 El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
 
 ![Integradis_Lean Canvas](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/901dcbe9-c395-4f62-9fb0-bf32980a4ba8)
-**Fuente:** https://app.mural.co/t/integradis6182/m/integradis6182/1693601172741/46f0026bfe73d12af59e3bc71c203bee710eb32a?sender=ufdf66b413172c812625a4806 
+Enlace para acceder al [Canvas](https://app.mural.co/t/integradis6182/m/integradis6182/1693601172741/46f0026bfe73d12af59e3bc71c203bee710eb32a?sender=ufdf66b413172c812625a4806 )
 
 ### 3. **Segmento objetivo.**
 Según AgroPerú (2023), en el año 2022, el Perú exportó 850 toneladas de champiñones secos por un valor de USD 7,1 millones. Ello representó un aumento del 11 % en volumen y 4 % en valor que en el año 2021. Si bien el número de exportaciones fluctúa ser próspero, se requiere un proceso de automatización para agilizar y monitorear el registro de las fases involucradas en la producción de cultivos de estas industrias. Así mismo, en los próximos treinta años, la demanda de alimentos se incrementará en un 70 %. Ello implica mejoras en la  gestión y producción de alimentos. El uso de herramientas tecnológicas e incluso disciplinas como la inteligencia artificial pueden ayudar a cumplir este objetivo mediante la creación de granjas virtuales que permiten planificar las actividades agrícolas y monitorear la evolución de los cultivos a través del registro de procesos y factores meteorológicos, ambientales y de cultivos involucrados. La automatización reduciría las dificultades exclamadas por el personal de las agroempresas en cuanto al registro de datos en herramientas manuales.
@@ -277,10 +283,9 @@ Finalmente, en relación a las principales empresas exportadoras de champiñones
 
 ![Stakeholders Externos](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/b28e7264-8fe6-4da1-9275-59a114145d72)
 
-
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 1. **Competidores.**
-####     1.1. Análisis competitivo.
+####     1.1. Análisis competitivo:
 El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
 
 ![vista_analisis](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/6848f634-37c6-4496-81db-36d7d7cffd90) 
@@ -371,25 +376,25 @@ La sección abarca el proceso de investigación de nuestros segmentos objetivos 
 _Preguntas dirigidas al personal técnico supervisor de las fábricas de champiñones._
 ___
 - Preguntas principales:
-  1. ¿Podrías proporcionarnos tu nombre completo y tu edad?
-  2. ¿Cuanto tiempo de experiencia posees en la industria de producción de champiñones y que rol desempeñas en la fábrica?
-  3. ¿Qué actividades desempeñas dentro de la fábrica?
-  4. ¿Cómo interactúas con el equipo a tu cargo para asegurarte de que las operaciones en la fábrica sean eficientes y exitosas? ¿Qué estrategias utilizas para mantener un ambiente de trabajo colaborativo y motivador?
-  5. ¿Podrías proporcionar una descripción general del proceso de cultivo de champiñones?
-  6. ¿Con que frecuencia registras los procesos de la fábrica?
-  7. ¿Consideras tedioso el registro de procesos? ¿Cómo consideras que podría agilizarse u optimizarse este proceso?
+  1. ¿Podría proporcionarnos su nombre completo y su edad?
+  2. ¿Cuánto tiempo de experiencia posee en la industria de producción de champiñones y que rol desempeña en la fábrica?
+  3. ¿Qué actividades desempeña dentro de la fábrica?
+  4. ¿Cómo interactúa con el equipo a su cargo para asegurarse de que las operaciones en la fábrica sean eficientes y exitosas? ¿Qué estrategias utiliza para mantener un ambiente de trabajo colaborativo y motivador?
+  5. ¿Podría proporcionar una descripción general del proceso de cultivo de champiñones?
+  6. ¿Con que frecuencia registra los procesos de la fábrica?
+  7. ¿Considera tedioso el registro de procesos? ¿Cómo consideras que podría agilizarse u optimizarse este proceso?
   8. ¿Han habido casos de confusiones, imprecisiones o fallos en la comunicación al momento de reportar de los procesos de la fábrica? ¿Cómo intentaron solucionar estos inconvenientes?
   9. ¿Cuál es el propósito principal de la pasteurización en el contexto del cultivo de champiñones?
-  10. ¿Cuáles son los procesos clave que supervisas durante el crecimiento de los champiñones?
+  10. ¿Cuáles son los procesos clave que supervisa durante el crecimiento de los champiñones?
   11. ¿Qué factores son los más importantes a tomar en cuenta para un cultivo exitoso de los champiñones? (temperatura, humedad, iluminación, etc.)
-  12. ¿Podrías explicar a detalle como se realiza el registro de procesos de las naves para una producción óptima de champiñones? ¿Cómo se realiza en el proceso de pasteurización?
+  12. ¿Podría explicar a detalle como se realiza el registro de procesos de las naves para una producción óptima de champiñones? ¿Cómo se realiza en el proceso de pasteurización?
   13. ¿Cómo evalúan la efectividad de la pasteurización? ¿Qué indicadores utilizan para medir el éxito del proceso?
   14. ¿Cómo se comunica la información sobre el estado y el progreso del proceso de pasteurización con otros departamentos o equipos?
   15. ¿Cuáles son los desafíos más comunes que enfrentan en la supervisión de las naves de champiñones? ¿Qué incovenientes son frecuentes al momento de recibir reportes?
   16. ¿Cuáles son los desafíos más comunes que enfrentan durante el proceso de pasteurización de champiñones?
   17. ¿En qué medida se utiliza la tecnología y automatización en el proceso de cultivo? ¿Cuáles son los beneficios más importantes del uso de estas herramientas?
-  18. ¿Qué funcionalidades consideras que debe tener una aplicación web para ayudar con el registro de información del proceso de pasteurización y de los procesos que supervisas?
-  19. ¿Cuál de estas características crees que es más importante en la aplicación web, velocidad, facilidad de uso o una interfaz amplia? 
+  18. ¿Qué funcionalidades considera que debe tener una aplicación web para ayudar con el registro de información del proceso de pasteurización y de los procesos que supervisas?
+  19. ¿Cuál de estas características cree que es más importante en la aplicación web: velocidad, facilidad de uso o una interfaz amplia? 
   20. ¿Cuáles problemas crees que podrían surgir del uso de dicha aplicación?
    
 - Preguntas complementarias:
@@ -399,59 +404,300 @@ ___
 _Preguntas dirigidas a los administradores de las fábricas de champiñones._
 ___
 - Preguntas principales:
-  1. ¿Podrías proporcionarnos tu nombre completo y tu edad?
-  2. ¿Cuanto tiempo de experiencia posees en la industria de producción de champiñones y que rol desempeñas en la fábrica?
-  3. ¿Qué actividades desempeñas dentro de la fábrica?
+  1. ¿Podrías proporcionarnos su nombre completo y tu edad?
+  2. ¿Cuanto tiempo de experiencia posee en la industria de producción de champiñones y que rol desempeña en la fábrica?
+  3. ¿Qué actividades desempeña dentro de la fábrica?
   4. ¿Cómo es el proceso de cultivo de champiñones en las naves?
-  5. ¿Cuáles son los procesos que supervisas personalmente en la fábrica?
-  6. ¿Con que frecuencia recibes un reporte relacionado con los procesos y el estado actual de la fábrica? ¿Para qué utilizas esta información?
+  5. ¿Cuáles son los procesos que supervisa personalmente en la fábrica?
+  6. ¿Con qué frecuencia recibes un reporte relacionado con los procesos y el estado actual de la fábrica? ¿Para qué utilizas esta información?
   7. ¿Han habido casos de confusiones, imprecisiones o fallos en la comunicación al momento de reportar de los procesos de la fábrica? ¿Cómo intentaron solucionar estos inconvenientes?
-  8. ¿Cuáles son los principales problemas reportados por los trabajadores que están bajo tu administración?
+  8. ¿Cuáles son los principales problemas reportados por los trabajadores que están bajo su administración?
   9. ¿Cómo se registra la información proveniente de los procesos realizados durante el cultivo y la pasteurización?
   10. Dentro de la fábrica, ¿Cuentan con algún tipo de análisis estadístico u otra manera de visualizar la producción dentro de la fábrica y su trayectoria a través del tiempo?
   11. ¿En qué medida se utiliza la tecnología y automatización en el proceso de cultivo? 
   12. ¿Qué tecnologías se han considerado implementar para automatizar el registro de procesos dentro de la fábrica?
-  13. ¿Qué funcionalidades consideras que debe tener una aplicación web para ayudar con el registro de información proveniente de la fábrica?
-  14. ¿Cuál de estas características crees que es más importante en la aplicación web, velocidad, facilidad de uso o una interfaz amplia? 
-  15. ¿Cuáles problemas crees que podrían surgir del uso de dicha aplicación?
+  13. ¿Qué funcionalidades considera que debe tener una aplicación web para ayudar con el registro de información proveniente de la fábrica?
+  14. ¿Cuál de estas características cree que es más importante en la aplicación web, velocidad, facilidad de uso o una interfaz amplia? 
+  15. ¿Cuáles problemas cree que podrían surgir del uso de dicha aplicación?
     
 - Preguntas complementarias:
-  1. ¿Qué te inspira a trabajar en la administración de las naves de los champiñones?
+  1. ¿Qué le inspira a trabajar en la administración de las naves de los champiñones?
   2. ¿Cómo se lleva un registro del inventario de champiñones producido?
-
 ####     2.2. Registro de entrevistas.
-Lorem ipsum dolor sit amet
+
+**Entrevista a técnicos supervisores**
+
+|Entevistado 1|Elías Almenara|
+|-|-|
+|Edad|52|
+|Distrito|Chilca|
+|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/5dc0fcff-afad-4a5d-b767-a5c03963c1e0">|Cuenta con 17 años trabajando en plantas de cultivo de champiñones, actualmente es el técnico de producción en Perú Agro. Las funciones que desempeña son las relacionadas al proceso de las naves. Tiene un conocimiento muy claro del proceso y todo lo que este involucra como lo son los tiempos, condiciones de temperatura, CO2, Humedad. Trabaja en el turno de día y realiza un registro cada 4 horas. Se evidencia que no es una persona muy familiarizada con el entorno digital puesto que ciertas preguntas relacionadas al tema le costaban comprenderlas. No considera tedioso el tener que hacer los registros manualmente pero si considera que el proceso se podría agilizar mediante la implementación de una aplicación web. |
+|Timing: 0:07-15:15 |URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=O84h23&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjcuMDR9fQ%3D%3D)|
+
+|Entevistado 2|Kevin Urbano|
+|-|-|
+|Edad|32|
+|Distrito|Chilca|
+|<img width="1293" alt="Screenshot 2023-08-27 at 12 11 33 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/23a5a75c-c964-4f2b-8ec4-239a862c664b">|Cuenta con 2 años y 3 meses trabajando en plantas de cultivo de champiñones, actualmente es el técnico de pasteurización y búnker en Perú Agro. Las funciones que desempeña son las relacionadas a los proceso previos a las naves, como lo son los bunkers y la pasteurización. Comenta que las cantidades para las mezclas se manejan con un excel del encargado. Trabaja en el turno de día y realiza un registro cada hora u hora y media. Comenta que se tienen registros tanto por WhatsApp como por informes manuales que se envían a oficina. Considera que una aplicación para el registro brindaría mayor organización puesto que todo estaría en la computadora. Comenta la posibilidad de añadir el seguimiento de las mejores naves|
+|Timing: 15:16-27:45|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=gW7L3K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjkxNi4zN319)|
+
+|Entevistado 3|Danny Martinez|
+|-|-|
+|Edad|33|
+|Distrito|Chilca|
+|<img width="1287" alt="Screenshot 2023-08-27 at 12 29 47 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/607c0533-4415-4dd0-997c-38efb3fefb77">|El entrevistado posee un año y seis meses trabajando en la planta de cultivo de champiñones, y, actualmente está encargado de la coordinación general de los procesos productivos, ventas, cosecha. Se encarga de que todos los procesos se cumplan a cabalidad. Menciona que el registro de temperatura es diario y en algunas áreas se manejan por horas. Comenta que se tienen registros tanto por WhatsApp como por informes manuales que se envían a oficina. Considera que una aplicación para el registro brindaría mayor organización puesto que es a tiempo real de manera digital a diferencia de por escrito. Menciona la posibilidad de implementar una base de datos. Considera que el uso de la aplicación tendría como mayor problema capacitar al personal.
+|Timing: 27:45-35:46|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=6oRCHi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE2NjYuNH19)|
+
+**Entrevista a administradores**
+
+|Entevistado 1|Frank Alexander Du Bois Luna|
+|-|-|
+|Edad|42|
+|Distrito|Miraflores|
+|<img width="1293" alt="Screenshot 2023-08-27 at 1 43 50 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/0f3fab5e-3c0c-4eb6-81d1-cb16452b6916">|Cuenta con 5 años en el rubro, con una trayectoria previa en la industria de la construcción. Actualmente se encarga principalmente de labores administrativas dentro de la fábrica. Posee profundos conocimientos de todas las etapas de producción, y comenta que para realizar champiñones se requiere de un estricto control. Con respecto al sistema de registro, el entrevistado señala que documentar manualmente los procesos puede resultar complicado debido a la potencial acumulación de errores con el tiempo. Uno de los problemas que encuentra es que en caso de equivocación, ninguno de los técnicos asume la responsabilidad de sus actos. Adicionalmente, asegura apoyarse de una hoja de cálculo en Excel para tener una trazabilidad de las producción diaria de cada nave. Desde su perspectiva, la facilidad de uso es un aspecto muy importante que la aplicación debe cumplir. 
+|Timing: 35:54-59:29|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=F4cCyp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjIxNTQuMDN9fQ%3D%3D)|
+
+|Entevistado 2|Rosalyn Perez Clemente|
+|-|-|
+|Edad|41|
+|Distrito|Chilca|
+|<img width="1299" alt="Screenshot 2023-08-27 at 1 32 49 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9a54b9c5-35a4-44ca-ab5a-d77a6415a6e3">|Trabaja en la planta de cultivo de champiñones desde agosto de 2018 y actualmente ocupa una posición en el área administrativa. Se encarga de la gestión de pagos, trámites y la administración de documentación relacionada con las operaciones internas. Lleva la documentanción de los registros de los procesos y las producciones por naves. Rosalyn recibe informes de registros en un promedio de cinco ocasiones mensuales, lo cual concuerda con la frecuencia de las siembras realizadas en ese periodo específico. Sin embargo, sugiere que existe la posibilidad de enfrentar retrasos en la entrega de la documentación,  un aspecto que podría afectar la capacidad de toma de decisiones oportunas por parte de la empresa. Opina que una aplicación sería de utilidad para agilizar la comunicación, y que el mayor incoveniente de esta misma sería la necesidad de proporcionar capacitación adecuada al personal, con el objetivo de garantizar un uso efectivo de la aplicación.
+|Timing: 59:30-1:03:30|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=LqataW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM1NzAuOTF9fQ%3D%3D)|
+
+|Entevistado 3|Julio Victor Du Bois Yabar|
+|-|-|
+|Edad|77|
+|Distrito|San Borja|
+|<img width="1295" alt="Screenshot 2023-08-28 at 1 57 27 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9d6ce2a3-1ff3-4f84-b424-5eebfaeb59b8">|Gerente de la fábrica de champiñones de la marca Campo Alegre. Lleva 5 años en el cargo y se encarga principalmente de la parte financiera, estructural. Recibe a menudo reportes y hace las anotaciones y correciones correspondientes según el caso. Comenta que recibe los reportes por teléfono y tiene una constancia del registro a mano. Cuenta con los conocimientos técnicos referentes al cultivo de champiñones adquiridos a través de los años de experiencia. Menciona que aún no cuentan con la tecnología necesaria en la mayoría de procesos, y que buscan la integración de esta misma. |
+|Timing: 1:03:31-1:22:35|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=qop9GL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM4MTEuMzN9fQ%3D%3D)|
+
 ####     2.3. Análisis de entrevistas.
-Lorem ipsum dolor sit amet
+
+##### Análisis del segmento de técnicos supervisores
+
+En primer lugar, el 100% de los entrevistados tiene una edad superior a 30 años, de los cuáles el 66% se encuentra entre los 30 y 40 años de edad. Asímismo, Un 66% de los entrevistados considera un proceso tedioso el tener que realizar los registros, puesto que pueden estar ocupados con otra tarea y tienen que ir a cumplir con esta labor. Además, el 66% de los entrevistados nos habló del grupo de WhatsApp además de los registros que llevan manualmente, en el cuál comunican los registros de forma que los administradores y demás técnicos pueden tener conocimiento de los procesos. A su vez, el 100% cuenta con más de año y medio de experiencia en la planta de champiñones, de los cuáles el 66% cuenta con más de 5 años de experiencia. De igual manera, el 100% de los entrevistados mencionan que los registros se hacen diarios y cada uno ellos maneja diferentes horas según su área. Por otra parte, la totalidad de los entrevistas afirman que han habido errores en el registro de los datos, ya sea que alguien se olvidó de hacerlo (principalmente en el turno noche mencionan) o que al hacer el registro puede haber un fallo al trasladar los datos al papel. Igualmente, el 66% considera que un problema sería la capacitación del personal, a lo cuál podemos añadir que un 33% parecía costarle entender las preguntas y la solución propuesta. Finalmente el 100% de los entrevistados considera que hacer el seguimineto al proceso del champiñón y registrarlo es clave para lograr un producto de calidad y poder aplicar una mejora continúa.
+
+##### Análisis del segmento de administradores
+
+En primer lugar, el 33% de los entrevistados pertenece al sector de adultos mayores mientras que el resto es mayor de ronda los 40 años. A su vez, todos los entrevistados trabajan en la champiñonera desde su apertura hace 5 años. De igual forma, el 100% menciona que el registro se realiza en papel y que esté luego es archivado por si se necesitan en un futuro, además mencionan que tienen un grupo de WhatsApp como un canal no ofocial dónde también se comparten los registros. Asímismo, el 66% de los entrevistados cuenta con los conocimientos técnicos del proceso productivo del champiñón, mientras que el 33% se dedica únicamente a actividades administrativas. Por parte, el 66% comenta que para recibir ciertos registros pueden haber demoras debido a que aún no los tienen en la oficina o que se tiene que buscar entre todos los registros archivados. Además, el 100% menciona que la tecnología se utiliza principalmente en las máquinas de mediciones y que para la comunicación y registro de los datos únicamente se cuenta con los registros manuales en papel y un grupo de WhatsApp. Por otro lado, el 33% de los entrevistas maneja un excel como herramienta tecnológica que utiliza para el control de inventarios y tener una trazabilidad de la producción. También, en su totalidad consideran que implementar una aplicación para registrar las mediociones y optimizar otros proceso agilizaría el trabajo y sería útil para tener una visión más general del proceso productivo y en que aspectos mejorar. Finalmente, todos los entrevistados consideran que el mayor problema sería la capacitación de los trabajadores para utilizar nuevas herramientas tecnológicas.
+
 ### 3. **Needfinding.**
 ####     3.1. User Personas.
 Lorem ipsum dolor sit amet
 ####     3.2. User Task Matrix.
-Lorem ipsum dolor sit amet
+
+* **Luis Flores (Técnico Supervisor):**
+
+| Tarea | Frequencia | Importancia |
+| - | - | - |
+|Monitorear los procesos| Always  | High     |
+|Registrar temperatura del compost|Always|High |
+|Registrar temperatura del aire|Always|High|
+|Registrar CO2|Always|High|
+|Registrar Humedad|Always|High|
+|Registrar Setting|Always|High|
+|Comunicar los registros|Always|High|
+|Control de calidad|Always|High|
+|Pesado de insumos|Always|High|
+|Mezclado de insumos |Always|Medium|
+|Remojar la paja|Always|Medium|
+|Regado del compost|Always|Medium|
+|Regado de las naves|Always|Medium|
+|Traslados entre fases|Always|Medium|
+|Utilizar los grupos de WhatsApp|Always|Low|
+
+* **Alvaro Morales (Administrador):**
+
+| Tarea | Frequencia | Importancia |
+| -------- | -------- | -------- |
+| Verificar la producción     | Always     | High     |
+|Supervisar los registros|Always|High|
+|Pagos al personal|Always|High|
+|Comunicación con el personal|Always|High|
+|Utilizar los grupos de WhatsApp|Always|High|
+|Comprar insumos a proveedores|Often|High|
+|Seguimiento de fallos|Often|High|
+|Modificación de fórmulas |Sometimes|High|
+|Buscar registros antiguos|Sometimes|Medium|
+|Uso de gráficos estadísticos|Rarely|Medium|
+|Manejo de Excel de la producción|Rarely|Medium|
+
+
+
+
 ####     3.3. User Journey Mapping.
-Lorem ipsum dolor sit amet
+
+Técnico Supervisor:
+
+![Customer Journey Map Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/39bba487-4e82-4c1d-b1cc-77e0d3a6a122)
+
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/0cWAy)
+
+Administrador:
+
+![Customer Journey Map Adminsitrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/d68c667c-947e-415e-ac20-3527611cd73b)
+
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/6xYWr)
+
 ####     3.4. Empathy Mapping.
-Lorem ipsum dolor sit amet
+
+* Técnico Supervisor:
+
+![Empathy Map Técnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/e4c3829e-d60f-4e7b-bf96-39dece6dd4cc)
+
+Eblace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/obQDr)
+
+* Administrador:
+
+![Empathy Map Administrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/3e915a48-741d-4088-8145-d7bc43655d04)
+
+
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/I5oHs)
+
 ####     3.5. As-is Scenario Mapping.
-Lorem ipsum dolor sit amet
+
+* Técnico Supervisor:
+
+![As-Is Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/5b109c1b-1223-48bf-b39a-4cb3ed34a1c7)
+
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801592&cot=14)
+
+* Administrador:
+
+![As-Is Administrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/84add9a5-b170-44b4-9cb4-0eb98782987b)
+
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801771&cot=14)
 
 
 ## Capítulo III: Requirements Specification
 ### 1. **To-Be Scenario Mapping.**
-Lorem ipsum dolor sit amet
-### 2. **User Stories.**
-Lorem ipsum dolor sit amet
-### 3. **Impact Mapping.**
-Lorem ipsum dolor sit amet
-### 4. **Product Backlog.**
-Lorem ipsum dolor sit amet
 
+* Técnico Supervisor:
+
+![To-Be Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4d18a5af-5deb-4152-8d7c-082035b2d4a7)
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801833&cot=14)
+
+* Administrador:
+
+![Greenhouse As-Is_To-Be - To-Be Adminstrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9efc203e-9302-49bb-8373-08c93a83041a)
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441933032&cot=14)
+
+### 2. **User Stories.**
+Las user stories son una forma de convertir el lenguaje informal de los clientes del producto a un requisito de software que debe ser considerado en el desarrollo del sistema. Una user story construida adecuadamente explica al desarrollador la naturaleza de la funcionalidad que construyen, su razón de ser, y el valor que esta genera para el usuario. Para el producto Greenhouse, Integradis presenta un conjunto de user stories para el desarrollo de la Landing Page, la aplicación web y user stories técnicas.
+#### Landing Page User Stories
+
+|Epic/User Story ID| Título | Descripción | Criterios de aceptación |Relacionado con (Epic ID)|
+|-|-|-|-|-|
+|EP01|Contacto|**Como** visitante de la landing page **Quiero** contar con una sección que me permita contactar con los desarrolladores de la aplicación Greenhouse **Para** dar a conocer mis dudas e inquietudes relacionadas con el producto|No corresponde|No corresponde|
+|EP02|Información relacionada con la aplicación|**Como** visitante de la landing page **Quiero** contar con secciones específicas que detallen los beneficios que obtendré a través del uso de la aplicación Greenhouse **Para** tener un alcance sobre el propósito del producto|No corresponde|No corresponde|
+|EP03|Establecer vínculo entre la landing page y la aplicación|**Como** visitante de la landing page **Quiero** contar con componentes que me redirijan a secciones específicas de la aplicación **Para** comenzar a disfrutar de los beneficios y funcionalidades que Greenhouse ofrece |No corresponde|No corresponde|
+|US01|Llenar formulario|**Como** visitante de la landing page **Quiero** poder llenar un formulario con mis datos personales **Para** contactar con la startup creadora de la aplicacion|**Escenario 1: Ingresar datos correctamente** <br> **Dado que** el visitante cuenta con una dirección email válida y teléfono <br> **Cuando** llene sus datos en todas las casillas del formulario de la landing page y presione el botón para enviar <br> **Entonces** podrá mandar un mensaje a la startup creadora de la aplicación. <br><br> **Escenario 2: Ingresar datos erróneos** <br> **Dado que** el visitante no cuenta con una dirección email válida u omite llenar información en alguna casilla <br> **Cuando** llene sus datos en todas las casillas del formulario de la landing page y presione el botón para enviar <br> **Entonces** las casillas con datos erróneos o faltantes se mostrarán en rojo y no se enviará el mensaje.|EP01|
+|US02|Enlaces relacionados|**Como** visitante de la landing page **Quiero** acceder a las redes sociales de Integradis **Para** contactar por medios de comunicación más oficiales con la startup|**Escenario 1: Redireccionar al usuario a redes sociales** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a algún ícono de red social en el apartado de "contactos" <br> **Entonces** será enviado por un hipervínculo al perfil de la startup en la red social que haya elegido.|EP01|
+|US03|Preguntas frecuentes|**Como** visitante de la landing page **Quiero** abrir las pestañas con las preguntas frecuentes de la aplicación **Para** resolver mis consultas antes de inscribirme y elegir una membresía.|**Escenario 1: Ver respuestas a preguntas frecuentes** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a algún menú desplegable del apartado de "preguntas frecuentes" <br> **Entonces** el menú se abrirá y se podrá visualizar la pregunta seleccionada.|EP02|
+|US04|Navegación vía el menú superior|**Como** visitante de la landing page **Quiero** navegar por la landing page usando los hipervínculos del menú superior **Para** desplazarme rápidamente hacia las secciones que me sean de mayor importancia.|**Escenario 1: Navegar a través de las diferentes secciones de la landing page**<br>**Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a alguna sección especificada en el menú superior de navegación <br> **Entonces** la página web se desplazará a la sección seleccionada.|EP02|
+|US05|Descripción de la aplicación|**Como** visitante de la landing page **Quiero** poder visualizar más información de la aplicación Greenhouse **Para** conocer a más detalle la app y verificar si es una solución efectiva para la empresa en la que trabajo.|**Escenario 1: Usuario desea conocer más información sobre la aplicación** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click al botón de "leer más" ubicado en el apartado de "conocer más" <br> **Entonces** se abrirá una página adicional con información detallada de la aplicación Greenhouse.|EP02|
+|US06|Navegación vía el menú al pie de la landing page|**Como** visitante de la landing page **Quiero** navegar por la landing page usando los hipervínculos del menú inferior y acceder al apartado legal de la aplicación **Para** desplazarme rápidamente hacia las secciones que me sean de mayor importancia y conocer los términos legales involucrados.|**Escenario 1: Navegar a través de la landing page** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a alguna sección especificada en el menú inferior de navegación <br> **Entonces** la página web se desplazará a la sección seleccionada.|EP02|
+|US07|Acceso a la creación de cuenta en la aplicación web|**Como** visitante de la landing page decidido a ser cliente de Greenhouse **Quiero** dirigirme a la pestaña de creación de cuentas de la aplicación web **Para** registrar mi empresa para el uso de la aplicación en los procesos.|**Escenario 1: Redirigir al usuario al apartado de creación de cuenta** <br> **Dado que** el visitante se encuentra en la landing page y está decidido a ser cliente de Greenhouse <br> **Cuando** haga click al botón de "comenzar" en la landing page <br> **Entonces** será enviado vía un enlace de la aplicación web a la pestaña de creación de cuentas.|EP03|
+|US08|Elección de plan de membresía para crear una cuenta en la aplicación web|**Como** visitante de la landing page decidido a ser cliente de Greenhouse **Quiero** elegir mi membresía en la landing page y dirigirme a la pestaña de creación de cuentas de la aplicación web **Para** registrar mi empresa en la aplicación bajo el plan de membresía elegido.|**Escenario 1: Redirigir al usuario al apartado de creación de cuenta** <br> **Dado que** el visitante se encuentra en la landing page y está decidido a ser cliente de Greenhouse <br> **Cuando** haga click al botón de "comenzar" en cualquiera de los planes de membresía mostrados en la landing page <br> **Entonces** será enviado vía un enlace de la aplicación web a la pestaña de creación de cuentas bajo el formato de membresía seleccionado.|EP03|
+
+
+#### Web Application User Stories
+
+|Epic/User Story ID| Título | Descripción | Criterios de aceptación |Relacionado con (Epic ID)|
+|-|-|-|-|-|
+|EP04|Prefase|**Como** administrador / técnico supervisor **Quiero** un sistema de registro de procesos para la fábrica de champiñones **Para** gestionar eficientemente el seguimiento y control de todas las fases de producción|No corresponde|No corresponde|
+|EP05|Fase 0: Insumos|**Como** técnico supervisor **Quiero** registrar información relevante sobre el compostaje en la fase de "Patio" **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución del compost durante esta fase|No corresponde|No corresponde|
+|EP06|Fase 1: Patio|**Como** técnico supervisor **Quiero** registrar información relevante sobre el compostaje en la fase de "Patio" **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución del compost durante esta fase|No corresponde|No corresponde|
+|EP07|Fase 2: Túnel|**Como** técnico supervisor **Quiero** registrar información crucial sobre la pasteurización, enfriamiento y acondicionamiento del compost en la fase de "túnel" **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución del compost durante esta fase|No corresponde|No corresponde|
+|EP08|Fase 4: Incubación, Cobertura, Inducción, Cosecha|**Como** técnico supervisor **Quiero** poder registrar información crucial sobre el cultivo de champiñones en las últimas etapas del cultivo **Para** que los administradores obtengan un reporte periódico que indique el estado y evolución del crecimiento del champiñón durante las etapas de incubación, cobertura, inducción y cosecha.|No corresponde|No corresponde|
+|EP09|Fase 4: Cosecha|**Como** técnico supervisor **Quiero** registrar información relevante sobre el proceso de cosecha de champiñones **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución de la cosecha|No corresponde|No corresponde|
+|EP10|Reporte estadístico|**Como** administrador / técnico supervisor **Quiero** acceder a un reporte estadístico que resuma la información de todas las fases del proceso de cultivo de champiñones **Para** tener una visión global y actualizada del estado de la fábrica|No corresponde|No corresponde|
+|EP11|Gestión de cuentas e Inicio de sesión|**Como** administrador **Quiero** tener la capacidad de crear una cuenta y registrar una empresa **Para** comenzar a documentar los procesos de la fábrica de champiñones en la que trabajo|No corresponde|No corresponde|
+|EP12| Gestión de registros de procesos|**Como** administrador **Quiero** poder visualizar, exportar, editar y eliminar registros en específico **Para** mantener la integridad de la información documentada|No corresponde|No corresponde|
+|US09|Registrar empresa|**Como** administrador **Quiero** poder crear una cuenta y registrar una empresa **Para** comenzar a registrar los procesos de mi fábrica|**Escenario 1: Llenar campos** <br> **Dado que** el usuario desee crear una cuenta en la aplicación Greenhouse **Cuando** ingrese la información solicitada por los campos "correo electrónico", "nombre de la empresa", "RUC", "nombres y apellidos del registrante", "contraseña" **Y** presione el botón "continuar" **Entonces** el sistema redigirá al usuario a una sección donde podrá elegir el plan que mejor se acomode a sus necesidades. <br> <br> **Escenario 2: Elegir plan** <br> **Dado que** el usuario haya completado los campos que solicitan la información necesaria para crear una cuenta **Y** se encuentre en la vista que le solicita elegir un plan **Cuando** seleccione alguno de los planes ofrecitos **Entonces** se le solicitará al usuario ingresar un método de pago <br> <br> **Escenario 3: Método de pago aceptado** <br> **Dado que** el usuario haya elegido un plan **Y** haya ingresado la información correcta y necesaria para efectuar el pago **Cuando** presione el botón "Pagar" **Entonces** el sistema validará la transacción y creará la cuenta <br> <br> **Escenario 4: Método de pago denegado** <br> **Dado que** el usuario haya elegido un plan **Cuando** presione el botón "Pagar" habiendo ingresado la información incorrecta **Entonces** el sistema denegará la transacción y solicitará reingresar los datos | EP10 |
+|US10|Registrar empleados|**Como** administrador **Quiero** enviar enlaces de invitación por correo electrónico a los técnicos supervisores **Para** que registren una cuenta **Y** comiencen a utilizar la aplicación Greenhouse|**Escenario 1: Administrador desea agregar técnicos supervisores al proyecto en Greehouse** <br> **Dado que** el administrador cuente con alguno de los tres planes de pago **Y** haya escrito las direcciones de correos electrónicos de a lo más cinco empleados **Cuando** presione el botón "Invitar" **Entonces** el sistema enviará un mensaje por correo electrónico solicitando a los destinatarios que se unan al nuevo proyecto en Greenhouse <br> <br> **Escenario 2: Técnico supervisor acepta la invitación recibida** <br> **Dado que** el técnico supervisor haya recibido una invitación por correo electrónico **Cuando** presione el link que confirme su participación en el proyecto **Entonces** será redirigido a la aplicación para crear una cuenta **Y** posteriormente ser añadido al proyecto | EP10 |
+|US11|Iniciar sesión|**Como** administrador / técnico supervisor **Quiero** iniciar sesión **Para** acceder a los beneficios que ofrece la aplicación Greenhouse|**Escenario 1: Iniciar sesión** <br> **Dado que** el usuario posee una cuenta en la aplicación Greenhouse **Cuando** complete los campos "correo electrónico" y "contraseña"  **Y** presione el botón "Iniciar sesión" **Entonces** el sistema mostrará la interfaz principal de la aplicación. <br> <br> **Escenario 2: Error al inicar sesión** <br> **Dado que** el usuario posee una cuenta en la aplicación Greenhouse **Cuando** complete los campos "correo electrónico" y/o "contraseña" de manera incorrecta **Y** presione el botón "Iniciar sesión"**Entonces** el sistema denegará la solicitud y solicitará al usuario reingresar los datos| EP10 |
+|US12| Documentar fase de patio | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre el compostaje **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre el compostaje durante la fase de "patio" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos necesarios <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP05 |
+|US13| Documentar fase de túnel | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre la pasteurización, enfriamiento y acondicionamiento del compost **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución del compost durante la fase de "túnel" |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre el compost durante la fase de "túnel" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos necesarios <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP06 |
+|US14| Documentar fase de siembra | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre el cultivo de champiñones **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución del crecimiento del champiñón durante la fase de "siembra" |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre los datos ambientales de una nave en particular durante la fase de "siembra" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos ambientales de la nave <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos ambientales han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP07 |
+|US15| Documentar fase de cosecha | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre la fase final del cultivo de champiñones **Para** que los administradores obtengan un reporte periódico que refleje el estado de la cosecha del champiñón durante la fase de "cosecha" |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico durante la fase de "cosecha" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos de producción <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación| EP08 |
+|US16| Ver registros | **Como** administrador **Quiero** visualizar todos los registros realizados en cada una de las fases **Para** mantenerme informado sobre el estado actual de la fábrica |**Escenario 1: Visualizar Registros** <br> **Dado que** un administrador desee visualizar los registros realizados en la aplicación Greenhouse **Cuando** acceda a la sección de registros **Entonces** el sistema deberá mostrar una lista ordenada de todos los registros realizados en cada una de las fases del proceso de cultivo de champiñones. <br><br> **Escenario 2: Detalles de Registro** <br> **Dado que** el administrador desee ver más información relacionada a un registro **Cuando** seleccione un registro específico de la lista **Entonces** el sistema deberá mostrar los detalles completos del registro, incluyendo la información relevante sobre la fase, fecha, hora y cualquier dato asociado al proceso de cultivo de champiñones|EP011|
+|US17| Exportar registros | **Como** administrador **Quiero** exportar todos los registros realizados en cada una de las fases **Para** contar con una copia local o impresa de los procesos documentados |**Escenario 1:** <br> **Dado que** soy un administrador **Cuando** acceda a la sección de registros y seleccione la opción "Exportar registros" **Entonces** el sistema generará un archivo que contenga todos los registros realizados en todas las fases del proceso de cultivo de champiñones, en un formato compatible para su descarga local o impresión|EP011|
+|US18| Editar registros | **Como** administrador **Quiero** editar la información contenida por un registro **Para** reescribir los datos ingresados incorrectamente |**Escenario 1: Registro editado correctamente** <br> **Dado que** soy un administrador **Cuando** acceda a la sección de registros, seleccione un registro específico y elija la opción "Editar registro" **Y** realice las modificaciones necesarias en los datos del registro **Y** confirme los cambios **Entonces** el sistema actualizará el registro con la información editada y mostrará un mensaje de confirmación.<br><br>**Escenario 2: Error al editar registro**<br>**Dado que** soy un administrador **Cuando** acceda a la sección de registros, seleccione un registro específico y elija la opción "Editar registro" **Y** realice modificaciones en los datos del registro, pero cometa un error al editarlos **Entonces** el sistema mostrará un mensaje de error indicando que la edición no se pudo completar y solicitará que se corrijan los errores antes de guardar los cambios|EP011|
+|US19| Eliminar registros | **Como** administrador **Quiero** eliminar los registros que considere incorrectos **Para** mantener la integridad del historial de reportes |**Escenario 1: Eliminar Registro** <br> **Dado que** el administrador desee borrar un registro existente **Cuando** acceda a la sección de registros, seleccione un registro específico y elija la opción "Eliminar registro" **Y** confirme la eliminación **Entonces** el sistema eliminará permanentemente el registro seleccionado y mostrará un mensaje de confirmación. <br><br> **Escenario 2: Cancelar Eliminación de Registro** <br> **Dado que** el administrador se encuentre en la sección que le permita eliminar un registro **Cuando** presione el botón "Cancelar" **Entonces** el sistema no eliminará el registro y mantendrá su integridad, mostrando un mensaje de cancelación|EP011|
+|US20| Visualizar reportes estadísticos de fases|**Como** administrador / técnico supervisor **Quiero** poder ver reportes estadísticos específicos para cada fase del proceso de producción de champiñones **Para** evaluar el rendimiento y la eficiencia de cada fase de manera individual|**Escenario 1: Acceder a Reportes de Fases** <br> **Dado que** el usuario acceda a la sección de reportes estadísticos **Cuando** seleccione una fase específica (por ejemplo, "Búnker", "Túnel" o "Siembra") **Entonces** el sistema generará y mostrará un informe estadístico detallado para esa fase|EP09|
+|US21| Eliminar cuenta | **Como** administrador registrado **Quiero** tener la capacidad de eliminar mi cuenta y la de los técnicos supervisores que trabajan para la empresa **Para** eliminar completamente los datos almacenados y dejar de utilizar la aplicación Greenhouse| **Escenario 1: Borrar cuenta de administrador** <br> **Dado que** un administrador se encuentre registrado y haya iniciado sesión en la aplicación Greenhouse **Cuando** acceda al apartado de "Mi perfil" y seleccione la opción "Eliminar cuenta" **Entonces** el sistema deberá solicitar una confirmación final **Y** si el usuario confirma la eliminación de la cuenta, el sistema deberá borrar permanentemente todos los datos y cerrar la sesión activa automáticamente **Y** el sistema mostrará un mensaje que anuncie que los datos fueron eliminados <br><br> **Escenario 2: Borrar cuenta de técnico supervisor** <br> **Dado que** un administrador considere necesario eliminar la cuenta de un técnico supervisor **Cuando** ingrese al perfil de la empresa **Y** presione el botón "Ver trabajadores" **Y** presione el botón de "Eliminar trabajador" situado debajo del perfil de un empleado **Entonces** el sistema deberá solicitar una confirmación final **Y** si el usuario confirma la eliminación del acuenta, el sistema deberá borrar permanentemente todos los datos del técnico especificado **Y** el sistema mostrará un mensaje que anuncie que los datos fueron eliminados <br><br> **Escenario 3: Cancelar eliminación de cuenta** <br> **Dado que** el usuario se encuentre registrado, haya iniciado sesión en la aplicación Greenhouse, haya accedido al apartado de "Mi perfil" y haya seleccionado la opción "Eliminar cuenta" **Cuando** cancele la operación **Entonces** el sistema no realizará ningún cambio y se mantendrá en la sesión actual **Y** el sistema mostrará un mensaje indicando que la operación de borrado de cuenta ha sido cancelada|EP10|
+
+#### Technical User Stories
+
+|Technical story ID|Título|Descripción|Criterios de aceptación|
+|-|-|-|-|
+|TS01||||
+
+
+### 3. **Impact Mapping.**
+
+![Greenhouse Impact map](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9d6d3a10-e60a-45d3-bdd9-dbdcc792abb6)
+
+
+https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk
+
+### 4. **Product Backlog.**
+
+| # Orden | User Story ID | Título | Descripción| Story Points |
+|:-:|:-:|-|-|:-:|
+|1|US12|Documentar fase de patio|Como técnico supervisor Quiero poder registrar información crucial sobre el compostaje Para que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost|8|
+|2|US13|Documentar fase de túnel|Como técnico supervisor Quiero poder registrar información crucial sobre la pasteurización, enfriamiento y acondicionamiento del compost Para que los administradores obtengan un reporte periódico que refleje el estado y evolución del compost durante la fase de “túnel”|8|
+|3|US14|Documentar fase de siembra|Como técnico supervisor Quiero poder registrar información crucial sobre el cultivo de champiñones Para que los administradores obtengan un reporte periódico que refleje el estado y evolución del crecimiento del champiñón durante la fase de “siembra”|8|
+|4|US15|Documentar fase de cosecha|Como técnico supervisor Quiero poder registrar información crucial sobre la fase final del cultivo de champiñones Para que los administradores obtengan un reporte periódico que refleje el estado de la cosecha del champiñón durante la fase de “cosecha”|8|
+|5|US16|Ver registros|Como administrador Quiero visualizar todos los registros realizados en cada una de las fases Para mantenerme informado sobre el estado actual de la fábrica|5|
+|6|US20|Visualizar reportes estadísticos de fases|Como administrador / técnico supervisor Quiero poder ver reportes estadísticos específicos para cada fase del proceso de producción de champiñones Para evaluar el rendimiento y la eficiencia de cada fase de manera individual|8|
+|7|US09|Registrar empresa|Como administrador Quiero poder crear una cuenta y registrar una empresa Para comenzar a registrar los procesos de mi fábrica|8|
+|8|US11|Iniciar sesión|Como administrador / técnico supervisor Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación Greenhouse|5|
+|9|US10|Registrar empleados|Como administrador Quiero enviar enlaces de invitación por correo electrónico a los técnicos supervisores Para que registren una cuenta Y comiencen a utilizar la aplicación Greenhouse|8|
+|10|US18|Editar registros|Como administrador Quiero editar la información contenida por un registro Para reescribir los datos ingresados incorrectamente|5|
+|11|US19|Eliminar registros|Como administrador Quiero eliminar los registros que considere incorrectos Para mantener la integridad del historial de reportes|5|
+|12|US17|Editar registros|Como administrador Quiero editar la información contenida por un registro Para reescribir los datos ingresados incorrectamente|5|
+|13|US21|Eliminar cuenta|Como administrador registrado Quiero tener la capacidad de eliminar mi cuenta y la de los técnicos supervisores que trabajan para la empresa Para eliminar completamente los datos almacenados y dejar de utilizar la aplicación Greenhouse|5|
+|14|US05|Descripción de la aplicación|Como visitante de la landing page Quiero poder visualizar más información de la aplicación Greenhouse Para conocer a más detalle la app y verificar si es una solución efectiva para la empresa en la que trabajo|3|
+|15|US08|Elección de plan de membresía para crear una cuenta en la aplicación web|Como visitante de la landing page decidido a ser cliente de Greenhouse Quiero elegir mi membresía en la landing page y dirigirme a la pestaña de creación de cuentas de la aplicación web Para registrar mi empresa en la aplicación bajo el plan de membresía elegido|3|
+|16|US07|Acceso a la creación de cuenta en la aplicación web|Como visitante de la landing page decidido a ser cliente de Greenhouse Quiero dirigirme a la pestaña de creación de cuentas de la aplicación web Para registrar mi empresa para el uso de la aplicación en los procesos|5|
+|17|US01|Llenar formulario|Como visitante de la landing page Quiero poder llenar un formulario con mis datos personales Para contactar con la startup creadora de la aplicacion|3|
+|18|US03|Preguntas frecuentes|Como visitante de la landing page Quiero abrir las pestañas con las preguntas frecuentes de la aplicación Para resolver mis consultas antes de inscribirme y elegir una membresía|2|
+|19|US04|Navegación vía el menú superior|Como visitante de la landing page Quiero navegar por la landing page usando los hipervínculos del menú superior Para desplazarme rápidamente hacia las secciones que me sean de mayor importancia|1|
+|20|US02|Enlaces relacionados|Como visitante de la landing page Quiero acceder a las redes sociales de Integradis Para contactar por medios de comunicación más oficiales con la startup|1|
+|21|US06|Navegación vía el menú al pie de la landing page|Como visitante de la landing page Quiero navegar por la landing page usando los hipervínculos del menú inferior y acceder al apartado legal de la aplicación Para desplazarme rápidamente hacia las secciones que me sean de mayor importancia y conocer los términos legales involucrados.|1|
 
 ## Capítulo IV: Product Design
 ### 1. **Style Guidelines.**
 ####     1.1. General Style Guidelines.
-Lorem ipsum dolor sit amet
+El diseño web es considerado como una sección importante para el proyecto, pues se deben considerar varios requisitos para tener un diseño agradable a nuestros clientes finales. De la misma forma, debe estar basado en la marca y lo que se busca transmitir como startup.
+Es por ello que para la elaboración de la guía de estilo decidimos basarnos en los siguientes elementos:
+
+**Misión:** Revolucionar la documentación de los procesos fundamentales de las fábricas enfocadas en la producción de champiñones del Perú.
+
+**Visión:** GreenHouse se direcciona a ser la plataforma más destacada dentro del mercado respecto al registro de procesos para los próximos tres años. Integradis busca ser reconocido como un modelo de negocio sostenible y comprometido en brindar un servicio de calidad capaz de satisfacer las necesidades de los usuarios
+**Público Objetivo:** Técnicos encargados de la supervisión de los cultivos y los administradores de las fábricas champiñoneras del Perú.
+
+**Personalidad de la marca:** Greenhouse ofrece la capacidad de gestionar y visualizar información de manera remota a las empresas champiñoneras del Perú. Es por esto que se busca una personalidad sincera y transparente para los clientes que confían el registro de sus procesos en la aplicación.
+ 
+**Valores fundamentales:** 
+Confianza, lealtad, seguridad y Calidad, Productividad, e Independencia. 
+Debido a que nuestro público objetivo son principalmente empresas industriales, debemos mantener un tono formal y de respeto en el tono de comunicación y en el lenguaje aplicado. De esta forma nuestros clientes se sientan a gusto con nuestro servicio.
+Las palabras bandera que representan nuestra marca son: Organizado, Productivo, Seguro y Confiable.
+
+##### Paleta de colores:
+![PaletaDeColores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8a0f79e3-fcc5-4a89-a374-899402acbf16)
+##### Tipografía empleada:
+![FontSize](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/889a807f-4898-40ff-8cad-bc598c13b600)
+
 ####     1.2. Web Style Guidelines.
+Lorem ipsum dolor sit amet
+####     1.3. Mobile Style Guidelines.
 Lorem ipsum dolor sit amet
 ### 2. **Information Architecture.**
 ####     2.1. Organization Systems.
@@ -464,61 +710,278 @@ Lorem ipsum dolor sit amet
 Lorem ipsum dolor sit amet
 ####     2.5. Navigation Systems.
 Lorem ipsum dolor sit amet
+
 ### 3. **Landing Page UI Design.**
 ####     3.1. Landing Page Wireframe.
-Lorem ipsum dolor sit amet
+##### Landing Page para Desktop Web Browser
+![Landing_Page_Desktop_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Wireframe.png?raw=true)
+
+##### Landing Page para Mobile Web Browser
+![Landing_Page_Mobile_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Mobile_Wireframe.png?raw=true)
+
+
 ####     3.2. Landing Page Mock-up.
-Lorem ipsum dolor sit amet
+##### Landing page en español
+###### Landing Page para Desktop Web Browser
+![Landing_Page_Desktop_Mockup_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_ES_Mockup.png?raw=true)
+
+###### Landing Page para Mobile Web Browser
+![Landing_Page_Mobile_Mockup_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_ES_Mockup_Mobile.png?raw=true)
+
+##### Landing page en inglés
+###### Landing Page para Desktop Web Browser
+![Landing_Page_Desktop_Mockup_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_EN_Mockup.png?raw=true)
+
+##### Landing Page para Mobile Web Browser
+![Landing_Page_Mobile_Mockup_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_EN_Mockup_Mobile.png?raw=true)
+
+
 ### 4. **Web Applications UX/UI Design.**
 ####     4.1. Web Applications Wireframes.
-Lorem ipsum dolor sit amet
+Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU/Integradis---Wireframes-Greenhouse?type=design&mode=design&t=bvsAoJl0aUuA7mEz-1)
+##### Web Application para Desktop Web Browser
+###### Crear cultivo
+![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN_Wireframe.png?raw=true)
+###### Fases 0, 1, 2, 3 y 4
+![WebApp_Desktop_Wireframe_EN_FaseEmpty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Empty_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Fases](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Fin_Wireframe_EN.png?raw=true)
+###### Finalizar cultivo
+![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png?raw=true)
+
 ####     4.2. Web Applications Wireflow Diagrams.
-Lorem ipsum dolor sit amet
+Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-4e74-9655-08e3d050b2cc/edit?viewport_loc=-14929%2C-2432%2C37223%2C18249%2C0_0&invitationId=inv_94ff9667-e3e2-450a-8592-b35aa3336db1)
+
+##### User Goal: Crear un nuevo cultivo
+User persona: Técnicos supervisores.
+![WebApp_Desktop_Wireflow_New_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Nuevo_Cultivo.png?raw=true)
+
+##### User Goal: Registrar procesos
+User persona: Técnicos supervisores.
+![WebApp_Desktop_Wireflow_New_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Fase.png?raw=true)
+
+
 ####     4.3. Web Applications Mock-ups.
-Lorem ipsum dolor sit amet
+Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU/Integradis---Wireframes-Greenhouse?type=design&mode=design&t=bvsAoJl0aUuA7mEz-1)
+##### Web Application para Desktop Web Browser
+###### Crear cultivo
+![WebApp_Desktop_Mockup_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN.png?raw=true)
+###### Fase 0 Insumos
+![WebApp_Desktop_Mockup_EN_Fase0Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_0_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase0NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_0_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase0](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_0_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase0Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_0_Fin_EN.png?raw=true)
+###### Fase 1 Patio
+![WebApp_Desktop_Mockup_EN_Fase1Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_1_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase1NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_1_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase1](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_1_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_1_Fin_EN.png?raw=true)
+###### Fase 2 Búnker
+![WebApp_Desktop_Mockup_EN_Fase2Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_2_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase2NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_2_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase2](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_2_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase2Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_2_Fin_EN.png?raw=true)
+###### Fase 3 Túnel
+![WebApp_Desktop_Mockup_EN_Fase3Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_3_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase3NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_3_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase3](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_3_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase3Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_3_Fin_EN.png?raw=true)
+###### Fase 4.1 Incubación
+![WebApp_Desktop_Mockup_EN_Fase4-1Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-1_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-1NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-1_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-1](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-1_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-1_Fin_EN.png?raw=true)
+###### Fase 4.2 Cobertura
+![WebApp_Desktop_Mockup_EN_Fase4-2Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-2_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-2NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-2_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-2](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-2_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-2_Fin_EN.png?raw=true)
+###### Fase 4.3 Inducción
+![WebApp_Desktop_Mockup_EN_Fase4-3Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-3_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-3NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-3_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-3](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-3_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-3_Fin_EN.png?raw=true)
+###### Fase 4.4 Cosecha
+![WebApp_Desktop_Mockup_EN_Fase4-4Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-4NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Nuevo_Registro_EN.png?raw=true)
+![WebApp__Desktop_Mockup_EN_Fase4-4](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_EN.png?raw=true)
+![WebApp__Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_EN.png?raw=true)
+###### Finalizar cultivo
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Finalizar_Cultivo.png?raw=true)
+
+##### Web Application para Mobile Web Browser
+
+
 ####     4.4. Web Applications User Flow Diagrams.
-Lorem ipsum dolor sit amet
+Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-4e74-9655-08e3d050b2cc/edit?viewport_loc=-14929%2C-2432%2C37223%2C18249%2C0_0&invitationId=inv_94ff9667-e3e2-450a-8592-b35aa3336db1)
+
+##### User Goal: Crear un nuevo cultivo
+User persona: Técnicos supervisores.
+
+Explicación del flujo: En primer lugar el usuario debe de acceder a la sección "Process Log", dentro de la cual podrá encontrar una lista de registros de cultivos creados y catalogados como "En proceso". Cuando el usuario presione el botón ubicado en la parte inferior de la lista, se desplegará un mensaje emergente que solicitará confirmar su intención de crear una nueva cosecha. En caso de ser confirmada, se redireccionará al usuario a la nueva siembra creada.
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Nuevo_Cultivo.png?raw=true)
+
+##### User Goal: Documentar Fase 0
+User persona: Técnicos supervisores.
+
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". 
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_0.png?raw=true)
+
+##### User Goal: Documentar Fase 1
+User persona: Técnicos supervisores.
+
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 2". 
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_1.png?raw=true)
+
+##### User Goal: Documentar Fase 2
+User persona: Técnicos supervisores.
+
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 3". 
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_2.png?raw=true)
+
+##### User Goal: Documentar Fase 3
+User persona: Técnicos supervisores.
+
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 4". 
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_3.png?raw=true)
+
+##### User Goal: Documentar Fase 4
+User persona: Técnicos supervisores.
+
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". Sin embargo, en caso de que el usuario se encuentre en la etapa 4.4, el mensaje le indicará al usuario que una vez finalizada la fase, toda la cosecha será catalogado como culminado, y la siembra será archivada en el histórico de cultivos y dejará de ser accesible desde la sección "Process log".
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_4.png?raw=true)
+
 ### 5. **Web Applications Prototyping.**
-Lorem ipsum dolor sit amet
+Para poder elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser, se siguieron una serie de criterios fundamentales, entre ellos:
+
+1. **Claridad y Facilidad:** El enfoque fue lograr que la navegación en la aplicación sea intuitiva y comprensible, con el objetivo de que los usuarios puedan comprender plenamente las funciones de la aplicación, como son el registro de procesos y la visualización de reportes estadísticos.
+
+2. **Diseño Responsive:** Se ha tenido en cuenta la importancia del diseño "responsive" para garantizar que la aplicación web sea compatible con una variedad tamaños de pantalla, de tal manera que los usuarios no se vean limitados por el dispositivo que utilicen.
+
+3. **Priorización de Información Relevante:** El diseño de la aplicación se enfoca en mostrar únicamente la información más importante para los usuarios pertenecientes al segmento objetivo.
+
+#### Desktop Web Browser Prototyping
+
+#### Mobile Web Browser Prototyping
+
 ### 6. **Domain-Driven Software Architecture.**
 El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento compartido del dominio que abarca el espacio del problema. Gracias a la perspectiva brindada por este enfoque, es posible mejorar colaboración entre los desarrolladores y los expertos del dominio.
 Domain Driven Design no se trata solamente de usar un lenguaje ubicuo, sino que abarca un conjunto de patrones, procedimientos y diagramas de la arquitectura del sistema; artefactos que tienen como propósito acercar el software al dominio y reforzar el enfoque compartido de DDD.
 ####     6.1. Software Architecture Context Diagram.
 El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software Greenhouse, los usuarios y, si es el caso, de otros sistemas externos.
-![Greenhouse_context_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/c8473a3e-070d-4c49-b453-ba7f924ef5ef)
+![Greenhouse_context_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Context_Diagram.png?raw=true)
 ####     6.2. Software Architecture Container Diagrams.
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software Greenhouse.
-![Greenhouse_component_diagram](https://github.com/trabajosUPC-AlanGalavis/TFAplicacionesWeb/assets/114628079/73963617-49ff-4a2b-ba54-321bd434cd2a)
+![Greenhouse_container_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Container_Diagram.png?raw=true)
 ####     6.3. Software Architecture Components Diagrams.
 El diagrama de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
-![Greenhouse_container_diagram](https://github.com/trabajosUPC-AlanGalavis/TFAplicacionesWeb/assets/114628079/2ef9191f-bf58-4963-880c-1701bf9ea7d0)
+![Greenhouse_components_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Components_Diagram.png?raw=true)
 ### 7. **Software Object-Oriented Design.**
 ####     7.1. Class Diagrams.
 Lorem ipsum dolor sit amet
+
+
 ####     7.2. Class Dictionary.
 Lorem ipsum dolor sit amet
+
+
 ### 8. **Database Design.**
 Para el presente proyecto se ha seleccionado el motor de base de datos MySQL porque es una plataforma escalable con una interfaz sencilla y fácil de usar debido a la familiaridad del grupo con el motor de Microsoft SQL Server. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
 ####     8.1. Database Diagram.
-![GreenhousePhysicalDataModel](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a2c4c664-9dcc-43b1-ae47-a1c5045267af)
+![GreenhousePhysicalDataModel](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Context_Diagram.png?raw=true)
 
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 1. Software Configuration Management.
 ####     1.1. Software Development Environment Configuration.
-Lorem ipsum dolor sit amet
+
+**Software Deployment**
+1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales.
+
+**Software Documentation**
+1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web.
+
 ####     1.2. Source Code Management.
-Lorem ipsum dolor sit amet
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
+
+**Repositorio de GitHub:**
+Enlace para acceder al [repositorio](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb)
+
+**Estructura de Ramas:**
+1. **Master branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas de prueba.
+
+2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y de mantener los archivos centrales del desarrollo continuo.
+
+3. **Feature branches (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo o separada del enfoque actual del desarrollo tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/nombre-de-la-funcionalidad".
+
+4. **Release branches (Ramas de lanzamiento):** Estas ramas se utilizarán para mantener una instancia de la rama develop que esté próxima a ser incluida en la rama principal. Se seguirá el sistema de versionamiento semántico (Semantic Versioning) para nombrar las Releases.
+
+5. **Hotfix branches (Ramas de corrección):** Se crearán para abordar de manera puntual y eficiente la corrección de errores identificados en la rama principal que afecten significativamente la experiencia de los usuarios.
+
+**Versionamiento Semántico:**
+Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic Versioning 2.0.0).
+
+**Convenciones de Commits:**
+Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
+
+ `git commit -m "<type>[optional scope]:<title>" -m"<description">`
+
 ####     1.3. Source Code Style Guide & Conventions.
-Lorem ipsum dolor sit amet
+**HTML:** HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
+
+1. Cerrar todos los elementos HTML: Por ejemplo, `<p>Esto es un párrafo.</p>`
+2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombrs de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad.
+3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido. Por ejemplo: `<img src="abc.img" alt="image name" style="width:128px;height:128px">`
+
+**CSS:** Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML. Entre las prácticas empleadas se mencionan:
+
+1. Los nombres de las clases deben de ser breves y autodescriptivos.
+2. Separar los nombres de las clases y ID con un guión, por ejemplo: `#video-id` y `.hero-shadow{}`
+3. Evitar especificar la unidad de medida luego de usar el valor 0.
+4. Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima.
+
 ####     1.4. Software Deployment Configuration.
-Lorem ipsum dolor sit amet
+
+**Landing page deployment:**
+
+Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear una carpeta llamada "docs" para alojar el Landing Page.
+2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para la landing page; "style.css" para los estilos y una carpeta llamada "img" que contenga las imágenes.
+3. Cargar los archivos al repositorio mediante un commit.
+4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master".
+5. Especificar la carpeta "docs" como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
+
 ### 2. Landing Page, Services & Applications Implementation.
 ####     2.1. Sprint 1
 #####         **2.1.1. Sprint Planning 1.**
-Lorem ipsum dolor sit amet
+Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tiempo en el que un equipo desarrolla todo el trabajo necesario para alcanzar el objetivo final del proyecto, denominado "Product Goal" (Schwaber, K. & Sutherland, J., 2020). En el caso del proceso de desarrollo de la aplicación Greenhouse, se optó por segmentar el proyecto en cuatro sprints con una duración de dos semanas cada uno. El Sprint #1 tiene como fecha de inicio el 30/08/2023 y como meta plantea elaborar una landing page atractiva para Greenhouse que capte la atención de los usuarios visitantes y comunique con claridad los principales beneficios ofrecidos por el producto.
+
+|Sprint #|Date|Time|Location|Prepared By|Attendees|
+|-|-|-|-|-|-|
+|1|30/08/2023|09:00 AM|Reunión virtual mediante la aplicación Discord|Alan Galavis|Alan  Galavis, Andrés Soto, Carlo Seminario, Jessica Commetant, Nicolás Espinoza|
+
+|Sprint 1 Goal|Sprint 1 Velocity|Sum of Story Points|
+|-|-|-|
+|Elaborar y diseñar una landing page atractiva e informativa para la aplicación Greenhouse|||
 #####         **2.1.2. Sprint Backlog 1.**
-Lorem ipsum dolor sit amet
+|User Story ID|User Story Title|Task ID|Task Title|Task Description|Task Estimation (Hours)|Assigned To|Status|
+|-|-|-|-|-|-|-|-|
+|US05|Descripción de la aplicación|
+|US08|Elección de plan de membresía para crear una cuenta en la aplicación web|
+|US07|Acceso a la creación de cuenta en la aplicación web|
+|US01|Llenar formulario|
+|US03|Preguntas frecuentes|
+|US04|Navegación vía el menú superior|
+|US02|Enlaces relacionados|
+|US06|Navegación vía el menú al pie de la landing page|
+
 #####         **2.1.3. Development Evidence for Sprint Review.**
 Lorem ipsum dolor sit amet
 #####         **2.1.4. Testing Suite Evidence for Sprint Review.**
@@ -534,7 +997,7 @@ Lorem ipsum dolor sit amet
 
 
 
-## Conclusiones
+## Conclusiones y recomendaciones
 Lorem ipsum dolor sit amet
 
 

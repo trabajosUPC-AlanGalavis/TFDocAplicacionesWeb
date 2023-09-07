@@ -136,7 +136,7 @@ Integradis busca ser reconocido como un modelo de negocio sostenible y compromet
 
 ||Perfiles de los integrantes del equipo|
 | :--------| :--------: |
-| Mi nombre es **Nicolás Antonio Espinoza Rodriguez**. Tengo 19 años y estoy estudiando la carrera de ingeniería de software en la UPC desde el año 2021. Soy una persona creativa e imaginativa, lo que me ayuda a aportar soluciones para resolver los problemas en común. También, me considero empático y colaborativo, lo que facilita el trabajo en equipo con mis compañeros. Finalmente, me considero una persona ordenada y con ambición, lo que ayuda a trazar metas posibles y significativas para la solución que queremos presentar como equipo.|![](https://hackmd.io/_uploads/H1dUSaqhn.png)
+| Mi nombre es **Nicolás Antonio Espinoza Rodriguez**. Tengo 19 años y estoy estudiando la carrera de ingeniería de software en la UPC desde el año 2021. Soy una persona creativa e imaginativa, lo que me ayuda a aportar soluciones para resolver los problemas en común. También, me considero empático y colaborativo, lo que facilita el trabajo en equipo con mis compañeros. Finalmente, me considero una persona ordenada y con ambición, lo que ayuda a trazar metas posibles y significativas para la solución que queremos presentar como equipo. Soy competente en los lenguajes de programación C++, Python y Javascript. Además, tengo conocimiento de tecnologías ágiles y software de control de versiones.|<img src="https://hackmd.io/_uploads/H1dUSaqhn.png" alt="Nicolas Espinoza" width="250px" />
 | Mi nombre es **Alan Enrique Galavis Du Bois**, tengo 20 años y actualmente curso el sexto ciclo de la carrera de ingeniería de software en la UPC (Universidad Peruana de Ciencias Aplicadas). Considero que soy organizado, perseverante y creativo, cualidades que me serán de gran utilidad al momento de trabajar en equipo. Me apasiona encontrar soluciones innovadoras a problemas relacionados con la computación. Al haber crecido en la era digital, estoy familiarizado con el uso de tecnologías de la información y la comunicación.|![](https://hackmd.io/_uploads/S1znb692n.png')|
 Mi nombre es **Carlo Luca Seminario Garbín** tengo 19 años de edad y actualmente curso el quinto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo considero que soy bueno identificando problemáticas y buscando soluciones, a lo que le puedo sumar los conocimientos previos de los ciclos anteriores en cursos de programación y de empresas.|![](https://hackmd.io/_uploads/SJvfXTq22.png)|
 Mi nombre es **Andrés Eduardo Soto Kong Requena**, soy estudiante de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Me gusta generar soluciones para problemas digitales, es por ello que elegí dicha carrera. Además, me considero bueno para trabajar en situaciones bajo estrés. De la misma forma, considero que las situaciones de mi vida personal me han preparado para afrontar una gran variedad de situaciones en las áreas, tanto laboral como social. Finalmente, soy una persona responsable, lo cual me ha ayudado en una gran cantidad de ocasiones en el momento de la entrega de trabajos.|![](https://hackmd.io/_uploads/r1eHSaq32.png)|
@@ -483,9 +483,10 @@ En primer lugar, el 33% de los entrevistados pertenece al sector de adultos mayo
 
 ### 3. **Needfinding.**
 ####     3.1. User Personas.
-Lorem ipsum dolor sit amet
+![Luis_Flores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/9ef30eba-ef4f-4d54-a254-9bcc0c1e823b)
+![Alvaro_Morales](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/d1eb858b-32a4-4d2b-bc99-4deab0af3534)
 ####     3.2. User Task Matrix.
-
+Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas por los segmentos objetivos de los técnicos supervisores y los administradores. 
 * **Luis Flores (Técnico Supervisor):**
 
 | Tarea | Frequencia | Importancia |
@@ -523,9 +524,10 @@ Lorem ipsum dolor sit amet
 |Manejo de Excel de la producción|Rarely|Medium|
 
 
-
+Las tareas que tienen mayor frecuencia son aquellas que realizan los técnicos supervisores debido a que tienen que estar supervisando constantemente el proceso del champiñón. Tienen que monitorear, realizar los registros y hacer sus tareas de forma constante de modo que el champiñón producido cuente con los estándares de calidad. Por otro lado, los administradores tienen tareas que realizan de foma continúa tales como verificar o supervisar los registros de la producción y estar en constante comunicación con el personal. Por otro lado, cuentan también con otras tareas que son de menor importancia y que realizan esporádicamente, dichas tareas están relacionadas principalmente al proceso de mejora continua en la producción.
 
 ####     3.3. User Journey Mapping.
+En la presente sección se ilustra el _end-to-end_ journey de la aplicación Greenhouse para los segmentos objetivos, Técnicos Supervisores y Administradores. El User Journey Mapping empieza desde el momento en el que el cliente adquiere conocimiento de la aplicación pasando por el prorceso de tomar la decisión de usarlo, registrarse, hacer uso de este mismo y finalmente la posibilidad de que deje de hacer uso de este mismo.
 
 Técnico Supervisor:
 
@@ -555,6 +557,7 @@ Eblace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/obQDr
 Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/I5oHs)
 
 ####     3.5. As-is Scenario Mapping.
+Para la realizar el As-is Scenario Mapping el equipo realizó el proceso de needfinding para así tener una mayor dominio sobre el negocio y poder determinar la situación actual de las plantas champiñoneras. Este proceso permitió conocer las diferentes fases que corresponden para cada uno de los segmentos objetivo y así tener un mejor conocimiento del flujo de trabajo.
 
 * Técnico Supervisor:
 
@@ -573,7 +576,7 @@ Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWid
 
 ## Capítulo III: Requirements Specification
 ### 1. **To-Be Scenario Mapping.**
-
+Para la realizar el To-be Scenario Mapping el equipo determinó como se vería el flujo de trabajo luego de que nuestra solución, Greenhouse, haya sido implementada para ambos segmentos objetivos. El objetivo del presente artefacto es comparar y mejorar los aspectos negativos identificados en el As-is Scenario.
 * Técnico Supervisor:
 
 ![To-Be Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4d18a5af-5deb-4152-8d7c-082035b2d4a7)
@@ -644,7 +647,7 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 ![Greenhouse Impact map](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9d6d3a10-e60a-45d3-bdd9-dbdcc792abb6)
 
 
-https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk)
 
 ### 4. **Product Backlog.**
 
@@ -696,20 +699,51 @@ Las palabras bandera que representan nuestra marca son: Organizado, Productivo, 
 ![FontSize](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/889a807f-4898-40ff-8cad-bc598c13b600)
 
 ####     1.2. Web Style Guidelines.
-Lorem ipsum dolor sit amet
+El enfoque de "Greenhouse" para la aplicación web es de elegancia, sencillez y eficiencia para realizar los procesos. Las etapas del proceso y los formularios que deben llenarse están representados en formularios y secciones que abarcan la mayoría de la pantalla. 
+##### Tarjetas:
+Se hace uso del componente "mat-card" de la colección de Angular Material para representar los avisos y las notificaciones importantes de la aplicación. Los avisos deberán de ser acompañados de una imagen representativa, la cual será asignada por defecto en el caso que el emisor decida no seleccionar una imagen. Las tarjetas incluyen un título, un subtítulo, un párrafo descriptivo y representarán un hipervínculo para la obtención de más información.
+##### Imágenes:
+
+En el diseño web se incluirán imágenes descriptivas y con un objetivo puntual. En primer lugar, la imagen de perfil del usuario y de la empresa en la cual está registrado dentro de la aplicación se encontrarán en todo momento en la parte superior izquierda, esto con el objetivo de ayudar al usuario a identicar la sesión en la que se encuentra y ayudarlo a navegar rápidamente a sus datos personales. 
+
+Adicionalmente, se contará con imágenes representativas para cada una de las cuatro secciones que representan el núcleo principal de nuestra aplicación. Dado que las aplicaciones de escritorio se muestran en una alta resolución de pantalla, resulta de suma importancia que el usuario cuente con guías visuales fácilmente identificables para acceder a las secciones con el flujo funcional de la aplicación. Por esta misma razón no se hace uso de imágenes de fondo en la aplicación con excepción del log-in, la startup cree que el estilo del diseño web y móvil debe atenerse a la sobriedad en el entorno empresarial del segmento objetivo.
+
+Finalmente, como se explicó anteriormente, se hace uso de una imagen de fondo para la pantalla de inicio de la aplicación web. Debería transmitirse, desde la primera pantalla de la interfaz de la app, que el usuario se encuentra en el sitio web de Greenhouse. Esta imagen, además, tiene la posibilidad de ser cambiada en el caso de eventos y promociones cuyo objetivo sea promocionar al negocio.
+
+##### Botones:
+Se utilizan los botones según lo especificado en el apartado de General Style Guidelines. En la aplicación web, se suelen encontrar en la parte inferior de la sección principal de la pantalla. Estos botones permiten al usuario realizar acciones que añadan, eliminen y modifiquen los registros que se muestran en la vista del usuario en la parte superior. Por otro lado, se deben mostrar botones de confirmación para las acciones que creen nuevos procesos y que involucren al funcionamiento de toda la fábrica. Todos los botones cuentan con un estilo distintivo y un alto contraste con los colores del resto de la aplicación. Se utiliza la teoría del color en los botones de color rojo para representar acciones que eliminen procesos o los den por finalizados.
+
+##### Tablas:
+Las tablas cuentan con los colores distintivos de la aplicación, verde y blanco, y cada fila representa una instancia de registro. Las tablas de registros son el elemento principal para mostrar los datos de la aplicación, por lo tanto, se utilizan como componente central y suelen ser el foco de las vistas en las cuales aparecen.
+##### Pantallas Emergentes:
+Las pantallas emergentes tienen el objetivo de confirmar acciones clave para el funcionamiento del negocio y con gran repercusión en el mismo. Los _pop-ups_ cuentan con colores con un valor de matiz mayor que sus contrapartes pasteles del resto de la aplicación web. Además, su aparición oscurece el resto de la pantalla para generar un efecto de contraste. Este efecto busca transmitir la importancia de la resolución del asunto de la pantalla emergente antes de que el usuario continúe con la navegación en la app.
 ####     1.3. Mobile Style Guidelines.
 Lorem ipsum dolor sit amet
 ### 2. **Information Architecture.**
+Al ser Greenhouse un software que optimiza un flujo funcional que es en gran medida núcleo del negocio, es importante que en todo momento el usuario esté consciente del proceso que está realizando y el lugar dónde se encuentra dentro de la aplicación. La información de las fases o los procesos que forman un todo se encuentra categorizada y ubicada de forma secuencial. El usuario sigue a una unidad que representa el proceso general, un cultivo, y progresivamente registra las fases que sigue el cultivo hasta su finalización vía diferentes pantallas de la solución web.
+Mediante la vista de "Panel de Control", se muestra una interfaz más generalizada de las funcionalidades de la aplicación que se involucran a un nivel superior con el desarrollo de los procesos. De esta manera, se logra una distinción notable entre el registro de procesos y el análisis que se realiza a partir de estos.
 ####     2.1. Organization Systems.
-Lorem ipsum dolor sit amet
+La organización visual de contenido se realizará de tres formas diferentes en las varias vistas de la aplicación. La **organización de forma jerárquica** presenta al usuario con un orden de importancia para los elementos que se muestran en pantalla. Se utilizó este orden para las pantallas de log-in y los perfiles de los empleados y las empresas que los representan. Los títulos de los datos acaparan mayor parte de la pantalla en comparación a los datos ingresados o que deben ingresarse. Adicionalmente, las opciones de modificación de información para los perfiles se encuentran en un color azul claro que armoniza con el color blanco de la aplicación y no causa una impresión fuerte, por lo que se espera que el usuario vea las opciones de modificación después de leer sus datos personales.
+
+El proceso núcleo de negocio de las fases de cultivo utiliza una **organización secuencial** de la información. El elemento "mat-timeline" de Angular Material guía al usuario a través del cultivo de champiñones, muestra los insumos necesarios para iniciar un cultivo, las actividades en el patio, búnker, túnel y el proceso de crecimiento de incubación, cobertura, inducción y cosecha. El usuario técnico supervisor puede visualizar los cultivos en la fase en la que se encuentran y dar por finalizadas las fases para continuar con la siguiente. El contenido de los procesos está categorizado de forma **cronológica**, es importante para los técnicos supervisores mantener un registro de los cultivos que llevan más tiempo en producción. Estos últimos cultivos tienen requisitos específicos y diferentes a los cultivos que apenas empiezan a ser producidos.
+
+Para el panel de control, es necesario ofrecer al cliente una vista general de la aplicación mediante una **organización matricial**. El panel de control se concentra en una vista general del uso de la aplicación Greenhouse por parte de la empresa. En esta vista, se mostrarán imágenes que lleven al usuario a los cultivos en progreso, información de la empresa, reportes estadísticos y el historial de cultivo. Esta pantalla sigue una categorización de contenido **por tópicos**, dado que las tarjetas y los hipervínculos cuentan con diferentes tópicos debidamente representados visualmente.
+
+Para las pantallas de listado de empleados dentro de la empresa, su categorización será de tipo **alfabético** en base a los nombres completos de los empleados. El propósito de esta categorización es dar a los administradores una vista que sea similar a los registros presenciales con los que ya cuentan en medios físicos.
+
+Por último, la pantalla de inicio de la aplicación sigue una **categorización por audiencia**, se entiende que cada uno de los segmentos objetivos tiene un propósito diferente al momento de acceder a la aplicación por primera vez en el día. Los administradores verán como pantalla principal el panel de control de la aplicación web. En cambio, los técnicos supervisores serán recibidos con la pantalla de registro de procesos de cultivos.
 ####     2.2. Labeling Systems.
-Lorem ipsum dolor sit amet
+Los encabezados se encuentran presentes en las pantallas que no forman parte del proceso principal de la aplicación. Cada uno resume de forma adecuada al usuario todo el contenido de la vista actual.
+Además de imágenes, las secciones del panel de control están asociadas con labels que informan al usuario del contenido que puede visualizar si accede a estas secciones. Es por esta razón, además, que todas las tarjetas presentadas en esta vista cuentan con sus respectivos títulos.
+En la barra de navegación se evidencian en todo momento las etiquetas textuales para las vistas principales, panel de control y registro de procesos.
 ####     2.3. SEO Tags and Meta Tags.
 Lorem ipsum dolor sit amet
 ####     2.4. Searching Systems.
-Lorem ipsum dolor sit amet
+Es importante que los usuarios administradores tengan la posibilidad de distinguir y filtrar la información de los registros almacenados en la aplicación web. Uno de los objetivos del sistema es representar de forma adecuada, fácil y rápida la gran cantidad de información que va a ser añadida por las empresas que lo utilizan. Los usuarios podrán buscar los cultivos registrados por su fecha de registro y la fase en la que se encuentran. Asimismo, podrán filtrar en base a fecha, fase y autor del registro de cultivos en el histórico general de los cultivos realizados. Adicionalmente, la funcionalidad de búsqueda estará también presente en la visualización de los empleados de la empresa. 
 ####     2.5. Navigation Systems.
-Lorem ipsum dolor sit amet
+Los sistemas de navegación principales de la Landing Page son los menús de navegación superior e inferior. El sistema de labeling desplaza a los usuarios a las secciones que desean visualizar dentro de la página. En el caso no se haga uso de estos enlaces, el usuario verá la página de forma descendente.
+En la aplicación, los usuarios recorrerán el proceso de cultivo con secciones enumeradas y presentes arriba de los registros de cada una de las fases. Los usuarios podrán saltar de una fase a otra o seguir un camino secuencial. Los botones, de igual manera, representan la apertura, confirmación o finalización de un registro y permiten el seguimiento del proceso en una nueva pantalla.
+
 
 ### 3. **Landing Page UI Design.**
 ####     3.1. Landing Page Wireframe.
@@ -750,6 +784,26 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ![WebApp_Desktop_Wireframe_EN_Pagar](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Confirmar_Pago_Wireframe_EN.png?raw=true)
 ###### Mi perfil
 ![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Perfil_Wireframe_EN.png?raw=true)
+###### Perfil de trabajador (Vista administrador)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cuenta_Trabajador_Wireframe_EN.png?raw=true)
+###### Mi empresa (Vista de administrador)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Wireframe_EN.png?raw=true)
+###### Mi empresa (Vista de técnico supervisor)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Vista_Trabajador_Wireframe_EN.png?raw=true)
+###### Panel de control (Dashboard)
+![WebApp_Desktop_Wireframe_EN_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Dashboard_Wireframes_EN.png?raw=true)
+###### Reportes estadísticos
+![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Reportes_Estadisticos_Wireframes_EN.png?raw=true)
+###### Crear cultivo
+![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN_Wireframe.png?raw=true)
+###### Elegir plan de pago
+![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Elegir_Plan_Wireframe_EN.png?raw=true)
+###### Pasarela de pagos
+![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Pagar_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Pagar](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Confirmar_Pago_Wireframe_EN.png?raw=true)
+###### Mi perfil
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Perfil_Wireframe_EN.png?raw=true)
 ###### Perfil de trabajador
 ![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cuenta_Trabajador_Wireframe_EN.png?raw=true)
 ###### Mi empresa (Vista de administrador)
@@ -770,6 +824,9 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Fin_Wireframe_EN.png?raw=true)
 ###### Finalizar cultivo
 ![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png?raw=true)
+###### Histórico de cultivos
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Wireframes_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Detalle_Wireframes_EN.png?raw=true)
 
 ####     4.2. Web Applications Wireflow Diagrams.
 Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-4e74-9655-08e3d050b2cc/edit?viewport_loc=-14929%2C-2432%2C37223%2C18249%2C0_0&invitationId=inv_94ff9667-e3e2-450a-8592-b35aa3336db1)
@@ -943,13 +1000,20 @@ El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento comp
 Domain Driven Design no se trata solamente de usar un lenguaje ubicuo, sino que abarca un conjunto de patrones, procedimientos y diagramas de la arquitectura del sistema; artefactos que tienen como propósito acercar el software al dominio y reforzar el enfoque compartido de DDD.
 ####     6.1. Software Architecture Context Diagram.
 El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software Greenhouse, los usuarios y, si es el caso, de otros sistemas externos.
-![Greenhouse_context_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Context_Diagram.png?raw=true)
-####     6.2. Software Architecture Container Diagrams.
+![System Context Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/50172890-b164-431e-8e0d-feaec38465cf)
+####     6.2. Software Architecture Container Diagram.
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software Greenhouse.
-![Greenhouse_container_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Container_Diagram.png?raw=true)
+![System Container Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a4972d2f-0e9c-4343-aeaa-89b9e78c8da9)
 ####     6.3. Software Architecture Components Diagrams.
-El diagrama de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
-![Greenhouse_components_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Components_Diagram.png?raw=true)
+Los diagramas de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
+##### Log-In Bounded Context
+![Log-In Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/adcdefc4-7df1-4e11-aeba-b05b870f3bd7)
+##### Organization Bounded Context
+![Organization Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/7781084a-c53a-4ba5-b612-f7a04f534078)
+##### Payment Bounded Context
+![Payment Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/c7348146-b2fd-4a35-bb53-9d5241b05567)
+##### Harvesting Bounded Context
+![Harvesting Component Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5466a9c0-714f-4592-b987-1ffed2680501)
 ### 7. **Software Object-Oriented Design.**
 ####     7.1. Class Diagrams.
 Lorem ipsum dolor sit amet
@@ -962,7 +1026,7 @@ Lorem ipsum dolor sit amet
 ### 8. **Database Design.**
 Para el presente proyecto se ha seleccionado el motor de base de datos MySQL porque es una plataforma escalable con una interfaz sencilla y fácil de usar debido a la familiaridad del grupo con el motor de Microsoft SQL Server. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
 ####     8.1. Database Diagram.
-![GreenhousePhysicalDataModel](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Context_Diagram.png?raw=true)
+![Database_Diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/ba8b36ef-2bec-4265-8345-e63a8ed5fb82)
 
 
 ## Capítulo V: Product Implementation, Validation & Deployment

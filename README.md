@@ -864,19 +864,33 @@ Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-
 
 ##### User Goal: Registrar empresa
 User persona: Administradores.
+
+Explicación del flujo: En primer lugar, los administradores deberán ingresar a la aplicación desplegada. A continuación, deberán dirigirse al apartado de "Register organization", dentro del cual se mostrará un formulario que solicitará ingresar información relevante para la creación de la cuenta, como, por ejemplo, razón social, RUC, nombre del registrante y contraseña de la cuenta. Seguidamente, se mostrarán dos botones, uno que representa la confirmación del usuario de haber leído los términos y condiciones de uso, y otro que confirma su intención de crear una cuenta. En segundo lugar, el usuario será redirigido a la pasarela de pagos, donde deberá de elegir entre uno de los tres planes ofrecidos al cliente. Una vez seleccionado el plan, se mostrará una pasarela de pagos donde el usuario deberá de ingresar su información asociada a la tarjeta de crédito con la que hará efectiva la suscripción. En caso de que proceda el método de pago, el usuario será redirigido al perfil de la empresa creada, en esta sección podrá subir el logo de la organización e invitar trabajadores. En caso de que la transacción sea rechazada, se mantendrá en la pasarela de pagos y se le solicitará reingresar la información.
 ![User_Flow_Registrarse](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Registrarse.png?raw=true)
 
 ##### User Goal: Iniciar sesión
 User persona: Administradores y Técnicos supervisores.
+
+Explicación del flujo: En primer lugar, el usuario deberá de acceder a la aplicación desplegada. Seguidamente, visualizará en pantalla un formulario que solicitará sus datos de inicio de sesión, en este caso, correo electrónico y contraseña. En caso de que estos sean validados, el sistema redirigirá al usuario al dashboard. Caso contrario, se mantendrá en la pestaña de inicio de sesión y se le solicitará reintroducir sus credenciales.
 ![User_Flow_LogIn](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_LogIn.png?raw=true)
 
 ##### User Goal: Ver perfil
 User persona: Administradores y Técnicos supervisores.
+
+Explicación del flujo: En todo momento el usuario visualizará en la parte superior de la aplicación una "navbar". Cuando presione sobre su nombre o foto, los cuales son elementos que están situados en el extremo derecho de la "navbar", podrá acceder a su perfil de usuario. En este podrá realizar actividades de relevancia, tales como ver su rol dentro de la organización y actualizar sus datos personales.
 ![User_Flow_Ver_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Ver_Perfil.png?raw=true)
 
-##### User Goal: Ver perfil
+##### User Goal: Ver empresa
 User persona: Administradores y Técnicos supervisores.
-![User_Flow_Ver_Enoresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Ver_Empresa.png?raw=true)
+
+Explicación del flujo: El usuario podrá visualizar la información relacionada con su empresa de dos maneras diferentes, la primera es ingresando desde el botón situado a la derecha de la "navbar", y la segunda es accediendo a la sección "My organization" desde el dashboard. 
+![User_Flow_Ver_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Ver_Empresa.png?raw=true)
+
+##### User Goal: Navegar a través del dashboard
+User persona: Administradores.
+
+Explicación del flujo: Como se explicó anteriormente, una vez que el usuario inicie sesión, será redirigido al dashboard en donde visualizará una serie de opciones. La primera opción, llamada "View harvestings in progress", permitirá al administrador revisar los cultivos en progreso y sus respectivos registros. La segunda, denominada "My organization", permitirá al usuario acceder al apartado de la organización. En tercer lugar se encuentra la opción "Statistical reports", la cual mostrará reportes estadísticos de valor para el usuario, como son el estado de las naves, número de registros por cultivo en progreso, insumos utilizados dentro de los cultivos, etc. Finalmente, el botón "Harvest Archive" redirigirá al usuario a la sección homónima.
+![User_Flow_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Dashboard.png?raw=true)
 
 ##### User Goal: Crear un nuevo cultivo
 User persona: Técnicos supervisores.

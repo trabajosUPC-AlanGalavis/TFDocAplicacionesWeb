@@ -693,9 +693,15 @@ Las palabras bandera que representan nuestra marca son: Organizado, Productivo, 
 ![FontSize](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/889a807f-4898-40ff-8cad-bc598c13b600)
 
 ####     1.2. Web Style Guidelines.
-Lorem ipsum dolor sit amet
+##### Paleta de colores:
+![PaletaDeColores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8a0f79e3-fcc5-4a89-a374-899402acbf16)
+##### Tipografía empleada:
+![FontSize](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/889a807f-4898-40ff-8cad-bc598c13b600)
 ####     1.3. Mobile Style Guidelines.
-Lorem ipsum dolor sit amet
+##### Paleta de colores:
+![PaletaDeColores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8a0f79e3-fcc5-4a89-a374-899402acbf16)
+##### Tipografía empleada:
+![FontSize](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/889a807f-4898-40ff-8cad-bc598c13b600)
 ### 2. **Information Architecture.**
 ####     2.1. Organization Systems.
 Lorem ipsum dolor sit amet

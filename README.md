@@ -717,6 +717,7 @@ Las tablas cuentan con los colores distintivos de la aplicación, verde y blanco
 Las pantallas emergentes tienen el objetivo de confirmar acciones clave para el funcionamiento del negocio y con gran repercusión en el mismo. Los _pop-ups_ cuentan con colores con un valor de matiz mayor que sus contrapartes pasteles del resto de la aplicación web. Además, su aparición oscurece el resto de la pantalla para generar un efecto de contraste. Este efecto busca transmitir la importancia de la resolución del asunto de la pantalla emergente antes de que el usuario continúe con la navegación en la app.
 ####     1.3. Mobile Style Guidelines.
 Lorem ipsum dolor sit amet
+
 ### 2. **Information Architecture.**
 Al ser Greenhouse un software que optimiza un flujo funcional que es en gran medida núcleo del negocio, es importante que en todo momento el usuario esté consciente del proceso que está realizando y el lugar dónde se encuentra dentro de la aplicación. La información de las fases o los procesos que forman un todo se encuentra categorizada y ubicada de forma secuencial. El usuario sigue a una unidad que representa el proceso general, un cultivo, y progresivamente registra las fases que sigue el cultivo hasta su finalización vía diferentes pantallas de la solución web.
 Mediante la vista de "Panel de Control", se muestra una interfaz más generalizada de las funcionalidades de la aplicación que se involucran a un nivel superior con el desarrollo de los procesos. De esta manera, se logra una distinción notable entre el registro de procesos y el análisis que se realiza a partir de estos.
@@ -736,6 +737,8 @@ Además de imágenes, las secciones del panel de control están asociadas con la
 En la barra de navegación se evidencian en todo momento las etiquetas textuales para las vistas principales, panel de control y registro de procesos.
 ####     2.3. SEO Tags and Meta Tags.
 Lorem ipsum dolor sit amet
+
+
 ####     2.4. Searching Systems.
 Es importante que los usuarios administradores tengan la posibilidad de distinguir y filtrar la información de los registros almacenados en la aplicación web. Uno de los objetivos del sistema es representar de forma adecuada, fácil y rápida la gran cantidad de información que va a ser añadida por las empresas que lo utilizan. Los usuarios podrán buscar los cultivos registrados por su fecha de registro y la fase en la que se encuentran. Asimismo, podrán filtrar en base a fecha, fase y autor del registro de cultivos en el histórico general de los cultivos realizados. Adicionalmente, la funcionalidad de búsqueda estará también presente en la visualización de los empleados de la empresa. 
 ####     2.5. Navigation Systems.
@@ -1000,6 +1003,7 @@ Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y
 ![User_Flow_Fase_4](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_4.png?raw=true)
 
 ### 5. **Web Applications Prototyping.**
+
 Para poder elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser, se siguieron una serie de criterios fundamentales, entre ellos:
 
 1. **Claridad y Facilidad:** El enfoque fue lograr que la navegación en la aplicación sea intuitiva y comprensible, con el objetivo de que los usuarios puedan comprender plenamente las funciones de la aplicación, como son el registro de procesos y la visualización de reportes estadísticos.
@@ -1007,6 +1011,13 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
 2. **Diseño Responsive:** Se ha tenido en cuenta la importancia del diseño "responsive" para garantizar que la aplicación web sea compatible con una variedad tamaños de pantalla, de tal manera que los usuarios no se vean limitados por el dispositivo que utilicen.
 
 3. **Priorización de Información Relevante:** El diseño de la aplicación se enfoca en mostrar únicamente la información más importante para los usuarios pertenecientes al segmento objetivo.
+
+![Web_Applications_Prototyping](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Web_Applications_Prototyping.png?raw=true)
+
+Enlace para acceder al video de explicación del [Web Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/Ed0o47tYWx1Aq8iCPDuzPnoBpgV_bDWctRdBohtmb2l6_A?e=VkRyxf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Enlace para acceder al [Flujo](https://www.figma.com/proto/C8IFBNZ9fA3njpp5vlAwxU/Integradis---Wireframes-Greenhouse?type=design&node-id=590-3628&t=E4kYs117hZdZqKLE-1&scaling=scale-down&page-id=115%3A172&starting-point-node-id=590%3A3628)
+
 
 
 ### 6. **Domain-Driven Software Architecture.**
@@ -1107,6 +1118,8 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master".
 5. Especificar la carpeta "docs" como la fuente de la página.
 6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
+
+Enlace para acceder a la [landing page](https://discord.com/channels/@me/970014116070707260/1149532358110871592)
 
 ### 2. Landing Page, Services & Applications Implementation.
 ####     2.1. Sprint 1

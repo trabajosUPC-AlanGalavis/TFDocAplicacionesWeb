@@ -112,8 +112,6 @@ Ciclo 2023-02
 13. **Bibliografía.**
 14. **Anexos.**
 
-
-
 ## Capítulo I: Introducción.
 
 ### 1. **Startup Profile.**
@@ -811,9 +809,9 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ###### Mi empresa (Vista de técnico supervisor)
 ![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Vista_Trabajador_Wireframe_EN.png?raw=true)
 ###### Panel de control (Dashboard)
-![WebApp_Desktop_Wireframe_EN_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Dashboard_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Dashboard_Wireframes_EN.png?raw=true)
 ###### Reportes estadísticos
-![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Reportes_Estadisticos_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Reportes_Estadisticos_Wireframes_EN.png?raw=true)
 ###### Cultivos en progreso
 ![WebApp_Desktop_Wireframe_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN_Wireframe.png?raw=true)
 ###### Crear cultivo
@@ -830,6 +828,14 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 
 ####     4.2. Web Applications Wireflow Diagrams.
 Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-4e74-9655-08e3d050b2cc/edit?viewport_loc=-14929%2C-2432%2C37223%2C18249%2C0_0&invitationId=inv_94ff9667-e3e2-450a-8592-b35aa3336db1)
+
+##### User Goal: Registrar empresa
+User persona: Administradores y Técnicos supervisores.
+![WebApp_Desktop_Wireflow_Crear_Cuenta](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Registrar_Empresa_EN.png?raw=true)
+
+##### User Goal: Iniciar sesión
+User persona: Administradores y Técnicos supervisores.
+![WebApp_Desktop_Wireflow_Iniciar_Sesion](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Log_In_EN.png?raw=true)
 
 ##### User Goal: Crear un nuevo cultivo
 User persona: Técnicos supervisores.

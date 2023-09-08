@@ -1019,7 +1019,6 @@ Enlace para acceder al video de explicación del [Web Applications Prototyping](
 Enlace para acceder al [Flujo](https://www.figma.com/proto/C8IFBNZ9fA3njpp5vlAwxU/Integradis---Wireframes-Greenhouse?type=design&node-id=590-3628&t=E4kYs117hZdZqKLE-1&scaling=scale-down&page-id=115%3A172&starting-point-node-id=590%3A3628)
 
 
-
 ### 6. **Domain-Driven Software Architecture.**
 El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento compartido del dominio que abarca el espacio del problema. Gracias a la perspectiva brindada por este enfoque, es posible mejorar colaboración entre los desarrolladores y los expertos del dominio.
 Domain Driven Design no se trata solamente de usar un lenguaje ubicuo, sino que abarca un conjunto de patrones, procedimientos y diagramas de la arquitectura del sistema; artefactos que tienen como propósito acercar el software al dominio y reforzar el enfoque compartido de DDD.
@@ -1058,19 +1057,42 @@ Para el presente proyecto se ha seleccionado el motor de base de datos MySQL por
 ### 1. Software Configuration Management.
 ####     1.1. Software Development Environment Configuration.
 
-**Software Deployment**
-1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales.
+**Requirements Management**
+1. [Trello](https://trello.com/es): Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
+**Product UX/UI Design**
+1. [Figma](https://www.figma.com/login): Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
+2. [Lucidchart](https://www.lucidchart.com/): Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación.
 
-**Software Documentation**
-1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web.
+**Software Testing**
+1. [Gherkin](https://cucumber.io/docs/gherkin/): Es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story. 
+
+**Software Development**
+1. [Visual Studio Code](https://code.visualstudio.com/): Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios.
+2. [HTML5](https://www.w3schools.com/html/html5_syntax.asp): HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
+3. [CSS](https://google.github.io/styleguide/htmlcssguide.html): Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML.
+4. [C#](https://learn.microsoft.com/es-es/dotnet/csharp/): Es un lenguaje de programación orientado a componentes, orientado a objetos, que parte de la famillia de lenguajes C. Se utilizará para elaborar la interfaz de usuario dentro de la aplicación.
+
+**Software Deployment**
+1. [Git](https://git-scm.com/): Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales.
+
+**Software Documentation and Project Management**
+1. [Github](https://github.com/): Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web. 
 
 ####     1.2. Source Code Management.
 El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
 
 **Repositorio de GitHub:**
-Enlace para acceder al [repositorio](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb)
+Enlace para acceder a la [organización en GitHub](https://github.com/upc-pre-202302-si730-sw51-integradis)
+Enlace para acceder al repositorio del [Landing Page](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage)
+Enlace para acceder al repositorio del [Frontend Web
+Application](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb)
 
-**Estructura de Ramas:**
+**Flujo de trabajo GitFlow:**
+El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
+
+![GitFlow](https://i0.wp.com/select2web.com/wp-content/uploads/git-workflow-release-cycle-4maintenance.png?fit=614%2C380&ssl=1)
+
+**Estructura de branches (Ramas):**
 1. **Master branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas de prueba.
 
 2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y de mantener los archivos centrales del desarrollo continuo.
@@ -1090,24 +1112,23 @@ Para los mensajes de los commits realizados, se utilizará la especificación Co
  `git commit -m "<type>[optional scope]:<title>" -m"<description">`
 
 ####     1.3. Source Code Style Guide & Conventions.
-**HTML:** HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
 
 1. Cerrar todos los elementos HTML: Por ejemplo, `<p>Esto es un párrafo.</p>`
 2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombrs de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad.
 3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
 4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido. Por ejemplo: `<img src="abc.img" alt="image name" style="width:128px;height:128px">`
 
-**CSS:** Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML. Entre las prácticas empleadas se mencionan:
+**CSS:** Entre las prácticas empleadas se mencionan:
 
 1. Los nombres de las clases deben de ser breves y autodescriptivos.
 2. Separar los nombres de las clases y ID con un guión, por ejemplo: `#video-id` y `.hero-shadow{}`
 3. Evitar especificar la unidad de medida luego de usar el valor 0.
 4. Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
 
-**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima.
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los escenarios.
 
 ####     1.4. Software Deployment Configuration.
-
 **Landing page deployment:**
 
 Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
@@ -1118,6 +1139,8 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master".
 5. Especificar la carpeta "docs" como la fuente de la página.
 6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
+
+![GitHub Pages](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Github_pages.png?raw=true)
 
 Enlace para acceder a la [landing page](https://discord.com/channels/@me/970014116070707260/1149532358110871592)
 

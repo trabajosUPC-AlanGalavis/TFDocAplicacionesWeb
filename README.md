@@ -824,10 +824,34 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ![WebApp_Desktop_Wireframe_EN_Fases](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Wireframe_EN.png?raw=true)
 ![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Fin_Wireframe_EN.png?raw=true)
 ###### Finalizar cultivo
-![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_End_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png?raw=true)
 ###### Histórico de cultivos
 ![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Wireframes_EN.png?raw=true)
 ![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Detalle_Wireframes_EN.png?raw=true)
+
+##### Web Application para Mobile Web Browser
+###### Panel de control (Dashboard)
+![Wireframe_WebApp_Mobile_EN_Dashboard](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_panel_control.png?raw=true)
+###### Registrar proceso
+![Wireframe_WebApp_Mobile_EN_Process](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_registro_procesos.png?raw=true)
+###### Fase 0
+![Wireframe_WebApp_Mobile_EN_Fase0](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_1.png?raw=true)
+###### Fase 1
+![Wireframe_WebApp_Mobile_EN_Fase1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_1.png?raw=true)
+###### Fase 2
+![Wireframe_WebApp_Mobile_EN_Fase2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_2.png?raw=true)
+###### Fase 3
+![Wireframe_WebApp_Mobile_EN_Fase3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_3.png?raw=true)
+###### Fase 4.1
+![Wireframe_WebApp_Mobile_EN_Fase4.1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.1.png?raw=true)
+###### Fase 4.2
+![Wireframe_WebApp_Mobile_EN_Fase4.2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.2.png?raw=true)
+###### Fase 4.3
+![Wireframe_WebApp_Mobile_EN_Fase4.3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.3.png?raw=true)
+###### Fase 4.4
+![Wireframe_WebApp_Mobile_EN_Fase4.4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.4.png?raw=true)
+###### Finalizar fase
+![Wireframe_WebApp_Mobile_EN_Fin](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_finalizar_fases.png?raw=true)
 
 ####     4.2. Web Applications Wireflow Diagrams.
 Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-4e74-9655-08e3d050b2cc/edit?viewport_loc=-14929%2C-2432%2C37223%2C18249%2C0_0&invitationId=inv_94ff9667-e3e2-450a-8592-b35aa3336db1)
@@ -931,6 +955,25 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ![WebApp_Desktop_Mockup_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Detalle_EN.png?raw=true)
 
 ##### Web Application para Mobile Web Browser
+###### Panel de control (Dashboard)
+![WebApp_Mobile_Mockup_EN_Dashboard](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_panel_control.png?raw=true)
+![WebApp_Mobile_Mockup_EN_Registrar_Proceso](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_registro_procesos.jpg?raw=true)
+###### Fase 1
+![WebApp_Mobile_Mockup_EN_Fase1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_1.png?raw=true)
+###### Fase 2
+![WebApp_Mobile_Mockup_EN_Fase2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_2.png?raw=true)
+###### Fase 3
+![WebApp_Mobile_Mockup_EN_Fase3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_3.png?raw=true)
+###### Fase 4.1
+![WebApp_Mobile_Mockup_EN_Fase4.1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_4.1.png?raw=true)
+###### Fase 4.2
+![WebApp_Mobile_Mockup_EN_Fase4.2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_4.2.png?raw=true)
+###### Fase 4.3
+![WebApp_Mobile_Mockup_EN_Fase4.3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_4.3.png?raw=true)
+###### Fase 4.4
+![WebApp_Mobile_Mockup_EN_Fase4.4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_4.4.png?raw=true)
+###### Finalizar fases
+![WebApp_Mobile_Mockup_EN_Fin](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_finalizar_fases.png?raw=true)
 
 
 ####     4.4. Web Applications User Flow Diagrams.

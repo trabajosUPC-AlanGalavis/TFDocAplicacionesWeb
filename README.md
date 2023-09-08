@@ -742,8 +742,44 @@ Lorem ipsum dolor sit amet
 Lorem ipsum dolor sit amet
 ####     2.2. Labeling Systems.
 Lorem ipsum dolor sit amet
-####     2.3. SEO Tags and Meta Tags.
-Lorem ipsum dolor sit amet
+####     2.3. SEO Tags and Meta Tags:
+
+Las metas etiquetas nos ayudan a indicar información codificada y especificar los metadatos. Estas no son visualizadas en los sitios web, estos son leídos por los navegadores o rastreadores web. Estas metas etiquetas facilitan el análisis de archivos HTML. y facilita el mantenimiento del contenido del archivo. Además, estas etiquetas nos ayudan en el posicionamiento de nuestra página web en los buscadores.
+
+Las metas etiquetas que usaremos:
+
+**Título:**
+
+Esta etiqueta es una de las más importantes y por lo general se pone antes que cualquier otra metaetiqueta. Esta etiqueta es utilizada o leida por todos los motores de búsqueda como encabezado en las páginas de resultados de los motores de búsqueda (SERP).
+
+    <title>Register your processes with GreenHouse</title>
+    
+**Codificación de carácteres:**
+
+Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página.
+
+    <meta charset="utf-8">
+
+**Descripción:**
+
+Esta meta etiqueta nos sirve para proporcionar un resumen del contenido de la página web. Aquí debemos dar una breve información de lo que se puede visualizar en la página.
+
+    <meta name="description" content="GreenHouse is a web application focused on creating and staring records from mushroom growing proccess"/>
+
+**Palabras clave:**
+
+En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.
+
+    <meta name="keywords" content="process, management, application, records, mushroom, harvest, growing"/>
+
+**Autor y Derechos de Autor:**
+
+Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+
+    <meta name="author" content="Integradis"/>
+
+    <meta name="copyright" content="Copyright Integradis team" />
+
 ####     2.4. Searching Systems.
 Lorem ipsum dolor sit amet
 ####     2.5. Navigation Systems.

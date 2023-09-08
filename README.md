@@ -402,12 +402,12 @@ ___
 _Preguntas dirigidas a los administradores de las fábricas de champiñones._
 ___
 - Preguntas principales:
-  1. ¿Podrías proporcionarnos su nombre completo y tu edad?
+  1. ¿Podría proporcionarnos su nombre completo y tu edad?
   2. ¿Cuanto tiempo de experiencia posee en la industria de producción de champiñones y que rol desempeña en la fábrica?
   3. ¿Qué actividades desempeña dentro de la fábrica?
   4. ¿Cómo es el proceso de cultivo de champiñones en las naves?
   5. ¿Cuáles son los procesos que supervisa personalmente en la fábrica?
-  6. ¿Con qué frecuencia recibes un reporte relacionado con los procesos y el estado actual de la fábrica? ¿Para qué utilizas esta información?
+  6. ¿Con qué frecuencia recibe un reporte relacionado con los procesos y el estado actual de la fábrica? ¿Para qué utiliza esta información?
   7. ¿Han habido casos de confusiones, imprecisiones o fallos en la comunicación al momento de reportar de los procesos de la fábrica? ¿Cómo intentaron solucionar estos inconvenientes?
   8. ¿Cuáles son los principales problemas reportados por los trabajadores que están bajo su administración?
   9. ¿Cómo se registra la información proveniente de los procesos realizados durante el cultivo y la pasteurización?
@@ -837,6 +837,10 @@ User persona: Administradores y Técnicos supervisores.
 User persona: Administradores y Técnicos supervisores.
 ![WebApp_Desktop_Wireflow_Iniciar_Sesion](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Log_In_EN.png?raw=true)
 
+##### User Goal: Navegar por el dashboard
+User persona: Administradores.
+![WebApp_Desktop_Wireflow_Dashboard](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireflow_Dashboard.png?raw=true)
+
 ##### User Goal: Crear un nuevo cultivo
 User persona: Técnicos supervisores.
 ![WebApp_Desktop_Wireflow_New_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Nuevo_Cultivo.png?raw=true)
@@ -844,6 +848,10 @@ User persona: Técnicos supervisores.
 ##### User Goal: Registrar procesos
 User persona: Técnicos supervisores.
 ![WebApp_Desktop_Wireflow_New_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Fase.png?raw=true)
+
+##### User Goal: Ver registro pasado
+User persona: Administradores.
+![WebApp_Desktop_Wireflow_New_Harvesting](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireflow_Ver_Registro_Pasado.png?raw=true)
 
 
 ####     4.3. Web Applications Mock-ups.

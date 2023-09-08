@@ -954,13 +954,20 @@ El diagrama de contexto muestra una vista de alto nivel de las relaciones entre 
 ![Greenhouse_context_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Context_Diagram.png?raw=true)
 ####     6.2. Software Architecture Container Diagrams.
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software Greenhouse.
-![Greenhouse_container_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Container_Diagram.png?raw=true)
+![structurizr-85919-Container-001](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/b84922b6-e4d0-41f0-8223-1860b2f1f79e)
 ####     6.3. Software Architecture Components Diagrams.
 El diagrama de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
-![Greenhouse_components_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Components_Diagram.png?raw=true)
+##### Login Bounded Context
+![Component_login (1)](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/88e0c546-6539-45fb-9f86-189c47bdebff)
+##### Organization Bounded Context
+![Component_Organization](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/5989e367-247b-44c6-af9f-3b184e3253db)
+##### Payment Bounded Context
+![Component_Payment](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/bffb2bdc-e50b-4457-bb85-efdf15cce8b6)
+##### Process Bounded Context
+![Component_Process](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/f7c82007-a981-4db5-9669-86cf88b27db7)
 ### 7. **Software Object-Oriented Design.**
 ####     7.1. Class Diagrams.
-Lorem ipsum dolor sit amet
+![Class Diagram](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/641b1369-6c35-4d3c-99e3-6ed1101e4247)
 
 
 ####     7.2. Class Dictionary.
@@ -1038,14 +1045,14 @@ Class StockRecord
 
 | Atribute | Type | Description |
 | -------- | -------- | -------- |
-| hayQty     | int    |   Quanity of hay on stock  |
-| cornQty     | int    |  Quanity of corn on stock    |
-| guanoQty     | int    |  Quanity of guano on stock  |
-| cottonCakeQty|int |Quanity of cotton cake on stock  |
-| soybeanQty| int  |Quanity of soy bean on stock      |
-| gypsumQty     | int | Quanity of gypsum on stock |
-| ureaQty  | int | Quanity of urea on stock     |
-| sulphateQty     | int | Quanity of sulphate on stock|
+| hayQty     | int    |   Quantity of hay on stock  |
+| cornQty     | int    |  Quantity of corn on stock    |
+| guanoQty     | int    |  Quantity of guano on stock  |
+| cottonCakeQty|int |Quantity of cotton cake on stock  |
+| soybeanQty| int  |Quantity of soy bean on stock      |
+| gypsumQty     | int | Quantity of gypsum on stock |
+| ureaQty  | int | Quantity of urea on stock     |
+| sulphateQty     | int | Quantity of sulphate on stock|
 
 Class PreparationArea
 
@@ -1093,7 +1100,7 @@ Class GrowRoomRecord
 ### 8. **Database Design.**
 Para el presente proyecto se ha seleccionado el motor de base de datos MySQL porque es una plataforma escalable con una interfaz sencilla y fácil de usar debido a la familiaridad del grupo con el motor de Microsoft SQL Server. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
 ####     8.1. Database Diagram.
-![GreenhousePhysicalDataModel](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Context_Diagram.png?raw=true)
+![GreenhousePhysicalDataModel-2023-09-07_10-55](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/1a1e8150-46e3-4c41-9888-cc48a993bd12)
 
 
 ## Capítulo V: Product Implementation, Validation & Deployment

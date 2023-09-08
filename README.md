@@ -11,7 +11,6 @@
 
 **Producto**: Greenhouse
 
-
 ## Team members:
 | Nombre |Código|
 |:-------:|:----------:|
@@ -23,6 +22,7 @@
 
 **Ciclo 2023-02**
 
+
 ## Registro de versiones del informe
 
 |Versión|Fecha|Autor|Descripción de modificación|
@@ -31,6 +31,12 @@
 |1.1|20/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
 |1.2|23/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
 
+## Student Outcome
+
+|Criterio especifico|Acciones realizadas|Conclusiones|
+|-|-|-|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un  proyecto en soluciones de ingeniería de software.|**Andrés Soto** TB1: Se realizó la seccion de header en el documento, además de su correspondiente codigo en javascript para cumplir funcionalidades. <br> **Carlo Luca Seminario** TB1: Se aplicó conventional commits y el uso de herramientas de control de versiones para así mejorar el trabajo del equipo tanto para la documentación como para la landing page. <br> **Jessica Comettant** TB1:  El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. <br> **Nicolás Espinoza** TB1: Los diagramas C4 están involucrados en el proceso de DDD o Domain Driven Design. Los diagramas hacen uso de un lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel. <br>**Alan Enrique Galavis Du Bois** TB1: Todos los miembros del equipo contribuyeron a elaborar todas las partes del informe, bien sea elicitación, análisis y especificación de requisitos, diseño de experiencias de usuario, diseño de base de datos y de patrones de software, etc. Adicionalmente, los integrantes mantuvieron una comunicación activa y una organización constante, lo cual fue posible mediante el uso de herramientas tales como Trello y Github. |Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo. TB1|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Andrés Soto** TB1: Se realizó diferentes secciones del informe teniendo en cuenta los criterios para obtener una nota sobresaliente. Haciendo mencion en la realización de la segunda sección del capitulo 5 y la realización del landing page mock up y su correspondiente mobile design. <br> **Carlo Luca Seminario** TB1: Se realizó el proceso de especificación y análisis de requisitos para así lograr conocer al sector de las empresas de champiñones de modo que pudimos identificar en que areas enfocarnos para agilizar su flujo de trabajo. <br> **Jessica Comettant** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. <br> **Nicolás Espinoza** TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos pedidos. <br> **Alan Enrique Galavis Du Bois** TB1: Para poder elaborar un producto solución a un problema real resultó necesario cumplir con una elicitación, análisis, especificación de requisitos, dentro de los cuales se identificaron las necesidades actuales de un sector industrial. Para resolver las necesidades encontradas, se propuso elaborar una aplicación web que permita digitalizar el registro de procesos. <br>|Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno. TB1|
 
 ## Contenido
 
@@ -194,7 +200,8 @@ El sistema puede ser utilizado por múltiples técnicos, supervisores y administ
 ####     2.2. Lean UX Process
 #####         **2.2.1.Lean UX Problem Statements.**
 ###### **Problem Statement:** 
-El propósito de GreenHouse es proporcionar a las fábricas champiñoneras del Perú un sistema de monitoreo de cultivos ágil mediante el cual técnicos supervisores y administradores del personal trabajador podrán registrar los procesos productivos implicados en la producción de champiñones.
+
+El propósito de Greenhouse es proporcionar a las fábricas champiñoneras del Perú un sistema de monitoreo de cultivos ágil mediante el cual técnicos supervisores y administradores del personal trabajador podrán registrar los procesos productivos implicados en la producción de champiñones.
 
 El problema está presente al momento de realizar el registro de características en constante desarrollo durante el proceso de crecimiento de champiñones. Esta ineficiencia del registro y la dependencia del personal técnico y de supervisión hacia métodos manuales, como registros en papel y hojas de cálculo digitales conlleva a un aumento significativo en el margen de error. En primer lugar, se percibe un incremento en la cantidad de errores dentro del ingreso de datos de manera manual que incluyen omisiones, errores de transcripción y falta de consistencia en la información, relevante para la gestión de las fases posteriores de cultivo.
 
@@ -272,7 +279,8 @@ El producto debe integrar una interfaz sencilla, inclusiva y dinámica. Debe ent
 El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
 
 ![Integradis_Lean Canvas](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/901dcbe9-c395-4f62-9fb0-bf32980a4ba8)
-**Fuente:** https://app.mural.co/t/integradis6182/m/integradis6182/1693601172741/46f0026bfe73d12af59e3bc71c203bee710eb32a?sender=ufdf66b413172c812625a4806 
+
+Enlace para acceder al [Canvas](https://app.mural.co/t/integradis6182/m/integradis6182/1693601172741/46f0026bfe73d12af59e3bc71c203bee710eb32a?sender=ufdf66b413172c812625a4806 )
 
 ### 3. **Segmento objetivo.**
 Según AgroPerú (2023), en el año 2022, el Perú exportó 850 toneladas de champiñones secos por un valor de USD 7,1 millones. Ello representó un aumento del 11 % en volumen y 4 % en valor que en el año 2021. Si bien el número de exportaciones fluctúa ser próspero, se requiere un proceso de automatización para agilizar y monitorear el registro de las fases involucradas en la producción de cultivos de estas industrias. Así mismo, en los próximos treinta años, la demanda de alimentos se incrementará en un 70 %. Ello implica mejoras en la  gestión y producción de alimentos. El uso de herramientas tecnológicas e incluso disciplinas como la inteligencia artificial pueden ayudar a cumplir este objetivo mediante la creación de granjas virtuales que permiten planificar las actividades agrícolas y monitorear la evolución de los cultivos a través del registro de procesos y factores meteorológicos, ambientales y de cultivos involucrados. La automatización reduciría las dificultades exclamadas por el personal de las agroempresas en cuanto al registro de datos en herramientas manuales.
@@ -487,6 +495,8 @@ En primer lugar, el 33% de los entrevistados pertenece al sector de adultos mayo
 Lorem ipsum dolor sit amet
 ####     3.2. User Task Matrix.
 
+Se presentan los el User Task Matrix que contiene las tareas realizadas por los segmentos objetivos de los técnicos supervisores y los administradores. 
+
 * **Luis Flores (Técnico Supervisor):**
 
 | Tarea | Frequencia | Importancia |
@@ -524,21 +534,31 @@ Lorem ipsum dolor sit amet
 |Manejo de Excel de la producción|Rarely|Medium|
 
 
+**Explicación de los User Task Matrix:**
+
+Las tareas que tienen mayor frecuencia son aquellas que realizan los técnicos supervisores. Debido a que tienen que estar supervisando constantemente el proceso del champiñón. Tienen que monitorear, realizar los registros, hacer sus tareas todo de forma constante de modo que el champiñón producido cuente con los estándares de calidad. Por otro lado, los administradores tienen tareas que realizan de foma continúa como verificar o supervisar los registros y producción, o estar en constante comunicación con el personal. Mientras que tienen otras tareas que son de menor importancia y que realizan esporádicamente, las cuáles están relacionadas principalmente al proceso de mejora contínua en la producción.
 
 
 ####     3.3. User Journey Mapping.
+
+En la presente sección se ilustra el end-to-end journey de Greenhouse para ambos segmentos tanto el de Técnicos Supervisores como el de Administradores, desde el momento en el que el cliente adquiere conocimiento de la aplicación, pasando por el prorceso de tomar la decisión de usarlo, registrarse, hacer uso de este mismo y finalmente la posibilidad de que deje de hacer uso de este mismo.
+
 
 Técnico Supervisor:
 
 ![Customer Journey Map Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/39bba487-4e82-4c1d-b1cc-77e0d3a6a122)
 
-https://uxpressia.com/w/0zjVz/p/K12gT/m/0cWAy
+
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/0cWAy)
+
 
 Administrador:
 
 ![Customer Journey Map Adminsitrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/d68c667c-947e-415e-ac20-3527611cd73b)
 
-https://uxpressia.com/w/0zjVz/p/K12gT/m/6xYWr
+
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/6xYWr)
+
 
 ####     3.4. Empathy Mapping.
 
@@ -546,46 +566,57 @@ https://uxpressia.com/w/0zjVz/p/K12gT/m/6xYWr
 
 ![Empathy Map Técnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/e4c3829e-d60f-4e7b-bf96-39dece6dd4cc)
 
-https://uxpressia.com/w/0zjVz/p/K12gT/p/obQDr
+
+Eblace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/obQDr)
+
 
 * Administrador:
 
 ![Empathy Map Administrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/3e915a48-741d-4088-8145-d7bc43655d04)
 
 
-https://uxpressia.com/w/0zjVz/p/K12gT/p/I5oHs
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/I5oHs)
 
 ####     3.5. As-is Scenario Mapping.
+
+Para la realizar el As-is Scenario Mapping el equipo de realizó todo el needfinding para así tener una mayor dominio sobre el negocio y poder determinar la situación actual en una planta champiñonera. De modo que podamos conocer las diferentes phases que corresponden para cada segmento objetivo y así tener un mejor conocimiento del flujo de trabajo.
+
 
 * Técnico Supervisor:
 
 ![As-Is Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/5b109c1b-1223-48bf-b39a-4cb3ed34a1c7)
 
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801592&cot=14)
 
-https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801592&cot=14
 
 * Administrador:
 
 ![As-Is Administrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/84add9a5-b170-44b4-9cb4-0eb98782987b)
 
-
-https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801771&cot=14
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801771&cot=14)
 
 
 ## Capítulo III: Requirements Specification
 ### 1. **To-Be Scenario Mapping.**
 
+
+Para la realizar el To-be Scenario Mapping el equipo determinó como se vería el flujo de trabajo luego de que nuestra solución, Greenhouse, haya sido implementada para ambos segmentos objetivos. De modo que podamos comparar y mejorar los aspectos negativos identificados en el As-is Scenario.
+
+
 * Técnico Supervisor:
 
 ![To-Be Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4d18a5af-5deb-4152-8d7c-082035b2d4a7)
 
-https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801833&cot=14
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801833&cot=14)
+
 
 * Administrador:
 
 ![Greenhouse As-Is_To-Be - To-Be Adminstrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9efc203e-9302-49bb-8373-08c93a83041a)
 
-https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441933032&cot=14
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441933032&cot=14)
+
 
 ### 2. **User Stories.**
 Las user stories son una forma de convertir el lenguaje informal de los clientes del producto a un requisito de software que debe ser considerado en el desarrollo del sistema. Una user story construida adecuadamente explica al desarrollador la naturaleza de la funcionalidad que construyen, su razón de ser, y el valor que esta genera para el usuario. Para el producto Greenhouse, Integradis presenta un conjunto de user stories para el desarrollo de la Landing Page, la aplicación web y user stories técnicas.
@@ -606,22 +637,24 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |US08|Sección "Plans"|**Como** visitante de la landing page decidido a ser cliente de Greenhouse **Quiero** elegir mi membresía en la landing page y dirigirme a la pestaña de creación de cuentas de la aplicación web **Para** registrar mi empresa en la aplicación bajo el plan de membresía elegido.|**Escenario 1: Redirigir al usuario al apartado de creación de cuenta** <br> **Dado que** el visitante se encuentra en la landing page y está decidido a ser cliente de Greenhouse <br> **Cuando** haga click al botón de "comenzar" en cualquiera de los planes de membresía mostrados en la landing page <br> **Entonces** será enviado vía un enlace de la aplicación web a la pestaña de creación de cuentas bajo el formato de membresía seleccionado.|EP03|
 
 
+
 #### Web Application User Stories
 
 |Epic/User Story ID| Título | Descripción | Criterios de aceptación |Relacionado con (Epic ID)|
 |-|-|-|-|-|
 |EP04|Prefase|**Como** administrador / técnico supervisor **Quiero** un sistema de registro de procesos para la fábrica de champiñones **Para** gestionar eficientemente el seguimiento y control de todas las fases de producción|No corresponde|No corresponde|
-|EP05|Fase 1: Compostaje|**Como** técnico supervisor **Quiero** registrar información relevante sobre el compostaje en la fase de "compostaje" **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución del compost durante esta fase|No corresponde|No corresponde|
-|EP06|Fase 2: Túnel|**Como** técnico supervisor **Quiero** registrar información crucial sobre la pasteurización, enfriamiento y acondicionamiento del compost en la fase de "túnel" **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución del compost durante esta fase|No corresponde|No corresponde|
-|EP07|Fase 3: Siembra|**Como** técnico supervisor **Quiero** poder registrar información crucial sobre el cultivo de champiñones en la fase de "siembra" **Para** que los administradores obtengan un reporte periódico que indique el estado y evolución del crecimiento del champiñón durante esta fase.|No corresponde|No corresponde|
-|EP08|Fase 4: Cosecha|**Como** técnico supervisor **Quiero** registrar información relevante sobre el proceso de cosecha de champiñones **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución de la cosecha|No corresponde|No corresponde|
-|EP09|Reporte estadístico|**Como** administrador / técnico supervisor **Quiero** acceder a un reporte estadístico que resuma la información de todas las fases del proceso de cultivo de champiñones **Para** tener una visión global y actualizada del estado de la fábrica|No corresponde|No corresponde|
-|EP10|Gestión de cuentas e Inicio de sesión|**Como** administrador **Quiero** tener la capacidad de crear una cuenta y registrar una empresa **Para** comenzar a documentar los procesos de la fábrica de champiñones en la que trabajo|No corresponde|No corresponde|
-|EP11| Gestión de registros de procesos|**Como** administrador **Quiero** poder visualizar, exportar, editar y eliminar registros en específico **Para** mantener la integridad de la información documentada|No corresponde|No corresponde|
+|EP05|Fase 0: Insumos|**Como** técnico supervisor **Quiero** registrar información relevante sobre el compostaje en la fase de "Patio" **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución del compost durante esta fase|No corresponde|No corresponde|
+|EP06|Fase 1: Patio|**Como** técnico supervisor **Quiero** registrar información relevante sobre el compostaje en la fase de "Patio" **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución del compost durante esta fase|No corresponde|No corresponde|
+|EP07|Fase 2: Túnel|**Como** técnico supervisor **Quiero** registrar información crucial sobre la pasteurización, enfriamiento y acondicionamiento del compost en la fase de "túnel" **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución del compost durante esta fase|No corresponde|No corresponde|
+|EP08|Fase 4: Incubación, Cobertura, Inducción, Cosecha|**Como** técnico supervisor **Quiero** poder registrar información crucial sobre el cultivo de champiñones en las últimas etapas del cultivo **Para** que los administradores obtengan un reporte periódico que indique el estado y evolución del crecimiento del champiñón durante las etapas de incubación, cobertura, inducción y cosecha.|No corresponde|No corresponde|
+|EP09|Fase 4: Cosecha|**Como** técnico supervisor **Quiero** registrar información relevante sobre el proceso de cosecha de champiñones **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución de la cosecha|No corresponde|No corresponde|
+|EP10|Reporte estadístico|**Como** administrador / técnico supervisor **Quiero** acceder a un reporte estadístico que resuma la información de todas las fases del proceso de cultivo de champiñones **Para** tener una visión global y actualizada del estado de la fábrica|No corresponde|No corresponde|
+|EP11|Gestión de cuentas e Inicio de sesión|**Como** administrador **Quiero** tener la capacidad de crear una cuenta y registrar una empresa **Para** comenzar a documentar los procesos de la fábrica de champiñones en la que trabajo|No corresponde|No corresponde|
+|EP12| Gestión de registros de procesos|**Como** administrador **Quiero** poder visualizar, exportar, editar y eliminar registros en específico **Para** mantener la integridad de la información documentada|No corresponde|No corresponde|
 |US09|Registrar empresa|**Como** administrador **Quiero** poder crear una cuenta y registrar una empresa **Para** comenzar a registrar los procesos de mi fábrica|**Escenario 1: Llenar campos** <br> **Dado que** el usuario desee crear una cuenta en la aplicación Greenhouse **Cuando** ingrese la información solicitada por los campos "correo electrónico", "nombre de la empresa", "RUC", "nombres y apellidos del registrante", "contraseña" **Y** presione el botón "continuar" **Entonces** el sistema redigirá al usuario a una sección donde podrá elegir el plan que mejor se acomode a sus necesidades. <br> <br> **Escenario 2: Elegir plan** <br> **Dado que** el usuario haya completado los campos que solicitan la información necesaria para crear una cuenta **Y** se encuentre en la vista que le solicita elegir un plan **Cuando** seleccione alguno de los planes ofrecitos **Entonces** se le solicitará al usuario ingresar un método de pago <br> <br> **Escenario 3: Método de pago aceptado** <br> **Dado que** el usuario haya elegido un plan **Y** haya ingresado la información correcta y necesaria para efectuar el pago **Cuando** presione el botón "Pagar" **Entonces** el sistema validará la transacción y creará la cuenta <br> <br> **Escenario 4: Método de pago denegado** <br> **Dado que** el usuario haya elegido un plan **Cuando** presione el botón "Pagar" habiendo ingresado la información incorrecta **Entonces** el sistema denegará la transacción y solicitará reingresar los datos | EP10 |
 |US10|Registrar empleados|**Como** administrador **Quiero** enviar enlaces de invitación por correo electrónico a los técnicos supervisores **Para** que registren una cuenta **Y** comiencen a utilizar la aplicación Greenhouse|**Escenario 1: Administrador desea agregar técnicos supervisores al proyecto en Greehouse** <br> **Dado que** el administrador cuente con alguno de los tres planes de pago **Y** haya escrito las direcciones de correos electrónicos de a lo más cinco empleados **Cuando** presione el botón "Invitar" **Entonces** el sistema enviará un mensaje por correo electrónico solicitando a los destinatarios que se unan al nuevo proyecto en Greenhouse <br> <br> **Escenario 2: Técnico supervisor acepta la invitación recibida** <br> **Dado que** el técnico supervisor haya recibido una invitación por correo electrónico **Cuando** presione el link que confirme su participación en el proyecto **Entonces** será redirigido a la aplicación para crear una cuenta **Y** posteriormente ser añadido al proyecto | EP10 |
 |US11|Iniciar sesión|**Como** administrador / técnico supervisor **Quiero** iniciar sesión **Para** acceder a los beneficios que ofrece la aplicación Greenhouse|**Escenario 1: Iniciar sesión** <br> **Dado que** el usuario posee una cuenta en la aplicación Greenhouse **Cuando** complete los campos "correo electrónico" y "contraseña"  **Y** presione el botón "Iniciar sesión" **Entonces** el sistema mostrará la interfaz principal de la aplicación. <br> <br> **Escenario 2: Error al inicar sesión** <br> **Dado que** el usuario posee una cuenta en la aplicación Greenhouse **Cuando** complete los campos "correo electrónico" y/o "contraseña" de manera incorrecta **Y** presione el botón "Iniciar sesión"**Entonces** el sistema denegará la solicitud y solicitará al usuario reingresar los datos| EP10 |
-|US12| Documentar fase de compostaje | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre el compostaje **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre el compostaje durante la fase de "compostaje" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos necesarios <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP05 |
+|US12| Documentar fase de patio | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre el compostaje **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre el compostaje durante la fase de "patio" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos necesarios <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP05 |
 |US13| Documentar fase de túnel | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre la pasteurización, enfriamiento y acondicionamiento del compost **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución del compost durante la fase de "túnel" |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre el compost durante la fase de "túnel" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos necesarios <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP06 |
 |US14| Documentar fase de siembra | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre el cultivo de champiñones **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución del crecimiento del champiñón durante la fase de "siembra" |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre los datos ambientales de una nave en particular durante la fase de "siembra" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos ambientales de la nave <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos ambientales han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP07 |
 |US15| Documentar fase de cosecha | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre la fase final del cultivo de champiñones **Para** que los administradores obtengan un reporte periódico que refleje el estado de la cosecha del champiñón durante la fase de "cosecha" |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico durante la fase de "cosecha" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos de producción <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación| EP08 |
@@ -634,12 +667,26 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 
 #### Technical User Stories
 
-|Technical story ID|Título|Descripción|Criterios de aceptación|
-|-|-|-|-|
-|TS01||||
+|Technical story ID|Título|Descripción|
+|-|-|-|
+|TS01|Post Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** registrar a una nueva organización mediante una API <br> **Para** visualizar las organizaciones afiliadas a nuestra aplicación|
+|TS02|Get Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de una organización mediante una API <br> **Para** mostrarla en la aplicación cuando se solicite.|
+|TS03|Post Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** registrar a un nuevo usario mediante una API <br> **Para** visualizar los usuarios afiliados a nuestra aplicación|
+|TS04|Get Oraganization|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de un usuario mediante una API <br> **Para** mostrarla en la aplicación cuando se solicite.|
+|TS05|Post Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** registrar la información de pago de las organizaciones mediante una API <br> **Para** contar con la información para pagos futuros|
+|TS06|Get Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de pago de las organizacionesde mediante una API <br> **Para**  recibir los pagos en la aplicación cuando sea solicite.|
+|TS08|Get Roles per User|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de los usuarios por sus roles mediante una API <br> **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|
+|TS09|Get Organization by membership|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de las organizaciones por sus membresías mediante una API <br> **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|
+|TS10|Post Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** registrar a una nueva cosecha mediante una API <br> **Para** mantener el registro de las cosechas|
+|TS11|Get Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de las cosechas mediante una API <br> **Para** mostrarla en la aplicación cuando se solicite.|
+|TS12|Get Harvestings by Grow Phase|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de los cultivos por cada fase mediante una API <br> **Para** mostrarla en la aplicación cuando sea solicite.|
+|TS13|Get Harvestings by User|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de que usuarios realizan los registros de los cultivos una API <br> **Para** mostrarla en la aplicación cuando sea solicite.|
 
 
 ### 3. **Impact Mapping.**
+
+
+En la presente sección se presenta el impact map para de Greenhouse elaborado con UXPresia. Identificando los buisiness goals con los criterios SMART, los actores que son los User Persona realizados previamente, los impacts, los derivables y los User Stories con el formato correspondientes.
 
 ![Greenhouse Impact map](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9d6d3a10-e60a-45d3-bdd9-dbdcc792abb6)
 
@@ -650,7 +697,7 @@ https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk
 
 | # Orden | User Story ID | Título | Descripción| Story Points |
 |:-:|:-:|-|-|:-:|
-|1|US12|Documentar fase de compostaje|Como técnico supervisor Quiero poder registrar información crucial sobre el compostaje Para que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost|8|
+|1|US12|Documentar fase de patio|Como técnico supervisor Quiero poder registrar información crucial sobre el compostaje Para que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost|8|
 |2|US13|Documentar fase de túnel|Como técnico supervisor Quiero poder registrar información crucial sobre la pasteurización, enfriamiento y acondicionamiento del compost Para que los administradores obtengan un reporte periódico que refleje el estado y evolución del compost durante la fase de “túnel”|8|
 |3|US14|Documentar fase de siembra|Como técnico supervisor Quiero poder registrar información crucial sobre el cultivo de champiñones Para que los administradores obtengan un reporte periódico que refleje el estado y evolución del crecimiento del champiñón durante la fase de “siembra”|8|
 |4|US15|Documentar fase de cosecha|Como técnico supervisor Quiero poder registrar información crucial sobre la fase final del cultivo de champiñones Para que los administradores obtengan un reporte periódico que refleje el estado de la cosecha del champiñón durante la fase de “cosecha”|8|
@@ -674,94 +721,472 @@ https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk
 
 ## Capítulo IV: Product Design
 ### 1. **Style Guidelines.**
-####     1.1. General Style Guidelines.
-El diseño web es considerado como una sección importante para el proyecto, pues se deben considerar varios requisitos para tener un diseño agradable a nuestros clientes finales. De la misma forma, debe estar basado en la marca y lo que se busca transmitir como startup.
-Es por ello que para la elaboración de la guía de estilo decidimos basarnos en los siguientes elementos:
-**Misión:** Revolucionar la documentación de los procesos fundamentales de las fábricas enfocadas en la producción de champiñones del Perú.
-**Visión:** GreenHouse se direcciona a ser la plataforma más destacada dentro del mercado respecto al registro de procesos para los próximos tres años. Integradis busca ser reconocido como un modelo de negocio sostenible y comprometido en brindar un servicio de calidad capaz de satisfacer las necesidades de los usuarios
-**Público Objetivo:** Técnicos encargados de la supervisión de los cultivos y los administradores de las fábricas champiñoneras del Perú. 
-**Personalidad de la marca:** Greenhouse ofrece la capacidad de gestionar y visualizar información de manera remota a las empresas champiñoneras del Perú. Es por esto que se busca una personalidad sincera y transparente para los clientes que confían el registro de sus procesos en la aplicación.
- 
-**Valores fundamentales:** 
-Confianza, lealtad, seguridad y Calidad, Productividad, e Independencia. 
-Debido a que nuestro público objetivo son principalmente empresas industriales, debemos mantener un tono formal y de respeto en el tono de comunicación y en el lenguaje aplicado. De esta forma nuestros clientes se sientan a gusto con nuestro servicio.
-Las palabras bandera que representan nuestra marca son: Organizado, Productivo, Seguro y Confiable.
+Un "style guideline" o guía de estilo es un conjunto de reglas y pautas que establecen la forma en que se deben escribir, diseñar o presentar documentos, contenido web, software, o cualquier otro tipo de trabajo creativo. A continuación, se otorga especificación a los parámetros implementados en la estructura del proyecto:
 
-##### Paleta de colores:
+**Branding:**
+
+**Brand Overview:**
+
+La startup, presentada con el nombre de “Integradis”, se enfoca en ofrecer una solución de índole tecnológica avanzada a la industria champiñonera del Perú. Para ello, implementa una plataforma encargada de segmentar el proceso de producción del cultivo de champiñones en determinadas fases. Estas involucran la elaboración del compost, fase de cocina (cocción, pasteurización y acondicionamiento del búnker), la recolección y siembra, la administración de procesos, entre otros. Así mismo, se establece un análisis efectivo entre datos históricos de previo registro y actualizados a tiempo real para la trazabilidad de metas a largo plazo como agroempresa. Es así que, se evalúan los costos operativos actuales, la demanda de exportaciones y se toman futuras decisiones dentro del mercado. 
+
+**Misión:** Revolucionar la documentación de los procesos fundamentales de las fábricas enfocadas en la producción de champiñones del Perú.
+
+**Visión:** GreenHouse se direcciona a ser la plataforma más destacada dentro del mercado respecto al registro de procesos para los próximos tres años. Integradis busca ser reconocido como un modelo de negocio sostenible y comprometido en brindar un servicio de calidad capaz de satisfacer las necesidades de los usuarios.
+
+![logotipo_start](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/ed2c7bc7-691e-4adc-a282-9ce82222b1b4) 
+
+**Brand Name:**
+
+El nombre de la propuesta de solución es GreenHouse. La idea surge de la unión de dos palabras traducidas como “Casa Verde”, con un significado más complejo “Invernadero”. Este aspecto se relaciona con el dilema que busca solventar la plataforma y el rubro al que direcciona (la agronomía). En ese sentido, la aplicación se centraliza en la creación de un sistema para automatizar el registro de cultivos en las industrias champiñoneras del Perú.
+
+![logotipo_servicio](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/5a31b0ea-105f-49c4-8dd0-dd0e0af32c38) 
+
+**Colores:**
+
+Los colores toman protagonismo de la primera percepción visual de los usuarios. Es así que, guiados por los principios de la psicología del color, se destinó al color verde como tonalidad principal de la paleta cromática en la implementación de la plataforma. El verde simboliza balance, crecimiento y prestigio, uno de los alcances de la startup. Por otra parte, el pigmento verde se asocia con la agronomía, el rubro al que se direcciona la plataforma; y, al concepto de armonía, lo cual se busca ofrecer al usuario dentro de la interacción en el servicio. Como tonalidades secundarias se tienen a: variedades cromáticas del color marrón, negro y plomo.
+
 ![PaletaDeColores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8a0f79e3-fcc5-4a89-a374-899402acbf16)
-##### Tipografía empleada:
+
+**Tipografía:**
+
+La tipografía establece jerarquía entre los diversos grupos de contenido de la página. Asimismo, cumple un rol importante al momento de guiar al usuario a través de la interfaz. En relación al proyecto, el tipo de letra seleccionado fue “Nunito” en estilos Medium y Normal para mayor legitilidad. De igual forma, se resalta la organización en cuatro niveles para los elementos del modelado web (body y heading): 
+* Heading 01: Presenta un tamaño de 52px.
+* Heading 02: Presenta un tamaño de 36px.
+* Heading 03: Presenta un tamaño de 24px.
+* Heading 04: Presenta un tamaño de 18px.
+
 ![FontSize](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/889a807f-4898-40ff-8cad-bc598c13b600)
 
 ####     1.2. Web Style Guidelines.
-##### Paleta de colores:
-![PaletaDeColores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8a0f79e3-fcc5-4a89-a374-899402acbf16)
-##### Tipografía empleada:
-![FontSize](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/889a807f-4898-40ff-8cad-bc598c13b600)
+Lorem ipsum dolor sit amet
 ####     1.3. Mobile Style Guidelines.
-##### Paleta de colores:
-![PaletaDeColores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8a0f79e3-fcc5-4a89-a374-899402acbf16)
-##### Tipografía empleada:
-![FontSize](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/889a807f-4898-40ff-8cad-bc598c13b600)
+Lorem ipsum dolor sit amet
+
 ### 2. **Information Architecture.**
 ####     2.1. Organization Systems.
 Lorem ipsum dolor sit amet
 ####     2.2. Labeling Systems.
 Lorem ipsum dolor sit amet
-####     2.3. SEO Tags and Meta Tags.
-Lorem ipsum dolor sit amet
+####     2.3. SEO Tags and Meta Tags:
+
+Las metas etiquetas nos ayudan a indicar información codificada y especificar los metadatos. Estas no son visualizadas en los sitios web, estos son leídos por los navegadores o rastreadores web. Estas metas etiquetas facilitan el análisis de archivos HTML. y facilita el mantenimiento del contenido del archivo. Además, estas etiquetas nos ayudan en el posicionamiento de nuestra página web en los buscadores.
+
+Las metas etiquetas que usaremos:
+
+**Título:**
+
+Esta etiqueta es una de las más importantes y por lo general se pone antes que cualquier otra metaetiqueta. Esta etiqueta es utilizada o leida por todos los motores de búsqueda como encabezado en las páginas de resultados de los motores de búsqueda (SERP).
+
+    <title>Register your processes with GreenHouse</title>
+    
+**Codificación de carácteres:**
+
+Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página.
+
+    <meta charset="utf-8">
+
+**Descripción:**
+
+Esta meta etiqueta nos sirve para proporcionar un resumen del contenido de la página web. Aquí debemos dar una breve información de lo que se puede visualizar en la página.
+
+    <meta name="description" content="GreenHouse is a web application focused on creating and staring records from mushroom growing proccess"/>
+
+**Palabras clave:**
+
+En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.
+
+    <meta name="keywords" content="process, management, application, records, mushroom, harvest, growing"/>
+
+**Autor y Derechos de Autor:**
+
+Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+
+    <meta name="author" content="Integradis"/>
+
+    <meta name="copyright" content="Copyright Integradis team" />
+
 ####     2.4. Searching Systems.
 Lorem ipsum dolor sit amet
 ####     2.5. Navigation Systems.
 Lorem ipsum dolor sit amet
+
 ### 3. **Landing Page UI Design.**
 ####     3.1. Landing Page Wireframe.
-Lorem ipsum dolor sit amet
+##### Landing Page para Desktop Web Browser
+![Landing_Page_Desktop_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Wireframe.png?raw=true)
+
+##### Landing Page para Mobile Web Browser
+![Landing_Page_Mobile_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Mobile_Wireframe.png?raw=true)
+
+
 ####     3.2. Landing Page Mock-up.
-Lorem ipsum dolor sit amet
+##### Landing page en español
+###### Landing Page para Desktop Web Browser
+![Landing_Page_Desktop_Mockup_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_ES_Mockup.png?raw=true)
+
+###### Landing Page para Mobile Web Browser
+![Landing_Page_Mobile_Mockup_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_ES_Mockup_Mobile.png?raw=true)
+
+##### Landing page en inglés
+###### Landing Page para Desktop Web Browser
+![Landing_Page_Desktop_Mockup_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_EN_Mockup.png?raw=true)
+
+##### Landing Page para Mobile Web Browser
+![Landing_Page_Mobile_Mockup_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_EN_Mockup_Mobile.png?raw=true)
+
+
 ### 4. **Web Applications UX/UI Design.**
 ####     4.1. Web Applications Wireframes.
-Lorem ipsum dolor sit amet
+Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU/Integradis---Wireframes-Greenhouse?type=design&mode=design&t=bvsAoJl0aUuA7mEz-1)
+##### Web Application para Desktop Web Browser
+###### Crear cultivo
+![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN_Wireframe.png?raw=true)
+###### Fases 0, 1, 2, 3 y 4
+![WebApp_Desktop_Wireframe_EN_FaseEmpty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Empty_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Fases](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Fin_Wireframe_EN.png?raw=true)
+###### Finalizar cultivo
+![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png?raw=true)
+
 ####     4.2. Web Applications Wireflow Diagrams.
-Lorem ipsum dolor sit amet
+Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-4e74-9655-08e3d050b2cc/edit?viewport_loc=-14929%2C-2432%2C37223%2C18249%2C0_0&invitationId=inv_94ff9667-e3e2-450a-8592-b35aa3336db1)
+
+##### User Goal: Crear un nuevo cultivo
+User persona: Técnicos supervisores.
+![WebApp_Desktop_Wireflow_New_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Nuevo_Cultivo.png?raw=true)
+
+##### User Goal: Registrar procesos
+User persona: Técnicos supervisores.
+![WebApp_Desktop_Wireflow_New_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Fase.png?raw=true)
+
+
 ####     4.3. Web Applications Mock-ups.
-Lorem ipsum dolor sit amet
+Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU/Integradis---Wireframes-Greenhouse?type=design&mode=design&t=bvsAoJl0aUuA7mEz-1)
+##### Web Application para Desktop Web Browser
+###### Crear cultivo
+![WebApp_Desktop_Mockup_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN.png?raw=true)
+###### Fase 0 Insumos
+![WebApp_Desktop_Mockup_EN_Fase0Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_0_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase0NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_0_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase0](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_0_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase0Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_0_Fin_EN.png?raw=true)
+###### Fase 1 Patio
+![WebApp_Desktop_Mockup_EN_Fase1Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_1_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase1NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_1_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase1](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_1_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_1_Fin_EN.png?raw=true)
+###### Fase 2 Búnker
+![WebApp_Desktop_Mockup_EN_Fase2Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_2_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase2NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_2_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase2](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_2_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase2Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_2_Fin_EN.png?raw=true)
+###### Fase 3 Túnel
+![WebApp_Desktop_Mockup_EN_Fase3Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_3_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase3NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_3_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase3](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_3_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase3Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_3_Fin_EN.png?raw=true)
+###### Fase 4.1 Incubación
+![WebApp_Desktop_Mockup_EN_Fase4-1Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-1_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-1NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-1_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-1](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-1_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-1_Fin_EN.png?raw=true)
+###### Fase 4.2 Cobertura
+![WebApp_Desktop_Mockup_EN_Fase4-2Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-2_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-2NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-2_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-2](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-2_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-2_Fin_EN.png?raw=true)
+###### Fase 4.3 Inducción
+![WebApp_Desktop_Mockup_EN_Fase4-3Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-3_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-3NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-3_Nuevo_Registro_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-3](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-3_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-3_Fin_EN.png?raw=true)
+###### Fase 4.4 Cosecha
+![WebApp_Desktop_Mockup_EN_Fase4-4Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Empty_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-4NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Nuevo_Registro_EN.png?raw=true)
+![WebApp__Desktop_Mockup_EN_Fase4-4](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_EN.png?raw=true)
+![WebApp__Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_EN.png?raw=true)
+###### Finalizar cultivo
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Finalizar_Cultivo.png?raw=true)
+
+##### Web Application para Mobile Web Browser
+
+
 ####     4.4. Web Applications User Flow Diagrams.
-Lorem ipsum dolor sit amet
+Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-4e74-9655-08e3d050b2cc/edit?viewport_loc=-14929%2C-2432%2C37223%2C18249%2C0_0&invitationId=inv_94ff9667-e3e2-450a-8592-b35aa3336db1)
+
+##### User Goal: Crear un nuevo cultivo
+User persona: Técnicos supervisores.
+
+Explicación del flujo: En primer lugar el usuario debe de acceder a la sección "Process Log", dentro de la cual podrá encontrar una lista de registros de cultivos creados y catalogados como "En proceso". Cuando el usuario presione el botón ubicado en la parte inferior de la lista, se desplegará un mensaje emergente que solicitará confirmar su intención de crear una nueva cosecha. En caso de ser confirmada, se redireccionará al usuario a la nueva siembra creada.
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Nuevo_Cultivo.png?raw=true)
+
+##### User Goal: Documentar Fase 0
+User persona: Técnicos supervisores.
+
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". 
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_0.png?raw=true)
+
+##### User Goal: Documentar Fase 1
+User persona: Técnicos supervisores.
+
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 2". 
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_1.png?raw=true)
+
+##### User Goal: Documentar Fase 2
+User persona: Técnicos supervisores.
+
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 3". 
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_2.png?raw=true)
+
+##### User Goal: Documentar Fase 3
+User persona: Técnicos supervisores.
+
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 4". 
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_3.png?raw=true)
+
+##### User Goal: Documentar Fase 4
+User persona: Técnicos supervisores.
+
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". Sin embargo, en caso de que el usuario se encuentre en la etapa 4.4, el mensaje le indicará al usuario que una vez finalizada la fase, toda la cosecha será catalogado como culminado, y la siembra será archivada en el histórico de cultivos y dejará de ser accesible desde la sección "Process log".
+![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_4.png?raw=true)
+
 ### 5. **Web Applications Prototyping.**
-Lorem ipsum dolor sit amet
+Para poder elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser, se siguieron una serie de criterios fundamentales, entre ellos:
+
+1. **Claridad y Facilidad:** El enfoque fue lograr que la navegación en la aplicación sea intuitiva y comprensible, con el objetivo de que los usuarios puedan comprender plenamente las funciones de la aplicación, como son el registro de procesos y la visualización de reportes estadísticos.
+
+2. **Diseño Responsive:** Se ha tenido en cuenta la importancia del diseño "responsive" para garantizar que la aplicación web sea compatible con una variedad tamaños de pantalla, de tal manera que los usuarios no se vean limitados por el dispositivo que utilicen.
+
+3. **Priorización de Información Relevante:** El diseño de la aplicación se enfoca en mostrar únicamente la información más importante para los usuarios pertenecientes al segmento objetivo.
+
+#### Desktop Web Browser Prototyping
+
+#### Mobile Web Browser Prototyping
+
 ### 6. **Domain-Driven Software Architecture.**
 El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento compartido del dominio que abarca el espacio del problema. Gracias a la perspectiva brindada por este enfoque, es posible mejorar colaboración entre los desarrolladores y los expertos del dominio.
 Domain Driven Design no se trata solamente de usar un lenguaje ubicuo, sino que abarca un conjunto de patrones, procedimientos y diagramas de la arquitectura del sistema; artefactos que tienen como propósito acercar el software al dominio y reforzar el enfoque compartido de DDD.
 ####     6.1. Software Architecture Context Diagram.
 El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software Greenhouse, los usuarios y, si es el caso, de otros sistemas externos.
-![Greenhouse_context_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/c8473a3e-070d-4c49-b453-ba7f924ef5ef)
+![Greenhouse_context_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Context_Diagram.png?raw=true)
 ####     6.2. Software Architecture Container Diagrams.
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software Greenhouse.
-![Greenhouse_component_diagram](https://github.com/trabajosUPC-AlanGalavis/TFAplicacionesWeb/assets/114628079/73963617-49ff-4a2b-ba54-321bd434cd2a)
+![structurizr-85919-Container-001](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/b84922b6-e4d0-41f0-8223-1860b2f1f79e)
 ####     6.3. Software Architecture Components Diagrams.
 El diagrama de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
-![Greenhouse_container_diagram](https://github.com/trabajosUPC-AlanGalavis/TFAplicacionesWeb/assets/114628079/2ef9191f-bf58-4963-880c-1701bf9ea7d0)
+##### Login Bounded Context
+![Component_login (1)](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/88e0c546-6539-45fb-9f86-189c47bdebff)
+##### Organization Bounded Context
+![Component_Organization](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/5989e367-247b-44c6-af9f-3b184e3253db)
+##### Payment Bounded Context
+![Component_Payment](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/bffb2bdc-e50b-4457-bb85-efdf15cce8b6)
+##### Process Bounded Context
+![Component_Process](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/f7c82007-a981-4db5-9669-86cf88b27db7)
+
 ### 7. **Software Object-Oriented Design.**
 ####     7.1. Class Diagrams.
-Lorem ipsum dolor sit amet
+![Class Diagram](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/641b1369-6c35-4d3c-99e3-6ed1101e4247)
+
+
 ####     7.2. Class Dictionary.
-Lorem ipsum dolor sit amet
+
+Class User
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| id     | int     | Unique code for a user |
+| name| String | Name of a user|
+| lastname|String| Lastname of a user|
+| password| String| Password of the user account|
+| email| String| Email related to the user account|
+|hasAdmin|bool| Verifies if the user is and administrator|
+
+Class Organization
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| id     |  int    | Unique code for an organization |
+| name| String| Name of the organization|
+| business_name| String| Business name of the organization|
+| RUC|String | RUC that corresponds to the organization|
+| employeeList|array[User] | List of the employees of the organization|
+| membership|MembershipType| Type of membership of the organization|
+| associatedCard|PaymentCard | Payment card that is associated with the payments|
+|instance| Organization| Instance of the same class|
+
+Class PaymentCard
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| id     | int     | Unique code for a payment card |
+| cardNumber| String| Payment card number|
+| expirementDate| String| Experiment date of the payment card |
+| securityCode| int | Security code of the payment card number|
+
+Class Observation
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| id     | int | Unique code for an observation |
+| content| string| Content of the observation|
+| author| User| User that is author of the observation|
+
+Class MushroomHarvest
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+|id|int|Unique code for MushroomHarvest|
+|startDate|String| Date that the harvest starts|
+|publishedDate|String| Date that the report was published|
+|publishedHour|String| Hour that the report was published|
+|observation|Observation|Additional comments for the reports|
+|phases|String|Phase that the harvest is at the moment|
+|author|User| User that is author of the report|
+
+Class NotificationManager
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| notification | Notification |  Notification sended to a author|
+| author| User| User that receives the notification|
+
+Class Notification
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| id     | int     | Unique code for notifications    |
+|issues| String| Issue for which is the notifications is senden|
+| content| String| Content of the notification|
+| date| String| Date when the notification is sended|
+
+Class StockRecord
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| hayQty     | int    |   Quantity of hay on stock  |
+| cornQty     | int    |  Quantity of corn on stock    |
+| guanoQty     | int    |  Quantity of guano on stock  |
+| cottonCakeQty|int |Quantity of cotton cake on stock  |
+| soybeanQty| int  |Quantity of soy bean on stock      |
+| gypsumQty     | int | Quantity of gypsum on stock |
+| ureaQty  | int | Quantity of urea on stock     |
+| sulphateQty     | int | Quantity of sulphate on stock|
+
+Class PreparationArea
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| time     | String     | Date that the report was mande on the preparation area    |
+|activity|String| Activity made during the preparation area|
+|temperature|float| Temparature during the preparation area|
+
+Class BunkerRecord
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| thermocuplaOne | int |Temperature registered with thermocupla number 1|
+| thermocuplaTwo | int|Temperature registered with thermocupla number 2|
+| thermocuplaThree  | int|Temperature registered with thermocupla number 3|
+| averageThermocupla | double |Average temprature registered with thermocupla  |
+| frequency | int| Motor frequency registered at the bunker |
+
+Class TunnelRecord
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| thermocuplaOne | int |Temperature registered with thermocupla number 1|
+| thermocuplaTwo | int|Temperature registered with thermocupla number 2|
+| thermocuplaThree  | int|Temperature registered with thermocupla number 3|
+| averageThermocupla | double |Average temprature registered with thermocupla  |
+| roomTemperature| double| Room temperature at the Tunnel |
+| frequency     | int     | Motor frequency registered at the tunnel |
+| freshAir| int| Fresh air record at the tunnel|
+| recirculation| int| Recirculation record at the tunnel|
+| comment| String| Section to add comments if necessary|
+
+Class GrowRoomRecord
+
+| Atribute | Type | Description |
+| -------- | -------- | -------- |
+| growRoom     | int     | Number used to identify the grow room     |
+|airTemperature| double| Air temperature that is registered at the grow room|
+|compostTemperature| String| Compost temperature that is registered at the grow room|
+|carbonDioxide| int| Carbon Dioxide that is registered at the grow room|
+|airHydrogen|int| Air Hydrogen that is registered at the grow room|
+|setting| double| Configuration of the grow room |
+
 ### 8. **Database Design.**
 Para el presente proyecto se ha seleccionado el motor de base de datos MySQL porque es una plataforma escalable con una interfaz sencilla y fácil de usar debido a la familiaridad del grupo con el motor de Microsoft SQL Server. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
 ####     8.1. Database Diagram.
-![GreenhousePhysicalDataModel](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a2c4c664-9dcc-43b1-ae47-a1c5045267af)
-
+![GreenhousePhysicalDataModel-2023-09-07_10-55](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/1a1e8150-46e3-4c41-9888-cc48a993bd12)
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 1. Software Configuration Management.
 ####     1.1. Software Development Environment Configuration.
-Lorem ipsum dolor sit amet
+
+**Software Deployment**
+1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales.
+
+**Software Documentation**
+1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web.
+
 ####     1.2. Source Code Management.
-Lorem ipsum dolor sit amet
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
+
+**Repositorio de GitHub:**
+Enlace para acceder al [repositorio](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb)
+
+**Estructura de Ramas:**
+1. **Master branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas de prueba.
+
+2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y de mantener los archivos centrales del desarrollo continuo.
+
+3. **Feature branches (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo o separada del enfoque actual del desarrollo tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/nombre-de-la-funcionalidad".
+
+4. **Release branches (Ramas de lanzamiento):** Estas ramas se utilizarán para mantener una instancia de la rama develop que esté próxima a ser incluida en la rama principal. Se seguirá el sistema de versionamiento semántico (Semantic Versioning) para nombrar las Releases.
+
+5. **Hotfix branches (Ramas de corrección):** Se crearán para abordar de manera puntual y eficiente la corrección de errores identificados en la rama principal que afecten significativamente la experiencia de los usuarios.
+
+**Versionamiento Semántico:**
+Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic Versioning 2.0.0).
+
+**Convenciones de Commits:**
+Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
+
+ `git commit -m "<type>[optional scope]:<title>" -m"<description">`
+
 ####     1.3. Source Code Style Guide & Conventions.
-Lorem ipsum dolor sit amet
+**HTML:** HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
+
+1. Cerrar todos los elementos HTML: Por ejemplo, `<p>Esto es un párrafo.</p>`
+2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombrs de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad.
+3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido. Por ejemplo: `<img src="abc.img" alt="image name" style="width:128px;height:128px">`
+
+**CSS:** Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML. Entre las prácticas empleadas se mencionan:
+
+1. Los nombres de las clases deben de ser breves y autodescriptivos.
+2. Separar los nombres de las clases y ID con un guión, por ejemplo: `#video-id` y `.hero-shadow{}`
+3. Evitar especificar la unidad de medida luego de usar el valor 0.
+4. Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima.
+
 ####     1.4. Software Deployment Configuration.
-Lorem ipsum dolor sit amet
+
+**Landing page deployment:**
+
+Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear una carpeta llamada "docs" para alojar el Landing Page.
+2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para la landing page; "style.css" para los estilos y una carpeta llamada "img" que contenga las imágenes.
+3. Cargar los archivos al repositorio mediante un commit.
+4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master".
+5. Especificar la carpeta "docs" como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
+
 ### 2. Landing Page, Services & Applications Implementation.
 ####     2.1. Sprint 1
 #####         **2.1.1. Sprint Planning 1.**
@@ -775,6 +1200,7 @@ Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tie
 |-|-|-|
 |Elaborar y diseñar una landing page atractiva e informativa para la aplicación Greenhouse|||
 #####         **2.1.2. Sprint Backlog 1.**
+
 En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retraso el proceso de creación llevandolo a tener en su mayoria el aspecto visual de la landing page.
 
 ![Imagenes/Trello Sprint 1.png](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Trello%20Sprint%201.png)
@@ -795,6 +1221,7 @@ Link del Trello: https://trello.com/invite/b/NPGvTnNT/ATTI9153fa51cc4fe33ed5308e
 |US06|Sección "Footer"|UT08|Funcionalidad botones y links|Permitir al usuario interactuar con los botones y links|1|Jessica Commetant|In-process|
 |US07|Acceso a la creación de cuenta de la aplicación web|UT09|Crear cuenta|Desplegar menu de creación de cuenta al interactuar con boton de creación de cuenta|1|Andrés Soto|To-do|
 |US08|Sección "Plans"|UT10|Mostrar planes|Mostrar los planes establecidos y sus descripciones|1|Carlo Seminario|In-process|
+
 #####         **2.1.3. Development Evidence for Sprint Review.**
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
@@ -876,12 +1303,31 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 
 ## Conclusiones y recomendaciones
-Lorem ipsum dolor sit amet
 
+1. Existe una gran demanda en el mercado internacional de cetas (champiñones) hacia el Perú con una exportación en aumento del 11%, comparado con el año 2021.
+2. La mayoría de las aplicaciones en el mercado dirigidas al segmento objetivo presenta deficiencias dentro del registro de información sobre cultivos en las industrias champiñoneras.
+3. Las repositorios y funcionalidades de la herramienta GitHub aumentaron la eficiencia, calidad y colaboración del equipo en el desarrollo de software. Aseguraron la gestión de activos y versiones con un control riguroso de código fuente y documentación. Es así que, se lograron cumplir las demandas del segmento objetivo.
+4. El diseño y desarrollo de entrevistas proporciona la comprensión, comunicación y validación de requisitos y expectativas de los stakeholders. Gracias a ello, se identifican las frustraciones, objetivos, pensamientos y percepciones relacionados al dilema a atender por la propuesta de solución y, así, alcanzar la satisfacción adecuada de sus necesidades.
+5. Los artefactos del Needfinding son necesarios para lograr una aproximación concreta y veraz con el público objetivo.
+6. El desarrollo del Style Guidelines nos ayuda a mantener la consistencia y presentación de contenido en la plataforma. Es fundamental para establecer la identidad coherente y sólida del startup.
+7. El desarrollo de los User Stories y del Product Backlog, prioriza las características de la solución software para que el equipo de desarrollo sepa que hay que entregar primero.
+8. El planteamiento de los Wireframes estableció bases sólidas para el desarrollo de la plataforma interactiva. Enfocó los detalles visuales antes de la codificación lo que resultó en un producto más eficaz y atractivo para el usuario.
+9. Los sprints son necesarios para avanzar de forma continua y ordenada. Es bueno tener un límite de user story points para no sobrecargar de tareas al equipo y poder desarrollar de manera correcta el Landing Page.
+10. La creación del Sprint 1, fue una excelente forma de integrar los user stories priorizables para el primer entregable. Esto se debe a que cada integrante participó del desarrollo del Landing Page dentro del repositorio colaborativo y se realizaron reuniones respectivas para el feedback grupal.
+11. Se concluye que es importante sentar las bases del diseño antes de comenzar a codificar. En ese sentido, realizar el diagrama de clases respectivo para visualizar la interacción de las entidades implementadas.
+12. Realizar los criterios de aceptación en lenguaje Gherkin de las historias de usuario designadas para este sprint validan los escenarios posibles dentro de la interacción entre usuario y plataforma. Ello aporta en el descarte de posibles resultados y la comprobación de funcionalidades. 
 
 ## Bibliografía
-Lorem ipsum dolor sit amet
 
+>Agro Perú. (2023). Perú exportó 850 toneladas de hongo seco por USD 7.1 millones. AGROPERÚ Informa. https://www.agroperu.pe/peru-exporto-850-toneladas-de-hongo-seco-por-usd-7-1-millones/#:~:text=Per%C3%BA%20export%C3%B3%20850%20toneladas%20de%20hongo%20seco%20por%20USD%207.1%20millones,-2%20de%20marzo&text=En%20el%202022%2C%20Per%C3%BA%20export%C3%B3,que%20el%202021%2C%20inform%C3%B3%20FreshFruit [Consulta: 6 de septiembre 2023].
+
+>Agraria.pe Agencia Agraria de Noticias. (s. f.).  EXPORTACIONES DE HONGOS CRECEN 1,7 mil% https://www.agraria.pe/noticias/exportaciones-de-hongos-crecen-17-mil--775 [Consulta: 6 de septiembre 2023].
+
+>Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ [Consulta: 6 de septiembre 2023].
+
+>ESAN. (s. f.). Tecnología, la clave para el impulso de la agricultura peruana 4.0 | Conexión. https://www.esan.edu.pe/conexion-esan/tecnologia-la-clave-para-el-impulso-de-la-agricultura-peruana-4-0 [Consulta: 6 de septiembre 2023].
+
+>Shwaber, K., & Sutherland, J. The Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100 [Consulta: 6 de septiembre]
 
 ## Anexos
 Lorem ipsum dolor sit amet

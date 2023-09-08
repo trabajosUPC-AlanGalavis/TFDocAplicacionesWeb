@@ -792,30 +792,28 @@ Link del Trello: https://trello.com/invite/b/NPGvTnNT/ATTI9153fa51cc4fe33ed5308e
 #####         **2.1.3. Development Evidence for Sprint Review.**
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
-|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/docs|ea62a6|chore:added header|chore:added header|02/09/2023|
-||LandingPage/docs|85a1098|chore:added language option and dropdown menu|chore:added language option and dropdown menu|04/09/2023|
-||LandingPage/docs|6aeeaeb|feature: added language change option|feature: added language change option|04/09/2023|
-||LandingPage/docs|b8311b2|feat(hero): added section hero|feat(hero): added section hero|06/09/2023|
-||LandingPage/docs|c0f8827|feat(values): Added startup and application values|feat(values): Added startup and application values|06/09/2023|
-||LandingPage/docs|1cf12f1|fix: directories organization|fix: directories organization|07/09/2023|
-||LandingPage/docs|1c0ac72|chore: added all images|chore: added all images|07/09/2023|
-||LandingPage/docs|38f1b0d|chore: modifying hero section to use bootstrap|chore: modifying hero section to use bootstrap|07/09/2023|
-||LandingPage/docs|6da2c84|feat(benefits): added section Our Benefits|feat(benefits): added section Our Benefits|07/09/2023|
-||LandingPage/docs|27c202c|feat: added FAQ and Visions|feat: added FAQ and Visions|07/09/2023|
-||LandingPage/docs|44ad7df|feat(prices): added pricing section|feat(prices): added pricing section|07/09/2023|
-||LandingPage/docs|44572ce|feat(contact): added section contact with about|feat(contact): added section contact with about|07/09/2023|
-||LandingPage/docs|50ccd1d|feat: added footer|feat: added footer|07/09/2023|
-||LandingPage/docs|11e4bbb|feat:added collaborators section|feat:added collaborators section|07/09/2023|
-||LandingPage/docs|ed0a933|feat(Learn): added learn section of the landing page|chore(head): added SEO meta tags for search engine optimization|07/09/2023|
-||LandingPage/docs|d70bf9c|feat(Learn): added learn section of the landing page|chore(head): added SEO meta tags for search engine optimization|07/09/2023|
-||LandingPage/docs|6debdb3|chore: updated organization for deployment|chore: updated organization for deployment|07/09/2023|
-||LandingPage/docs|ecbe71d|fix(collaborators): fix positing on html file|fix(collaborators): fix positing on html file|07/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/tree/develop/docs|LandingPage/docs|5bbaa76|feat: added index, myscripts and styles|feat: added index, myscripts and styles|06/09/2023|
+||cfcedf0|feature: added header |Included: navigation bar, responsive deployable navigation menu, responsive view, changing language option.|06/09/2023|
+||59faaa1|feat: added index, myscripts and styles|feat: added index, myscripts and styles|06/09/2023|
+||c6774f0|fix: updated index and styles for "values" section|fix: updated index and styles for "values" section|07/09/2023|
+||b02968e|chore: added all images|chore: added all images|07/09/2023|
+||b088804|feat: added section hero with bootstrap|feat: added section hero with bootstrap|07/09/2023|
+||f950605|feat(benefits): added section Our Benefits|feat(benefits): added section Our Benefits|07/09/2023|
+||9ed9e51|feat(prices): added pricing section|feat(prices): added pricing section|07/09/2023|
+||6a6db93|feat(contact): added section contact with about|feat(contact): added section contact with about|07/09/2023|
+||ebd3187|feat: added footer|feat: added footer|07/09/2023|
+||76a3502|feat: added collaborators section|feat: added collaborators section|07/09/2023|
+||78b3178|feat: added faq and values|feat: added faq and values|07/09/2023|
+||36d44a9|feat(welcome): added welcome section|feat(welcome): added welcome section|07/09/2023|
+||b0d5300|chore: uploaded accpeptance test|chore: uploaded accpeptance test|07/09/2023|
+||7061940|feature(header): added header|feature(header): added header|07/09/2023|
+||277f0da|fix: organized files directory deployment|fix: organized files directory deployment|07/09/2023|
 #####         **2.1.4. Testing Suite Evidence for Sprint Review.**
 Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
-|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/Features|7387d5e|chore: added aceptance test|chore: added aceptance test|07/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/tree/develop/Features|b0d5300|chore: uploaded accpeptance test|chore: uploaded accpeptance test|07/09/2023|
 #####         **2.1.5. Execution Evidence for Sprint Review.**
 En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up. A continuación se muestran algunas evidencias:
 

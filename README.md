@@ -861,25 +861,25 @@ En la aplicación, los usuarios recorrerán el proceso de cultivo con secciones 
 ### 3. **Landing Page UI Design.**
 ####     3.1. Landing Page Wireframe.
 ##### Landing Page para Desktop Web Browser
-![Landing_Page_Desktop_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Wireframe.png?raw=true)
+![Landing_Page_Wireframe](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f5feffb0-1718-4e45-b1b8-f6e6ff684818)
 
 ##### Landing Page para Mobile Web Browser
-![Landing_Page_Mobile_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Mobile_Wireframe.png?raw=true)
+![Landing_Page_Mobile_Wireframe](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/104f6722-40ba-4ca4-ab47-5e0173e50b8f)
 
 ####     3.2. Landing Page Mock-up.
 ##### Landing page en español
 ###### Landing Page para Desktop Web Browser
-![Landing_Page_Desktop_Mockup_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_ES_Mockup.png?raw=true)
+![Landing_Page_ES_Mockup](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/25e3717d-f742-4c1c-be6b-36e0d593b9f4)
 
 ###### Landing Page para Mobile Web Browser
-![Landing_Page_Mobile_Mockup_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_ES_Mockup_Mobile.png?raw=true)
+![Landing_Page_ES_Mockup_Mobile](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/22f1dab0-91e0-4a77-aab7-70cc97c5f8b1)
 
 ##### Landing page en inglés
 ###### Landing Page para Desktop Web Browser
-![Landing_Page_Desktop_Mockup_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_EN_Mockup.png?raw=true)
+![Landing_Page_EN_Mockup](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/90e0d29d-c30c-4386-9ea0-10301c4f8c13)
 
 ##### Landing Page para Mobile Web Browser
-![Landing_Page_Mobile_Mockup_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_EN_Mockup_Mobile.png?raw=true)
+![Landing_Page_EN_Mockup_Mobile](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ce426be5-d685-4725-9458-9ac060850196)
 
 
 ### 4. **Web Applications UX/UI Design.**

@@ -1580,6 +1580,452 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 ![Imagenes/evidencia_individual_github_sprint_1.png](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/evidencia_individual_github_sprint_1.png)
 
 
+<div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
+
+El Sprint #2 tiene como fecha de inicio el 09/09/2023 y como meta plantea resolver errores de la landing page y realizar el front end y fake API de la web application de manera que sea atractiva y funcional.
+
+
+|Sprint #|Date|Time|Location|Prepared By|Attendees|
+|-|-|-|-|-|-|
+|2|09/09/2023|09:00 AM|Reunión virtual mediante la aplicación Discord|Alan Galavis|Alan  Galavis, Andrés Soto, Carlo Seminario, Jessica Commetant, Nicolás Espinoza|
+
+|Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
+|-|-|-|
+|Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional|47|47|
+
+<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
+
+En el segundo sprint backlog, el equipo completó la landing page y el MVP del front end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades. el objetivo principal del sprint era arreglar los bugs de la landing page y construir en su totalidad la web application con su respectivo fake API, logrando que sea atractiva y funcional.
+
+![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
+
+Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
+
+<table>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <th>US01</th>
+      <td>Contactar a la startup</td>
+      <td>TK01</td>
+      <td>Enlaces de contacto</td>
+      <td>Conectar los botones de social media con las respectivas paginas princinpales de cada red social</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th>US02</th>
+      <td>Obtener información de la aplicación</td>
+      <td>TK02</td>
+      <td>Ver secciones de información sobre la aplicación</td>
+      <td>Mostrar al usuario diferentes secciones que expliquen el producto y sus beneficios</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th>US03</th>
+      <td>Acceder a la aplicación desde la landing page</td>
+      <td>TK03</td>
+      <td>Conectar la landing page con la web application mediante hipervinculos</td>
+      <td>Permitir que el usuario pueda visitar la web application mediante el uso de hipervinculos en botones</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <th rowspan="4">US09</th>
+      <td rowspan="4">Documentar fase Insumos</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK05</td>
+      <td>Tabla de la fase insumos</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase insumos</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK06</td>
+      <td>Generar popup's para ingresar datos de la fase insumos</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase insumos</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK07</td>
+      <td>Mostrar popup's de advertencia de la fase insumos</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase insumos</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+   <tr>
+      <th rowspan="4">US10</th>
+      <td rowspan="4">Documentar fase Patio</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK08</td>
+      <td>Tabla de la fase Patio</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Patio</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK09</td>
+      <td>Generar popup's para ingresar datos de la fase Patio</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Patio</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK10</td>
+      <td>Mostrar popup's de advertencia de la fase Patio</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Patio</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US11</th>
+      <td rowspan="4">Documentar fase Búnker</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK11</td>
+      <td>Tabla de la fase Búnker</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Búnker</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK12</td>
+      <td>Generar popup's para ingresar datos de la fase Búnker</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Búnker</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK13</td>
+      <td>Mostrar popup's de advertencia de la fase Búnker</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Búnker</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+   <tr>
+      <th rowspan="4">US12</th>
+      <td rowspan="4">Documentar fase Túnel</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK14</td>
+      <td>Tabla de la fase Túnel</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Túnel</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK15</td>
+      <td>Generar popup's para ingresar datos de la fase Túnel</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Túnel</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK16</td>
+      <td>Mostrar popup's de advertencia de la fase Túnel</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Túnel</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US13</th>
+      <td rowspan="4">Documentar fase Incubación</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK17</td>
+      <td>Tabla de la fase Incubación</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Incubación</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK18</td>
+      <td>Generar popup's para ingresar datos de la fase Incubación</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Incubación</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK19</td>
+      <td>Mostrar popup's de advertencia de la fase Incubación</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Incubación</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+   <tr>
+      <th rowspan="4">US14</th>
+      <td rowspan="4">Documentar fase Cobertura</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK20</td>
+      <td>Tabla de la fase Cobertura</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Cobertura</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK21</td>
+      <td>Generar popup's para ingresar datos de la fase Cobertura</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Cobertura</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK22</td>
+      <td>Mostrar popup's de advertencia de la fase Cobertura</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Cobertura</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US15</th>
+      <td rowspan="4">Documentar fase Inducción</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK23</td>
+      <td>Tabla de la fase Inducción</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Inducción</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK24</td>
+      <td>Generar popup's para ingresar datos de la fase Inducción</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Inducción</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK25</td>
+      <td>Mostrar popup's de advertencia de la fase Inducción</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Inducción</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US16</th>
+      <td rowspan="4">Documentar fase Cosecha</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK26</td>
+      <td>Tabla de la fase Cosecha</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Cosecha</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK27</td>
+      <td>Generar popup's para ingresar datos de la fase Cosecha</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Cosecha</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK28</td>
+      <td>Mostrar popup's de advertencia de la fase Cosecha</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Cosecha</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US20</th>
+      <td rowspan="2">Visualizar perfil de la empresa</td>
+      <td>TK29</td>
+      <td>Mostrar información del perfil empresa</td>
+      <td>Permitir al usuario visualizar la información ingresada en su perfil empresa</td>
+      <td>4</td>
+      <td>Carlo Seminario</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK30</td>
+      <td>Mostrar usuarios de la empresa</td>
+      <td>Mostrar usuarios trabajadores vinculados a la empres </td>
+      <td>4</td>
+      <td>Carlo Seminario</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US21</td>
+      <td>Visualizar perfil del usuario</td>
+      <td>TK31</td>
+      <td>Mostrar infromación del perfil usuario</td>
+      <td>Permitir al usuario visualizar la información ingresada en su perfil</td>
+      <td>4</td>
+      <td>Carlo Seminario</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
+
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este segundo sprint. Como se establecio trabajar los arreglos finales de la landing page y el frontend de la web application, se muestran commits de diferentes repositorios donde se trabajo.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|||||||
+
+<div id='5.2.2.4.'><h5>5.2.2.4.Testing Suite Evidence for Sprint Review.</h5></div>
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+||||||
+
+
+<div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
+En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
+
+Para el sprint 2 únicamente se planificó abarcar únicamente la landing page y el front-end y para no vernos limitados a probar las funcionalidades al no contar con un back-end, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Enlace para acceder al [My Json Server]().
+
+| Endpoint | Details |
+| - | - | 
+| /stock| Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+| /preparation_area | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase preparation area| | 
+| /bunker  | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase bunker | 
+| /tunnel  | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase tunnel| 
+| /grow_room_record?processType=Incubation | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase incubation del grow room| 
+| /grow_room_record?processType=Casing | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase casing del grow room| 
+| /grow_room_record?processType=Induction | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase induction del grow room| 
+| /grow_room_record?processType=Harvest | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase harvest del grow room| 
+
+|Repository|Branch|Commit Id|Commit message|Commit message body|Commited on (Date)|
+|-|-|-|-|-|-|
+||||||
+
+<div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
+
+Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos bugs que será solucionados en el siguiente sprint.
+
+Landing page:
+
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+- Capturas de pantalla landing page:
+
+Web Application:
+
+Se certifica la exitosa implementación de la aplicación web frontend en Netlify, utilizando la rama principal ("master") del repositorio. Las configuraciones incluyen el comando de construcción "npm run build" para generar la carpeta "dist", sin modificar el directorio base, y la selección de "dist/greenhouse" como directorio de publicación, seguido de la ejecución exitosa del despliegue bajo la opción "Deploy Greenhouse".
+
+- Capturas de pantalla de web application:
+
+<div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Soto Kong Requena, Andres Eduardo|Reestructuración de la landing page. Elaborar componente header y componente popups de la web application para datos de la tabla|
+|Galavis Du Bois, Alan Enrique|Elaborar componente stepper, componente primary-button, routing entre pages|
+|Seminario Garvín, Carlo Luca|Elaboración del json-server, componente profile. Despliegue de la aplicación. Conectar landing  page con aplicación|
+|Espinoza Rodriguez, Nicolas Antonio|Elaborar componente table, db.json, conectar componente dialog con botones. Elaboración del json-server.|
+|Comettant Rubiños, Jessica Elizabeth|Elaborar componente dialog para confirmar operación|
+
+Repositorio Landing:
+
+
+
+
+
+
 ## Conclusiones y recomendaciones
 
 1. Existe una gran demanda en el mercado internacional de cetas (champiñones) hacia el Perú con una exportación en aumento del 11%, comparado con el año 2021.

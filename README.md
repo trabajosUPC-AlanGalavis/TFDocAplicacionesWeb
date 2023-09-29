@@ -1,15 +1,21 @@
-# Informe TB1
-**Universidad Peruana de Ciencias Aplicadas**
+<h1 style="text-align: center;"> Informe del Trabajo Final </h1>
+<h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-**Ingeniería de Software**
+<img src=https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/4be29e42-94e4-4b80-85ae-3433dde891e4 
+style="display: block; 
+margin-left:auto; 
+margin-right: auto; 
+width=50%"/>
 
-**Aplicaciones Web - SW51**
+<h5 style="text-align: center"> Ingeniería de Software </h5>
 
-**Docente:** Juan Carlos Tinoco Licas 
+<h5 style="text-align: center"> Aplicaciones Web - SW51 </h5>
 
-**Startup**: Integradis
+<h5 style="text-align: center"> Docente: Juan Carlos Tinoco Licas </h5>
 
-**Producto**: Greenhouse
+<h5 style="text-align: center"> Startup: Integradis </h5>
+
+<h5 style="text-align: center"> Producto: Greenhouse </h5>
 
 ## Team members:
 | Nombre |Código|
@@ -20,8 +26,7 @@
 |Seminario Garbin, Carlo Luca|U20211A475|
 |Soto Kong Requena, Andres Eduardo|U202116113|
 
-**Ciclo 2023-02**
-
+<h5 style="text-align: center"> Ciclo 2023-02 </h5>
 
 ## Registro de versiones del informe
 
@@ -302,10 +307,236 @@ Finalmente, en relación a las principales empresas exportadoras de champiñones
 ####     1.1. Análisis competitivo:
 El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
 
-![vista_analisis](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/6848f634-37c6-4496-81db-36d7d7cffd90) 
-**Visualización:** https://docs.google.com/spreadsheets/d/1Hn_evhnXSpAuNpxrVHCGnnAEhjVeSZmi/edit?usp=sharing&ouid=112038083029343506182&rtpof=true&sd=true 
+<html>
+<head>
+    <title>Tabla HTML</title>
+    <style>
+       body {
+            font-family:"Zizou Slab Light";
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            text-align: left;
+            padding: 10px 25px 8px 25px;
+            text-align: center;
+            font-size: 12px;
+        }
+        ul{
+            text-align: justify;
+            padding: 10px 25px 10px 25px;
+        }
+        img {
+            width: 100px; 
+            height: auto; 
+            display: block;
+            margin: auto;
+            margin-top: 4px;
+        }
+        .sub{
+            font-weight: bold;
+        }
+        th{
+                background-color: #f2f2f2;
+        }
+        h1, h3 {
+            margin-bottom: 10px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <table >
+        <tr>
+           <td colspan="6" class="sub">  <h1>Competitive Analysis Landscape</h1></td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="2" class="sub">¿Por qué llevar acabo este análisis?</td>
+            <td colspan="4" class="sub"><h3>¿Quiénes son nuestros principales competidores?</h3></td>
+        </tr>
+        <!-- Filas restantes (13 filas) -->
+        <tr>
+            <td colspan="4">Gracias al análisis de la competencia perteneciente al mercado, se logra comprender el entorno competitivo 
+                en el que operará nuestro producto. Ello proporciona una visión detallada de quienes son nuestros competidores 
+                directos e indirectos, trazar estrategia a través de información recopilada sobre  su posicionamiento actual en el mercado.</td>
+        </tr>
+        <tr>
+            <td rowspan="3" class="sub">PERFIL</td>
+            <td rowspan="2" class="sub">Overview</td>
+            <td> GreenHouse <img src=https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/c8412e74-a9bb-4e9e-b49e-d5faa094d456> </td>
+            <td>Agroptima <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/3a4b2b57-bfad-4d96-83dc-59fb6819a945"> </td>
+            <td>Agrio Software<img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/2a1a6055-a109-4916-b109-1640b2aad4f0"> </td>
+            <td>AgrioBit <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/168e05dc-b992-4707-86bb-7dba446d5eac"> </td> 
+        </tr>
+        <tr>
+            <td>Plataforma direccionada al registro y monitoreo de procesos productivos involucrados en los cultivos de las industrias de champiñones
+                La plataforma permite la visibilidad de registro de datos históricos y actuales para un análisis exhaustivo lo que culmina en la toma de decisiones conscientes para las agroempresas
+                Muestra alarmas o notificaciones cuando se muestran parámetros meteorológicos, ambientales o de cultivo fuera del rango normal.</td>
+            <td>Es un software de gestión agrícola ágil e intuitivo para el control y registro de explotaciones agrarias</td>
+            <td>Plataforma web dirigida a empresas que comercializan y procesan patatas, cebollas y hortalizas integrales.</td>
+            <td>Plataforma para las empresas de agronegocios que buscan una gestión empresarial de agricultura y 
+                ganadería inteligente en la nube, que combina datos agropecuarios y financieros en un mismo lugar.</td>      
+        </tr>
+        <tr>
+            <td class="sub">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
+            <td>Permite el registro de procesos productivos a partir de fases involucradas en la gestión de cultivos de champiñones</td>
+            <td>
+                <ul>
+                    <li>Se adapta a cualquier tipo de sector agrícola (cultivo)</li>
+                    <li>Muestra una precisión de los cultivos desde una vista satelital</li>
+                    <li>Conecta a la administración, la gerencia y el técnico cultivo de la agroempresa</li>
+                    <li>La aplicación móvil puede trabajar sin hacer uso de conexión inalámbrica</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Integra software de Microsoft Dynamics y Microsoft Azure (software cloud)</li>
+                    <li>Puede acceder a todas las herramientas de la pila de Microsoft 365</li>
+                    <li>Ofrece almacenamiento de datos propio en la plataforma</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Combina datos agropecuarios y financieros en un mismo lugar</li>
+                    <li>Permite trabajar con contratos, aplicaciones, liquidaciones, operaciones empresariales, de logística y de inventarios.</li>
+                    <li>Muestra disponibilidad en Microsoft AppSource y PlayStore</li>
+                </ul>                
+            </td>      
+        </tr>
+        <!----->
+        <tr>
+            <td rowspan="2" class="sub">PERFIL DEL MARKETING</td>
+            <td class="sub" >Mercado Objetivo</td>
+            <td>
+                <ul>
+                    <li>Personal técnico supervisor de las fábricas champiñoneras del Perú</li>
+                    <li>Personal administrativo de las empresas champiñoneras del Perú.</li>
+                </ul>  
+            </td>
+            <td>Personal de gerencia, administración y técnico cultivo pertenecientes a las agroempresas</td>
+            <td>Dirigido a empresas que comercializan y procesan patatas, cebollas y hortalizas integrales</td>
+            <td>Empresas de agronegocios que buscan una gestión empresarial de agricultura y ganadería inteligente en la nube</td>
+        </tr>
+        <tr>
+            <td class="sub">Estrategias de Marketing</td>
+            <td>
+                <ul>
+                    <li>Colaboración con expertos en agronomía y agroempresas para respaldar la eficacia del sistema</li>
+                    <li>Ofrecer una prueba gratuita a los usuarios (estrategias de retención)</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Prueba gratuita de 15 días (estrategia de retención)</li>
+                    <li>Inserción de videos tutoriales</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Establecer en un espacio dentro de la página, las empresas que ya han implementado el uso de la plataforma.</li>
+                    <li>Entablar vínculos a los canales de comunicación personales de la startup.</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Colocar de forma estratégica en la página los logros alcanzados por la empresa y los clientes que ya han implementado este software.</li>
+                    <li>Ofrecer espacios publicitarios en redes sociales.</li>
+                </ul>
+            </td>
+        </tr>
+        <!----->
+        <tr>
+            <td rowspan="3" class="sub">PERFIL DEL PRODUCTO</td>
+            <td class="sub">Productos & Servicios</td>
+            <td>Plataforma web para el registro y monitoreo de procesos productivos involucrados en los cultivos de la industria champiñonera</td>
+            <td>Software de gestión agrícola y registro de campos, personal, productos, clientes</td>
+            <td>Plataforma web de control agrícola direccionada a agroempresas enfocadas en cultivos de hortalizas</td>
+            <td>Plataforma que desarrolla soluciones a medida para que cooperativas, bancos, gobierno, proveedores, 
+                fabricantes de agroinsumos y comunidades agrícolas puedan brindarles a sus clientes o asociados
+                 tecnología mediante sólo una herramienta de innovación. <br>
+                La aplicación permite tener cosechas más productivas, sustentables y con un manejo adecuado 
+                para la preservación del medio ambiente.</td>
+        </tr>
+        <tr>
+            <td class="sub">Precios & Costos</td>
+            <td>Venta de espacios publicitarios dentro de la plataforma
+                Suscripción gratuita por un rango de 15 días, luego el costo será proporcional al tamaño de la agroempresa. 
+                Si la agroempresa registra de entre 100 a 500 usuarios, se considera un monto de $6.75 por usuario; de 500 a más, 
+                el costo oscila en $4.45.</td>
+            <td>Prueba de 15 días, luego los costos se clasifican en tres planes: plan Basic, 
+                plan Pro y plan Premium, en dependencia de las funcionalidades que se desean adquirir.</td>
+            <td>A tratar en mutuo acuerdo con la agroempresa</td>
+            <td>A tratar en acuerdo con la empresa agropecuaria	</td>
+        </tr>
+        <tr>
+            <td class="sub">Canales de distribución (web/móvil)</td>
+            <td>El servicio, de forma momentánea, se brindará en plataforma web</td>
+            <td>Dispone de plataforma web y aplicación móvil</td>
+            <td>Solo plataforma web</td>
+            <td>Plataforma web y aplicación móvil</td>        
+        </tr>
+        <!----->
+        <tr>
+            <td rowspan="4" class="sub">ANÁLISIS SWOT</td>
+            <td class="sub">Fortalezas</td>
+            <td>Comunicación flexible entre el personal supervisor y administrativo de las plantas agrícolas
+                Registro y monitoreo eficiente de los procesos productivos de los cultivos de champiñones</td>
+            <td> 
+                <ul>
+                    <li>Brinda control de ingresos y egresos de cada actividad agrícola involucrada en el tipo de cultivo (gestión de costos)</li>
+                    <li>La vista satelital muestra a tiempo real una mejor percepción de los campos agrícolas, lo que garantiza una adecuada supervisión para el personal técnico</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Portal ágil para consumidores y productores</li>
+                    <li>Cálculos estables basados en herramientas de Microsoft</li>
+                    <li>Muestra proyecciones generales a partir de los cálculos registrados</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Planifica en base a la simulación de escenarios productivos</li>
+                    <li>Combina datos agropecuarios y financieros en un mismo lugar</li>
+                    <li>Reduce riesgos e impacto ambiental</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="sub">Debilidades</td>
+            <td>Desconocimiento del sector agrícola y productivo del cultivo de champiñones</td>
+            <td>Errores en la recepción de información para la creación de cuenta del usuario (interfaz).</td>
+            <td>Solo se encuentra disponible en países de Europa, aún no se ha internacionalizado ni intentó lanzarse al mercado norteamericano.</td>
+            <td>Errores en el formulario de registro de información para entrar en contacto con la empresa</td>  
+        </tr>
+        <tr>
+            <td class="sub">Oportunidades</td>
+            <td>
+                <ul>
+                    <li>Mejora de las funcionalidades deficientes de nuestros competidores en el mercado</li>
+                    <li>Baja presencia de competidores en el mercado</li>
+                    <li>Alta demanda en exportaciones peruanas de cultivos de champiñones hacia el exterior</li>
+                </ul>
+            </td>
+            <td>Implementación de una interfaz agradable y visual para el usuario</td>
+            <td>Administración y planificación visual del departamento de producción de cultivos</td>
+            <td>Combina inteligencia artificial e IoT para mitigar el cambio climático y gestionar cultivos agrícolas</td> 
+        </tr>
+        <tr>
+            <td class="sub">Amenazas</td>
+            <td>Inflación e inestabilidad económica del Perú</td>
+            <td>La interfaz no puede centralizarse en el desarrollo de procesos 
+                productivos para solo un tipo de cultivos. Es decir, la interfaz ha sido creada de forma generalizada.</td>
+            <td>Bajas demandas al ser una startup reciente y no contar con una aplicación móvil</td>
+            <td>Dilema del cambio climático en continuo agudizamiento</td>          
+        </tr>
+    </table>
+</body>
+</html>
 
-**Descarga:** [Integradis_Analisis_Competitivo.xlsx](https://github.com/Integradis-OpenSource/TFDocOpenSource/files/12501907/Integradis_Analisis_Competitivo.xlsx) 
 
 ####     1.2. Estrategias y tácticas frente a competidores.
 En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas  de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
@@ -624,29 +855,12 @@ Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWid
 
 ### 2. **User Stories.**
 Las user stories son una forma de convertir el lenguaje informal de los clientes del producto a un requisito de software que debe ser considerado en el desarrollo del sistema. Una user story construida adecuadamente explica al desarrollador la naturaleza de la funcionalidad que construyen, su razón de ser, y el valor que esta genera para el usuario. Para el producto Greenhouse, Integradis presenta un conjunto de user stories para el desarrollo de la Landing Page, la aplicación web y user stories técnicas.
-#### Landing Page User Stories
 
 |Epic/User Story ID| Título | Descripción | Criterios de aceptación |Relacionado con (Epic ID)|
 |-|-|-|-|-|
 |EP01|Contacto|**Como** visitante de la landing page **Quiero** contar con una sección que me permita contactar con los desarrolladores de la aplicación Greenhouse **Para** dar a conocer mis dudas e inquietudes relacionadas con el producto|No corresponde|No corresponde|
 |EP02|Información relacionada con la aplicación|**Como** visitante de la landing page **Quiero** contar con secciones específicas que detallen los beneficios que obtendré a través del uso de la aplicación Greenhouse **Para** tener un alcance sobre el propósito del producto|No corresponde|No corresponde|
 |EP03|Establecer vínculo entre la landing page y la aplicación|**Como** visitante de la landing page **Quiero** contar con componentes que me redirijan a secciones específicas de la aplicación **Para** comenzar a disfrutar de los beneficios y funcionalidades que Greenhouse ofrece |No corresponde|No corresponde|
-|US01|Contacto-Llenar formulario|**Como** visitante de la landing page **Quiero** poder llenar un formulario con mis datos personales **Para** contactar con la startup creadora de la aplicacion|**Escenario 1: Ingresar datos correctamente** <br> **Dado que** el visitante cuenta con una dirección email válida y teléfono <br> **Cuando** llene sus datos en todas las casillas del formulario de la landing page y presione el botón para enviar <br> **Entonces** podrá mandar un mensaje a la startup creadora de la aplicación. <br><br> **Escenario 2: Ingresar datos erróneos** <br> **Dado que** el visitante no cuenta con una dirección email válida u omite llenar información en alguna casilla <br> **Cuando** llene sus datos en todas las casillas del formulario de la landing page y presione el botón para enviar <br> **Entonces** las casillas con datos erróneos o faltantes se mostrarán en rojo y no se enviará el mensaje.|EP01|
-|US02|Contacto-Enlaces relacionados|**Como** visitante de la landing page **Quiero** acceder a las redes sociales de Integradis **Para** contactar por medios de comunicación más oficiales con la startup|**Escenario 1: Redireccionar al usuario a redes sociales** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a algún ícono de red social en el apartado de "contactos" <br> **Entonces** será enviado por un hipervínculo al perfil de la startup en la red social que haya elegido.|EP01|
-|US03|Preguntas frecuentes|**Como** visitante de la landing page **Quiero** abrir las pestañas con las preguntas frecuentes de la aplicación **Para** resolver mis consultas antes de inscribirme y elegir una membresía.|**Escenario 1: Ver respuestas a preguntas frecuentes** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a algún menú desplegable del apartado de "preguntas frecuentes" <br> **Entonces** el menú se abrirá y se podrá visualizar la pregunta seleccionada.|EP02|
-|US04|Sección "Header"|**Como** visitante de la landing page **Quiero** navegar por la landing page usando los hipervínculos del menú superior **Para** desplazarme rápidamente hacia las secciones que me sean de mayor importancia.|**Escenario 1: Navegar a través de las diferentes secciones de la landing page**<br>**Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a alguna sección especificada en el menú superior de navegación <br> **Entonces** la página web se desplazará a la sección seleccionada.|EP02|
-|US05|Sección "Learn"|**Como** visitante de la landing page **Quiero** poder visualizar más información de la aplicación Greenhouse **Para** conocer a más detalle la app y verificar si es una solución efectiva para la empresa en la que trabajo.|**Escenario 1: Usuario desea conocer más información sobre la aplicación** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click al botón de "leer más" ubicado en el apartado de "conocer más" <br> **Entonces** se abrirá una página adicional con información detallada de la aplicación Greenhouse.|EP02|
-|US06|Sección "Footer"|**Como** visitante de la landing page **Quiero** navegar por la landing page usando los hipervínculos del menú inferior y acceder al apartado legal de la aplicación **Para** desplazarme rápidamente hacia las secciones que me sean de mayor importancia y conocer los términos legales involucrados.|**Escenario 1: Navegar a través de la landing page** <br> **Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a alguna sección especificada en el menú inferior de navegación <br> **Entonces** la página web se desplazará a la sección seleccionada.|EP02|
-|US07|Acceso a la creación de cuenta en la aplicación web|**Como** visitante de la landing page decidido a ser cliente de Greenhouse **Quiero** dirigirme a la pestaña de creación de cuentas de la aplicación web **Para** registrar mi empresa para el uso de la aplicación en los procesos.|**Escenario 1: Redirigir al usuario al apartado de creación de cuenta** <br> **Dado que** el visitante se encuentra en la landing page y está decidido a ser cliente de Greenhouse <br> **Cuando** haga click al botón de "comenzar" en la landing page <br> **Entonces** será enviado vía un enlace de la aplicación web a la pestaña de creación de cuentas.|EP03|
-|US08|Sección "Plans"|**Como** visitante de la landing page decidido a ser cliente de Greenhouse **Quiero** elegir mi membresía en la landing page y dirigirme a la pestaña de creación de cuentas de la aplicación web **Para** registrar mi empresa en la aplicación bajo el plan de membresía elegido.|**Escenario 1: Redirigir al usuario al apartado de creación de cuenta** <br> **Dado que** el visitante se encuentra en la landing page y está decidido a ser cliente de Greenhouse <br> **Cuando** haga click al botón de "comenzar" en cualquiera de los planes de membresía mostrados en la landing page <br> **Entonces** será enviado vía un enlace de la aplicación web a la pestaña de creación de cuentas bajo el formato de membresía seleccionado.|EP03|
-
-
-
-
-#### Web Application User Stories
-
-|Epic/User Story ID| Título | Descripción | Criterios de aceptación |Relacionado con (Epic ID)|
-|-|-|-|-|-|
 |EP04|Prefase|**Como** administrador / técnico supervisor **Quiero** un sistema de registro de procesos para la fábrica de champiñones **Para** gestionar eficientemente el seguimiento y control de todas las fases de producción|No corresponde|No corresponde|
 |EP05|Fase 0: Insumos|**Como** técnico supervisor **Quiero** registrar información relevante sobre el compostaje en la fase de "Patio" **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución del compost durante esta fase|No corresponde|No corresponde|
 |EP06|Fase 1: Patio|**Como** técnico supervisor **Quiero** registrar información relevante sobre el compostaje en la fase de "Patio" **Para** que los administradores puedan obtener un reporte periódico que refleje el estado y evolución del compost durante esta fase|No corresponde|No corresponde|
@@ -656,19 +870,23 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |EP10|Reporte estadístico|**Como** administrador / técnico supervisor **Quiero** acceder a un reporte estadístico que resuma la información de todas las fases del proceso de cultivo de champiñones **Para** tener una visión global y actualizada del estado de la fábrica|No corresponde|No corresponde|
 |EP11|Gestión de cuentas e Inicio de sesión|**Como** administrador **Quiero** tener la capacidad de crear una cuenta y registrar una empresa **Para** comenzar a documentar los procesos de la fábrica de champiñones en la que trabajo|No corresponde|No corresponde|
 |EP12| Gestión de registros de procesos|**Como** administrador **Quiero** poder visualizar, exportar, editar y eliminar registros en específico **Para** mantener la integridad de la información documentada|No corresponde|No corresponde|
-|US09|Registrar empresa|**Como** administrador **Quiero** poder crear una cuenta y registrar una empresa **Para** comenzar a registrar los procesos de mi fábrica|**Escenario 1: Llenar campos** <br> **Dado que** el usuario desee crear una cuenta en la aplicación Greenhouse **Cuando** ingrese la información solicitada por los campos "correo electrónico", "nombre de la empresa", "RUC", "nombres y apellidos del registrante", "contraseña" **Y** presione el botón "continuar" **Entonces** el sistema redigirá al usuario a una sección donde podrá elegir el plan que mejor se acomode a sus necesidades. <br> <br> **Escenario 2: Elegir plan** <br> **Dado que** el usuario haya completado los campos que solicitan la información necesaria para crear una cuenta **Y** se encuentre en la vista que le solicita elegir un plan **Cuando** seleccione alguno de los planes ofrecitos **Entonces** se le solicitará al usuario ingresar un método de pago <br> <br> **Escenario 3: Método de pago aceptado** <br> **Dado que** el usuario haya elegido un plan **Y** haya ingresado la información correcta y necesaria para efectuar el pago **Cuando** presione el botón "Pagar" **Entonces** el sistema validará la transacción y creará la cuenta <br> <br> **Escenario 4: Método de pago denegado** <br> **Dado que** el usuario haya elegido un plan **Cuando** presione el botón "Pagar" habiendo ingresado la información incorrecta **Entonces** el sistema denegará la transacción y solicitará reingresar los datos | EP10 |
-|US10|Registrar empleados|**Como** administrador **Quiero** enviar enlaces de invitación por correo electrónico a los técnicos supervisores **Para** que registren una cuenta **Y** comiencen a utilizar la aplicación Greenhouse|**Escenario 1: Administrador desea agregar técnicos supervisores al proyecto en Greehouse** <br> **Dado que** el administrador cuente con alguno de los tres planes de pago **Y** haya escrito las direcciones de correos electrónicos de a lo más cinco empleados **Cuando** presione el botón "Invitar" **Entonces** el sistema enviará un mensaje por correo electrónico solicitando a los destinatarios que se unan al nuevo proyecto en Greenhouse <br> <br> **Escenario 2: Técnico supervisor acepta la invitación recibida** <br> **Dado que** el técnico supervisor haya recibido una invitación por correo electrónico **Cuando** presione el link que confirme su participación en el proyecto **Entonces** será redirigido a la aplicación para crear una cuenta **Y** posteriormente ser añadido al proyecto | EP10 |
-|US11|Iniciar sesión|**Como** administrador / técnico supervisor **Quiero** iniciar sesión **Para** acceder a los beneficios que ofrece la aplicación Greenhouse|**Escenario 1: Iniciar sesión** <br> **Dado que** el usuario posee una cuenta en la aplicación Greenhouse **Cuando** complete los campos "correo electrónico" y "contraseña"  **Y** presione el botón "Iniciar sesión" **Entonces** el sistema mostrará la interfaz principal de la aplicación. <br> <br> **Escenario 2: Error al inicar sesión** <br> **Dado que** el usuario posee una cuenta en la aplicación Greenhouse **Cuando** complete los campos "correo electrónico" y/o "contraseña" de manera incorrecta **Y** presione el botón "Iniciar sesión"**Entonces** el sistema denegará la solicitud y solicitará al usuario reingresar los datos| EP10 |
-|US12| Documentar fase de patio | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre el compostaje **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre el compostaje durante la fase de "patio" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos necesarios <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP05 |
-|US13| Documentar fase de túnel | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre la pasteurización, enfriamiento y acondicionamiento del compost **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución del compost durante la fase de "túnel" |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre el compost durante la fase de "túnel" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos necesarios <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP06 |
-|US14| Documentar fase de siembra | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre el cultivo de champiñones **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución del crecimiento del champiñón durante la fase de "siembra" |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre los datos ambientales de una nave en particular durante la fase de "siembra" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos ambientales de la nave <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos ambientales han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP07 |
-|US15| Documentar fase de cosecha | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre la fase final del cultivo de champiñones **Para** que los administradores obtengan un reporte periódico que refleje el estado de la cosecha del champiñón durante la fase de "cosecha" |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico durante la fase de "cosecha" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos de producción <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación| EP08 |
-|US16| Ver registros | **Como** administrador **Quiero** visualizar todos los registros realizados en cada una de las fases **Para** mantenerme informado sobre el estado actual de la fábrica |**Escenario 1: Visualizar Registros** <br> **Dado que** un administrador desee visualizar los registros realizados en la aplicación Greenhouse **Cuando** acceda a la sección de registros **Entonces** el sistema deberá mostrar una lista ordenada de todos los registros realizados en cada una de las fases del proceso de cultivo de champiñones. <br><br> **Escenario 2: Detalles de Registro** <br> **Dado que** el administrador desee ver más información relacionada a un registro **Cuando** seleccione un registro específico de la lista **Entonces** el sistema deberá mostrar los detalles completos del registro, incluyendo la información relevante sobre la fase, fecha, hora y cualquier dato asociado al proceso de cultivo de champiñones|EP011|
-|US17| Exportar registros | **Como** administrador **Quiero** exportar todos los registros realizados en cada una de las fases **Para** contar con una copia local o impresa de los procesos documentados |**Escenario 1:** <br> **Dado que** soy un administrador **Cuando** acceda a la sección de registros y seleccione la opción "Exportar registros" **Entonces** el sistema generará un archivo que contenga todos los registros realizados en todas las fases del proceso de cultivo de champiñones, en un formato compatible para su descarga local o impresión|EP011|
-|US18| Editar registros | **Como** administrador **Quiero** editar la información contenida por un registro **Para** reescribir los datos ingresados incorrectamente |**Escenario 1: Registro editado correctamente** <br> **Dado que** soy un administrador **Cuando** acceda a la sección de registros, seleccione un registro específico y elija la opción "Editar registro" **Y** realice las modificaciones necesarias en los datos del registro **Y** confirme los cambios **Entonces** el sistema actualizará el registro con la información editada y mostrará un mensaje de confirmación.<br><br>**Escenario 2: Error al editar registro**<br>**Dado que** soy un administrador **Cuando** acceda a la sección de registros, seleccione un registro específico y elija la opción "Editar registro" **Y** realice modificaciones en los datos del registro, pero cometa un error al editarlos **Entonces** el sistema mostrará un mensaje de error indicando que la edición no se pudo completar y solicitará que se corrijan los errores antes de guardar los cambios|EP011|
-|US19| Eliminar registros | **Como** administrador **Quiero** eliminar los registros que considere incorrectos **Para** mantener la integridad del historial de reportes |**Escenario 1: Eliminar Registro** <br> **Dado que** el administrador desee borrar un registro existente **Cuando** acceda a la sección de registros, seleccione un registro específico y elija la opción "Eliminar registro" **Y** confirme la eliminación **Entonces** el sistema eliminará permanentemente el registro seleccionado y mostrará un mensaje de confirmación. <br><br> **Escenario 2: Cancelar Eliminación de Registro** <br> **Dado que** el administrador se encuentre en la sección que le permita eliminar un registro **Cuando** presione el botón "Cancelar" **Entonces** el sistema no eliminará el registro y mantendrá su integridad, mostrando un mensaje de cancelación|EP011|
-|US20| Visualizar reportes estadísticos de fases|**Como** administrador / técnico supervisor **Quiero** poder ver reportes estadísticos específicos para cada fase del proceso de producción de champiñones **Para** evaluar el rendimiento y la eficiencia de cada fase de manera individual|**Escenario 1: Acceder a Reportes de Fases** <br> **Dado que** el usuario acceda a la sección de reportes estadísticos **Cuando** seleccione una fase específica (por ejemplo, "Búnker", "Túnel" o "Siembra") **Entonces** el sistema generará y mostrará un informe estadístico detallado para esa fase|EP09|
-|US21| Eliminar cuenta | **Como** administrador registrado **Quiero** tener la capacidad de eliminar mi cuenta y la de los técnicos supervisores que trabajan para la empresa **Para** eliminar completamente los datos almacenados y dejar de utilizar la aplicación Greenhouse| **Escenario 1: Borrar cuenta de administrador** <br> **Dado que** un administrador se encuentre registrado y haya iniciado sesión en la aplicación Greenhouse **Cuando** acceda al apartado de "Mi perfil" y seleccione la opción "Eliminar cuenta" **Entonces** el sistema deberá solicitar una confirmación final **Y** si el usuario confirma la eliminación de la cuenta, el sistema deberá borrar permanentemente todos los datos y cerrar la sesión activa automáticamente **Y** el sistema mostrará un mensaje que anuncie que los datos fueron eliminados <br><br> **Escenario 2: Borrar cuenta de técnico supervisor** <br> **Dado que** un administrador considere necesario eliminar la cuenta de un técnico supervisor **Cuando** ingrese al perfil de la empresa **Y** presione el botón "Ver trabajadores" **Y** presione el botón de "Eliminar trabajador" situado debajo del perfil de un empleado **Entonces** el sistema deberá solicitar una confirmación final **Y** si el usuario confirma la eliminación del acuenta, el sistema deberá borrar permanentemente todos los datos del técnico especificado **Y** el sistema mostrará un mensaje que anuncie que los datos fueron eliminados <br><br> **Escenario 3: Cancelar eliminación de cuenta** <br> **Dado que** el usuario se encuentre registrado, haya iniciado sesión en la aplicación Greenhouse, haya accedido al apartado de "Mi perfil" y haya seleccionado la opción "Eliminar cuenta" **Cuando** cancele la operación **Entonces** el sistema no realizará ningún cambio y se mantendrá en la sesión actual **Y** el sistema mostrará un mensaje indicando que la operación de borrado de cuenta ha sido cancelada|EP10|
+|US01|Sección "Header"|**Como** visitante de la landing page **Quiero** poder reducir mis acciónes **Para** interactuar con la landing page|**Escenario 1: Interacción con hipervinculos** <br> **Dado que** el visitante interactua con los hipervinculos <br> **Cuando** seleccióno una de la secciones <br> **Entonces** será dirigido a la sección seleccionada.<br><br> **Escenario 2: Interacción con el cambio de idioma** <br> **Dado que** el visitante interactua con el cambio de idioma<br> **Cuando** presione el boton <br> **Entonces** se le permitira al usuario cambiar de idioma.|No corresponde|
+|US02|Sección "Contact"|**Como** visitante de la landing page **Quiero** contactarme con el startup **Para** resolver dudas.|**Escenario 1: Ingresa datos**<br>**Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a alguna barra de texto <br> **Entonces** podra ingresar texto. <br><br> **Escenario 2: Enviar datos**<br>**Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click en el boton "sunmit" <br> **Entonces** los textos ingresados seran enviados. <br><br> **Escenario 3: redes sociales**<br>**Dado que** el visitante se encuentra en la landing page <br> **Cuando** haga click a algun boton de redes sociales <br> **Entonces** será dirigido a la pagina principal de la red social.|EP01|
+|US03|Sección "Footer"|**Como** visitante de la landing page **Quiero** tener una serie de posibles actividades **Para** evitar buscar la activdad que deseo realizar.|**Escenario 1: Redirigir al usuario al apartado de creación de cuenta** <br> **Dado que** el visitante se encuentra en la landing page y está decidido a ser cliente de Greenhouse <br> **Cuando** haga click al botón de "create account" <br> **Entonces** será enviado vía un enlace de la aplicación web a la pestaña de creación de cuentas.<br><br> **Escenario 2: Interacción con links de apoyo** <br> **Dado que** el visitante interactua con los links de apouyo <br> **Cuando** seleccióno una de los links <br> **Entonces** será dirigido a la sección seleccionada.<br><br> **Escenario 3: Interacción con los hipervinculos del area legal** <br> **Dado que** el visitante interactua con los links del area legal <br> **Cuando** seleccióno una de los links <br> **Entonces** será mostrara la politica de privacidad o los terminos y condiciones.|No corresponde|
+|US04|Botones "start"|**Como** visitante de la landing page **Quiero** tener una serie de botones **Para** ser dirigido a la creación de cuenta en la aplicación web.|**Escenario 1: Redirigir al usuario al apartado de creación de cuenta** <br> **Dado que** el visitante se encuentra en la landing page y está decidido a ser cliente de Greenhouse <br> **Cuando** haga click al botón de "create account" <br> **Entonces** será enviado vía un enlace de la aplicación web a la pestaña de creación de cuentas.|EP03|
+|US05|Registrar empresa|**Como** administrador **Quiero** poder crear una cuenta y registrar una empresa **Para** comenzar a registrar los procesos de mi fábrica|**Escenario 1: Llenar campos** <br> **Dado que** el usuario desee crear una cuenta en la aplicación Greenhouse **Cuando** ingrese la información solicitada por los campos "correo electrónico", "nombre de la empresa", "RUC", "nombres y apellidos del registrante", "contraseña" **Y** presione el botón "continuar" **Entonces** el sistema redigirá al usuario a una sección donde podrá elegir el plan que mejor se acomode a sus necesidades. <br> <br> **Escenario 2: Elegir plan** <br> **Dado que** el usuario haya completado los campos que solicitan la información necesaria para crear una cuenta **Y** se encuentre en la vista que le solicita elegir un plan **Cuando** seleccione alguno de los planes ofrecitos **Entonces** se le solicitará al usuario ingresar un método de pago <br> <br> **Escenario 3: Método de pago aceptado** <br> **Dado que** el usuario haya elegido un plan **Y** haya ingresado la información correcta y necesaria para efectuar el pago **Cuando** presione el botón "Pagar" **Entonces** el sistema validará la transacción y creará la cuenta <br> <br> **Escenario 4: Método de pago denegado** <br> **Dado que** el usuario haya elegido un plan **Cuando** presione el botón "Pagar" habiendo ingresado la información incorrecta **Entonces** el sistema denegará la transacción y solicitará reingresar los datos | EP10 |
+|US06|Registrar empleados|**Como** administrador **Quiero** enviar enlaces de invitación por correo electrónico a los técnicos supervisores **Para** que registren una cuenta **Y** comiencen a utilizar la aplicación Greenhouse|**Escenario 1: Administrador desea agregar técnicos supervisores al proyecto en Greehouse** <br> **Dado que** el administrador cuente con alguno de los tres planes de pago **Y** haya escrito las direcciones de correos electrónicos de a lo más cinco empleados **Cuando** presione el botón "Invitar" **Entonces** el sistema enviará un mensaje por correo electrónico solicitando a los destinatarios que se unan al nuevo proyecto en Greenhouse <br> <br> **Escenario 2: Técnico supervisor acepta la invitación recibida** <br> **Dado que** el técnico supervisor haya recibido una invitación por correo electrónico **Cuando** presione el link que confirme su participación en el proyecto **Entonces** será redirigido a la aplicación para crear una cuenta **Y** posteriormente ser añadido al proyecto | EP10 |
+|US07|Iniciar sesión|**Como** administrador / técnico supervisor **Quiero** iniciar sesión **Para** acceder a los beneficios que ofrece la aplicación Greenhouse|**Escenario 1: Iniciar sesión** <br> **Dado que** el usuario posee una cuenta en la aplicación Greenhouse **Cuando** complete los campos "correo electrónico" y "contraseña"  **Y** presione el botón "Iniciar sesión" **Entonces** el sistema mostrará la interfaz principal de la aplicación. <br> <br> **Escenario 2: Error al inicar sesión** <br> **Dado que** el usuario posee una cuenta en la aplicación Greenhouse **Cuando** complete los campos "correo electrónico" y/o "contraseña" de manera incorrecta **Y** presione el botón "Iniciar sesión"**Entonces** el sistema denegará la solicitud y solicitará al usuario reingresar los datos| EP10 |
+|US08| Documentar fase de patio | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre el compostaje **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre el compostaje durante la fase de "patio" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos necesarios <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP05 |
+|US09| Documentar fase de túnel | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre la pasteurización, enfriamiento y acondicionamiento del compost **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución del compost durante la fase de "túnel" |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre el compost durante la fase de "túnel" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos necesarios <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP06 |
+|US10| Documentar fase de siembra | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre el cultivo de champiñones **Para** que los administradores obtengan un reporte periódico que refleje el estado y evolución del crecimiento del champiñón durante la fase de "siembra" |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico sobre los datos ambientales de una nave en particular durante la fase de "siembra" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos ambientales de la nave <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos ambientales han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación | EP07 |
+|US11| Documentar fase de cosecha | **Como** técnico supervisor **Quiero** poder registrar información crucial sobre la fase final del cultivo de champiñones **Para** que los administradores obtengan un reporte periódico que refleje el estado de la cosecha del champiñón durante la fase de "cosecha" |**Escenario 1: Registrar información** <br> **Dado que** a un técnico supervisor le corresponda realizar un registro periódico durante la fase de "cosecha" **Cuando** presione el botón "Nuevo registro" **Entonces** se desplegará un formulario donde se solicitará al usuario registrar los datos de producción <br><br> **Escenario 2: Generación de Reporte** <br> **Dado que** los datos han sido escritos correctamente **Cuando** el técnico supervisor presione el botón "Listo" **Entonces** el sistema registrará el reporte **Y** mostrará un mensaje de confirmación| EP08 |
+|US12| Ver registros | **Como** administrador **Quiero** visualizar todos los registros realizados en cada una de las fases **Para** mantenerme informado sobre el estado actual de la fábrica |**Escenario 1: Visualizar Registros** <br> **Dado que** un administrador desee visualizar los registros realizados en la aplicación Greenhouse **Cuando** acceda a la sección de registros **Entonces** el sistema deberá mostrar una lista ordenada de todos los registros realizados en cada una de las fases del proceso de cultivo de champiñones. <br><br> **Escenario 2: Detalles de Registro** <br> **Dado que** el administrador desee ver más información relacionada a un registro **Cuando** seleccione un registro específico de la lista **Entonces** el sistema deberá mostrar los detalles completos del registro, incluyendo la información relevante sobre la fase, fecha, hora y cualquier dato asociado al proceso de cultivo de champiñones|EP011|
+|US13| Exportar registros | **Como** administrador **Quiero** exportar todos los registros realizados en cada una de las fases **Para** contar con una copia local o impresa de los procesos documentados |**Escenario 1:** <br> **Dado que** soy un administrador **Cuando** acceda a la sección de registros y seleccione la opción "Exportar registros" **Entonces** el sistema generará un archivo que contenga todos los registros realizados en todas las fases del proceso de cultivo de champiñones, en un formato compatible para su descarga local o impresión|EP011|
+|US14| Editar registros | **Como** administrador **Quiero** editar la información contenida por un registro **Para** reescribir los datos ingresados incorrectamente |**Escenario 1: Registro editado correctamente** <br> **Dado que** soy un administrador **Cuando** acceda a la sección de registros, seleccione un registro específico y elija la opción "Editar registro" **Y** realice las modificaciones necesarias en los datos del registro **Y** confirme los cambios **Entonces** el sistema actualizará el registro con la información editada y mostrará un mensaje de confirmación.<br><br>**Escenario 2: Error al editar registro**<br>**Dado que** soy un administrador **Cuando** acceda a la sección de registros, seleccione un registro específico y elija la opción "Editar registro" **Y** realice modificaciones en los datos del registro, pero cometa un error al editarlos **Entonces** el sistema mostrará un mensaje de error indicando que la edición no se pudo completar y solicitará que se corrijan los errores antes de guardar los cambios|EP011|
+|US15| Eliminar registros | **Como** administrador **Quiero** eliminar los registros que considere incorrectos **Para** mantener la integridad del historial de reportes |**Escenario 1: Eliminar Registro** <br> **Dado que** el administrador desee borrar un registro existente **Cuando** acceda a la sección de registros, seleccione un registro específico y elija la opción "Eliminar registro" **Y** confirme la eliminación **Entonces** el sistema eliminará permanentemente el registro seleccionado y mostrará un mensaje de confirmación. <br><br> **Escenario 2: Cancelar Eliminación de Registro** <br> **Dado que** el administrador se encuentre en la sección que le permita eliminar un registro **Cuando** presione el botón "Cancelar" **Entonces** el sistema no eliminará el registro y mantendrá su integridad, mostrando un mensaje de cancelación|EP011|
+|US16| Visualizar reportes estadísticos de fases|**Como** administrador / técnico supervisor **Quiero** poder ver reportes estadísticos específicos para cada fase del proceso de producción de champiñones **Para** evaluar el rendimiento y la eficiencia de cada fase de manera individual|**Escenario 1: Acceder a Reportes de Fases** <br> **Dado que** el usuario acceda a la sección de reportes estadísticos **Cuando** seleccione una fase específica (por ejemplo, "Búnker", "Túnel" o "Siembra") **Entonces** el sistema generará y mostrará un informe estadístico detallado para esa fase|EP09|
+|US17| Eliminar cuenta | **Como** administrador registrado **Quiero** tener la capacidad de eliminar mi cuenta y la de los técnicos supervisores que trabajan para la empresa **Para** eliminar completamente los datos almacenados y dejar de utilizar la aplicación Greenhouse| **Escenario 1: Borrar cuenta de administrador** <br> **Dado que** un administrador se encuentre registrado y haya iniciado sesión en la aplicación Greenhouse **Cuando** acceda al apartado de "Mi perfil" y seleccione la opción "Eliminar cuenta" **Entonces** el sistema deberá solicitar una confirmación final **Y** si el usuario confirma la eliminación de la cuenta, el sistema deberá borrar permanentemente todos los datos y cerrar la sesión activa automáticamente **Y** el sistema mostrará un mensaje que anuncie que los datos fueron eliminados <br><br> **Escenario 2: Borrar cuenta de técnico supervisor** <br> **Dado que** un administrador considere necesario eliminar la cuenta de un técnico supervisor **Cuando** ingrese al perfil de la empresa **Y** presione el botón "Ver trabajadores" **Y** presione el botón de "Eliminar trabajador" situado debajo del perfil de un empleado **Entonces** el sistema deberá solicitar una confirmación final **Y** si el usuario confirma la eliminación del acuenta, el sistema deberá borrar permanentemente todos los datos del técnico especificado **Y** el sistema mostrará un mensaje que anuncie que los datos fueron eliminados <br><br> **Escenario 3: Cancelar eliminación de cuenta** <br> **Dado que** el usuario se encuentre registrado, haya iniciado sesión en la aplicación Greenhouse, haya accedido al apartado de "Mi perfil" y haya seleccionado la opción "Eliminar cuenta" **Cuando** cancele la operación **Entonces** el sistema no realizará ningún cambio y se mantendrá en la sesión actual **Y** el sistema mostrará un mensaje indicando que la operación de borrado de cuenta ha sido cancelada|EP10|
 
 #### Technical User Stories
 
@@ -768,7 +986,7 @@ La tipografía establece jerarquía entre los diversos grupos de contenido de la
 ####     1.2. Web Style Guidelines.
 El enfoque de "Greenhouse" para la aplicación web es de elegancia, sencillez y eficiencia para realizar los procesos. Las etapas del proceso y los formularios que deben llenarse están representados en formularios y secciones que abarcan la mayoría de la pantalla. 
 ##### Tarjetas:
-Se hace uso del componente "mat-card" de la colección de Angular Material para representar los avisos y las notificaciones importantes de la aplicación. Los avisos deberán de ser acompañados de una imagen representativa, la cual será asignada por defecto en el caso que el emisor decida no seleccionar una imagen. Las tarjetas incluyen un título, un subtítulo, un párrafo descriptivo y representarán un hipervínculo para la obtención de más información.
+Se hace uso del componente "card" de la colección de PrimeVue para colocar los principales componentes de la aplicación. Las tarjetas incluyen un título, un subtítulo, un párrafo descriptivo y representarán un hipervínculo para la obtención de más información.
 ##### Imágenes:
 
 En el diseño web se incluirán imágenes descriptivas y con un objetivo puntual. En primer lugar, la imagen de perfil del usuario y de la empresa en la cual está registrado dentro de la aplicación se encontrarán en todo momento en la parte superior izquierda, esto con el objetivo de ayudar al usuario a identicar la sesión en la que se encuentra y ayudarlo a navegar rápidamente a sus datos personales. 
@@ -788,7 +1006,7 @@ Las pantallas emergentes tienen el objetivo de confirmar acciones clave para el 
 El enfoque elegido para la vista mobile de la aplicación Greenhouse es el mismo que el de la vista desktop browser. Como se mencionó anteriormente, este consiste en centrarse en la elegancia, sencillez y eficiencia para realizar los procesos. Las etapas del proceso y los formularios que deben llenarse están representados en formularios y secciones que abarcan la mayoría de la pantalla.
 
 ##### Tarjetas:
-Se hace uso del componente "mat-card" de la colección de Angular Material para representar los avisos y las notificaciones importantes de la aplicación. Los avisos deberán de ser acompañados de una imagen representativa, la cual será asignada por defecto en el caso que el emisor decida no seleccionar una imagen. Las tarjetas incluyen un título, un subtítulo, un párrafo descriptivo y representarán un hipervínculo para la obtención de más información.
+Se hace uso del componente "card" de la colección de PrimeVue para colocar los principales componentes de la aplicación. Las tarjetas incluyen un título, un subtítulo, un párrafo descriptivo y representarán un hipervínculo para la obtención de más información.
 ##### Imágenes:
 
 En el diseño web se incluirán imágenes descriptivas y con un objetivo puntual. En primer lugar, la imagen de perfil del usuario y de la empresa en la cual está registrado dentro de la aplicación se encontrarán en todo momento en la parte superior izquierda, esto con el objetivo de ayudar al usuario a identicar la sesión en la que se encuentra y ayudarlo a navegar rápidamente a sus datos personales. 
@@ -812,7 +1030,7 @@ Mediante la vista de "Panel de Control", se muestra una interfaz más generaliza
 ####     2.1. Organization Systems.
 La organización visual de contenido se realizará de tres formas diferentes en las varias vistas de la aplicación. La **organización de forma jerárquica** presenta al usuario con un orden de importancia para los elementos que se muestran en pantalla. Se utilizó este orden para las pantallas de log-in y los perfiles de los empleados y las empresas que los representan. Los títulos de los datos acaparan mayor parte de la pantalla en comparación a los datos ingresados o que deben ingresarse. Adicionalmente, las opciones de modificación de información para los perfiles se encuentran en un color azul claro que armoniza con el color blanco de la aplicación y no causa una impresión fuerte, por lo que se espera que el usuario vea las opciones de modificación después de leer sus datos personales.
 
-El proceso núcleo de negocio de las fases de cultivo utiliza una **organización secuencial** de la información. El elemento "mat-timeline" de Angular Material guía al usuario a través del cultivo de champiñones, muestra los insumos necesarios para iniciar un cultivo, las actividades en el patio, búnker, túnel y el proceso de crecimiento de incubación, cobertura, inducción y cosecha. El usuario técnico supervisor puede visualizar los cultivos en la fase en la que se encuentran y dar por finalizadas las fases para continuar con la siguiente. El contenido de los procesos está categorizado de forma **cronológica**, es importante para los técnicos supervisores mantener un registro de los cultivos que llevan más tiempo en producción. Estos últimos cultivos tienen requisitos específicos y diferentes a los cultivos que apenas empiezan a ser producidos.
+El proceso núcleo de negocio de las fases de cultivo utiliza una **organización secuencial** de la información. El elemento "step" de PrimeVue guía al usuario a través del cultivo de champiñones, muestra los insumos necesarios para iniciar un cultivo, las actividades en el patio, búnker, túnel y el proceso de crecimiento de incubación, cobertura, inducción y cosecha. El usuario técnico supervisor puede visualizar los cultivos en la fase en la que se encuentran y dar por finalizadas las fases para continuar con la siguiente. El contenido de los procesos está categorizado de forma **cronológica**, es importante para los técnicos supervisores mantener un registro de los cultivos que llevan más tiempo en producción. Estos últimos cultivos tienen requisitos específicos y diferentes a los cultivos que apenas empiezan a ser producidos.
 
 Para el panel de control, es necesario ofrecer al cliente una vista general de la aplicación mediante una **organización matricial**. El panel de control se concentra en una vista general del uso de la aplicación Greenhouse por parte de la empresa. En esta vista, se mostrarán imágenes que lleven al usuario a los cultivos en progreso, información de la empresa, reportes estadísticos y el historial de cultivo. Esta pantalla sigue una categorización de contenido **por tópicos**, dado que las tarjetas y los hipervínculos cuentan con diferentes tópicos debidamente representados visualmente.
 
@@ -874,25 +1092,25 @@ En la aplicación, los usuarios recorrerán el proceso de cultivo con secciones 
 ### 3. **Landing Page UI Design.**
 ####     3.1. Landing Page Wireframe.
 ##### Landing Page para Desktop Web Browser
-![Landing_Page_Desktop_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Wireframe.png?raw=true)
+![Landing_Page_Wireframe](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f5feffb0-1718-4e45-b1b8-f6e6ff684818)
 
 ##### Landing Page para Mobile Web Browser
-![Landing_Page_Mobile_Wireframe](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_Mobile_Wireframe.png?raw=true)
+![Landing_Page_Mobile_Wireframe](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/104f6722-40ba-4ca4-ab47-5e0173e50b8f)
 
 ####     3.2. Landing Page Mock-up.
 ##### Landing page en español
 ###### Landing Page para Desktop Web Browser
-![Landing_Page_Desktop_Mockup_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_ES_Mockup.png?raw=true)
+![Landing_Page_ES_Mockup](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/25e3717d-f742-4c1c-be6b-36e0d593b9f4)
 
 ###### Landing Page para Mobile Web Browser
-![Landing_Page_Mobile_Mockup_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_ES_Mockup_Mobile.png?raw=true)
+![Landing_Page_ES_Mockup_Mobile](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/22f1dab0-91e0-4a77-aab7-70cc97c5f8b1)
 
 ##### Landing page en inglés
 ###### Landing Page para Desktop Web Browser
-![Landing_Page_Desktop_Mockup_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_EN_Mockup.png?raw=true)
+![Landing_Page_EN_Mockup](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/90e0d29d-c30c-4386-9ea0-10301c4f8c13)
 
 ##### Landing Page para Mobile Web Browser
-![Landing_Page_Mobile_Mockup_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Landing_Page_EN_Mockup_Mobile.png?raw=true)
+![Landing_Page_EN_Mockup_Mobile](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ce426be5-d685-4725-9458-9ac060850196)
 
 
 ### 4. **Web Applications UX/UI Design.**
@@ -1426,7 +1644,7 @@ El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado 
 Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic Versioning 2.0.0).
 
 **Convenciones de Commits:**
-Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
+Para los mensajes de los commits realizados, la estructura a seguir será la siguiente:
 
  `git commit -m "<type>[optional scope]:<title>" -m"<description">`
 
@@ -1627,6 +1845,319 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 ![Imagenes/evidencia_grupal_github_sprint_1.png](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/evidencia_grupal_github_sprint_1.png)
 
 ![Imagenes/evidencia_individual_github_sprint_1.png](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/evidencia_individual_github_sprint_1.png)
+
+<div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
+
+|Sprint #|Date|Time|Location|Prepared By|Attendees|
+|-|-|-|-|-|-|
+|2|09/09/2023|09:00 AM|Reunión virtual mediante la aplicación Discord|Alan Galavis|Alan  Galavis, Andrés Soto, Carlo Seminario, Jessica Commetant, Nicolás Espinoza|
+
+|Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
+|-|-|-|
+||||
+<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
+
+
+![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/dfef7d68-28c0-4605-b925-c58d7fc2071e)
+
+Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
+
+<table>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td>US01</td>
+      <td>Contactar a la startup</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Obtener información de la aplicación</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Acceder a la aplicación desde la landing page</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Documentar fase Insumos</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Documentar fase Patio</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US11</td>
+      <td>Documentar fase Búnker</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US12</td>
+      <td>Documentar fase Túnel</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US13</td>
+      <td>Documentar fase Incubación</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US14</td>
+      <td>Documentar fase Cobertura</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US15</td>
+      <td>Documentar fase Inducción</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>Documentar fase Cosecha</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US20</td>
+      <td>Visualizar perfil de la empresa</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US21</td>
+      <td>Visualizar perfil del usuario</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+      <td></td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|34a02d1|feat: added hyperlinks to navbar and footer||10/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|cd032c7|fix: functionality of faq section||10/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|5a8a16a|feat(contact): added social media links||10/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|1ea640b|feat(contact): added contact information||10/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|49b943c|fix: display of contact, faq and footer section||11/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|54477cb|feat(navbar): implemented sticky position and fixed overlap||17/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|62095af|feat(navbar): implemented sticky position and fixed overlap||17/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|e5b037a|fix(benefits): fixed display||17/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|eb5f9dc|chore: code cleanup||17/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|849a64e|fix(pricing): display according to figma||17/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|b300832|fix: buttons||18/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|7c594b9|chore: added needed dependencies.||19/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|57ea932|feat: added Greenhouse logo to project||19/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|eba032b|chore: Deleted favicon.ico||19/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|9793674|chore: Imported needed dependencies.||19/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|71c8f4f|feat(stepper): Added stepper component||19/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|1fc3c3d|feat(button-primary): Added button-primary component||19/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|3835294|feat: added about the team and about the project sections||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|88596e0|feat(header): Added header first version||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|e206ebd|feat(information): added information component for the profile||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|68477df|feat(profile-information): added profile information with the complete view for a profile.||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|8c05139|feat(profile-information): deleted unused import Input and Output||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|fe00733|feat(toolbar): modified toolbar display and content||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|bf5f393|chore: added styles and font||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|ab23a42|chore: added box style.||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|f53b17a|chore(profile-information): added style for Account||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|f9cbc98|chore: added tailwind||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|8d7edfd|feat(avatar): added avatar component.||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|4570a40|feat(main-content): added main-content and used tailwind for layout.||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|43a6dc9|chore: import components||20/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|3ee23b8|chore(server): added configuration files for fake api.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|7d608b9|chore(service): added base class for service facade.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|ee72434|chore: added http client module.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|a10522d|chore(profile): renamed main-content to profile-content||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|6475482|chore(profile): added underline.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|b3216f5|fix(toolbar): rebase the toolbar files location to shared directory.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|decdc5b|feat(dashboard): added dashboard card||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|b928496|feat(dashboard): added dashboard content.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|c5d9250|chore(dashboard): added dashboard content to app module.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|893ef53|chore(dashboard): added dashboard images.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|99b5556|feat(organization): added organization information component.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|44fd58c|feat(organization): added organization content component.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|87cef95|chore: created and moved components to shared directory.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|a436dbe|chore: created and moved components to user directory.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|a236bda|chore: created and moved components to organizations directory.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|ae45fe0|feat(employees): added employees content.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|d6f426c|chore(organization): added employees of the organization.||21/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|af7f5d8|chore: update declarations and imports.||21/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|bf6cb9f|feat: improved about the team section and added correct image for about the project||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|8833657|feat(navbar): Improved navbar||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|a62f23f|fix: Replaced externally referenced library for icons with local install||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|b2dc67e|feat(routing): Added routing between dashboard and stepper||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|1652ae09|feat(navbar): Added enterprise and profile icons||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|7c3a4c3|feat(navbar): Added routing between navbar and profile||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|22e32c8|feat(process-table): added process-table component|feat(process-service): added process-entry service, feat(process-entry): added process-entry entity, chore(): added MatTable, MatForm modules|22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|2fc004d|feat(navbar): Added routing between navbar and organization||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|f653b78|chore(button-primary): Moved location of button-primary component||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|11c8197|feat(process-table): Added process table to stepper||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|255fe9b|feat(dashboard): Improved dashboard layout||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|767d626|feat(process-log): Added process log component||22/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|591caa2|fix(organization): Fixed primary-font imported incorrectly||22/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|3a191b5|feat: added spanish html index and functional language menu||23/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|91b8622|fix: changed text in es_index.html to spanish||23/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|5ab45dc|fix(navbar): fixed language menu display||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|60d2101|pop-up component created||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|90606f0|event services created||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|16d40e8|feat<event-service>:Add EventService for object activation||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|3a7aff1|feat:Add popup styles and functionality| Added styles for the popup container, body, and content. Created a popup component with visibility control. Updated popup content and appearance|23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|fc23e40|feat(communication.service): Implement CommunicationService for showing popups| Created a CommunicationService class. Added a Subject for triggering popup button clicks. Exposed an Observable for subscribing to popup button clicks. Implemented a method to trigger popup button clicks.|23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|dbe2c77|feat(popup-warning): Implement communication with COmmunicationSerive||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|51f1f37|feat(stepper-communication): Implement communication with stepper component and Communicacion service||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|1c386f8|feat(popupnewcrop):Popupnewcrop added, path /popup-new-crop added too||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|77236d6|feat(popupnewcrop):Typescript added, activeObjectPopUpNewCrop in eventservice added||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|c56ddf2|HTML new crop component added||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|99e030a|feat(popupcropfinished): popup-crop-finished added||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|db65449|feat(popupcropfinished):Typescript added||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|c0c0e6f|feat(popupcropfinished):HTML added||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|52df7a6|Css added,path in app router /popup-crop-finished||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|31de386|chore(process-table): json server get implemented for tables.||23/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|f0c5858|feat(dialog): Added dialog for creating new record||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|07f860c|feat(dialog): Updated dialog for displaying recorded info||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|c0e80d8|fix: Removed unused import OnInit||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|d8da734|feat(stepper): Added scroll on mobile view to records table||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|4f7dd07|fix(stepper): Fixed button with incorrect padding||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|b83cd76|feat(process-input-dialog-stock): added popup form for stock phase||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|56a1a47|feat: added popup form for every other phase||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|2646522|fix: Removed unused import OnInit||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|3c6cfd2|chore(stock): Post data form the stock form into the stock table.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|32900be|chore(preparation-area): Post data form the preparation-area form into the preparation-area table.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|002edad|fix: Eliminate unused router input.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|8d39ee5|fix(preparation-area): change the name of the service.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|857227b|chore(bunker): Post data form the bunker form into the bunker table.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|481712b|chore(bunker): Post data form the tunnel form into the tunnel table.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|4523abf|chore(growRoom): Post data form the grow room phases form into its corresponding table.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|5a8efce|chore(server): added id to json server so it works.||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|ce279ea|fix(server): deleted extra json-server||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|bf1bed0|Revert "fix(server): deleted extra json-server"||24/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|616bc09|fix(server): added db.json for MyJsonServer||24/09/2023|
+|https://github.com/Integradis-OpenSource/LandingPage|LandingPage/main|b506dlc|chore: added links to the Greenhouse web app.||25/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|5a0a033|chore(server): added MyJsonServer to basePath.||25/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|8dn7c75|chore: Connected popup components to main components||25/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|affc67b|chore: erased unnecessary variables||25/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|61c0b9e|fix: added _redirect file to solve page not found.||25/09/2023|
+|https://github.com/Integradis-OpenSource/Greenhouse|Greenhouse/main|b786485|fix: update _redirects file to solve page not found.||25/09/2023|
+
+<div id='5.2.2.4.'><h5>5.2.2.4.Testing Suite Evidence for Sprint Review.</h5></div>
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+
+
+<div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
+En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
+
+Landing Page Ingles:
+
+![landing_page_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5cdd2d53-b426-4a0d-aa55-1e657fd3e62a)
+
+Landing Page Responsive Ingles:
+
+![landing_page_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/da22018d-2915-430c-9af8-34d308c6c483)
+
+Landing Page Español:
+
+![landing_page_responsive_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5a1358e3-8844-4206-bd59-a289ced700e5)
+
+Landing Page Responsive Español:
+
+![landing_page_responsive_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e9ecc3e1-e2b6-4688-a0f2-84ffab72b26b)
+
+<div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
 
 <div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
@@ -2105,5 +2636,8 @@ Repositorio Landing:
 >Shwaber, K., & Sutherland, J. The Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100 [Consulta: 6 de septiembre]
 
 ## Anexos
+
+- Enlace para acceder a la landing page: [https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/](https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/)
+
 - Video exposición TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/ETlown8FiyNFmGcBIfkwGlQBybMGayEc5LST4n8ijOu_gg?e=NITvEX
 

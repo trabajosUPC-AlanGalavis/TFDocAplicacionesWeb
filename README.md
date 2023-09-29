@@ -35,7 +35,91 @@ width=50%"/>
 |1.0|15/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Creación del documento de trabajo en formato markdown|
 |1.1|20/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
 |1.2|23/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
+|1.3|25/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración de user personas, impact mapping, as-is y to-be|
+|1.4|26/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración de user stories, product backlog|
+|1.5|28/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración de prototipos de wireframes y mockups|
+|1.6|31/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción de style guidelines e information architecture|
+|1.7|03/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes|
+|1.8|03/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Registro de evidencias del Sprint 1|
+|1.9|04/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Rediseño de mockups. Elaboración de wireflows y user-flows|
+|1.10|07/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción de software configuration management y conclusiones|
+|2.1|22/09/2023|Espinoza|Redacción de Collaboration Insights|
+|2.2|24/09/2023|Galavis|Corrección de user stories, descripción y acceptance criteria. Repriorización del backlog y repuntaje del sprint|
+|2.3|25/09/2023|Galavis, Soto|Corrección del índice. Redacción del capítulo 5.2.2.1|
+|2.3|26/09/2023|Galavis|Mejora continua, agregadas descripciones a wireframes, mock-ups, wireflos y user flows.|
+|2.4|26/09/2023|Soto|Corrección de análisis de entrevistas. Redacción de development evidence for sprint review, testing suite evidence for sprint review, execution evidence for sprint review, deployment evidence for sprint review, collaboration insights during sprint|
+|2.5|26/09/2023|Galavis, Seminario| Mejora continua, corrección del diagrama de base de datos. Redacción de documentation evidence for sprint review|
+|2.6|26/09/2023|Galavis, Seminario| Mejora continua, corrección del diagrama de base de datos. Redacción de documentation evidence for sprint review|
+|2.7|26/09/2023|Espinoza| Avance de conclusiones|
 
+## Project Report Collaboration Insights
+
+URL del repositorio para el reporte del proyecto: https://integradis-opensource.github.io/LandingPage/
+
+**TB1**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nicolás Espinoza|Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information Architecture. User Stories. Diagrama de base de datos.|
+|Alan Galavis|Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions. User Stories. Product Backlog|
+|Carlo Seminario|Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.|
+|Jessica Comettant|Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones.|
+|Andres Soto|General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.|
+
+**TP**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nicolás Espinoza|Mejora del diagrama de clases. Avance de conclusiones|
+|Alan Galavis|Corrección del modelo de base de datos. Completar explicaciones de flows. Sprint Backlog 2.|
+|Carlo Seminario|Corrección de impact map. Documentation Evidence for Sprint Review|
+|Jessica Comettant|Correcciones en Lean UX, completar explicación de collaboration|
+|Andres Soto|Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización Integradis.
+
+**Github Collaboration Insights**
+
+Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo.
+
+Los integrantes son:
+
+* Alan Galavis (trabajosUPC-AlanGalavis)
+* Nicolás Espinoza (EspinozaNaer)
+* Carlo Seminario (CarloLSG)
+* Jessica Comettant (Mei0202)
+* Andrés Soto (asotito231)
+
+**TB1**
+
+![Commit_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f1c3c7a1-fe67-410b-b845-fb77abe41021)
+![Commit_Graph_Individual1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a87b9990-4d55-44da-b146-c320da0b09e9)
+![Commit_Graph_Individual2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b4c8014b-70e7-4b09-b885-ad36cad31e64)
+![Commit_Graph_Individual3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/79f17bfb-7ec3-4233-8a55-da9a57164db5)
+
+En el siguiente gráfico se muestran la cantidad total de commits realizados en todas las ramas del proyecto.
+
+**TB1**
+
+![Pull_Graphs](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5c3dc89f-65e0-4d38-adbc-b8ef3fa3476b)
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
+Se explican las ramas más prominentes:
+
+**main**: Es representada por el color negro. Se trata de la rama principal del proyecto y se actualiza para cada entregable.
+**develop**: Es representada por el color azul. Se trata de la rama principal para el proceso del desarrollo del proyecto.
+**feature-product-design**: Es representado por el color verde. Incluye el contenido de user flows y wireframes.
+**feature-sprint1**: Es representada por el color amarillo. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
+
+![Branch_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/02a276ed-2c6b-4714-9f9c-932aee761f3b)
+
+El siguiente gráfico incluye la cantidad de commits realizados en la semana con más actividad durante el desarrollo del informe. 
+
+![Commit_Timeline](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/062a8d50-d5d4-4467-8c87-3363decc22eb)
 
 ## Student Outcome
 

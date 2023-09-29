@@ -2326,7 +2326,24 @@ Landing page:
 
 El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
 
+![Evidence1](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/460c799d-1e03-4f33-910a-14353334f1c3)
+
 https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/
+
+- Capturas de pantalla Landing Page
+
+![Evidence2](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/af8aac2e-20cc-4d7c-abaa-e75e8ef30723)
+![Evidence3](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/67da3da2-653f-4dcd-852c-fdddedc74590)
+![Evidence4](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/89412676-f080-4e42-8e2b-8cad6763d60b)
+![Evidence5](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/f0e23d37-e879-44d9-b174-7d03622146cf)
+![Evidence6](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/6c6ba3c5-fba4-4075-b7f8-f67a4199154e)
+![Evidence7](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/45992814-7b31-4eb3-8278-a0f748aaebd5)
+![Evidence8](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/a57da550-66b2-470d-ac38-30d3d28e263a)
+![Evidence9](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/740bc1f2-d2fd-4c02-8689-befe31fd4a0b)
+![Evidence10](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/94866efc-3f6f-42b6-b9b7-fa66efad5582)
+![Evidence11](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/f48604d9-230d-49e2-8856-5b79abcd3333)
+![Evidence12](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/d32cb23f-bf8b-4d32-8be9-a406c0c260fc)
+![Evidence13](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/ced307f8-ff28-4fd5-bcdf-0acab54aa448)
 
 Web Application:
 
@@ -2372,6 +2389,8 @@ Repositorio Web Application:
 10. La creación del Sprint 1, fue una excelente forma de integrar los user stories priorizables para el primer entregable. Esto se debe a que cada integrante participó del desarrollo del Landing Page dentro del repositorio colaborativo y se realizaron reuniones respectivas para el feedback grupal.
 11. Se concluye que es importante sentar las bases del diseño antes de comenzar a codificar. En ese sentido, realizar el diagrama de clases respectivo para visualizar la interacción de las entidades implementadas.
 12. Realizar los criterios de aceptación en lenguaje Gherkin de las historias de usuario designadas para este sprint validan los escenarios posibles dentro de la interacción entre usuario y plataforma. Ello aporta en el descarte de posibles resultados y la comprobación de funcionalidades. 
+13. Es necesario estimar tiempos adicionales para cada uno de los sprints para corregir historias de usuario carry over o pendientes no planificados. El sprint 2 tuvo un tiempo de desarrollo ajustado debido a complicaciones de esta índole.
+14. La documentación de los módulos y artefactos de Angular Material nos permite conocer mediante ejemplos interactivos las funcionalidades disponibles en los componentes visuales de la biblioteca.
 
 ## Bibliografía
 
@@ -2387,8 +2406,8 @@ Repositorio Web Application:
 
 ## Anexos
 
-- Enlace para acceder a la landing page: [https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/](https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/)
-  
+- Enlace para acceder a la landing page: https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/
+
 - Enlace para acceder a la aplicación web desplegada: https://greenhouse-web.netlify.app/dashboard
 
 - Video exposición TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/ETlown8FiyNFmGcBIfkwGlQBybMGayEc5LST4n8ijOu_gg?e=NITvEX

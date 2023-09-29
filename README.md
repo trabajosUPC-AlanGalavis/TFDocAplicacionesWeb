@@ -41,8 +41,8 @@ width=50%"/>
 
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un  proyecto en soluciones de ingeniería de software.|**Andrés Soto** TB1: Realizó la seccion de header en el landing page, además de su correspondiente codigo en javascript para cumplir funcionalidades. Adicionalmente se encargo de documentar los commits realizados por el equipo. <br> TP: En esta entrega reparó los bugs de la landing page, al igual que terminó de implementar los features faltantes. De la misma forma, se encargo de documentar los commits realizados en el presente sprint, asi como su sprint planning correspondiente. Asimismo, arreglo los user stories correspondientes al landing page, y los incluyo en el Trello<br> **Carlo Luca Seminario** TB1: Se aplicó conventional commits y el uso de herramientas de control de versiones para así mejorar el trabajo del equipo tanto para la documentación como para la landing page. <br> **Jessica Comettant** TB1:  El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. <br> **Nicolás Espinoza** TB1: Los diagramas C4 están involucrados en el proceso de DDD o Domain Driven Design. Los diagramas hacen uso de un lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel. <br>**Alan Enrique Galavis Du Bois** TB1: Todos los miembros del equipo contribuyeron a elaborar todas las partes del informe, bien sea elicitación, análisis y especificación de requisitos, diseño de experiencias de usuario, diseño de base de datos y de patrones de software, etc. Adicionalmente, los integrantes mantuvieron una comunicación activa y una organización constante, lo cual fue posible mediante el uso de herramientas tales como Trello y Github. |Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo. TB1|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Andrés Soto** TB1: Encargado de realizar la sección de sprint donde se incluye el sprint backlog y sprint planning. De la mismas forma trabajo en el figma diseñando la landing page y su versión responsive al igual que la versión responsive de la aplicación web.<br> TP: Arreglo los user stories correspondientes al landing page, y los incluyo en el Trello. Asimismo adapto el diseño de la landing page en figma de forma que corresponda con las mejoras realizadas en la landing page<br> <br> **Carlo Luca Seminario** TB1: Se realizó el proceso de especificación y análisis de requisitos para así lograr conocer al sector de las empresas de champiñones de modo que pudimos identificar en que areas enfocarnos para agilizar su flujo de trabajo. <br> **Jessica Comettant** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. <br> **Nicolás Espinoza** TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos pedidos. <br> **Alan Enrique Galavis Du Bois** TB1: Para poder elaborar un producto solución a un problema real resultó necesario cumplir con una elicitación, análisis, especificación de requisitos, dentro de los cuales se identificaron las necesidades actuales de un sector industrial. Para resolver las necesidades encontradas, se propuso elaborar una aplicación web que permita digitalizar el registro de procesos. <br>|Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno. TB1|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un  proyecto en soluciones de ingeniería de software.|**Andrés Soto** TB1: Se realizó la seccion de header en el documento, además de su correspondiente codigo en javascript para cumplir funcionalidades. <br> TP: Se encargó de arreglar los bugs presentados en el landing page del sprint anterior. De la misma forma colaboró con la realización de la seccion sprint 2 del infomre.<br>**Carlo Luca Seminario** TB1: Se aplicó conventional commits y el uso de herramientas de control de versiones para así mejorar el trabajo del equipo tanto para la documentación como para la landing page. <br> TP: Se realizaron reuniones para mantener una comunicación constante e ir presentando nuestros avances durante el proyecto de modo que todos estemos en sintonía para entregar un proyecto de Software. <br> **Jessica Comettant** TB1:  El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. <br> **Nicolás Espinoza** TB1: Los diagramas C4 están involucrados en el proceso de DDD o Domain Driven Design. Los diagramas hacen uso de un lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel. <br>**Alan Enrique Galavis Du Bois** TB1: Todos los miembros del equipo contribuyeron a elaborar todas las partes del informe, bien sea elicitación, análisis y especificación de requisitos, diseño de experiencias de usuario, diseño de base de datos y de patrones de software, etc. Adicionalmente, los integrantes mantuvieron una comunicación activa y una organización constante, lo cual fue posible mediante el uso de herramientas tales como Trello y Github. |Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo. TB1|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Andrés Soto** TB1: Se realizó diferentes secciones del informe teniendo en cuenta los criterios para obtener una nota sobresaliente. Haciendo mencion en la realización de la segunda sección del capitulo 5 y la realización del landing page mock up y su correspondiente mobile design. <br> TP: Desarrollo la caracteristica de toolbar en la aplicación web. Asimismo desarrollo las ventanas emergentes para el registro de datos de cada fase establecida. <br>**Carlo Luca Seminario** TB1: Se realizó el proceso de especificación y análisis de requisitos para así lograr conocer al sector de las empresas de champiñones de modo que pudimos identificar en que areas enfocarnos para agilizar su flujo de trabajo. <br> TP: Se realizó el producto mínimo viable o MVP para así poder presentar como segundo sprint un producto de valor para nuestro cliente de modo que este mismo se pueda sentir satisfecho con nuestro avance. <br> **Jessica Comettant** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. <br> **Nicolás Espinoza** TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos pedidos. <br> **Alan Enrique Galavis Du Bois** TB1: Para poder elaborar un producto solución a un problema real resultó necesario cumplir con una elicitación, análisis, especificación de requisitos, dentro de los cuales se identificaron las necesidades actuales de un sector industrial. Para resolver las necesidades encontradas, se propuso elaborar una aplicación web que permita digitalizar el registro de procesos. <br>|Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno. TB1|
 
 ## Contenido
 
@@ -1686,6 +1686,55 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 Enlace para acceder a la [landing page](https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/)
 
+**Front End Web Application deployment**
+
+Para poder desplegar el Front End Web Application resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+[Ingresar a Netlify](https://app.netlify.com/)
+
+Ingresar con tu cuenta de Github en la opción Sign Up with Github:
+
+<img width="1440" alt="Sing Up" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/8daffd5d-d361-4d4a-98dd-261e1b5c1c20">
+
+Brindar autorización a Netlify para Github.
+
+Una vez tienes una cuenta en Netlify es necesario nombrar a tu Team, en este caso lo nombramos Greenhouse.
+
+<img width="279" alt="Netlify Sidebar" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/ac09ff3c-fd91-4101-b196-f8125994211f">
+
+Se ingresa a la sección Sites y se selecciona la opción Add new site y la sección Import an existing project.
+
+<img width="1106" alt="add new site" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4a0840b9-3d1b-4918-8dde-cdb29db10ec8">
+
+<img width="263" alt="Import an existing project" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/10a789e2-e897-4eb9-9ad9-12d8b931d251">
+
+Elegimos la opción de “Deploy with Github”. Se configuran el acceso al repositorio de la organización y luego se selecciona el repositorio sobre el cuál se va a realizar el deployment.
+
+<img width="1170" alt="deploy project" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/fbd4fb1a-f5b8-43e9-b32e-7ca2d9f4b6ee">
+
+<img width="843" alt="Screenshot 2023-09-28 at 7 23 01 PM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/195ce94d-4332-470c-9835-c5bdaac474d7">
+
+<img width="1055" alt="Screenshot 2023-09-28 at 7 07 21 PM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/fc50518f-9265-4515-a38e-2894e2385ac9">
+
+A continuación se tiene que realizar la configuración para el despliegue. En esta se tiene que ingresar el Team de Netlify, y la branch del repositorio al cuál se le va a hacer deploy, en este caso master. Además se tienen que configurar los build settings, el base directory no se cambia porque es el root directory. El build command es npm run build para generar la carpeta dist, mientras que en el Publish directory se coloca el dist/greenhouse. Finalmente se selecciona la opción de deploy, la cuál es Deploy Greenhouse.
+
+<img width="826" alt="configuration" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/2b7c6e75-193c-435a-bdf9-4918195ccc21">
+
+<img width="1000" alt="Screenshot 2023-09-28 at 7 08 03 PM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/476a6e7f-87a3-44a6-a8c2-ac522fc19101">
+
+
+Luego esperas a que la página termine el deployment y en la ventana de sites va encontrarse la página publicada:
+
+<img width="1376" alt="Screenshot 2023-09-28 at 7 08 20 PM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/9040117e-17ac-4348-9ed4-c7ea4eefb036">
+
+Ingresas y cuentas con el enlace para ingresar al Front End Web Application, además que te da la opción de Site Configuration en dónde podrás cambiar el Site name de ser necesario.
+
+<img width="788" alt="Screenshot 2023-09-28 at 7 08 41 PM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/7a8866f9-3aa6-47ba-84bd-8a08b6a190b9">
+
+De este modo ya se contaría con la página desplegada y al estar vinculada y con permisos en el repositorio de la organización cada vez que se realiza un commit a la branch correspondiente se va a actualizar el Front End Web Application sin necesidad de volver a hacer todos los pasos anteriores.
+
+Enlace para acceder [Front End Web Application](https://greenhouse-web.netlify.app/)
+
 ### 2. Landing Page, Services & Applications Implementation.
 ####     2.1. Sprint 1
 #####         **2.1.1. Sprint Planning 1.**
@@ -2109,6 +2158,454 @@ Landing Page Responsive Español:
 <div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
 <div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
+
+
+<div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
+
+El Sprint #2 tiene como fecha de inicio el 09/09/2023 y como meta plantea resolver errores de la landing page y realizar el front end y fake API de la web application de manera que sea atractiva y funcional.
+
+
+|Sprint #|Date|Time|Location|Prepared By|Attendees|
+|-|-|-|-|-|-|
+|2|09/09/2023|09:00 AM|Reunión virtual mediante la aplicación Discord|Alan Galavis|Alan  Galavis, Andrés Soto, Carlo Seminario, Jessica Commetant, Nicolás Espinoza|
+
+|Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
+|-|-|-|
+|Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional|47|47|
+
+<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
+
+En el segundo sprint backlog, el equipo completó la landing page y el MVP del front end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades. el objetivo principal del sprint era arreglar los bugs de la landing page y construir en su totalidad la web application con su respectivo fake API, logrando que sea atractiva y funcional.
+
+![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
+
+Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
+
+<table>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <th>US01</th>
+      <td>Contactar a la startup</td>
+      <td>TK01</td>
+      <td>Enlaces de contacto</td>
+      <td>Conectar los botones de social media con las respectivas paginas princinpales de cada red social</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th>US02</th>
+      <td>Obtener información de la aplicación</td>
+      <td>TK02</td>
+      <td>Ver secciones de información sobre la aplicación</td>
+      <td>Mostrar al usuario diferentes secciones que expliquen el producto y sus beneficios</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th>US03</th>
+      <td>Acceder a la aplicación desde la landing page</td>
+      <td>TK03</td>
+      <td>Conectar la landing page con la web application mediante hipervinculos</td>
+      <td>Permitir que el usuario pueda visitar la web application mediante el uso de hipervinculos en botones</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <th rowspan="4">US09</th>
+      <td rowspan="4">Documentar fase Insumos</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK05</td>
+      <td>Tabla de la fase insumos</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase insumos</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK06</td>
+      <td>Generar popup's para ingresar datos de la fase insumos</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase insumos</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK07</td>
+      <td>Mostrar popup's de advertencia de la fase insumos</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase insumos</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+   <tr>
+      <th rowspan="4">US10</th>
+      <td rowspan="4">Documentar fase Patio</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK08</td>
+      <td>Tabla de la fase Patio</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Patio</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK09</td>
+      <td>Generar popup's para ingresar datos de la fase Patio</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Patio</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK10</td>
+      <td>Mostrar popup's de advertencia de la fase Patio</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Patio</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US11</th>
+      <td rowspan="4">Documentar fase Búnker</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK11</td>
+      <td>Tabla de la fase Búnker</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Búnker</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK12</td>
+      <td>Generar popup's para ingresar datos de la fase Búnker</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Búnker</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK13</td>
+      <td>Mostrar popup's de advertencia de la fase Búnker</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Búnker</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+   <tr>
+      <th rowspan="4">US12</th>
+      <td rowspan="4">Documentar fase Túnel</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK14</td>
+      <td>Tabla de la fase Túnel</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Túnel</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK15</td>
+      <td>Generar popup's para ingresar datos de la fase Túnel</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Túnel</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK16</td>
+      <td>Mostrar popup's de advertencia de la fase Túnel</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Túnel</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US13</th>
+      <td rowspan="4">Documentar fase Incubación</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK17</td>
+      <td>Tabla de la fase Incubación</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Incubación</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK18</td>
+      <td>Generar popup's para ingresar datos de la fase Incubación</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Incubación</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK19</td>
+      <td>Mostrar popup's de advertencia de la fase Incubación</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Incubación</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+   <tr>
+      <th rowspan="4">US14</th>
+      <td rowspan="4">Documentar fase Cobertura</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK20</td>
+      <td>Tabla de la fase Cobertura</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Cobertura</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK21</td>
+      <td>Generar popup's para ingresar datos de la fase Cobertura</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Cobertura</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK22</td>
+      <td>Mostrar popup's de advertencia de la fase Cobertura</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Cobertura</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US15</th>
+      <td rowspan="4">Documentar fase Inducción</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK23</td>
+      <td>Tabla de la fase Inducción</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Inducción</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK24</td>
+      <td>Generar popup's para ingresar datos de la fase Inducción</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Inducción</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK25</td>
+      <td>Mostrar popup's de advertencia de la fase Inducción</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Inducción</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="4">US16</th>
+      <td rowspan="4">Documentar fase Cosecha</td>
+      <td>TK04</td>
+      <td>Cambiar de fase</td>
+      <td>Permitir al usuario cambiar de fase mediante un boton.</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK26</td>
+      <td>Tabla de la fase Cosecha</td>
+      <td>Mostrar una tabla para permitir al usuario visualizar datos de la fase Cosecha</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK27</td>
+      <td>Generar popup's para ingresar datos de la fase Cosecha</td>
+      <td>Mostrar una ventana emergente para permitir al usuario ingresar datos de la fase Cosecha</td>
+      <td>4</td>
+      <td>Andrés Soto</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK28</td>
+      <td>Mostrar popup's de advertencia de la fase Cosecha</td>
+      <td>Mostrar una ventana emergente para avisar al usuario de las consecuencias de una acción de la fase Cosecha</td>
+      <td>4</td>
+      <td>Jessica Commettant</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <th rowspan="2">US20</th>
+      <td rowspan="2">Visualizar perfil de la empresa</td>
+      <td>TK29</td>
+      <td>Mostrar información del perfil empresa</td>
+      <td>Permitir al usuario visualizar la información ingresada en su perfil empresa</td>
+      <td>4</td>
+      <td>Carlo Seminario</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TK30</td>
+      <td>Mostrar usuarios de la empresa</td>
+      <td>Mostrar usuarios trabajadores vinculados a la empres </td>
+      <td>4</td>
+      <td>Carlo Seminario</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US21</td>
+      <td>Visualizar perfil del usuario</td>
+      <td>TK31</td>
+      <td>Mostrar infromación del perfil usuario</td>
+      <td>Permitir al usuario visualizar la información ingresada en su perfil</td>
+      <td>4</td>
+      <td>Carlo Seminario</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
+
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este segundo sprint. Como se establecio trabajar los arreglos finales de la landing page y el frontend de la web application, se muestran commits de diferentes repositorios donde se trabajo.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|||||||
+
+<div id='5.2.2.4.'><h5>5.2.2.4.Testing Suite Evidence for Sprint Review.</h5></div>
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+||||||
+
+
+<div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
+En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
+
+Para el sprint 2 únicamente se planificó abarcar únicamente la landing page y el front-end y para no vernos limitados a probar las funcionalidades al no contar con un back-end, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Enlace para acceder al [My Json Server](https://my-json-server.typicode.com/upc-pre-202302-si730-sw51-integradis/Greenhouse).
+
+<img width="1060" alt="Screenshot 2023-09-28 at 7 48 32 PM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/34bc8a47-9573-4b83-96ab-05029867fc39">
+
+| Endpoint | Details |
+| - | - | 
+| /stock| Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+| /preparation_area | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase preparation area| | 
+| /bunker  | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase bunker | 
+| /tunnel  | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase tunnel| 
+| /grow_room_record?processType=Incubation | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase incubation del grow room| 
+| /grow_room_record?processType=Casing | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase casing del grow room| 
+| /grow_room_record?processType=Induction | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase induction del grow room| 
+| /grow_room_record?processType=Harvest | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase harvest del grow room| 
+
+|Repository|Branch|Commit Id|Commit message|Commit message body|Commited on (Date)|
+|-|-|-|-|-|-|
+||||||
+
+<div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
+
+Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos bugs que será solucionados en el siguiente sprint.
+
+Landing page:
+
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+- Capturas de pantalla landing page:
+
+Web Application:
+
+Se certifica la exitosa implementación de la aplicación web frontend en Netlify, utilizando la rama principal ("master") del repositorio. Las configuraciones incluyen el comando de construcción "npm run build" para generar la carpeta "dist", sin modificar el directorio base, y la selección de "dist/greenhouse" como directorio de publicación, seguido de la ejecución exitosa del despliegue bajo la opción "Deploy Greenhouse".
+
+- Capturas de pantalla de web application:
+
+<div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Soto Kong Requena, Andres Eduardo|Reestructuración de la landing page. Elaborar componente header y componente popups de la web application para datos de la tabla|
+|Galavis Du Bois, Alan Enrique|Elaborar componente stepper, componente primary-button, routing entre pages|
+|Seminario Garvín, Carlo Luca|Elaboración del json-server, componente profile. Despliegue de la aplicación. Conectar landing  page con aplicación|
+|Espinoza Rodriguez, Nicolas Antonio|Elaborar componente table, db.json, conectar componente dialog con botones. Elaboración del json-server.|
+|Comettant Rubiños, Jessica Elizabeth|Elaborar componente dialog para confirmar operación|
+
+Repositorio Landing:
+
+
+
+
 
 
 ## Conclusiones y recomendaciones

@@ -35,6 +35,7 @@ width=50%"/>
 |1.0|15/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Creación del documento de trabajo en formato markdown|
 |1.1|20/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
 |1.2|23/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
+|1.3|29/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Development Evidence, Sprint 2 description, Testing Suite Evidence y Deployment Configuration.|
 
 
 ## Student Outcome
@@ -2349,7 +2350,21 @@ Web Application:
 
 Se certifica la exitosa implementación de la aplicación web frontend en Netlify, utilizando la rama principal ("master") del repositorio. Las configuraciones incluyen el comando de construcción "npm run build" para generar la carpeta "dist", sin modificar el directorio base, y la selección de "dist/greenhouse" como directorio de publicación, seguido de la ejecución exitosa del despliegue bajo la opción "Deploy Greenhouse".
 
+<img width="805" alt="Screenshot 2023-09-29 at 2 02 01 AM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/f6bf1ed6-507c-47ae-bbda-83a0c63b88cf">
+
 https://greenhouse-web.netlify.app/
+
+- Capturas de pantalla web app
+
+![Evidence14](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/1d882c09-add5-4be5-b82d-fe38a86af53f)
+![Evidence15](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/118fb00c-97c7-4f57-bd4f-2594ebcf495c)
+![Evidence16](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/072805e4-f244-4c6a-b861-795644b369cd)
+![Evidence17](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/bf1b9c9d-7b33-4bcc-b907-14cec91abbd4)
+![Evidence18](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/ac98423d-fc89-4cae-b176-044db98e1d6e)
+![Evidence19](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/63dfbd05-9525-440e-a36d-ab3809244ec6)
+![Evidence20](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/fb378be7-6ccd-4ca0-8d02-afd60b9b7632)
+![Evidence21](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/3de1f183-3c51-4def-8338-5bc6bf3a78df)
+![Evidence22](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/114628079/955dee42-8afc-458e-918b-0de1e87dd379)
 
 <div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 

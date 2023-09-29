@@ -2388,6 +2388,11 @@ Repositorio Web Application:
 ## Anexos
 
 - Enlace para acceder a la landing page: [https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/](https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/)
+  
+- Enlace para acceder a la aplicación web desplegada: https://greenhouse-web.netlify.app/dashboard
 
 - Video exposición TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/ETlown8FiyNFmGcBIfkwGlQBybMGayEc5LST4n8ijOu_gg?e=NITvEX
+  
+- Enlace para visualizar el video exposición TP: upc-pre-202302-si730-sw51-integradis-expo-tp1.mp4
+  
 

@@ -35,15 +35,98 @@ width=50%"/>
 |1.0|15/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Creación del documento de trabajo en formato markdown|
 |1.1|20/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas |
 |1.2|23/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
-|1.3|29/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Development Evidence, Sprint 2 description, Testing Suite Evidence y Deployment Configuration.|
+|1.3|25/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración de user personas, impact mapping, as-is y to-be|
+|1.4|26/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración de user stories, product backlog|
+|1.5|28/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración de prototipos de wireframes y mockups|
+|1.6|31/08/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción de style guidelines e information architecture|
+|1.7|03/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes|
+|1.8|03/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Registro de evidencias del Sprint 1|
+|1.9|04/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Rediseño de mockups. Elaboración de wireflows y user-flows|
+|1.10|07/09/2023|Comettant, Espinoza, Galavis, Seminario, Soto|Redacción de software configuration management y conclusiones|
+|2.1|22/09/2023|Espinoza|Redacción de Collaboration Insights|
+|2.2|24/09/2023|Galavis|Corrección de user stories, descripción y acceptance criteria. Repriorización del backlog y repuntaje del sprint|
+|2.3|25/09/2023|Galavis, Soto|Corrección del índice. Redacción del capítulo 5.2.2.1|
+|2.3|26/09/2023|Galavis|Mejora continua, agregadas descripciones a wireframes, mock-ups, wireflos y user flows.|
+|2.4|26/09/2023|Soto|Corrección de análisis de entrevistas. Redacción de development evidence for sprint review, testing suite evidence for sprint review, execution evidence for sprint review, deployment evidence for sprint review, collaboration insights during sprint|
+|2.5|26/09/2023|Galavis, Seminario| Mejora continua, corrección del diagrama de base de datos. Redacción de documentation evidence for sprint review|
+|2.6|26/09/2023|Galavis, Seminario| Mejora continua, corrección del diagrama de base de datos. Redacción de documentation evidence for sprint review|
+|2.7|26/09/2023|Espinoza| Avance de conclusiones|
 
+## Project Report Collaboration Insights
+
+URL del repositorio para el reporte del proyecto: https://integradis-opensource.github.io/LandingPage/
+
+**TB1**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nicolás Espinoza|Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information Architecture. User Stories. Diagrama de base de datos.|
+|Alan Galavis|Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions. User Stories. Product Backlog|
+|Carlo Seminario|Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.|
+|Jessica Comettant|Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones.|
+|Andres Soto|General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.|
+
+**TP**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nicolás Espinoza|Mejora del diagrama de clases. Avance de conclusiones|
+|Alan Galavis|Corrección del modelo de base de datos. Completar explicaciones de flows. Sprint Backlog 2.|
+|Carlo Seminario|Corrección de impact map. Documentation Evidence for Sprint Review|
+|Jessica Comettant|Correcciones en Lean UX, completar explicación de collaboration|
+|Andres Soto|Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización Integradis.
+
+**Github Collaboration Insights**
+
+Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo.
+
+Los integrantes son:
+
+* Alan Galavis (trabajosUPC-AlanGalavis)
+* Nicolás Espinoza (EspinozaNaer)
+* Carlo Seminario (CarloLSG)
+* Jessica Comettant (Mei0202)
+* Andrés Soto (asotito231)
+
+**TB1**
+
+![Commit_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f1c3c7a1-fe67-410b-b845-fb77abe41021)
+![Commit_Graph_Individual1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a87b9990-4d55-44da-b146-c320da0b09e9)
+![Commit_Graph_Individual2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b4c8014b-70e7-4b09-b885-ad36cad31e64)
+![Commit_Graph_Individual3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/79f17bfb-7ec3-4233-8a55-da9a57164db5)
+
+En el siguiente gráfico se muestran la cantidad total de commits realizados en todas las ramas del proyecto.
+
+**TB1**
+
+![Pull_Graphs](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5c3dc89f-65e0-4d38-adbc-b8ef3fa3476b)
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
+Se explican las ramas más prominentes:
+
+**main**: Es representada por el color negro. Se trata de la rama principal del proyecto y se actualiza para cada entregable.
+**develop**: Es representada por el color azul. Se trata de la rama principal para el proceso del desarrollo del proyecto.
+**feature-product-design**: Es representado por el color verde. Incluye el contenido de user flows y wireframes.
+**feature-sprint1**: Es representada por el color amarillo. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
+
+![Branch_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/02a276ed-2c6b-4714-9f9c-932aee761f3b)
+
+El siguiente gráfico incluye la cantidad de commits realizados en la semana con más actividad durante el desarrollo del informe. 
+
+![Commit_Timeline](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/062a8d50-d5d4-4467-8c87-3363decc22eb)
 
 ## Student Outcome
 
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|-|-|
 |Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un  proyecto en soluciones de ingeniería de software.|**Andrés Soto** TB1: Se realizó la seccion de header en el documento, además de su correspondiente codigo en javascript para cumplir funcionalidades. <br> TP: Se encargó de arreglar los bugs presentados en el landing page del sprint anterior. De la misma forma colaboró con la realización de la seccion sprint 2 del infomre.<br>**Carlo Luca Seminario** TB1: Se aplicó conventional commits y el uso de herramientas de control de versiones para así mejorar el trabajo del equipo tanto para la documentación como para la landing page. <br> TP: Se realizaron reuniones para mantener una comunicación constante e ir presentando nuestros avances durante el proyecto de modo que todos estemos en sintonía para entregar un proyecto de Software. <br> **Nicolás Espinoza** TB1: Los diagramas C4 están involucrados en el proceso de DDD o Domain Driven Design. Los diagramas hacen uso de un lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel. TP: Se está utilizando activamente en el proyecto la metodología Scrum para trabajar, mediante sprints, activamente en el proyecto de la aplicación web frontend. Esta colaboración se puede apreciar en la sección de development evidence. <br>**Alan Enrique Galavis Du Bois** TB1: Todos los miembros del equipo contribuyeron a elaborar todas las partes del informe, bien sea elicitación, análisis y especificación de requisitos, diseño de experiencias de usuario, diseño de base de datos y de patrones de software, etc. Adicionalmente, los integrantes mantuvieron una comunicación activa y una organización constante, lo cual fue posible mediante el uso de herramientas tales como Trello y Github. <br>**Jessica Elizabeth Comettant Rubiños** TB1:  El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. <br> TP: En el contexto de este entregable, fue esencial que cada miembro del equipo desempeñara un rol eficiente tanto en la implementación de la plataforma como el segmento de documentacón. Fue evidente cómo varios miembros trabajaron en conjunto de manera colaborativa para llevar a cabo la implementación de una funcionalidad fundamental para el éxito del negocio. Este proceso demostró la importancia de la cooperación y la contribución individual en la consecución de nuestros objetivos.|Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo. TB1|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Andrés Soto** TB1: Se realizó diferentes secciones del informe teniendo en cuenta los criterios para obtener una nota sobresaliente. Haciendo mencion en la realización de la segunda sección del capitulo 5 y la realización del landing page mock up y su correspondiente mobile design. <br> TP: Desarrollo la caracteristica de toolbar en la aplicación web. Asimismo desarrollo las ventanas emergentes para el registro de datos de cada fase establecida. <br>**Carlo Luca Seminario** TB1: Se realizó el proceso de especificación y análisis de requisitos para así lograr conocer al sector de las empresas de champiñones de modo que pudimos identificar en que areas enfocarnos para agilizar su flujo de trabajo. <br> TP: Se realizó el producto mínimo viable o MVP para así poder presentar como segundo sprint un producto de valor para nuestro cliente de modo que este mismo se pueda sentir satisfecho con nuestro avance. <br> **Nicolás Espinoza** TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos pedidos. TP: Se profundizó en el uso del framework Vue creando en este entregable componentes hechos en base a materiales proporcionados por primevue, por ejemplo, tablas y dialogs. <br> **Alan Enrique Galavis Du Bois** TB1: Para poder elaborar un producto solución a un problema real resultó necesario cumplir con una elicitación, análisis, especificación de requisitos, dentro de los cuales se identificaron las necesidades actuales de un sector industrial. Para resolver las necesidades encontradas, se propuso elaborar una aplicación web que permita digitalizar el registro de procesos. <br> **Jessica Elizabeth Comettant Rubiños** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. TP: El segmento objetivo expresó un interés firme en la disponibilidad de nuestra solución tanto en dispositivos móviles como en computadoras de escritorio. Después de un análisis exhaustivo, hemos determinado que el framework Vue se posiciona como una opción altamente viable debido a sus componentes y herramientas, los cuales permiten desarrollar una aplicación responsive y funcional de manera eficaz y ágil. Esto asegura que nuestra solución cumpla con las expectativas y necesidades de nuestro público objetivo en términos de accesibilidad y usabilidad en diferentes plataformas.|Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno. TB1|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Andrés Soto** TB1: Se realizó diferentes secciones del informe teniendo en cuenta los criterios para obtener una nota sobresaliente. Haciendo mencion en la realización de la segunda sección del capitulo 5 y la realización del landing page mock up y su correspondiente mobile design. <br> TP: Desarrollo la caracteristica de toolbar en la aplicación web. Asimismo desarrollo las ventanas emergentes para el registro de datos de cada fase establecida. <br>**Carlo Luca Seminario** TB1: Se realizó el proceso de especificación y análisis de requisitos para así lograr conocer al sector de las empresas de champiñones de modo que pudimos identificar en que areas enfocarnos para agilizar su flujo de trabajo. <br> TP: Se realizó el producto mínimo viable o MVP para así poder presentar como segundo sprint un producto de valor para nuestro cliente de modo que este mismo se pueda sentir satisfecho con nuestro avance. <br> **Nicolás Espinoza** TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos pedidos. TP: Se profundizó en el uso del framework Vue creando en este entregable componentes hechos en base a materiales proporcionados por primevue, por ejemplo, tablas y dialogs. <br> **Alan Enrique Galavis Du Bois** TB1: Para poder elaborar un producto solución a un problema real resultó necesario cumplir con una elicitación, análisis, especificación de requisitos, dentro de los cuales se identificaron las necesidades actuales de un sector industrial. Para resolver las necesidades encontradas, se propuso elaborar una aplicación web que permita digitalizar el registro de procesos. TP: Para este entregable, resultó necesario que todos los miembros del equipo se desempeñen en actividades tanto generales como específicas. Se evidenció cómo múltiples integrantes colaboraron para implementar una funcionalidad core para el negocio.  <br> TP: El segmento objetivo afirmó que le interesa que la solución esté disponible tanto para dispositivos móviles como para computadoras de escritorio. Por ello, que la solución tenga un diseño que se acomode a las dimensiones del dispositivo empleado. Se determinó que para lograr este propósito, el framework Vue se presenta como una opción viable por los componentes y herramientas que ofrece, los cuales permiten hacer con facilidad y agilidad una aplicación responsive y funcional. <br> **Jessica Elizabeth Comettant Rubiños** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. TP: El segmento objetivo expresó un interés firme en la disponibilidad de nuestra solución tanto en dispositivos móviles como en computadoras de escritorio. Después de un análisis exhaustivo, hemos determinado que el framework Vue se posiciona como una opción altamente viable debido a sus componentes y herramientas, los cuales permiten desarrollar una aplicación responsive y funcional de manera eficaz y ágil. Esto asegura que nuestra solución cumpla con las expectativas y necesidades de nuestro público objetivo en términos de accesibilidad y usabilidad en diferentes plataformas.|Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno.|
 
 ## Contenido
 

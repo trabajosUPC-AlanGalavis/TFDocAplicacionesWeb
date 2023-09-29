@@ -2025,7 +2025,9 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
 En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
 
-Para el sprint 2 únicamente se planificó abarcar únicamente la landing page y el front-end y para no vernos limitados a probar las funcionalidades al no contar con un back-end, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Enlace para acceder al [My Json Server]().
+Para el sprint 2 únicamente se planificó abarcar únicamente la landing page y el front-end y para no vernos limitados a probar las funcionalidades al no contar con un back-end, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Enlace para acceder al [My Json Server](https://my-json-server.typicode.com/upc-pre-202302-si730-sw51-integradis/Greenhouse).
+
+<img width="1060" alt="Screenshot 2023-09-28 at 7 48 32 PM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/34bc8a47-9573-4b83-96ab-05029867fc39">
 
 | Endpoint | Details |
 | - | - | 

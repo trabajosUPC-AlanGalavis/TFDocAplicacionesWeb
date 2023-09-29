@@ -41,8 +41,8 @@ width=50%"/>
 
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un  proyecto en soluciones de ingeniería de software.|**Andrés Soto** TB1: Se realizó la seccion de header en el documento, además de su correspondiente codigo en javascript para cumplir funcionalidades. <br> TP: Se encargó de arreglar los bugs presentados en el landing page del sprint anterior. De la misma forma colaboró con la realización de la seccion sprint 2 del infomre.<br>**Carlo Luca Seminario** TB1: Se aplicó conventional commits y el uso de herramientas de control de versiones para así mejorar el trabajo del equipo tanto para la documentación como para la landing page. <br> TP: Se realizaron reuniones para mantener una comunicación constante e ir presentando nuestros avances durante el proyecto de modo que todos estemos en sintonía para entregar un proyecto de Software. <br> **Jessica Comettant** TB1:  El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. <br> **Nicolás Espinoza** TB1: Los diagramas C4 están involucrados en el proceso de DDD o Domain Driven Design. Los diagramas hacen uso de un lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel. <br>**Alan Enrique Galavis Du Bois** TB1: Todos los miembros del equipo contribuyeron a elaborar todas las partes del informe, bien sea elicitación, análisis y especificación de requisitos, diseño de experiencias de usuario, diseño de base de datos y de patrones de software, etc. Adicionalmente, los integrantes mantuvieron una comunicación activa y una organización constante, lo cual fue posible mediante el uso de herramientas tales como Trello y Github. <br>**Jessica Elizabeth Comettant Rubiños** TP: En el contexto de este entregable, fue esencial que cada miembro del equipo desempeñara un rol eficiente tanto en la implementación de la plataforma como el segmento de documentacón. Fue evidente cómo varios miembros trabajaron en conjunto de manera colaborativa para llevar a cabo la implementación de una funcionalidad fundamental para el éxito del negocio. Este proceso demostró la importancia de la cooperación y la contribución individual en la consecución de nuestros objetivos.|Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo. TB1|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Andrés Soto** TB1: Se realizó diferentes secciones del informe teniendo en cuenta los criterios para obtener una nota sobresaliente. Haciendo mencion en la realización de la segunda sección del capitulo 5 y la realización del landing page mock up y su correspondiente mobile design. <br> TP: Desarrollo la caracteristica de toolbar en la aplicación web. Asimismo desarrollo las ventanas emergentes para el registro de datos de cada fase establecida. <br>**Carlo Luca Seminario** TB1: Se realizó el proceso de especificación y análisis de requisitos para así lograr conocer al sector de las empresas de champiñones de modo que pudimos identificar en que areas enfocarnos para agilizar su flujo de trabajo. <br> TP: Se realizó el producto mínimo viable o MVP para así poder presentar como segundo sprint un producto de valor para nuestro cliente de modo que este mismo se pueda sentir satisfecho con nuestro avance. <br> **Jessica Comettant** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. <br> **Nicolás Espinoza** TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos pedidos. <br> **Alan Enrique Galavis Du Bois** TB1: Para poder elaborar un producto solución a un problema real resultó necesario cumplir con una elicitación, análisis, especificación de requisitos, dentro de los cuales se identificaron las necesidades actuales de un sector industrial. Para resolver las necesidades encontradas, se propuso elaborar una aplicación web que permita digitalizar el registro de procesos. <br> **Jessica Elizabeth Comettant Rubiños** TP: El segmento objetivo expresó un interés firme en la disponibilidad de nuestra solución tanto en dispositivos móviles como en computadoras de escritorio. Después de un análisis exhaustivo, hemos determinado que el framework Vue se posiciona como una opción altamente viable debido a sus componentes y herramientas, los cuales permiten desarrollar una aplicación responsive y funcional de manera eficaz y ágil. Esto asegura que nuestra solución cumpla con las expectativas y necesidades de nuestro público objetivo en términos de accesibilidad y usabilidad en diferentes plataformas.|Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno. TB1|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un  proyecto en soluciones de ingeniería de software.|**Andrés Soto** TB1: Se realizó la seccion de header en el documento, además de su correspondiente codigo en javascript para cumplir funcionalidades. <br> TP: Se encargó de arreglar los bugs presentados en el landing page del sprint anterior. De la misma forma colaboró con la realización de la seccion sprint 2 del infomre.<br>**Carlo Luca Seminario** TB1: Se aplicó conventional commits y el uso de herramientas de control de versiones para así mejorar el trabajo del equipo tanto para la documentación como para la landing page. <br> TP: Se realizaron reuniones para mantener una comunicación constante e ir presentando nuestros avances durante el proyecto de modo que todos estemos en sintonía para entregar un proyecto de Software. <br> **Nicolás Espinoza** TB1: Los diagramas C4 están involucrados en el proceso de DDD o Domain Driven Design. Los diagramas hacen uso de un lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel. TP: Se está utilizando activamente en el proyecto la metodología Scrum para trabajar, mediante sprints, activamente en el proyecto de la aplicación web frontend. Esta colaboración se puede apreciar en la sección de development evidence. <br>**Alan Enrique Galavis Du Bois** TB1: Todos los miembros del equipo contribuyeron a elaborar todas las partes del informe, bien sea elicitación, análisis y especificación de requisitos, diseño de experiencias de usuario, diseño de base de datos y de patrones de software, etc. Adicionalmente, los integrantes mantuvieron una comunicación activa y una organización constante, lo cual fue posible mediante el uso de herramientas tales como Trello y Github. <br>**Jessica Elizabeth Comettant Rubiños** TB1:  El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. <br> TP: En el contexto de este entregable, fue esencial que cada miembro del equipo desempeñara un rol eficiente tanto en la implementación de la plataforma como el segmento de documentacón. Fue evidente cómo varios miembros trabajaron en conjunto de manera colaborativa para llevar a cabo la implementación de una funcionalidad fundamental para el éxito del negocio. Este proceso demostró la importancia de la cooperación y la contribución individual en la consecución de nuestros objetivos.|Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo. TB1|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Andrés Soto** TB1: Se realizó diferentes secciones del informe teniendo en cuenta los criterios para obtener una nota sobresaliente. Haciendo mencion en la realización de la segunda sección del capitulo 5 y la realización del landing page mock up y su correspondiente mobile design. <br> TP: Desarrollo la caracteristica de toolbar en la aplicación web. Asimismo desarrollo las ventanas emergentes para el registro de datos de cada fase establecida. <br>**Carlo Luca Seminario** TB1: Se realizó el proceso de especificación y análisis de requisitos para así lograr conocer al sector de las empresas de champiñones de modo que pudimos identificar en que areas enfocarnos para agilizar su flujo de trabajo. <br> TP: Se realizó el producto mínimo viable o MVP para así poder presentar como segundo sprint un producto de valor para nuestro cliente de modo que este mismo se pueda sentir satisfecho con nuestro avance. <br> **Nicolás Espinoza** TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos pedidos. TP: Se profundizó en el uso del framework Vue creando en este entregable componentes hechos en base a materiales proporcionados por primevue, por ejemplo, tablas y dialogs. <br> **Alan Enrique Galavis Du Bois** TB1: Para poder elaborar un producto solución a un problema real resultó necesario cumplir con una elicitación, análisis, especificación de requisitos, dentro de los cuales se identificaron las necesidades actuales de un sector industrial. Para resolver las necesidades encontradas, se propuso elaborar una aplicación web que permita digitalizar el registro de procesos. <br> **Jessica Elizabeth Comettant Rubiños** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. TP: El segmento objetivo expresó un interés firme en la disponibilidad de nuestra solución tanto en dispositivos móviles como en computadoras de escritorio. Después de un análisis exhaustivo, hemos determinado que el framework Vue se posiciona como una opción altamente viable debido a sus componentes y herramientas, los cuales permiten desarrollar una aplicación responsive y funcional de manera eficaz y ágil. Esto asegura que nuestra solución cumpla con las expectativas y necesidades de nuestro público objetivo en términos de accesibilidad y usabilidad en diferentes plataformas.|Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno. TB1|
 
 ## Contenido
 
@@ -1855,274 +1855,11 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 |Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
 |-|-|-|
-||||
+|Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional|47|47|
 <div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
 
 
 ![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/dfef7d68-28c0-4605-b925-c58d7fc2071e)
-
-Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
-
-<table>
-  <thead>
-    <tr>
-        <th>Sprint #</th>
-        <th colspan="7">Sprint 2</th>
-    </tr>
-    <tr>
-      <th colspan="2">User Story</th>
-      <th colspan="6">WorkItem / Task</th>
-    </tr>
-    <tr>
-      <th>Id</th>
-      <th>Title</th>
-      <th>Id</th>
-      <th>Title</th>
-      <th>Description</th>
-      <th>Estimation (Hours)</th>
-      <th>Assigned To</th>
-      <th>Status(To-do/In-Process/To-Review/Done)</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-      <td>US01</td>
-      <td>Contactar a la startup</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>1</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US02</td>
-      <td>Obtener información de la aplicación</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>1</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US03</td>
-      <td>Acceder a la aplicación desde la landing page</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>1</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US09</td>
-      <td>Documentar fase Insumos</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US10</td>
-      <td>Documentar fase Patio</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US11</td>
-      <td>Documentar fase Búnker</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US12</td>
-      <td>Documentar fase Túnel</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US13</td>
-      <td>Documentar fase Incubación</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US14</td>
-      <td>Documentar fase Cobertura</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US15</td>
-      <td>Documentar fase Inducción</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US16</td>
-      <td>Documentar fase Cosecha</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US20</td>
-      <td>Visualizar perfil de la empresa</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>2</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US21</td>
-      <td>Visualizar perfil del usuario</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>2</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-  </tbody>
-</table>
-
-
-<div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
-
-|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Committed on (Date)|
-|-|-|-|-|-|-|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|1985b75|fix: buttons||18/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5dc2bfa|feat: added json-server db model||20/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|70c3747|feat(records): Added pv-card for stepper-content||20/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|64f4720|feat: added about the team and about the project sections||20/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|97b96b4|feat(process-table): added process-table component||21/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|45a86c6|feat(router): Added routing to access harvest stepper||21/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|41e3f36|feat(header): added header component||21/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|3737b7e|feat: improved about the team section and added correct image for about the project||22/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|efd9827|feat(tailwind): Added tailwind to project||22/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|b0c6442|feat(navbar): improved navbar||22/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|fcac059|feat: added espanish html index and functional language menu||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|533516c|fix: changed text in es_index.html to spanish||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|704e703|fix(navbar): fixed language menu display||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|724da2c|fix(stepper): Fixed css problem with stepper||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5e4a20b|fix(header): Changed text from ES to EN||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|259a218|fix(popup): Popup warning component agregated||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|e809784|feat<router>: Path popupcomponent add for see the component||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|375d5f6|feat(dashboard): Added dashboard component||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|3a04e5c|feat(popup script): openpopup and closepopup functions add||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|e9b8a91|feat(popuphtml): HTML add||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|b9618a8|feat(popupcomponent): Popupcomponent css added||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|c8bfea0|fix(dashboard): Centered images content||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f28ff15|feat(routing): Added new route to process-log||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|c327b6d|feat(popupnewcrop): popup new crop component added, edit index.js for new path and script, html, css for new crop popup component||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|dde61ed|feat(popupcropfinished): popup crop finished component added, edit index.js for path to /popupcropfinished||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|4a534d3|feat(process-log): Added routing to process-log||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f8fc967|fix: deleted duplicate import router.||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|a4a295e|chore(stepper): added process table to the stepper.||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|116cad8|feat: installed json server.||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|d59f4e8|chore(stepper): pass endpoints to the process-table.||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|60ab265|chore(process-table): get endpoints to the process-table||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|4cdee23|feat(process-table): Added CSS to change table header colors||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|e4a1bf5|fix(process-log): Fixed css problem with process-log padding||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|8ccba96|feat(process-input-dialog): Added input dialog for recording process||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|07b4074|feat(process-input-dialog): Added input dialog for introducing data||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|851073e|chore(stock): post when create a new record.||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f1c5cb8|chore(bunker): post when create a new record.||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|ac9189f|chore(stock): date and time are assigned dynamically||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5980ccc|fix: date and time are deleted from data().||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f01c572|chore(preparation-area): post when created a new record.||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|c728ad9|chore(grow-room): post when created a new record.||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|7fe1591|chore: update db.json and created one on root directory for MyJsonServer. ||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|4323119|chore: change baseURL to MyJsonServer. ||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5bc4490|fix: files in the public directory are served at the root path. ||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|9087ba4|feat: added _redirects file to solve page not found 404. ||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|caa7343|chore: connected popup components to main stepper component ||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|9f0c05d|chore: erased unused popup component ||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|e235c01|chore: added links to Greenhouse Web App||25/09/2023|
-
-<div id='5.2.2.4.'><h5>5.2.2.4.Testing Suite Evidence for Sprint Review.</h5></div>
-
-|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
-|-|-|-|-|-|-|
-
-
-<div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
-En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
-
-Landing Page Ingles:
-
-![landing_page_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5cdd2d53-b426-4a0d-aa55-1e657fd3e62a)
-
-Landing Page Responsive Ingles:
-
-![landing_page_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/da22018d-2915-430c-9af8-34d308c6c483)
-
-Landing Page Español:
-
-![landing_page_responsive_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5a1358e3-8844-4206-bd59-a289ced700e5)
-
-Landing Page Responsive Español:
-
-![landing_page_responsive_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e9ecc3e1-e2b6-4688-a0f2-84ffab72b26b)
-
-<div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
-
-<div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
-
-<div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
-
-
-<div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
-<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
-
-El Sprint #2 tiene como fecha de inicio el 09/09/2023 y como meta plantea resolver errores de la landing page y realizar el front end y fake API de la web application de manera que sea atractiva y funcional.
-
-
-|Sprint #|Date|Time|Location|Prepared By|Attendees|
-|-|-|-|-|-|-|
-|2|09/09/2023|09:00 AM|Reunión virtual mediante la aplicación Discord|Alan Galavis|Alan  Galavis, Andrés Soto, Carlo Seminario, Jessica Commetant, Nicolás Espinoza|
-
-|Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
-|-|-|-|
-|Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional|47|47|
-
-<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
-
-En el segundo sprint backlog, el equipo completó la landing page y el MVP del front end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades. el objetivo principal del sprint era arreglar los bugs de la landing page y construir en su totalidad la web application con su respectivo fake API, logrando que sea atractiva y funcional.
-
-![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
 
 Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
 
@@ -2482,22 +2219,87 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
 </table>
 
 
+
 <div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
 
-Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este segundo sprint. Como se establecio trabajar los arreglos finales de la landing page y el frontend de la web application, se muestran commits de diferentes repositorios donde se trabajo.
-
-|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Committed on (Date)|
 |-|-|-|-|-|-|
-|||||||
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|1985b75|fix: buttons||18/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5dc2bfa|feat: added json-server db model||20/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|70c3747|feat(records): Added pv-card for stepper-content||20/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|64f4720|feat: added about the team and about the project sections||20/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|97b96b4|feat(process-table): added process-table component||21/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|45a86c6|feat(router): Added routing to access harvest stepper||21/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|41e3f36|feat(header): added header component||21/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|3737b7e|feat: improved about the team section and added correct image for about the project||22/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|efd9827|feat(tailwind): Added tailwind to project||22/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|b0c6442|feat(navbar): improved navbar||22/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|fcac059|feat: added espanish html index and functional language menu||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|533516c|fix: changed text in es_index.html to spanish||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|704e703|fix(navbar): fixed language menu display||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|724da2c|fix(stepper): Fixed css problem with stepper||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5e4a20b|fix(header): Changed text from ES to EN||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|259a218|fix(popup): Popup warning component agregated||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|e809784|feat<router>: Path popupcomponent add for see the component||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|375d5f6|feat(dashboard): Added dashboard component||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|3a04e5c|feat(popup script): openpopup and closepopup functions add||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|e9b8a91|feat(popuphtml): HTML add||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|b9618a8|feat(popupcomponent): Popupcomponent css added||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|c8bfea0|fix(dashboard): Centered images content||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f28ff15|feat(routing): Added new route to process-log||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|c327b6d|feat(popupnewcrop): popup new crop component added, edit index.js for new path and script, html, css for new crop popup component||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|dde61ed|feat(popupcropfinished): popup crop finished component added, edit index.js for path to /popupcropfinished||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|4a534d3|feat(process-log): Added routing to process-log||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f8fc967|fix: deleted duplicate import router.||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|a4a295e|chore(stepper): added process table to the stepper.||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|116cad8|feat: installed json server.||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|d59f4e8|chore(stepper): pass endpoints to the process-table.||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|60ab265|chore(process-table): get endpoints to the process-table||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|4cdee23|feat(process-table): Added CSS to change table header colors||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|e4a1bf5|fix(process-log): Fixed css problem with process-log padding||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|8ccba96|feat(process-input-dialog): Added input dialog for recording process||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|07b4074|feat(process-input-dialog): Added input dialog for introducing data||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|851073e|chore(stock): post when create a new record.||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f1c5cb8|chore(bunker): post when create a new record.||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|ac9189f|chore(stock): date and time are assigned dynamically||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5980ccc|fix: date and time are deleted from data().||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f01c572|chore(preparation-area): post when created a new record.||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|c728ad9|chore(grow-room): post when created a new record.||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|7fe1591|chore: update db.json and created one on root directory for MyJsonServer. ||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|4323119|chore: change baseURL to MyJsonServer. ||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5bc4490|fix: files in the public directory are served at the root path. ||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|9087ba4|feat: added _redirects file to solve page not found 404. ||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|caa7343|chore: connected popup components to main stepper component ||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|9f0c05d|chore: erased unused popup component ||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|e235c01|chore: added links to Greenhouse Web App||25/09/2023|
 
 <div id='5.2.2.4.'><h5>5.2.2.4.Testing Suite Evidence for Sprint Review.</h5></div>
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
-||||||
-
+|https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb|upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/|2ee466a|chore: uploaded acceptance test for user stories||29/09/2023|
 
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
+En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
+
+Landing Page Ingles:
+
+![landing_page_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5cdd2d53-b426-4a0d-aa55-1e657fd3e62a)
+
+Landing Page Responsive Ingles:
+
+![landing_page_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/da22018d-2915-430c-9af8-34d308c6c483)
+
+Landing Page Español:
+
+![landing_page_responsive_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5a1358e3-8844-4206-bd59-a289ced700e5)
+
+Landing Page Responsive Español:
+
+![landing_page_responsive_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e9ecc3e1-e2b6-4688-a0f2-84ffab72b26b)
+
+<div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
 En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
 
 Para el sprint 2 únicamente se planificó abarcar únicamente la landing page y el front-end y para no vernos limitados a probar las funcionalidades al no contar con un back-end, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Enlace para acceder al [My Json Server](https://my-json-server.typicode.com/upc-pre-202302-si730-sw51-integradis/Greenhouse).
@@ -2515,10 +2317,6 @@ Para el sprint 2 únicamente se planificó abarcar únicamente la landing page y
 | /grow_room_record?processType=Induction | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase induction del grow room| 
 | /grow_room_record?processType=Harvest | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase harvest del grow room| 
 
-|Repository|Branch|Commit Id|Commit message|Commit message body|Commited on (Date)|
-|-|-|-|-|-|-|
-||||||
-
 <div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
 Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos bugs que será solucionados en el siguiente sprint.
@@ -2527,13 +2325,13 @@ Landing page:
 
 El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
 
-- Capturas de pantalla landing page:
+https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/
 
 Web Application:
 
 Se certifica la exitosa implementación de la aplicación web frontend en Netlify, utilizando la rama principal ("master") del repositorio. Las configuraciones incluyen el comando de construcción "npm run build" para generar la carpeta "dist", sin modificar el directorio base, y la selección de "dist/greenhouse" como directorio de publicación, seguido de la ejecución exitosa del despliegue bajo la opción "Deploy Greenhouse".
 
-- Capturas de pantalla de web application:
+https://greenhouse-web.netlify.app/
 
 <div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
@@ -2547,9 +2345,16 @@ Se certifica la exitosa implementación de la aplicación web frontend en Netlif
 
 Repositorio Landing:
 
+<img width="843" alt="Screenshot 2023-09-29 at 1 26 31 AM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/5ff0b1c1-14c8-4e5b-9311-4b73fac81656">
+
+<img width="836" alt="Screenshot 2023-09-29 at 1 29 02 AM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/3b2be6fe-10d6-4a28-9e69-eca8cf90ed08">
 
 
+Repositorio Web Application:
 
+<img width="837" alt="Screenshot 2023-09-29 at 1 29 52 AM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/6364dc5a-36ec-4d87-a62b-93869d9da66d">
+
+<img width="828" alt="Screenshot 2023-09-29 at 1 30 00 AM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/ebe38dfd-231c-4f65-8f5e-84f054c60a9e">
 
 
 ## Conclusiones y recomendaciones

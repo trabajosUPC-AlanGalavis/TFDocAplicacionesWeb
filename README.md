@@ -1855,274 +1855,11 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 |Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
 |-|-|-|
-||||
+|Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional|47|47|
 <div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
 
 
 ![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/dfef7d68-28c0-4605-b925-c58d7fc2071e)
-
-Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
-
-<table>
-  <thead>
-    <tr>
-        <th>Sprint #</th>
-        <th colspan="7">Sprint 2</th>
-    </tr>
-    <tr>
-      <th colspan="2">User Story</th>
-      <th colspan="6">WorkItem / Task</th>
-    </tr>
-    <tr>
-      <th>Id</th>
-      <th>Title</th>
-      <th>Id</th>
-      <th>Title</th>
-      <th>Description</th>
-      <th>Estimation (Hours)</th>
-      <th>Assigned To</th>
-      <th>Status(To-do/In-Process/To-Review/Done)</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-      <td>US01</td>
-      <td>Contactar a la startup</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>1</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US02</td>
-      <td>Obtener información de la aplicación</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>1</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US03</td>
-      <td>Acceder a la aplicación desde la landing page</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>1</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US09</td>
-      <td>Documentar fase Insumos</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US10</td>
-      <td>Documentar fase Patio</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US11</td>
-      <td>Documentar fase Búnker</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US12</td>
-      <td>Documentar fase Túnel</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US13</td>
-      <td>Documentar fase Incubación</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US14</td>
-      <td>Documentar fase Cobertura</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US15</td>
-      <td>Documentar fase Inducción</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US16</td>
-      <td>Documentar fase Cosecha</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>5</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US20</td>
-      <td>Visualizar perfil de la empresa</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>2</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>US21</td>
-      <td>Visualizar perfil del usuario</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>2</td>
-      <td></td>
-      <td>Done</td>
-    </tr>
-  </tbody>
-</table>
-
-
-<div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
-
-|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Committed on (Date)|
-|-|-|-|-|-|-|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|1985b75|fix: buttons||18/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5dc2bfa|feat: added json-server db model||20/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|70c3747|feat(records): Added pv-card for stepper-content||20/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|64f4720|feat: added about the team and about the project sections||20/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|97b96b4|feat(process-table): added process-table component||21/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|45a86c6|feat(router): Added routing to access harvest stepper||21/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|41e3f36|feat(header): added header component||21/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|3737b7e|feat: improved about the team section and added correct image for about the project||22/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|efd9827|feat(tailwind): Added tailwind to project||22/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|b0c6442|feat(navbar): improved navbar||22/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|fcac059|feat: added espanish html index and functional language menu||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|533516c|fix: changed text in es_index.html to spanish||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|704e703|fix(navbar): fixed language menu display||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|724da2c|fix(stepper): Fixed css problem with stepper||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5e4a20b|fix(header): Changed text from ES to EN||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|259a218|fix(popup): Popup warning component agregated||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|e809784|feat<router>: Path popupcomponent add for see the component||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|375d5f6|feat(dashboard): Added dashboard component||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|3a04e5c|feat(popup script): openpopup and closepopup functions add||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|e9b8a91|feat(popuphtml): HTML add||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|b9618a8|feat(popupcomponent): Popupcomponent css added||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|c8bfea0|fix(dashboard): Centered images content||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f28ff15|feat(routing): Added new route to process-log||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|c327b6d|feat(popupnewcrop): popup new crop component added, edit index.js for new path and script, html, css for new crop popup component||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|dde61ed|feat(popupcropfinished): popup crop finished component added, edit index.js for path to /popupcropfinished||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|4a534d3|feat(process-log): Added routing to process-log||23/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f8fc967|fix: deleted duplicate import router.||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|a4a295e|chore(stepper): added process table to the stepper.||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|116cad8|feat: installed json server.||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|d59f4e8|chore(stepper): pass endpoints to the process-table.||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|60ab265|chore(process-table): get endpoints to the process-table||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|4cdee23|feat(process-table): Added CSS to change table header colors||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|e4a1bf5|fix(process-log): Fixed css problem with process-log padding||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|8ccba96|feat(process-input-dialog): Added input dialog for recording process||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|07b4074|feat(process-input-dialog): Added input dialog for introducing data||24/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|851073e|chore(stock): post when create a new record.||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f1c5cb8|chore(bunker): post when create a new record.||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|ac9189f|chore(stock): date and time are assigned dynamically||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5980ccc|fix: date and time are deleted from data().||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f01c572|chore(preparation-area): post when created a new record.||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|c728ad9|chore(grow-room): post when created a new record.||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|7fe1591|chore: update db.json and created one on root directory for MyJsonServer. ||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|4323119|chore: change baseURL to MyJsonServer. ||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5bc4490|fix: files in the public directory are served at the root path. ||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|9087ba4|feat: added _redirects file to solve page not found 404. ||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|caa7343|chore: connected popup components to main stepper component ||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|9f0c05d|chore: erased unused popup component ||25/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|e235c01|chore: added links to Greenhouse Web App||25/09/2023|
-
-<div id='5.2.2.4.'><h5>5.2.2.4.Testing Suite Evidence for Sprint Review.</h5></div>
-
-|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
-|-|-|-|-|-|-|
-
-
-<div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
-En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
-
-Landing Page Ingles:
-
-![landing_page_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5cdd2d53-b426-4a0d-aa55-1e657fd3e62a)
-
-Landing Page Responsive Ingles:
-
-![landing_page_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/da22018d-2915-430c-9af8-34d308c6c483)
-
-Landing Page Español:
-
-![landing_page_responsive_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5a1358e3-8844-4206-bd59-a289ced700e5)
-
-Landing Page Responsive Español:
-
-![landing_page_responsive_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e9ecc3e1-e2b6-4688-a0f2-84ffab72b26b)
-
-<div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
-
-<div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
-
-<div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
-
-
-<div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
-<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
-
-El Sprint #2 tiene como fecha de inicio el 09/09/2023 y como meta plantea resolver errores de la landing page y realizar el front end y fake API de la web application de manera que sea atractiva y funcional.
-
-
-|Sprint #|Date|Time|Location|Prepared By|Attendees|
-|-|-|-|-|-|-|
-|2|09/09/2023|09:00 AM|Reunión virtual mediante la aplicación Discord|Alan Galavis|Alan  Galavis, Andrés Soto, Carlo Seminario, Jessica Commetant, Nicolás Espinoza|
-
-|Sprint 2 Goal|Sprint 2 Velocity|Sum of Story Points|
-|-|-|-|
-|Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional|47|47|
-
-<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
-
-En el segundo sprint backlog, el equipo completó la landing page y el MVP del front end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades. el objetivo principal del sprint era arreglar los bugs de la landing page y construir en su totalidad la web application con su respectivo fake API, logrando que sea atractiva y funcional.
-
-![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
 
 Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
 
@@ -2482,22 +2219,87 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
 </table>
 
 
+
 <div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
 
-Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este segundo sprint. Como se establecio trabajar los arreglos finales de la landing page y el frontend de la web application, se muestran commits de diferentes repositorios donde se trabajo.
-
-|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Committed on (Date)|
 |-|-|-|-|-|-|
-|||||||
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|1985b75|fix: buttons||18/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5dc2bfa|feat: added json-server db model||20/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|70c3747|feat(records): Added pv-card for stepper-content||20/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|64f4720|feat: added about the team and about the project sections||20/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|97b96b4|feat(process-table): added process-table component||21/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|45a86c6|feat(router): Added routing to access harvest stepper||21/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|41e3f36|feat(header): added header component||21/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|3737b7e|feat: improved about the team section and added correct image for about the project||22/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|efd9827|feat(tailwind): Added tailwind to project||22/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|b0c6442|feat(navbar): improved navbar||22/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|fcac059|feat: added espanish html index and functional language menu||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|533516c|fix: changed text in es_index.html to spanish||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|704e703|fix(navbar): fixed language menu display||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|724da2c|fix(stepper): Fixed css problem with stepper||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5e4a20b|fix(header): Changed text from ES to EN||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|259a218|fix(popup): Popup warning component agregated||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|e809784|feat<router>: Path popupcomponent add for see the component||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|375d5f6|feat(dashboard): Added dashboard component||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|3a04e5c|feat(popup script): openpopup and closepopup functions add||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|e9b8a91|feat(popuphtml): HTML add||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|b9618a8|feat(popupcomponent): Popupcomponent css added||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|c8bfea0|fix(dashboard): Centered images content||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f28ff15|feat(routing): Added new route to process-log||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|c327b6d|feat(popupnewcrop): popup new crop component added, edit index.js for new path and script, html, css for new crop popup component||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|dde61ed|feat(popupcropfinished): popup crop finished component added, edit index.js for path to /popupcropfinished||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|4a534d3|feat(process-log): Added routing to process-log||23/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f8fc967|fix: deleted duplicate import router.||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|a4a295e|chore(stepper): added process table to the stepper.||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|116cad8|feat: installed json server.||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|d59f4e8|chore(stepper): pass endpoints to the process-table.||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|60ab265|chore(process-table): get endpoints to the process-table||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|4cdee23|feat(process-table): Added CSS to change table header colors||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|e4a1bf5|fix(process-log): Fixed css problem with process-log padding||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|8ccba96|feat(process-input-dialog): Added input dialog for recording process||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|07b4074|feat(process-input-dialog): Added input dialog for introducing data||24/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|851073e|chore(stock): post when create a new record.||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f1c5cb8|chore(bunker): post when create a new record.||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|ac9189f|chore(stock): date and time are assigned dynamically||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5980ccc|fix: date and time are deleted from data().||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|f01c572|chore(preparation-area): post when created a new record.||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|c728ad9|chore(grow-room): post when created a new record.||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|7fe1591|chore: update db.json and created one on root directory for MyJsonServer. ||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|4323119|chore: change baseURL to MyJsonServer. ||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|5bc4490|fix: files in the public directory are served at the root path. ||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|9087ba4|feat: added _redirects file to solve page not found 404. ||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|caa7343|chore: connected popup components to main stepper component ||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|9f0c05d|chore: erased unused popup component ||25/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|e235c01|chore: added links to Greenhouse Web App||25/09/2023|
 
 <div id='5.2.2.4.'><h5>5.2.2.4.Testing Suite Evidence for Sprint Review.</h5></div>
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
-||||||
-
+|https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb|upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/|2ee466a|chore: uploaded acceptance test for user stories||29/09/2023|
 
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
+En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
+
+Landing Page Ingles:
+
+![landing_page_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5cdd2d53-b426-4a0d-aa55-1e657fd3e62a)
+
+Landing Page Responsive Ingles:
+
+![landing_page_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/da22018d-2915-430c-9af8-34d308c6c483)
+
+Landing Page Español:
+
+![landing_page_responsive_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5a1358e3-8844-4206-bd59-a289ced700e5)
+
+Landing Page Responsive Español:
+
+![landing_page_responsive_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e9ecc3e1-e2b6-4688-a0f2-84ffab72b26b)
+
+<div id='5.2.2.6.'><h5>5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
 En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
 
 Para el sprint 2 únicamente se planificó abarcar únicamente la landing page y el front-end y para no vernos limitados a probar las funcionalidades al no contar con un back-end, se utilizó un fake-api. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Enlace para acceder al [My Json Server](https://my-json-server.typicode.com/upc-pre-202302-si730-sw51-integradis/Greenhouse).
@@ -2515,10 +2317,6 @@ Para el sprint 2 únicamente se planificó abarcar únicamente la landing page y
 | /grow_room_record?processType=Induction | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase induction del grow room| 
 | /grow_room_record?processType=Harvest | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase harvest del grow room| 
 
-|Repository|Branch|Commit Id|Commit message|Commit message body|Commited on (Date)|
-|-|-|-|-|-|-|
-||||||
-
 <div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
 Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos bugs que será solucionados en el siguiente sprint.
@@ -2527,13 +2325,13 @@ Landing page:
 
 El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
 
-- Capturas de pantalla landing page:
+https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/
 
 Web Application:
 
 Se certifica la exitosa implementación de la aplicación web frontend en Netlify, utilizando la rama principal ("master") del repositorio. Las configuraciones incluyen el comando de construcción "npm run build" para generar la carpeta "dist", sin modificar el directorio base, y la selección de "dist/greenhouse" como directorio de publicación, seguido de la ejecución exitosa del despliegue bajo la opción "Deploy Greenhouse".
 
-- Capturas de pantalla de web application:
+https://greenhouse-web.netlify.app/
 
 <div id='5.2.2.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
 
@@ -2547,9 +2345,16 @@ Se certifica la exitosa implementación de la aplicación web frontend en Netlif
 
 Repositorio Landing:
 
+<img width="843" alt="Screenshot 2023-09-29 at 1 26 31 AM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/5ff0b1c1-14c8-4e5b-9311-4b73fac81656">
+
+<img width="836" alt="Screenshot 2023-09-29 at 1 29 02 AM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/3b2be6fe-10d6-4a28-9e69-eca8cf90ed08">
 
 
+Repositorio Web Application:
 
+<img width="837" alt="Screenshot 2023-09-29 at 1 29 52 AM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/6364dc5a-36ec-4d87-a62b-93869d9da66d">
+
+<img width="828" alt="Screenshot 2023-09-29 at 1 30 00 AM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/ebe38dfd-231c-4f65-8f5e-84f054c60a9e">
 
 
 ## Conclusiones y recomendaciones

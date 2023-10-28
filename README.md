@@ -205,6 +205,15 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
             6. Services Documentation Evidence for Sprint Review.
             7. Software Deployment Evidence for Sprint Review.
             8. Team Collaboration Insights during Sprint.
+        3. Sprint 2
+            1. Sprint Planning 2.
+            2. Sprint Backlog 2.
+            3. Development Evidence for Sprint Review.
+            4. Testing Suite Evidence for Sprint Review.
+            5. Execution Evidence for Sprint Review.
+            6. Services Documentation Evidence for Sprint Review.
+            7. Software Deployment Evidence for Sprint Review.
+            8. Team Collaboration Insights during Sprint.
 12. **Conclusiones.**
 13. **Bibliografía.**
 14. **Anexos.**

@@ -2671,7 +2671,9 @@ Repositorio Landing:
 
 Repositorio Web Application:
 
+![insight_1_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9a107bdc-62fd-4ff5-a007-5dbb4a981f50)
 
+![insight_2_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6d019244-fdb8-44f7-a800-dc966fcd0b43)
 
 Repositorio Platform:
 

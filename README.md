@@ -2577,7 +2577,7 @@ Link del Trello: https://trello.com/invite/b/Ws9Po0JS/ATTI4a2de33a117cdb4b2ee418
 
 <div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review.</h5></div>
 
-Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este tercer sprint. Como se establecio trabajar el frontend y backendde la web application, se muestran commits de diferentes repositorios donde se trabajo.
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este tercer sprint. Como se establecio trabajar el frontend y backend de la web application, se muestran commits de diferentes repositorios donde se trabajo.
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|

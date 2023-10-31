@@ -2644,10 +2644,9 @@ El despliegue de la página de destino en GitHub Pages se ha actualizado despué
 
 Web Application front-end:
 
-Se certifica la exitosa implementación de la aplicación web frontend en Netlify, utilizando la rama principal ("master") del repositorio. Las configuraciones incluyen el comando de construcción "npm run build" para generar la carpeta "dist", sin modificar el directorio base, y la selección de "dist/greenhouse" como directorio de publicación, seguido de la ejecución exitosa del despliegue bajo la opción "Deploy Greenhouse".
+Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
 
-
-
+![Deploy_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/88749dbc-f162-44fa-bb59-778cdfb47fb2)
 - Capturas de pantalla de web application:
 
 ![web_app_login](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d849966d-f0f3-45ba-8cee-bce4434c2ee5)

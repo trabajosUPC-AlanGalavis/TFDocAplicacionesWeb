@@ -2608,16 +2608,22 @@ En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web
 
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
-Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server](https://my-json-server.typicode.com/Integradis-OpenSource/Greenhouse).
+Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server](https://my-json-server.typicode.com/Integradis-OpenSource/Greenhouse). Enlace para acceder al [Web Service](http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html)
+
+Json server:
 
 | Endpoint | Details |
 | - | - | 
-||| 
+|/user|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/companies|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/crops|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/stock|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/preparation_area|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/bunker|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/tunnel|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/grow_room_record|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
 
-|Repository|Branch|Commit Id|Commit message|Commit message body|Commited on (Date)|
-|-|-|-|-|-|-|
-|||||||
-
+Web Service:
 
 <div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
@@ -2676,13 +2682,47 @@ Se certifica la exitosa implementación de la aplicación web frontend en Netlif
 ![crop_completed](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cca88ab0-f0eb-4fc1-9421-6fbff7a70143)
 
 Web Application back-end:
-
 .
 
-
-
-- Capturas de pantalla de web application:
-
+- Capturas de pantalla de web services:
+![web_service_bunker_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/803ccabe-196c-49cf-990e-e94e2c153f29)
+![web_service_bunker_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/bc3d4921-5c68-4bd8-96fe-63912aec18d0)
+![web_service_buker_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/5271df28-4be7-4fcf-8c2b-9c0364b46acc)
+![web_service_bunker_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/43637381-2d8d-4061-a2e7-4e254dde2f7f)
+![web_service_companies_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/fbc15a2b-16ea-4c1e-86d3-45c09ec002ea)
+![web_service_companies_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/2d107f3c-3f47-4714-9eb3-d65db80eb2b1)
+![web_service_companies_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6d1b90fa-4580-47b5-b8e3-4483a6cc4122)
+![web_service_companies_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f16b0816-35f1-43bc-88cc-9463c35c84b9)
+![web_service_companyemployees_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f72adcb7-feb7-47cf-acad-64454d797271)
+![web_service_cropphases_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/03ee364f-b5ed-486d-a940-66ef16b32be5)
+![web_service_crops_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cab2ae16-79e7-466a-8101-492d1a07de83)
+![web_service_crop_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8704d568-0148-42dd-ab5b-a8a120cf20c6)
+![web_service_crop_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ffe10b41-9f50-4c28-af0e-96b9419cabee)
+![web_service_crop_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/20565b3f-cc0e-4edf-b8db-9815c2e93455)
+![web_service_employees_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/4e0e7f91-ba6e-49c7-bf20-b763dab83fcf)
+![web_service_employees_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d4972e0a-6c2d-40f6-961a-866949e24681)
+![web_service_employees_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/2a3275f8-b3b2-4e3e-b9b7-789b104f2ccc)
+![web_service_employees_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/050c1da8-5e31-4b17-830a-017c949267e3)
+![web_service_formulas_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/81c318bd-681a-4587-adca-0aaf8eddb410)
+![web_service_formula_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/30b39bb3-58f4-4c3a-9ca2-b90e8e3f02fc)
+![web_service_formula_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c1537ad2-1080-4cc5-8da6-9396cc85d56a)
+![web_service_formula_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/114d03d7-65f7-45ab-bdba-e1f30c7f32b8)
+![web_service_growroomrecords_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/36001343-4fc4-49a6-95ad-1ba9ea7b9f7c)
+![web_service_growroomrecords_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/411bf86e-c39e-4563-99ad-3c7825bb7fb1)
+![web_service_growroomrecords_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/203154f6-9e89-46cf-9829-e21077fe17fe)
+![web_service_growroomrecords_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d03b04a4-d379-42c8-bd88-0405b9cb1236)
+![web_service_phases_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/5b61c44c-1310-4dae-ab14-d5bf13e14fab)
+![web_service_phases_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6f2b153d-6456-4154-b5c2-7c6fc94434fd)
+![web_service_phases_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/239a7801-3433-453d-8486-a8d021a8e1a5)
+![web_service_phases_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/79f46f0f-9dc2-419a-b280-1edc0eb7250b)
+![web_service_preparationareas_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7219bed2-9869-4787-a107-49e0b6124f54)
+![web_service_preparationareas_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/1868cd7b-6ac5-465f-a452-aba09e4930a3)
+![web_service_preparationareas_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/0e108328-3a29-49fc-9049-261dcc4d051b)
+![web_service_preparationareas_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/44e6b514-d3e8-4408-a538-1dfffe8dd0eb)
+![web_service_tunnels_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e598be7e-4704-4cee-9328-072ada531a96)
+![web_service_tunnels_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/03827510-8743-456c-b0ec-dee150b678e6)
+![web_service_tunnels_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8cef1c04-da84-463e-ae1d-dee3950d2b43)
+![web_service_tunnels_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/622e9ea3-5d10-403d-a92e-b561a1106ec5)
 
 
 <div id='5.2.3.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>

@@ -2571,7 +2571,7 @@ En el tercer sprint backlog, el equipo completó parcialmente el front end y bac
 
 ![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
 
-Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6360405aa5231097B50/sprint-2
+Link del Trello: https://trello.com/invite/b/Ws9Po0JS/ATTI4a2de33a117cdb4b2ee418050cc989df659B052B/sprint-3
 
 
 
@@ -2594,21 +2594,17 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web application. La cual muestra nuevas vistas relevantes acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. A continuación se muestran algunas evidencias:
 
 - US04:
-
+![web_app_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/496240a4-e076-447a-b73c-1f444be261d1)
 - US06:
-
+![web_app_login](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d849966d-f0f3-45ba-8cee-bce4434c2ee5)
 - US07:
-
+![web_app_progress_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8ba8f0bb-bc50-4df0-adeb-bedb2ae8a9c0)
 - US08:
-
+![web_app_progress](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6e9173d8-053d-48f6-8b62-18f5e8d053d2)
 - US20:
-
+![web_app_company](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/34ec37b5-4317-43f4-9e95-263c82fb2466)
 - US21:
-
-- US22:
-
-- US23:
-
+![web_app_user](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8bf6318d-df85-4233-a0b3-e51cd0652318)
 
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -2644,6 +2640,40 @@ Se certifica la exitosa implementación de la aplicación web frontend en Netlif
 
 
 - Capturas de pantalla de web application:
+
+![web_app_login](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d849966d-f0f3-45ba-8cee-bce4434c2ee5)
+![web_app_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/496240a4-e076-447a-b73c-1f444be261d1)
+![web_app_dashboard](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/1bce197b-a96d-45f2-beea-c9787781f7ec)
+![web_app_company](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/34ec37b5-4317-43f4-9e95-263c82fb2466)
+![web_app_user](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8bf6318d-df85-4233-a0b3-e51cd0652318)
+![web_app_crop_archive](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c5e35b11-13db-4c93-8cd4-39f3a124e015)
+![web_app_progress](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6e9173d8-053d-48f6-8b62-18f5e8d053d2)
+![web_app_progress_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8ba8f0bb-bc50-4df0-adeb-bedb2ae8a9c0)
+![web_app_stock](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b15bf8b4-a16a-4491-852b-489b601c362c)
+![web_app_stock_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/fc925eab-0df5-4bc3-b2c1-214a68b88e29)
+![web_app_stock_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c14f5302-3ed9-49de-8c3a-2372e83949e5)
+![web_app_preparation](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8d240389-de25-46f5-bc99-2ee6b670f81b)
+![web_app_preparation_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/46e26408-2ec3-4ac3-853b-319091f81dbc)
+![web_app_preparation_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/144bcf7e-a37d-44f9-9ba7-17a587a96b40)
+![web_app_bunker](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b8272d64-0123-4f53-8f93-9f9c12b533dc)
+![web_app_bunker_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e228e345-e164-4506-ae82-9934710a7a84)
+![web_app_bunker_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ac05ade0-c346-4848-bf65-2ee021d1d886)
+![web_app_tunnel](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/4d606ff8-7ace-42c7-adc3-25898f03d9ca)
+![web_app_tunnel_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/69a1a08e-c657-4697-b883-35544c1c3807)
+![web_app_tunnel_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/166c673c-0fe0-47b4-9862-aa9e1fbd15be)
+![web_app_incubation](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/0166100c-4594-4206-a985-7cba143f1513)
+![web_app_incubation_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ee707e33-85e1-4230-955d-ef86ccde17f0)
+![web_app_incubation_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6354d051-3965-453d-9a4c-33211ff1f269)
+![web_app_casing](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/bbef04e8-2815-445f-9b79-2a30a92b8f47)
+![web_app_casing_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/0bb69c10-6301-43bf-8283-1c3fedd3f1ee)
+![web_app_casing_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/4cbe95c8-a1b6-45f5-8327-21325ba58475)
+![web_app_induction](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/3e6d8d4a-ede1-4531-a94a-5d43eb7c367f)
+![web_app_induction_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/fb066815-d342-4f0f-bf45-a2ced0063e69)
+![web_app_induction_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/df055634-67b8-498e-8abe-8d338625687f)
+![web_app_harvest](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8310d2a1-0162-426e-a229-3f7ae88f9672)
+![web_app_harvest_regeister](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9ffe99a3-38bd-4acc-b97e-629f91e8eccb)
+![web_app_harvest_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e9f07741-90b4-4ae0-98fe-c37f03f1d25b)
+![crop_completed](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cca88ab0-f0eb-4fc1-9421-6fbff7a70143)
 
 Web Application back-end:
 

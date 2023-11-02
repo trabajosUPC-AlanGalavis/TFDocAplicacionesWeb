@@ -2576,10 +2576,375 @@ El Sprint #3 tiene como fecha de inicio el 11/10/2023 y como meta plantea resolv
 
 En el tercer sprint backlog, el equipo completó parcialmente el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades.
 
-![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
+![Trello sprint 3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/83cbe98d-2b95-4984-ace5-c0ac7db9076d)
 
 Link del Trello: https://trello.com/invite/b/Ws9Po0JS/ATTI4a2de33a117cdb4b2ee418050cc989df659B052B/sprint-3
 
+<table>
+    <thead>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 3</th>
+    </tr>
+    <tr>
+      <th colspan="2">Technical User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+            <td rowspan="3">TS01</td>
+            <td rowspan="3">Crear cuenta de empleado</td>
+            <td>TK13</td>
+            <td>Crear endpoint que permita ejecutar get employee</td>
+            <td>Crear endpoint que permite la comunicación para obtener los valores necesitados</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK14</td>
+            <td>Validar correo</td>
+            <td>Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK15</td>
+            <td>Validar id</td>
+            <td>Recorrer los id existentes para validar que no exista el mismo ingresado actualmente</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">TS03</td>
+            <td rowspan="2">Crear cultivo</td>
+            <td>TK16</td>
+            <td>Crear cultivo</td>
+            <td>Crear endpoint que permite la comunicación para obtener los valores necesitados</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK17</td>
+            <td>Validar existencia de un cultivo con id de compañia</td>
+            <td>Recorrer la base de datos en busca de un id de una determinada compañia para verificar su existencia</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="15">TS04</td>
+            <td rowspan="15">Crear registro</td>
+            <td>TK18</td>
+            <td>Crear registro de la fase formula</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK19</td>
+            <td>Crear registro de la fase formula de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK20</td>
+            <td>Crear registro de fase Formula de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK21</td>
+            <td>Crear registro de fase Preparation Area</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK22</td>
+            <td>Crear registro de fase Preparation Area de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK23</td>
+            <td>Crear registro de fase Preparation Area de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK24</td>
+            <td>Crear registro de fase Bunker</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Jessica Commetant</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK25</td>
+            <td>Crear registro de fase Bunker de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Jessica Commetant</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK26</td>
+            <td>Crear registro de fase Bunker de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Jessica Commetant</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK27</td>
+            <td>Crear registro de fase Tunnel</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Andres Soto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK28</td>
+            <td>Crear registro de fase Tunnel de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Andres Soto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK29</td>
+            <td>Crear registro de fase Tunnel de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Andres Soto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK30</td>
+            <td>Crear registro de fase Grow Room</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Nicolas Espinoza</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK31</td>
+            <td>Crear registro de fase Grow Room de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Nicolas Espinoza</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK32</td>
+            <td>Crear registro de fase Grow Room de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Nicolas Espinoza</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">TS06</td>
+            <td rowspan="2">Obtener datos de empleado</td>
+            <td>TK33</td>
+            <td>Obtener empleados</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los empleados registrados en la base de datos</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK34</td>
+            <td>Obtener empleados sin ningún empleado registrado</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los empleados registrados en la base de datos</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">TS07</td>
+            <td rowspan="2">Obtener datos del cultivo</td>
+            <td>TK35</td>
+            <td>Obtener cultivos</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los cultivos registrados en la base de datos</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK36</td>
+            <td>Obtener cultivos sin ningún cultivo registrado</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los cultivos registrados en la base de datos</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="10">TS08</td>
+            <td rowspan="10">Obtener datos de cada fase del cultivo</td>
+            <td>TK37</td>
+            <td>Obtener registros de fase formula</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase formula en la base de datos</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK38</td>
+            <td>Obtener registros de fase formula sin ningún registro</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase formula en la base de datos</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK39</td>
+            <td>Obtener registros de fase preparation area</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase preparation area en la base de datos</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+      <th>TK40</th>
+      <th>Obtener registros de fase preparation area sin ningún registro</th>
+      <th>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase preparation area en la base de datos</th>
+      <th>4</th>
+      <th>Alan Galavis</th>
+      <th>Done</th>
+    </tr>
+        <tr>
+      <th>TK41</th>
+      <th>Obtener registros de fase bunker</th>
+      <th>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase bunker en la base de datos</th>
+      <th>4</th>
+      <th>Jessica Commetant</th>
+      <th>Done</th>
+    </tr>
+        <tr>
+      <th>TK42</th>
+      <th>Obtener registros de fase bunker sin ningún registro</th>
+      <th>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase bunker en la base de datos</th>
+      <th>4</th>
+      <th>Jessica Commetant</th>
+      <th>Done</th>
+    </tr>
+        <tr>
+      <th>TK43</th>
+      <th>Obtener registros de fase tunnel</th>
+      <th>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase tunnel en la base de datos</th>
+      <th>4</th>
+      <th>Andres Soto</th>
+      <th>Done</th>
+    </tr>
+        <tr>
+      <th>TK44</th>
+      <th>Obtener registros de fase tunnel sin ningún registro</th>
+      <th>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase tunnel en la base de datos</th>
+      <th>4</th>
+      <th>Andres Soto</th>
+      <th>Done</th>
+    </tr>
+        <tr>
+      <th>TK45</th>
+      <th>Obtener registros de las fases de grow room</th>
+      <th>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase grow rooms en la base de datos</th>
+      <th>4</th>
+      <th>Nicolas Espinoza</th>
+      <th>Done</th>
+    </tr>
+        <tr>
+      <th>TK46</th>
+      <th>Obtener registros de las fases de grow room sin ningún registro</th>
+      <th>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase grow rooms en la base de datos</th>
+      <th>4</th>
+      <th>Nicolas Espinoza</th>
+      <th>Done</th>
+    </tr>
+    <tr>
+    <td>TK40</td>
+    <td>Obtener registros de fase preparation area sin ningún registro</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase preparation area en la base de datos</td>
+    <td>4</td>
+    <td>Alan Galavis</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK41</td>
+    <td>Obtener registros de fase bunker</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase bunker en la base de datos</td>
+    <td>4</td>
+    <td>Jessica Commetant</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK42</td>
+    <td>Obtener registros de fase bunker sin ningún registro</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase bunker en la base de datos</td>
+    <td>4</td>
+    <td>Jessica Commetant</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK43</td>
+    <td>Obtener registros de fase tunnel</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase tunnel en la base de datos</td>
+    <td>4</td>
+    <td>Andres Soto</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK44</td>
+    <td>Obtener registros de fase tunnel sin ningún registro</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase tunnel en la base de datos</td>
+    <td>4</td>
+    <td>Andres Soto</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK45</td>
+    <td>Obtener registros de las fases de grow room</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase grow rooms en la base de datos</td>
+    <td>4</td>
+    <td>Nicolas Espinoza</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK46</td>
+    <td>Obtener registros de las fases de grow room sin ningún registro</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase grow rooms en la base de datos</td>
+    <td>4</td>
+    <td>Nicolas Espinoza</td>
+    <td>Done</td>
+</tr>
+
+  </thead>
+    </thead>
+</table>
 
 
 <div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review.</h5></div>
@@ -2876,13 +3241,25 @@ El despliegue de la página de destino en GitHub Pages se ha actualizado despué
 
 - Capturas de pantalla landing page:
 
-
+![1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/0c4c9fc3-2284-435c-8dc0-991a6d1cabc5)
+![2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e98099b2-4bcb-4c4f-a753-2120179c1235)
+![3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/41043c07-8cf4-4b4b-804b-7c4a19eb4754)
+![4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/2a5a6ad0-9817-40f2-bb75-232fb9b5ddd8)
+![5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/fb4fba19-cbfc-4ec9-86a5-10e215544091)
+![6](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8ff75e38-2cdf-4426-8cd1-f3f311e6d41a)
+![7](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/91e4ab9d-5f4f-4639-b71f-c42ce5bded4f)
+![8](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8dffc1f0-d4cb-43f3-9d46-d0a1b539da2b)
+![9](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/a8f474f8-8dbd-4212-b8ca-3d11c9a6e321)
+![10](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/4efea009-9496-495a-bc25-7c64e9cfba82)
+![11](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b89afffa-fce9-4758-a8b9-697063414d67)
+![12](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7f14f842-f502-4f74-a654-4db839a1e4c0)
 
 Web Application front-end:
 
 Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
 
 ![Deploy_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/88749dbc-f162-44fa-bb59-778cdfb47fb2)
+
 - Capturas de pantalla de web application:
 
 ![web_app_login](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d849966d-f0f3-45ba-8cee-bce4434c2ee5)
@@ -2975,7 +3352,9 @@ Web Application back-end:
 
 Repositorio Landing:
 
+![insight_1_landing_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e0c0874d-8098-4922-9f04-bd32eb71e609)
 
+![insight_2_landing_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f97c1225-0c52-4157-8379-051a0a6e5e83)
 
 Repositorio Web Application:
 
@@ -2984,6 +3363,9 @@ Repositorio Web Application:
 ![insight_2_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6d019244-fdb8-44f7-a800-dc966fcd0b43)
 
 Repositorio Platform:
+
+![insight_1_web_api](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d7998c14-b970-4938-8c7d-0ab32a8b4b7a)
+![insight_2_web_api](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d8282733-2258-4130-8a4c-1c9e3a2531c5)
 =======
 <div id='5.3.'><h5> 5.3. Validation Interviews.</h5></div>
 
@@ -3730,6 +4112,9 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
 
 <br>
 
+
+![insight_1_web_api](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d7998c14-b970-4938-8c7d-0ab32a8b4b7a)
+![insight_2_web_api](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d8282733-2258-4130-8a4c-1c9e3a2531c5)
 
 ## Conclusiones y recomendaciones
 

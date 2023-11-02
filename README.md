@@ -125,8 +125,8 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un  proyecto en soluciones de ingeniería de software.|**Andrés Soto** TB1: Se realizó la seccion de header en el documento, además de su correspondiente codigo en javascript para cumplir funcionalidades. <br> TP: Se encargó de arreglar los bugs presentados en el landing page del sprint anterior. De la misma forma colaboró con la realización de la seccion sprint 2 del infomre.<br>**Carlo Luca Seminario** TB1: Se aplicó conventional commits y el uso de herramientas de control de versiones para así mejorar el trabajo del equipo tanto para la documentación como para la landing page. <br> TP: Se realizaron reuniones para mantener una comunicación constante e ir presentando nuestros avances durante el proyecto de modo que todos estemos en sintonía para entregar un proyecto de Software. <br> **Nicolás Espinoza** TB1: Los diagramas C4 están involucrados en el proceso de DDD o Domain Driven Design. Los diagramas hacen uso de un lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel. TP: Se está utilizando activamente en el proyecto la metodología Scrum para trabajar, mediante sprints, activamente en el proyecto de la aplicación web frontend. Esta colaboración se puede apreciar en la sección de development evidence. <br>**Alan Enrique Galavis Du Bois** TB1: Todos los miembros del equipo contribuyeron a elaborar todas las partes del informe, bien sea elicitación, análisis y especificación de requisitos, diseño de experiencias de usuario, diseño de base de datos y de patrones de software, etc. Adicionalmente, los integrantes mantuvieron una comunicación activa y una organización constante, lo cual fue posible mediante el uso de herramientas tales como Trello y Github. <br>**Jessica Elizabeth Comettant Rubiños** TB1:  El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. <br> TP: En el contexto de este entregable, fue esencial que cada miembro del equipo desempeñara un rol eficiente tanto en la implementación de la plataforma como el segmento de documentacón. Fue evidente cómo varios miembros trabajaron en conjunto de manera colaborativa para llevar a cabo la implementación de una funcionalidad fundamental para el éxito del negocio. Este proceso demostró la importancia de la cooperación y la contribución individual en la consecución de nuestros objetivos.|Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo. TB1|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Andrés Soto** TB1: Se realizó diferentes secciones del informe teniendo en cuenta los criterios para obtener una nota sobresaliente. Haciendo mencion en la realización de la segunda sección del capitulo 5 y la realización del landing page mock up y su correspondiente mobile design. <br> TP: Desarrollo la caracteristica de toolbar en la aplicación web. Asimismo desarrollo las ventanas emergentes para el registro de datos de cada fase establecida. <br>**Carlo Luca Seminario** TB1: Se realizó el proceso de especificación y análisis de requisitos para así lograr conocer al sector de las empresas de champiñones de modo que pudimos identificar en que areas enfocarnos para agilizar su flujo de trabajo. <br> TP: Se realizó el producto mínimo viable o MVP para así poder presentar como segundo sprint un producto de valor para nuestro cliente de modo que este mismo se pueda sentir satisfecho con nuestro avance. <br> **Nicolás Espinoza** TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos pedidos. TP: Se profundizó en el uso del framework Vue creando en este entregable componentes hechos en base a materiales proporcionados por primevue, por ejemplo, tablas y dialogs. <br> **Alan Enrique Galavis Du Bois** TB1: Para poder elaborar un producto solución a un problema real resultó necesario cumplir con una elicitación, análisis, especificación de requisitos, dentro de los cuales se identificaron las necesidades actuales de un sector industrial. Para resolver las necesidades encontradas, se propuso elaborar una aplicación web que permita digitalizar el registro de procesos. TP: Para este entregable, resultó necesario que todos los miembros del equipo se desempeñen en actividades tanto generales como específicas. Se evidenció cómo múltiples integrantes colaboraron para implementar una funcionalidad core para el negocio.  <br> TP: El segmento objetivo afirmó que le interesa que la solución esté disponible tanto para dispositivos móviles como para computadoras de escritorio. Por ello, que la solución tenga un diseño que se acomode a las dimensiones del dispositivo empleado. Se determinó que para lograr este propósito, el framework Vue se presenta como una opción viable por los componentes y herramientas que ofrece, los cuales permiten hacer con facilidad y agilidad una aplicación responsive y funcional. <br> **Jessica Elizabeth Comettant Rubiños** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. TP: El segmento objetivo expresó un interés firme en la disponibilidad de nuestra solución tanto en dispositivos móviles como en computadoras de escritorio. Después de un análisis exhaustivo, hemos determinado que el framework Vue se posiciona como una opción altamente viable debido a sus componentes y herramientas, los cuales permiten desarrollar una aplicación responsive y funcional de manera eficaz y ágil. Esto asegura que nuestra solución cumpla con las expectativas y necesidades de nuestro público objetivo en términos de accesibilidad y usabilidad en diferentes plataformas.|Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno.|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un  proyecto en soluciones de ingeniería de software.|**Andrés Soto** TB1: Se realizó la seccion de header en el documento, además de su correspondiente codigo en javascript para cumplir funcionalidades. <br> TP: Se encargó de arreglar los bugs presentados en el landing page del sprint anterior. De la misma forma colaboró con la realización de la seccion sprint 2 del infomre.<br>**Carlo Luca Seminario** TB1: Se aplicó conventional commits y el uso de herramientas de control de versiones para así mejorar el trabajo del equipo tanto para la documentación como para la landing page. <br> TP: Se realizaron reuniones para mantener una comunicación constante e ir presentando nuestros avances durante el proyecto de modo que todos estemos en sintonía para entregar un proyecto de Software. <br> **Nicolás Espinoza** TB1: Los diagramas C4 están involucrados en el proceso de DDD o Domain Driven Design. Los diagramas hacen uso de un lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel. TP: Se está utilizando activamente en el proyecto la metodología Scrum para trabajar, mediante sprints, activamente en el proyecto de la aplicación web frontend. Esta colaboración se puede apreciar en la sección de development evidence. <br>**Alan Enrique Galavis Du Bois** TB1: Todos los miembros del equipo contribuyeron a elaborar todas las partes del informe, bien sea elicitación, análisis y especificación de requisitos, diseño de experiencias de usuario, diseño de base de datos y de patrones de software, etc. Adicionalmente, los integrantes mantuvieron una comunicación activa y una organización constante, lo cual fue posible mediante el uso de herramientas tales como Trello y Github. <br> TP: Para este entregable, resultó necesario que todos los miembros del equipo se desempeñen en actividades tanto generales como específicas. Se evidenció cómo múltiples integrantes colaboraron para implementar una funcionalidad core para el negocio.  <br>**Jessica Elizabeth Comettant Rubiños** TB1:  El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. <br> TP: En el contexto de este entregable, fue esencial que cada miembro del equipo desempeñara un rol eficiente tanto en la implementación de la plataforma como el segmento de documentacón. Fue evidente cómo varios miembros trabajaron en conjunto de manera colaborativa para llevar a cabo la implementación de una funcionalidad fundamental para el éxito del negocio. Este proceso demostró la importancia de la cooperación y la contribución individual en la consecución de nuestros objetivos.|Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo.|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Andrés Soto** TB1: Se realizó diferentes secciones del informe teniendo en cuenta los criterios para obtener una nota sobresaliente. Haciendo mencion en la realización de la segunda sección del capitulo 5 y la realización del landing page mock up y su correspondiente mobile design. <br> TP: Desarrollo la caracteristica de toolbar en la aplicación web. Asimismo desarrollo las ventanas emergentes para el registro de datos de cada fase establecida. <br>**Carlo Luca Seminario** TB1: Se realizó el proceso de especificación y análisis de requisitos para así lograr conocer al sector de las empresas de champiñones de modo que pudimos identificar en que areas enfocarnos para agilizar su flujo de trabajo. <br> TP: Se realizó el producto mínimo viable o MVP para así poder presentar como segundo sprint un producto de valor para nuestro cliente de modo que este mismo se pueda sentir satisfecho con nuestro avance. <br> **Nicolás Espinoza** TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos pedidos. TP: Se profundizó en el uso del framework Vue creando en este entregable componentes hechos en base a materiales proporcionados por primevue, por ejemplo, tablas y dialogs. <br> **Alan Enrique Galavis Du Bois** TB1: Para poder elaborar un producto solución a un problema real resultó necesario cumplir con una elicitación, análisis, especificación de requisitos, dentro de los cuales se identificaron las necesidades actuales de un sector industrial. Para resolver las necesidades encontradas, se propuso elaborar una aplicación web que permita digitalizar el registro de procesos. <br> TP: El segmento objetivo afirmó que le interesa que la solución esté disponible tanto para dispositivos móviles como para computadoras de escritorio. Por ello, que la solución tenga un diseño que se acomode a las dimensiones del dispositivo empleado. Se determinó que para lograr este propósito, el framework Vue se presenta como una opción viable por los componentes y herramientas que ofrece, los cuales permiten hacer con facilidad y agilidad una aplicación responsive y funcional. <br> **Jessica Elizabeth Comettant Rubiños** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. TP: El segmento objetivo expresó un interés firme en la disponibilidad de nuestra solución tanto en dispositivos móviles como en computadoras de escritorio. Después de un análisis exhaustivo, hemos determinado que el framework Vue se posiciona como una opción altamente viable debido a sus componentes y herramientas, los cuales permiten desarrollar una aplicación responsive y funcional de manera eficaz y ágil. Esto asegura que nuestra solución cumpla con las expectativas y necesidades de nuestro público objetivo en términos de accesibilidad y usabilidad en diferentes plataformas.|Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno.|
 
 ## Contenido
 
@@ -205,10 +205,29 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
             6. Services Documentation Evidence for Sprint Review.
             7. Software Deployment Evidence for Sprint Review.
             8. Team Collaboration Insights during Sprint.
+        2. Sprint 2
+            1. Sprint Planning 2.
+            2. Sprint Backlog 2.
+            3. Development Evidence for Sprint Review.
+            4. Testing Suite Evidence for Sprint Review.
+            5. Execution Evidence for Sprint Review.
+            6. Services Documentation Evidence for Sprint Review.
+            7. Software Deployment Evidence for Sprint Review.
+            8. Team Collaboration Insights during Sprint.
+        2. Sprint 3
+            1. Sprint Planning 3.
+            2. Sprint Backlog 3.
+            3. Development Evidence for Sprint Review.
+            4. Testing Suite Evidence for Sprint Review.
+            5. Execution Evidence for Sprint Review.
+            6. Services Documentation Evidence for Sprint Review.
+            7. Software Deployment Evidence for Sprint Review.
+            8. Team Collaboration Insights during Sprint.
     3. Validation Interviews.
         1. Diseño de Entrevistas.
         2. Registro de Entrevistas.
         3. Evaluación según Heurísticas.
+
 
 12. **Conclusiones.**
 13. **Bibliografía.**
@@ -2478,6 +2497,494 @@ Repositorio Web Application:
 <img width="828" alt="Screenshot 2023-09-29 at 1 30 00 AM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/ebe38dfd-231c-4f65-8f5e-84f054c60a9e">
 
 
+
+<div id='5.2.3.'><h4> 5.3.1. Sprint 3.</h4></div>
+<div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
+
+El Sprint #3 tiene como fecha de inicio el 11/10/2023 y como meta plantea resolver errores de la aplicación web y realizar el back end de la web application.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2023-10-11</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:15 AM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Alan Galavis</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Jessica Comettant, Nicolás Espinoza, Alan Galavis, Andrés Soto, Carlo Seminario
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>
+                En el anterior sprint pudimos cumplir con la entrega de todos los user stories. La opinion del product owner con respecto al avance realizado hasta el entregable anterior fue satisfactoria.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                En el anterior sprint se pudo mejorar ciertos aspectos de eficiencia en algunos componentes. Asimismo, se puede mejorar el proyecto reestructurando algunos componentes.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td>
+                Desarrollar las interfaces relacionadas con la creación de cuentas, inicio de sesión y el perfil de usuario. Incluir tablas que exhiban los cultivos con registros recientes y los cultivos catalogados como concluidos. Mejorar la eficiencia en la creación de cultivos y el registro de procesos a través de componentes dinámicos.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>
+                32
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                32
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div id='5.2.3.2.'><h5> 5.2.3.2. Sprint Backlog 3.</h5></div>
+
+En el tercer sprint backlog, el equipo completó parcialmente el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades.
+
+![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
+
+Link del Trello: https://trello.com/invite/b/Ws9Po0JS/ATTI4a2de33a117cdb4b2ee418050cc989df659B052B/sprint-3
+
+
+
+<div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review.</h5></div>
+
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este tercer sprint. Como se establecio trabajar el frontend y backend de la web application, se muestran commits de diferentes repositorios donde se trabajo.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|||||||
+
+<div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review.</h5></div>
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+|||||||
+
+
+<div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review.</h5></div>
+En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web application. La cual muestra nuevas vistas relevantes acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. A continuación se muestran algunas evidencias:
+
+- US04:
+![web_app_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/496240a4-e076-447a-b73c-1f444be261d1)
+- US06:
+![web_app_login](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d849966d-f0f3-45ba-8cee-bce4434c2ee5)
+- US07:
+![web_app_progress_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8ba8f0bb-bc50-4df0-adeb-bedb2ae8a9c0)
+- US08:
+![web_app_progress](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6e9173d8-053d-48f6-8b62-18f5e8d053d2)
+- US20:
+![web_app_company](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/34ec37b5-4317-43f4-9e95-263c82fb2466)
+- US21:
+![web_app_user](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8bf6318d-df85-4233-a0b3-e51cd0652318)
+
+<div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
+Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service](http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html)
+
+Json server:
+
+![JSON1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b7d3cadd-6071-4661-bb99-a241fc6e4693)
+![JSON2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9ebb2721-5e1a-4db9-a47f-d663a09d1a77)
+
+| Endpoint | Details |
+| - | - | 
+|/user|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/companies|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/crops|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/stock|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/preparation_area|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/bunker|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/tunnel|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/grow_room_record|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+
+Web Service:
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="5">Bunkers</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/bunkers</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/bunkers</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/bunkers/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/bunkers/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Companies</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/companies/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/companies/{id}</td>
+        </tr>
+        <tr>
+            <td>CompanyEmployees</td>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/companies/{comapnyId}/employees</td>
+        </tr>
+        <tr>
+            <td>CropPhases</td>
+            <td>GET</td>
+            <td>{phaseId}</td>
+            <td>api/v1/phases/{phaseId}/crops</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/crops/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/crops/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Employees</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/employees/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/employees/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Formulas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/formulas</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/formulas/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/forumals/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">GrowRoomRecords</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/growroomrecords</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/growroomrecords</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/growroomrecord/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/growroomrecords/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Phases</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/phases</td>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/phases/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">PreparationAreas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/preparationareas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/preparationareas</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/preparationareas/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/preparationareas/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Tunnels</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/tunnels</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/tunnels</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/tunnels/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/tunnels/{id}</td>
+        </tr>   
+    </tbody>
+</table>
+
+Link del repositorio: 
+
+https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API 
+
+Commits web service:
+
+|Commits|
+
+<div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review.</h5></div>
+
+Para la entrega del tercer sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos bugs que será solucionados en el siguiente sprint. Asimismo, se desplego el back-end parcialmente completo, pues no se ha concluido.
+
+Landing page:
+
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+
+
+- Capturas de pantalla landing page:
+
+
+
+Web Application front-end:
+
+Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
+
+![Deploy_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/88749dbc-f162-44fa-bb59-778cdfb47fb2)
+- Capturas de pantalla de web application:
+
+![web_app_login](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d849966d-f0f3-45ba-8cee-bce4434c2ee5)
+![web_app_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/496240a4-e076-447a-b73c-1f444be261d1)
+![web_app_dashboard](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/1bce197b-a96d-45f2-beea-c9787781f7ec)
+![web_app_company](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/34ec37b5-4317-43f4-9e95-263c82fb2466)
+![web_app_user](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8bf6318d-df85-4233-a0b3-e51cd0652318)
+![web_app_crop_archive](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c5e35b11-13db-4c93-8cd4-39f3a124e015)
+![web_app_progress](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6e9173d8-053d-48f6-8b62-18f5e8d053d2)
+![web_app_progress_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8ba8f0bb-bc50-4df0-adeb-bedb2ae8a9c0)
+![web_app_stock](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b15bf8b4-a16a-4491-852b-489b601c362c)
+![web_app_stock_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/fc925eab-0df5-4bc3-b2c1-214a68b88e29)
+![web_app_stock_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c14f5302-3ed9-49de-8c3a-2372e83949e5)
+![web_app_preparation](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8d240389-de25-46f5-bc99-2ee6b670f81b)
+![web_app_preparation_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/46e26408-2ec3-4ac3-853b-319091f81dbc)
+![web_app_preparation_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/144bcf7e-a37d-44f9-9ba7-17a587a96b40)
+![web_app_bunker](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b8272d64-0123-4f53-8f93-9f9c12b533dc)
+![web_app_bunker_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e228e345-e164-4506-ae82-9934710a7a84)
+![web_app_bunker_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ac05ade0-c346-4848-bf65-2ee021d1d886)
+![web_app_tunnel](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/4d606ff8-7ace-42c7-adc3-25898f03d9ca)
+![web_app_tunnel_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/69a1a08e-c657-4697-b883-35544c1c3807)
+![web_app_tunnel_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/166c673c-0fe0-47b4-9862-aa9e1fbd15be)
+![web_app_incubation](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/0166100c-4594-4206-a985-7cba143f1513)
+![web_app_incubation_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ee707e33-85e1-4230-955d-ef86ccde17f0)
+![web_app_incubation_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6354d051-3965-453d-9a4c-33211ff1f269)
+![web_app_casing](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/bbef04e8-2815-445f-9b79-2a30a92b8f47)
+![web_app_casing_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/0bb69c10-6301-43bf-8283-1c3fedd3f1ee)
+![web_app_casing_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/4cbe95c8-a1b6-45f5-8327-21325ba58475)
+![web_app_induction](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/3e6d8d4a-ede1-4531-a94a-5d43eb7c367f)
+![web_app_induction_register](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/fb066815-d342-4f0f-bf45-a2ced0063e69)
+![web_app_induction_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/df055634-67b8-498e-8abe-8d338625687f)
+![web_app_harvest](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8310d2a1-0162-426e-a229-3f7ae88f9672)
+![web_app_harvest_regeister](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9ffe99a3-38bd-4acc-b97e-629f91e8eccb)
+![web_app_harvest_warning](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e9f07741-90b4-4ae0-98fe-c37f03f1d25b)
+![crop_completed](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cca88ab0-f0eb-4fc1-9421-6fbff7a70143)
+
+Web Application back-end:
+.
+
+- Capturas de pantalla de web services:
+![web_service_bunker_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/803ccabe-196c-49cf-990e-e94e2c153f29)
+![web_service_bunker_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/bc3d4921-5c68-4bd8-96fe-63912aec18d0)
+![web_service_buker_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/5271df28-4be7-4fcf-8c2b-9c0364b46acc)
+![web_service_bunker_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/43637381-2d8d-4061-a2e7-4e254dde2f7f)
+![web_service_companies_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/fbc15a2b-16ea-4c1e-86d3-45c09ec002ea)
+![web_service_companies_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/2d107f3c-3f47-4714-9eb3-d65db80eb2b1)
+![web_service_companies_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6d1b90fa-4580-47b5-b8e3-4483a6cc4122)
+![web_service_companies_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f16b0816-35f1-43bc-88cc-9463c35c84b9)
+![web_service_companyemployees_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f72adcb7-feb7-47cf-acad-64454d797271)
+![web_service_cropphases_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/03ee364f-b5ed-486d-a940-66ef16b32be5)
+![web_service_crops_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cab2ae16-79e7-466a-8101-492d1a07de83)
+![web_service_crop_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8704d568-0148-42dd-ab5b-a8a120cf20c6)
+![web_service_crop_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ffe10b41-9f50-4c28-af0e-96b9419cabee)
+![web_service_crop_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/20565b3f-cc0e-4edf-b8db-9815c2e93455)
+![web_service_employees_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/4e0e7f91-ba6e-49c7-bf20-b763dab83fcf)
+![web_service_employees_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d4972e0a-6c2d-40f6-961a-866949e24681)
+![web_service_employees_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/2a3275f8-b3b2-4e3e-b9b7-789b104f2ccc)
+![web_service_employees_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/050c1da8-5e31-4b17-830a-017c949267e3)
+![web_service_formulas_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/81c318bd-681a-4587-adca-0aaf8eddb410)
+![web_service_formula_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/30b39bb3-58f4-4c3a-9ca2-b90e8e3f02fc)
+![web_service_formula_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c1537ad2-1080-4cc5-8da6-9396cc85d56a)
+![web_service_formula_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/114d03d7-65f7-45ab-bdba-e1f30c7f32b8)
+![web_service_growroomrecords_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/36001343-4fc4-49a6-95ad-1ba9ea7b9f7c)
+![web_service_growroomrecords_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/411bf86e-c39e-4563-99ad-3c7825bb7fb1)
+![web_service_growroomrecords_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/203154f6-9e89-46cf-9829-e21077fe17fe)
+![web_service_growroomrecords_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d03b04a4-d379-42c8-bd88-0405b9cb1236)
+![web_service_phases_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/5b61c44c-1310-4dae-ab14-d5bf13e14fab)
+![web_service_phases_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6f2b153d-6456-4154-b5c2-7c6fc94434fd)
+![web_service_phases_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/239a7801-3433-453d-8486-a8d021a8e1a5)
+![web_service_phases_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/79f46f0f-9dc2-419a-b280-1edc0eb7250b)
+![web_service_preparationareas_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7219bed2-9869-4787-a107-49e0b6124f54)
+![web_service_preparationareas_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/1868cd7b-6ac5-465f-a452-aba09e4930a3)
+![web_service_preparationareas_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/0e108328-3a29-49fc-9049-261dcc4d051b)
+![web_service_preparationareas_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/44e6b514-d3e8-4408-a538-1dfffe8dd0eb)
+![web_service_tunnels_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e598be7e-4704-4cee-9328-072ada531a96)
+![web_service_tunnels_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/03827510-8743-456c-b0ec-dee150b678e6)
+![web_service_tunnels_put](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8cef1c04-da84-463e-ae1d-dee3950d2b43)
+![web_service_tunnels_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/622e9ea3-5d10-403d-a92e-b561a1106ec5)
+
+
+<div id='5.2.3.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Soto Kong Requena, Andres Eduardo|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
+|Galavis Du Bois, Alan Enrique|Desarrollo del back end e internacionalización del front end|
+|Seminario Garvín, Carlo Luca|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
+|Espinoza Rodriguez, Nicolas Antonio|Desarrollo del back end, y mejora de componentes del front end|
+|Comettant Rubiños, Jessica Elizabeth|Desarrollo del back end, y creación de nuevos de componentes del front end|
+
+Repositorio Landing:
+
+
+
+Repositorio Web Application:
+
+![insight_1_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9a107bdc-62fd-4ff5-a007-5dbb4a981f50)
+
+![insight_2_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6d019244-fdb8-44f7-a800-dc966fcd0b43)
+
+Repositorio Platform:
+=======
 <div id='5.3.'><h5> 5.3. Validation Interviews.</h5></div>
 
 <div id='5.3.1.'><h5> 5.3.1. Diseño de Entrevistas.</h5></div>
@@ -3145,6 +3652,7 @@ El problema identificado se refiere a la incapacidad de la aplicación para perm
 Para abordar el problema de la incapacidad para retornar a una fase anterior después de haber dado "END PHASE," se recomienda implementar una opción que permita a los usuarios revertir la acción y regresar a la fase anterior. Esta funcionalidad debería incluir una confirmación de acción para evitar retrocesos accidentales y proporcionar instrucciones claras sobre su uso. 
 
 <br>
+
 
 ## Conclusiones y recomendaciones
 

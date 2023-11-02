@@ -2628,6 +2628,235 @@ Json server:
 
 Web Service:
 
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="5">Bunkers</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/bunkers</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/bunkers</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/bunkers/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/bunkers/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Companies</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/companies/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/companies/{id}</td>
+        </tr>
+        <tr>
+            <td>CompanyEmployees</td>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/companies/{comapnyId}/employees</td>
+        </tr>
+        <tr>
+            <td>CropPhases</td>
+            <td>GET</td>
+            <td>{phaseId}</td>
+            <td>api/v1/phases/{phaseId}/crops</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/crops/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/crops/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Employees</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/employees/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/employees/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Formulas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/formulas</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/formulas/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/forumals/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">GrowRoomRecords</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/growroomrecords</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/growroomrecords</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/growroomrecord/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/growroomrecords/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Phases</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/phases</td>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/phases/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">PreparationAreas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/preparationareas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/preparationareas</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/preparationareas/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/preparationareas/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Tunnels</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/tunnels</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/tunnels</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/tunnels/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/tunnels/{id}</td>
+        </tr>   
+    </tbody>
+</table>
+
+Link del repositorio: 
+
+https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API 
+
+Commits web service:
+
+|Commits|
+
 <div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
 Para la entrega del tercer sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos bugs que será solucionados en el siguiente sprint. Asimismo, se desplego el back-end parcialmente completo, pues no se ha concluido.

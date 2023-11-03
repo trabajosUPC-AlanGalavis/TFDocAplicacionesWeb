@@ -2877,8 +2877,8 @@ Link del Trello: https://trello.com/invite/b/Ws9Po0JS/ATTI4a2de33a117cdb4b2ee418
             <td>Done</td>
         </tr>
         <tr>
-            <td rowspan="10">TS08</td>
-            <td rowspan="10">Obtener datos de cada fase del cultivo</td>
+            <td rowspan="17">TS08</td>
+            <td rowspan="17">Obtener datos de cada fase del cultivo</td>
             <td>TK37</td>
             <td>Obtener registros de fase formula</td>
             <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase formula en la base de datos</td>
@@ -2903,60 +2903,60 @@ Link del Trello: https://trello.com/invite/b/Ws9Po0JS/ATTI4a2de33a117cdb4b2ee418
             <td>Done</td>
         </tr>
         <tr>
-      <th>TK40</th>
-      <th>Obtener registros de fase preparation area sin ningún registro</th>
-      <th>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase preparation area en la base de datos</th>
-      <th>4</th>
-      <th>Alan Galavis</th>
-      <th>Done</th>
+      <td>TK40</td>
+      <td>Obtener registros de fase preparation area sin ningún registro</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase preparation area en la base de datos</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
     </tr>
         <tr>
-      <th>TK41</th>
-      <th>Obtener registros de fase bunker</th>
-      <th>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase bunker en la base de datos</th>
-      <th>4</th>
-      <th>Jessica Commetant</th>
-      <th>Done</th>
+      <td>TK41</td>
+      <td>Obtener registros de fase bunker</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase bunker en la base de datos</td>
+      <td>4</td>
+      <td>Jessica Commetant</td>
+      <td>Done</td>
     </tr>
         <tr>
-      <th>TK42</th>
-      <th>Obtener registros de fase bunker sin ningún registro</th>
-      <th>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase bunker en la base de datos</th>
-      <th>4</th>
-      <th>Jessica Commetant</th>
-      <th>Done</th>
+      <td>TK42</td>
+      <td>Obtener registros de fase bunker sin ningún registro</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase bunker en la base de datos</td>
+      <td>4</td>
+      <td>Jessica Commetant</td>
+      <td>Done</td>
     </tr>
         <tr>
-      <th>TK43</th>
-      <th>Obtener registros de fase tunnel</th>
-      <th>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase tunnel en la base de datos</th>
-      <th>4</th>
-      <th>Andres Soto</th>
-      <th>Done</th>
+      <td>TK43</td>
+      <td>Obtener registros de fase tunnel</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase tunnel en la base de datos</td>
+      <td>4</td>
+      <td>Andres Soto</td>
+      <td>Done</td>
     </tr>
         <tr>
-      <th>TK44</th>
-      <th>Obtener registros de fase tunnel sin ningún registro</th>
-      <th>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase tunnel en la base de datos</th>
-      <th>4</th>
-      <th>Andres Soto</th>
-      <th>Done</th>
+      <td>TK44</td>
+      <td>Obtener registros de fase tunnel sin ningún registro</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase tunnel en la base de datos</td>
+      <td>4</td>
+      <td>Andres Soto</td>
+      <td>Done</td>
     </tr>
         <tr>
-      <th>TK45</th>
-      <th>Obtener registros de las fases de grow room</th>
-      <th>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase grow rooms en la base de datos</th>
-      <th>4</th>
-      <th>Nicolas Espinoza</th>
-      <th>Done</th>
+      <td>TK45</td>
+      <td>Obtener registros de las fases de grow room</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase grow rooms en la base de datos</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
     </tr>
         <tr>
-      <th>TK46</th>
-      <th>Obtener registros de las fases de grow room sin ningún registro</th>
-      <th>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase grow rooms en la base de datos</th>
-      <th>4</th>
-      <th>Nicolas Espinoza</th>
-      <th>Done</th>
+      <td>TK46</td>
+      <td>Obtener registros de las fases de grow room sin ningún registro</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase grow rooms en la base de datos</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
     </tr>
     <tr>
     <td>TK40</td>

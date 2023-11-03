@@ -2461,21 +2461,21 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
 |https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb|upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/|2ee466a|chore: uploaded acceptance test for user stories||29/09/2023|
 
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
-En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
+En el sprint 2 se alcanzó un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
 
-Landing Page Ingles:
+Landing Page en Inglés:
 
 ![landing_page_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5cdd2d53-b426-4a0d-aa55-1e657fd3e62a)
 
-Landing Page Responsive Ingles:
+Landing Page vista Mobile Web Browser en Inglés:
 
 ![landing_page_responsive_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e9ecc3e1-e2b6-4688-a0f2-84ffab72b26b)
 
-Landing Page Español:
+Landing Page en Español:
 
 ![landing_page_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/da22018d-2915-430c-9af8-34d308c6c483)
 
-Landing Page Responsive Español:
+Landing Page vista Mobile Web Browser en Español:
 
 ![landing_page_responsive_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5a1358e3-8844-4206-bd59-a289ced700e5)
 
@@ -3050,6 +3050,10 @@ En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web
 ![web_app_company](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/34ec37b5-4317-43f4-9e95-263c82fb2466)
 - US21:
 ![web_app_user](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8bf6318d-df85-4233-a0b3-e51cd0652318)
+
+Enlace para visualizar el video de explicación de los logros del Sprint: 
+
+[https://youtu.be/FG3MVppHkyg](https://youtu.be/FG3MVppHkyg)
 
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
 

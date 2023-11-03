@@ -1903,6 +1903,19 @@ En esta, se deberá iniciar sesión con las credenciales anteriormente creadas, 
 
 Enlace para acceder al back end de la aplicación [http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html](http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html)
 
+
+<div><h2>7. Video About the product.</h2> <div>
+
+A continuación, se presenta el video About the product, el cual evidencia el propósito, beneficios y principales características de la aplicación, adicionalmente, incluye testimonios de parte de los principales usuarios donde se valida la calidad del software elaborado. El video tiene una duración de 1:17 minutos
+
+<img src="./Imagenes/about_the_product.png">
+
+Enlace para visualizar el video About the product:
+
+Enlace del video subido a YouTube: [https://youtu.be/BMjgyGefraM][https://youtu.be/BMjgyGefraM]
+
+Enlace del video subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
 ### 2. Landing Page, Services & Applications Implementation.
 ####     2.1. Sprint 1
 #####         **2.1.1. Sprint Planning 1.**
@@ -4193,6 +4206,10 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
 13. Es necesario estimar tiempos adicionales para cada uno de los sprints para corregir historias de usuario carry over o pendientes no planificados. El sprint 2 tuvo un tiempo de desarrollo ajustado debido a complicaciones de esta índole.
 14. La documentación de los módulos y artefactos de Angular Material nos permite conocer mediante ejemplos interactivos las funcionalidades disponibles en los componentes visuales de la biblioteca.
 
+<br>
+
+Enlace para acceder al video About the team [https://youtu.be/GHF8mKq5Sak](https://youtu.be/GHF8mKq5Sak)
+
 ## Bibliografía
 
 >Agro Perú. (2023). Perú exportó 850 toneladas de hongo seco por USD 7.1 millones. AGROPERÚ Informa. https://www.agroperu.pe/peru-exporto-850-toneladas-de-hongo-seco-por-usd-7-1-millones/#:~:text=Per%C3%BA%20export%C3%B3%20850%20toneladas%20de%20hongo%20seco%20por%20USD%207.1%20millones,-2%20de%20marzo&text=En%20el%202022%2C%20Per%C3%BA%20export%C3%B3,que%20el%202021%2C%20inform%C3%B3%20FreshFruit [Consulta: 6 de septiembre 2023].
@@ -4215,4 +4232,10 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
   
 - Enlace para visualizar el video exposición TP: upc-pre-202302-si730-sw51-integradis-expo-tp1.mp4
   
+- Enlace para acceder al video About the team subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
+- Enlace para acceder al video About the team subido a YouTube: [https://youtu.be/GHF8mKq5Sak](https://youtu.be/GHF8mKq5Sak)
+
+- Enlace para acceder al video About the product subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
+
+- Enlace para acceder al video About the product subido a YouTube: [https://youtu.be/BMjgyGefraM][https://youtu.be/BMjgyGefraM]

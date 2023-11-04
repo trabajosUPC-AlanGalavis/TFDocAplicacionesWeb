@@ -1861,59 +1861,61 @@ Enlace para acceder [Front End Web Application](https://greenhouse-web.netlify.a
 
 En primer lugar, resulta necesario ingresar a la página oficial de SmarterASP [https://www.smarterasp.net/free_trial](https://www.smarterasp.net/free_trial). En esta, se deberá crear una cuenta gratuita. Para ello, se selecciona el plan de "60 days free trial", se elige un "Hosting fee" de 0$, "Setup fee" de 0$ y no se ingresa ningún cupón. A continuación, se ingresa un nombre de usuario, correo electrónico y una contraseña entre 8 y 16 caracteres, los cuales serán utilizados para iniciar sesión en la página SmarterAsp. 
 
-<img src="https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/master/Imagenes/creating_smarterasp_account.jpg">
+<img src="./Imagenes/creating_smarterasp_account.jpg">
 
 A continuación, SmarterASP mostrará un mensaje que indica verificar la dirección de correo electrónico. Para ello, debe de abrirse el mensaje recibido por correo y presionar en el enlace indicado. Al presionarlo, se solicitará iniciar sesión en la cuenta recién creada.
 
+<img src="./Imagenes/smarterasp_sign_in.jpg">
+
 Seguidamente, uno se dirige a la sección "facturas" (O "billings") para comenzar el período de prueba. Para ello se presiona el botón "Try now", dentro del cual uno debe ingresar una contraseña y un nombre para la carpeta raíz. En este caso, se optó por ingresar la misma contraseña con la que se creó la cuenta, y para el nombre de la carpeta se ingresó "grupo".
 
-<img src="">
+<img src="./Imagenes/smarterasp_facturas.png">
 
 Posteriormente, en la sección "hostings" se presiona el botón submit y se espera a que termine de cargar la página, esto demora entre uno y tres minutos; después de este plazo, debe de haber llegado al correo electrónico un mensaje al correo electrónico, el cual confirma que la cuenta fue hosteada.
 
-<img src="">
+<img src="./Imagenes/smarterasp_hostings.png">
 
 A continuación, se ingresa a la sección "panel de control" (O "Control panel").
 
-<img src="">
+<img src="./Imagenes/smarterasp_control_panel.jpg">
 
 En esta, se debe oprimir sobre el botón de bases de datos, y elegir la opción MySQL.
 
-<img src="">
+<img src="./Imagenes/smarterasp_mysql.jpg">
 
 Una vez dentro, se debe oprimir el botón "Add database", y se desplegará un dialog donde se solicita elegir la versión de MySQL (En este caso, MySQL 8.x), ingresar el nombre de la base de datos (En este caso, se escribió root), y la contraseña creada anteriormente. Como DB Disk Quota se ingresa 1000. Seguidamente se presiona el botón submit.
 
-<img src="">
+<img src="./Imagenes/smarterasp_add_database.jpg">
 
 A continuación resulta necesario dirigirse a la sección websites, oprimir el botón "Manage website" y elegir la opción VS Webdeploy. Seguidamente, se presiona el botón "get publish setting" y se espera a que el archivo con extensión .PublishSettings termine de descargarse.
 
+<img src="./Imagenes/smarterasp_vs_webdeploy.jpg">
+
 Una vez que el archivo se haya descargado, se abre la aplicación Visual Studio 2022, y se abre el proyecto donde se elaboró el backend que se desea desplegar. En el explorador de soluciones, se presiona click derecho sobre el proyecto y se presiona el botón "Publish".
 
-<img src="">
+<img src="./Imagenes/visual2022_publish.jpg">
 
 En esta sección, se crea un nuevo perfil y se selecciona la opción "import profile". Se elige como configuración de publicación el archivo descargado anteriormente con extensión .PublishSettings, y se presiona el botón "finish".
 
-<img src="">
+<img src="./Imagenes/visual2022_import_profile.jpg">
 
 Se espera a que se cree el perfil, una vez finalizado, se mostrará un mensaje de confirmación. Se cierra la ventana emergente y se presiona sobre el enlace "Show all settings". En esta, se despliega la lista de bases de datos, se selecciona la opción "use this connection string at runtime".
 
-<img src="">
+<img src="./Imagenes/visual2022_show_all_settings.jpg">
 
 Se abre la página SmarterASP y nuevamente se ingresa a la sección databases. Se presiona sobre el botón "Connection String examples" y se copia la ruta de ASP.NET otorgada. Se debe de reemplazar el texto "YOUR_DB_PASSWORD" con la contraseña anteriormente creada.
 
-<img src="">
+<img src="./Imagenes/smarterasp_route.jpg">
 
 Se retorna a Visual Studio 2022, y en la misma sección "Show all settings", se pega la ruta copiada en la sección "defaultConnection", y se guarda.
 
-<img src="">
+<img src="./Imagenes/visual2022_default_connection.jpg">
 
 Se presiona sobre el botón publicar, se ingresa el nombre de usuario y la contraseña anteriormente creados y se presiona el botón aceptar. A continuación, se abrirá en el navegador el enlace a la aplicación desplegada.
 
-<img src="">
+<img src="./Imagenes/visual2022_publishing.jpg">
 
 En esta, se deberá iniciar sesión con las credenciales anteriormente creadas, y se agrega /swagger/index.html al final de la ruta.
-
-<img src="">
 
 Enlace para acceder al back end de la aplicación [http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html](http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html)
 

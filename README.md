@@ -1564,12 +1564,12 @@ El diagrama de contenedores muestra una vista de alto nivel de las relaciones en
 El diagrama de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
 ##### Login Bounded Context
 ![Component_login (1)](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/88e0c546-6539-45fb-9f86-189c47bdebff)
-##### Organization Bounded Context
-![Component_Organization](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/5989e367-247b-44c6-af9f-3b184e3253db)
+##### Company Bounded Context
+![Component_Organization](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/c4fc5109-43ea-430f-b769-699961729cfe)
 ##### Payment Bounded Context
 ![Component_Payment](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/bffb2bdc-e50b-4457-bb85-efdf15cce8b6)
-##### Process Bounded Context
-![Component_Process](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/f7c82007-a981-4db5-9669-86cf88b27db7)
+##### Crop Bounded Context
+![Component_Process](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/0b1e569e-bb80-4c6e-b82e-e0d5e024eef3)
 
 ### 7. **Software Object-Oriented Design.**
 ####     7.1. Class Diagrams.
@@ -4660,6 +4660,8 @@ Enlace para acceder al video About the team [https://youtu.be/GHF8mKq5Sak](https
 - Video exposición TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/ETlown8FiyNFmGcBIfkwGlQBybMGayEc5LST4n8ijOu_gg?e=NITvEX
   
 - Enlace para visualizar el video exposición TP: upc-pre-202302-si730-sw51-integradis-expo-tp1.mp4
+
+- Video exposición TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110278_upc_edu_pe/EdBhCCMsm1xIpAaciy8oE1gBnbXCYUdv-FHCHtdq4fVRkA?e=aTufgS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110278_upc_edu_pe/EdBhCCMsm1xIpAaciy8oE1gBnbXCYUdv-FHCHtdq4fVRkA?e=aTufgS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
   
 - Enlace para acceder al video About the team subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 

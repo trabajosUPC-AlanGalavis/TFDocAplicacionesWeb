@@ -51,6 +51,10 @@ width=50%"/>
 |2.5|26/09/2023|Galavis, Seminario| Mejora continua, corrección del diagrama de base de datos. Redacción de documentation evidence for sprint review|
 |2.6|26/09/2023|Galavis, Seminario| Mejora continua, corrección del diagrama de base de datos. Redacción de documentation evidence for sprint review|
 |2.7|26/09/2023|Espinoza| Avance de conclusiones|
+|3.1|20/10/2023|Galavis|Elaboración de entrevistas de validación|
+|3.2|20/10/2023|Comettant|Elaboración de análisis según heurísticas|
+|3.3|1/11/2023|Galavis| Elaboración de video about the team y about the product|
+|3.4|1/11/2023|Comettant| Análisis de entrevistas de validación|
 
 ## Project Report Collaboration Insights
 
@@ -78,6 +82,16 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Alan Galavis|Corrección del modelo de base de datos. Completar explicaciones de flows. Sprint Backlog 2.|
 |Carlo Seminario|Corrección de impact map. Documentation Evidence for Sprint Review|
 |Jessica Comettant|Correcciones en Lean UX, completar explicación de collaboration|
+|Andres Soto|Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+
+**TB2**
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nicolás Espinoza|Corrección del diagrama de base de datos. Corrección de diagramas C4.|
+|Alan Galavis|Corrección del diagrama de base de datos. Corrección de diagramas C4. Elaboración de video about the product. Elaboración de entrevistas de validación.|
+|Carlo Seminario|Software deployment configuration. Documentation Evidence for Sprint Review.|
+|Jessica Comettant|Evaluación según heurísticas, análisis de entrevistas de validación|
 |Andres Soto|Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización Integradis.
@@ -125,8 +139,8 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un  proyecto en soluciones de ingeniería de software.|**Andrés Soto** TB1: Se realizó la seccion de header en el documento, además de su correspondiente codigo en javascript para cumplir funcionalidades. <br> TP: Se encargó de arreglar los bugs presentados en el landing page del sprint anterior. De la misma forma colaboró con la realización de la seccion sprint 2 del infomre.<br>**Carlo Luca Seminario** TB1: Se aplicó conventional commits y el uso de herramientas de control de versiones para así mejorar el trabajo del equipo tanto para la documentación como para la landing page. <br> TP: Se realizaron reuniones para mantener una comunicación constante e ir presentando nuestros avances durante el proyecto de modo que todos estemos en sintonía para entregar un proyecto de Software. <br> **Nicolás Espinoza** TB1: Los diagramas C4 están involucrados en el proceso de DDD o Domain Driven Design. Los diagramas hacen uso de un lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel. TP: Se está utilizando activamente en el proyecto la metodología Scrum para trabajar, mediante sprints, activamente en el proyecto de la aplicación web frontend. Esta colaboración se puede apreciar en la sección de development evidence. <br>**Alan Enrique Galavis Du Bois** TB1: Todos los miembros del equipo contribuyeron a elaborar todas las partes del informe, bien sea elicitación, análisis y especificación de requisitos, diseño de experiencias de usuario, diseño de base de datos y de patrones de software, etc. Adicionalmente, los integrantes mantuvieron una comunicación activa y una organización constante, lo cual fue posible mediante el uso de herramientas tales como Trello y Github. <br> TP: Para este entregable, resultó necesario que todos los miembros del equipo se desempeñen en actividades tanto generales como específicas. Se evidenció cómo múltiples integrantes colaboraron para implementar una funcionalidad core para el negocio.  <br>**Jessica Elizabeth Comettant Rubiños** TB1:  El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. <br> TP: En el contexto de este entregable, fue esencial que cada miembro del equipo desempeñara un rol eficiente tanto en la implementación de la plataforma como el segmento de documentacón. Fue evidente cómo varios miembros trabajaron en conjunto de manera colaborativa para llevar a cabo la implementación de una funcionalidad fundamental para el éxito del negocio. Este proceso demostró la importancia de la cooperación y la contribución individual en la consecución de nuestros objetivos.|Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo.|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Andrés Soto** TB1: Se realizó diferentes secciones del informe teniendo en cuenta los criterios para obtener una nota sobresaliente. Haciendo mencion en la realización de la segunda sección del capitulo 5 y la realización del landing page mock up y su correspondiente mobile design. <br> TP: Desarrollo la caracteristica de toolbar en la aplicación web. Asimismo desarrollo las ventanas emergentes para el registro de datos de cada fase establecida. <br>**Carlo Luca Seminario** TB1: Se realizó el proceso de especificación y análisis de requisitos para así lograr conocer al sector de las empresas de champiñones de modo que pudimos identificar en que areas enfocarnos para agilizar su flujo de trabajo. <br> TP: Se realizó el producto mínimo viable o MVP para así poder presentar como segundo sprint un producto de valor para nuestro cliente de modo que este mismo se pueda sentir satisfecho con nuestro avance. <br> **Nicolás Espinoza** TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos pedidos. TP: Se profundizó en el uso del framework Vue creando en este entregable componentes hechos en base a materiales proporcionados por primevue, por ejemplo, tablas y dialogs. <br> **Alan Enrique Galavis Du Bois** TB1: Para poder elaborar un producto solución a un problema real resultó necesario cumplir con una elicitación, análisis, especificación de requisitos, dentro de los cuales se identificaron las necesidades actuales de un sector industrial. Para resolver las necesidades encontradas, se propuso elaborar una aplicación web que permita digitalizar el registro de procesos. <br> TP: El segmento objetivo afirmó que le interesa que la solución esté disponible tanto para dispositivos móviles como para computadoras de escritorio. Por ello, que la solución tenga un diseño que se acomode a las dimensiones del dispositivo empleado. Se determinó que para lograr este propósito, el framework Vue se presenta como una opción viable por los componentes y herramientas que ofrece, los cuales permiten hacer con facilidad y agilidad una aplicación responsive y funcional. <br> **Jessica Elizabeth Comettant Rubiños** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. TP: El segmento objetivo expresó un interés firme en la disponibilidad de nuestra solución tanto en dispositivos móviles como en computadoras de escritorio. Después de un análisis exhaustivo, hemos determinado que el framework Vue se posiciona como una opción altamente viable debido a sus componentes y herramientas, los cuales permiten desarrollar una aplicación responsive y funcional de manera eficaz y ágil. Esto asegura que nuestra solución cumpla con las expectativas y necesidades de nuestro público objetivo en términos de accesibilidad y usabilidad en diferentes plataformas.|Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno.|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un  proyecto en soluciones de ingeniería de software.|**Andrés Soto** TB1: Se realizó la seccion de header en el documento, además de su correspondiente codigo en javascript para cumplir funcionalidades. <br> TP: Se encargó de arreglar los bugs presentados en el landing page del sprint anterior. De la misma forma colaboró con la realización de la seccion sprint 2 del infomre.<br> TB2: Contribui con la elaboracion del back end y desarrollo del front end de manera que se pueda realizar un avance significativo y bajo los criterios establecidos, manteniendo en cuenta los deseos del cliente.<br>**Carlo Luca Seminario** TB1: Se aplicó conventional commits y el uso de herramientas de control de versiones para así mejorar el trabajo del equipo tanto para la documentación como para la landing page. <br> TP: Se realizaron reuniones para mantener una comunicación constante e ir presentando nuestros avances durante el proyecto de modo que todos estemos en sintonía para entregar un proyecto de Software. <br>TB2: Se realizaron reuniones para designar tareas y para mantener una comunicación constante, presentando nuestros avances durante el proyecto de modo que todos estemos en sintonía para entregar un proyecto de Software. <br> **Nicolás Espinoza** TB1: Los diagramas C4 están involucrados en el proceso de DDD o Domain Driven Design. Los diagramas hacen uso de un lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel. <br>TP: Se está utilizando activamente en el proyecto la metodología Scrum para trabajar, mediante sprints, activamente en el proyecto de la aplicación web frontend. Esta colaboración se puede apreciar en la sección de development evidence. <br> TB2: Para el desarrollo del back-end se colaboró en conjunto y en constante comunicación con todos los integrantes del equipo. Cada uno de los miembros del equipo se encargó de diferentes endpoints y componentes de la API.<br>**Alan Enrique Galavis Du Bois** TB1: Todos los miembros del equipo contribuyeron a elaborar todas las partes del informe, bien sea elicitación, análisis y especificación de requisitos, diseño de experiencias de usuario, diseño de base de datos y de patrones de software, etc. Adicionalmente, los integrantes mantuvieron una comunicación activa y una organización constante, lo cual fue posible mediante el uso de herramientas tales como Trello y Github. <br> TP: Para este entregable, resultó necesario que todos los miembros del equipo se desempeñen en actividades tanto generales como específicas. Se evidenció cómo múltiples integrantes colaboraron para implementar una funcionalidad core para el negocio. <br> TB2: El equipo colaboró de manera conjunta en cada una de las etapas de desarrollo del front end y back end de la aplicación, desempeñando diferentes actividades que permitieron cumplir con las tareas asignadas para el sprint  <br>**Jessica Elizabeth Comettant Rubiños** TB1:  El startup profile se concibe como elemento esencial para comunicar la visión, misión, propuesta de valor y otros aspectos claves de la empresa para la los stakeholders. Por otra parte, el solution profile presenta una descripción plena del servicio, producto o solución que una empresa  ofrece y cómo puede satisfacer las necesidades de sus clientes. Finalmente, las herramientas tales como el Lean UX Canvas, el User Task Matrix y el User Journey Mapping proporcionan un marco estructurado para la colaboración entre equipos multidisciplinarios. Asimismo, representan la experiencia del usuario en interacción con el servicio. <br> TP: En el contexto de este entregable, fue esencial que cada miembro del equipo desempeñara un rol eficiente tanto en la implementación de la plataforma como el segmento de documentacón. Fue evidente cómo varios miembros trabajaron en conjunto de manera colaborativa para llevar a cabo la implementación de una funcionalidad fundamental para el éxito del negocio. Este proceso demostró la importancia de la cooperación y la contribución individual en la consecución de nuestros objetivos. <br> TB2: Desarrollo de Evaluación según Heurísticas para validación de funcionalidades de la aplicación y landing page. Las conclusiones se comunicaron dentro de la documentación del proyecto. De igual forma, el trabajo en equipo fue realizado de forma equitativa y eficiente.|Como equipo pudimos encontrar medios de organización para solucionar el problema de la falta de tiempo y poder entregar un trabajo parcialmente completo.|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Andrés Soto** TB1: Se realizó diferentes secciones del informe teniendo en cuenta los criterios para obtener una nota sobresaliente. Haciendo mencion en la realización de la segunda sección del capitulo 5 y la realización del landing page mock up y su correspondiente mobile design. <br> TP: Desarrollo la caracteristica de toolbar en la aplicación web. Asimismo desarrollo las ventanas emergentes para el registro de datos de cada fase establecida. <br>TB2: Realizo el sprint backlog del sprint 3, ademas de organizar sprint en trello para la documentacion de avances y organizacion de entregables.<br>**Carlo Luca Seminario** TB1: Se realizó el proceso de especificación y análisis de requisitos para así lograr conocer al sector de las empresas de champiñones de modo que pudimos identificar en que areas enfocarnos para agilizar su flujo de trabajo. <br> TP: Se realizó el producto mínimo viable o MVP para así poder presentar como segundo sprint un producto de valor para nuestro cliente de modo que este mismo se pueda sentir satisfecho con nuestro avance. <br>TB2: Realicé entrevistas de validación para presentar el avance del proyecto al público objetivo para así lograr una retroalimentación activa y poder priorizar los requisitos según lo indicado por el cliente. <br> **Nicolás Espinoza** TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos pedidos. TP: Se profundizó en el uso del framework Vue creando en este entregable componentes hechos en base a materiales proporcionados por primevue, por ejemplo, tablas y dialogs. <br> TB2: Los endpoints creados se realizaron con un conocimiento profundo acerca de cómo debería funcionar una aplicación web de registro de procesos para una fábrica de champiñones. Este conocimiento fue confirmado gracias a las entrevistas de validación con los trabajadores y expertos del dominio.<br> **Alan Enrique Galavis Du Bois** TB1: Para poder elaborar un producto solución a un problema real resultó necesario cumplir con una elicitación, análisis, especificación de requisitos, dentro de los cuales se identificaron las necesidades actuales de un sector industrial. Para resolver las necesidades encontradas, se propuso elaborar una aplicación web que permita digitalizar el registro de procesos. <br> TP: El segmento objetivo afirmó que le interesa que la solución esté disponible tanto para dispositivos móviles como para computadoras de escritorio. Por ello, que la solución tenga un diseño que se acomode a las dimensiones del dispositivo empleado. Se determinó que para lograr este propósito, el framework Vue se presenta como una opción viable por los componentes y herramientas que ofrece, los cuales permiten hacer con facilidad y agilidad una aplicación responsive y funcional. <br> TB2: Se realizaron entrevistas de validación a los segmentos objetivo, en este caso a los dueños de las fábricas champiñoneras y a los trabajadores de las mismas, con el objetivo de presentar el software elaborado y recibir una retroalimentación apropiada. <br> **Jessica Elizabeth Comettant Rubiños** TB1: Para conocer las necesidades del usuario, se realizó el diseño y desarrollo de entrevistas, las cuales buscaban entablar una correcta comunicación con el segmento objetivo. Por otra parte, para un continuo trabajo colaborativo, se realizaron constantes reuniones grupales que retroalimentaban los avances individuales. TP: El segmento objetivo expresó un interés firme en la disponibilidad de nuestra solución tanto en dispositivos móviles como en computadoras de escritorio. Después de un análisis exhaustivo, hemos determinado que el framework Vue se posiciona como una opción altamente viable debido a sus componentes y herramientas, los cuales permiten desarrollar una aplicación responsive y funcional de manera eficaz y ágil. Esto asegura que nuestra solución cumpla con las expectativas y necesidades de nuestro público objetivo en términos de accesibilidad y usabilidad en diferentes plataformas. <br> TB2: Desarrollo de apartados Diseño de entrevistas, Registro de Entrevistas y Evaluación según Heurísticas para validación de funcionalidades de la aplicación y landing page. Colaboración dentro del backend de la aplicación y desarrollo de vistas correspondientes al frontend |Se logro realizar un trabajo parcialmente sobresaliente pues cumplimos con todos los segmentos del trabajo, de tal manera que se pueda entregar un trabajo digno.|
 
 ## Contenido
 
@@ -1843,6 +1857,81 @@ De este modo ya se contaría con la página desplegada y al estar vinculada y co
 
 Enlace para acceder [Front End Web Application](https://greenhouse-web.netlify.app/)
 
+**Back End Web Application deployment**
+
+En primer lugar, resulta necesario ingresar a la página oficial de SmarterASP [https://www.smarterasp.net/free_trial](https://www.smarterasp.net/free_trial). En esta, se deberá crear una cuenta gratuita. Para ello, se selecciona el plan de "60 days free trial", se elige un "Hosting fee" de 0$, "Setup fee" de 0$ y no se ingresa ningún cupón. A continuación, se ingresa un nombre de usuario, correo electrónico y una contraseña entre 8 y 16 caracteres, los cuales serán utilizados para iniciar sesión en la página SmarterAsp. 
+
+<img src="./Imagenes/creating_smarterasp_account.jpg">
+
+A continuación, SmarterASP mostrará un mensaje que indica verificar la dirección de correo electrónico. Para ello, debe de abrirse el mensaje recibido por correo y presionar en el enlace indicado. Al presionarlo, se solicitará iniciar sesión en la cuenta recién creada.
+
+<img src="./Imagenes/smarterasp_sign_in.jpg">
+
+Seguidamente, uno se dirige a la sección "facturas" (O "billings") para comenzar el período de prueba. Para ello se presiona el botón "Try now", dentro del cual uno debe ingresar una contraseña y un nombre para la carpeta raíz. En este caso, se optó por ingresar la misma contraseña con la que se creó la cuenta, y para el nombre de la carpeta se ingresó "grupo".
+
+<img src="./Imagenes/smarterasp_facturas.png">
+
+Posteriormente, en la sección "hostings" se presiona el botón submit y se espera a que termine de cargar la página, esto demora entre uno y tres minutos; después de este plazo, debe de haber llegado al correo electrónico un mensaje al correo electrónico, el cual confirma que la cuenta fue hosteada.
+
+<img src="./Imagenes/smarterasp_hostings.png">
+
+A continuación, se ingresa a la sección "panel de control" (O "Control panel").
+
+<img src="./Imagenes/smarterasp_control_panel.jpg">
+
+En esta, se debe oprimir sobre el botón de bases de datos, y elegir la opción MySQL.
+
+<img src="./Imagenes/smarterasp_mysql.jpg">
+
+Una vez dentro, se debe oprimir el botón "Add database", y se desplegará un dialog donde se solicita elegir la versión de MySQL (En este caso, MySQL 8.x), ingresar el nombre de la base de datos (En este caso, se escribió root), y la contraseña creada anteriormente. Como DB Disk Quota se ingresa 1000. Seguidamente se presiona el botón submit.
+
+<img src="./Imagenes/smarterasp_add_database.jpg">
+
+A continuación resulta necesario dirigirse a la sección websites, oprimir el botón "Manage website" y elegir la opción VS Webdeploy. Seguidamente, se presiona el botón "get publish setting" y se espera a que el archivo con extensión .PublishSettings termine de descargarse.
+
+<img src="./Imagenes/smarterasp_vs_webdeploy.jpg">
+
+Una vez que el archivo se haya descargado, se abre la aplicación Visual Studio 2022, y se abre el proyecto donde se elaboró el backend que se desea desplegar. En el explorador de soluciones, se presiona click derecho sobre el proyecto y se presiona el botón "Publish".
+
+<img src="./Imagenes/visual2022_publish.jpg">
+
+En esta sección, se crea un nuevo perfil y se selecciona la opción "import profile". Se elige como configuración de publicación el archivo descargado anteriormente con extensión .PublishSettings, y se presiona el botón "finish".
+
+<img src="./Imagenes/visual2022_import_profile.jpg">
+
+Se espera a que se cree el perfil, una vez finalizado, se mostrará un mensaje de confirmación. Se cierra la ventana emergente y se presiona sobre el enlace "Show all settings". En esta, se despliega la lista de bases de datos, se selecciona la opción "use this connection string at runtime".
+
+<img src="./Imagenes/visual2022_show_all_settings.jpg">
+
+Se abre la página SmarterASP y nuevamente se ingresa a la sección databases. Se presiona sobre el botón "Connection String examples" y se copia la ruta de ASP.NET otorgada. Se debe de reemplazar el texto "YOUR_DB_PASSWORD" con la contraseña anteriormente creada.
+
+<img src="./Imagenes/smarterasp_route.jpg">
+
+Se retorna a Visual Studio 2022, y en la misma sección "Show all settings", se pega la ruta copiada en la sección "defaultConnection", y se guarda.
+
+<img src="./Imagenes/visual2022_default_connection.jpg">
+
+Se presiona sobre el botón publicar, se ingresa el nombre de usuario y la contraseña anteriormente creados y se presiona el botón aceptar. A continuación, se abrirá en el navegador el enlace a la aplicación desplegada.
+
+<img src="./Imagenes/visual2022_publishing.jpg">
+
+En esta, se deberá iniciar sesión con las credenciales anteriormente creadas, y se agrega /swagger/index.html al final de la ruta.
+
+Enlace para acceder al back end de la aplicación [http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html](http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html)
+
+
+<div><h2>7. Video About the product.</h2> <div>
+
+A continuación, se presenta el video About the product, el cual evidencia el propósito, beneficios y principales características de la aplicación, adicionalmente, incluye testimonios de parte de los principales usuarios donde se valida la calidad del software elaborado. El video tiene una duración de 1:17 minutos
+
+<img src="./Imagenes/about_the_product.png">
+
+Enlace para visualizar el video About the product:
+
+Enlace del video subido a YouTube: [https://youtu.be/BMjgyGefraM](https://youtu.be/BMjgyGefraM)
+
+Enlace del video subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
 ### 2. Landing Page, Services & Applications Implementation.
 ####     2.1. Sprint 1
 #####         **2.1.1. Sprint Planning 1.**
@@ -2388,21 +2477,21 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
 |https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb|upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/|2ee466a|chore: uploaded acceptance test for user stories||29/09/2023|
 
 <div id='5.2.2.5.'><h5>5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
-En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
+En el sprint 2 se alcanzó un desarrollo completo en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
 
-Landing Page Ingles:
+Landing Page en Inglés:
 
 ![landing_page_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5cdd2d53-b426-4a0d-aa55-1e657fd3e62a)
 
-Landing Page Responsive Ingles:
+Landing Page vista Mobile Web Browser en Inglés:
 
 ![landing_page_responsive_evidence_EN](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/e9ecc3e1-e2b6-4688-a0f2-84ffab72b26b)
 
-Landing Page Español:
+Landing Page en Español:
 
 ![landing_page_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/da22018d-2915-430c-9af8-34d308c6c483)
 
-Landing Page Responsive Español:
+Landing Page vista Mobile Web Browser en Español:
 
 ![landing_page_responsive_evidence_ES](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/5a1358e3-8844-4206-bd59-a289ced700e5)
 
@@ -2425,6 +2514,231 @@ Para el sprint 2 únicamente se planificó abarcar únicamente la landing page y
 | /grow_room_record?processType=Casing | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase casing del grow room| 
 | /grow_room_record?processType=Induction | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase induction del grow room| 
 | /grow_room_record?processType=Harvest | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase harvest del grow room| 
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="5">Bunkers</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/bunkers</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/bunkers</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/bunkers/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/bunkers/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Companies</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/companies/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/companies/{id}</td>
+        </tr>
+        <tr>
+            <td>CompanyEmployees</td>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/companies/{comapnyId}/employees</td>
+        </tr>
+        <tr>
+            <td>CropPhases</td>
+            <td>GET</td>
+            <td>{phaseId}</td>
+            <td>api/v1/phases/{phaseId}/crops</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/crops/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/crops/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Employees</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/employees/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/employees/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Formulas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/formulas</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/formulas/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/forumals/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">GrowRoomRecords</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/growroomrecords</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/growroomrecords</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/growroomrecord/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/growroomrecords/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Phases</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/phases</td>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/phases/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">PreparationAreas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/preparationareas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/preparationareas</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/preparationareas/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/preparationareas/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Tunnels</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/tunnels</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/tunnels</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/tunnels/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/tunnels/{id}</td>
+        </tr>   
+    </tbody>
+</table>
+
+Link del repositorio: 
+
+https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API 
 
 <div id='5.2.2.7.'><h5>5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
@@ -2576,10 +2890,375 @@ El Sprint #3 tiene como fecha de inicio el 11/10/2023 y como meta plantea resolv
 
 En el tercer sprint backlog, el equipo completó parcialmente el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades.
 
-![Trello Sprint 2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8da6f60b-229e-4e98-8f60-e13c8ae70be4)
+![Trello sprint 3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/83cbe98d-2b95-4984-ace5-c0ac7db9076d)
 
 Link del Trello: https://trello.com/invite/b/Ws9Po0JS/ATTI4a2de33a117cdb4b2ee418050cc989df659B052B/sprint-3
 
+<table>
+    <thead>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 3</th>
+    </tr>
+    <tr>
+      <th colspan="2">Technical User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+            <td rowspan="3">TS01</td>
+            <td rowspan="3">Crear cuenta de empleado</td>
+            <td>TK13</td>
+            <td>Crear endpoint que permita ejecutar get employee</td>
+            <td>Crear endpoint que permite la comunicación para obtener los valores necesitados</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK14</td>
+            <td>Validar correo</td>
+            <td>Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK15</td>
+            <td>Validar id</td>
+            <td>Recorrer los id existentes para validar que no exista el mismo ingresado actualmente</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">TS03</td>
+            <td rowspan="2">Crear cultivo</td>
+            <td>TK16</td>
+            <td>Crear cultivo</td>
+            <td>Crear endpoint que permite la comunicación para obtener los valores necesitados</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK17</td>
+            <td>Validar existencia de un cultivo con id de compañia</td>
+            <td>Recorrer la base de datos en busca de un id de una determinada compañia para verificar su existencia</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="15">TS04</td>
+            <td rowspan="15">Crear registro</td>
+            <td>TK18</td>
+            <td>Crear registro de la fase formula</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK19</td>
+            <td>Crear registro de la fase formula de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK20</td>
+            <td>Crear registro de fase Formula de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK21</td>
+            <td>Crear registro de fase Preparation Area</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK22</td>
+            <td>Crear registro de fase Preparation Area de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK23</td>
+            <td>Crear registro de fase Preparation Area de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK24</td>
+            <td>Crear registro de fase Bunker</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Jessica Commetant</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK25</td>
+            <td>Crear registro de fase Bunker de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Jessica Commetant</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK26</td>
+            <td>Crear registro de fase Bunker de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Jessica Commetant</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK27</td>
+            <td>Crear registro de fase Tunnel</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Andres Soto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK28</td>
+            <td>Crear registro de fase Tunnel de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Andres Soto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK29</td>
+            <td>Crear registro de fase Tunnel de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Andres Soto</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK30</td>
+            <td>Crear registro de fase Grow Room</td>
+            <td>Se creará un registro de datos haciendo uso de endpoints</td>
+            <td>4</td>
+            <td>Nicolas Espinoza</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK31</td>
+            <td>Crear registro de fase Grow Room de cultivo no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un cultivo para validar su existencia</td>
+            <td>5</td>
+            <td>Nicolas Espinoza</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK32</td>
+            <td>Crear registro de fase Grow Room de empleado no existente</td>
+            <td>Se recorrerá la base de datos en busca del id de un empleado para validar su existencia</td>
+            <td>5</td>
+            <td>Nicolas Espinoza</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">TS06</td>
+            <td rowspan="2">Obtener datos de empleado</td>
+            <td>TK33</td>
+            <td>Obtener empleados</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los empleados registrados en la base de datos</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK34</td>
+            <td>Obtener empleados sin ningún empleado registrado</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los empleados registrados en la base de datos</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">TS07</td>
+            <td rowspan="2">Obtener datos del cultivo</td>
+            <td>TK35</td>
+            <td>Obtener cultivos</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los cultivos registrados en la base de datos</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK36</td>
+            <td>Obtener cultivos sin ningún cultivo registrado</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los cultivos registrados en la base de datos</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="17">TS08</td>
+            <td rowspan="17">Obtener datos de cada fase del cultivo</td>
+            <td>TK37</td>
+            <td>Obtener registros de fase formula</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase formula en la base de datos</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK38</td>
+            <td>Obtener registros de fase formula sin ningún registro</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase formula en la base de datos</td>
+            <td>4</td>
+            <td>Carlo Seminario</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TK39</td>
+            <td>Obtener registros de fase preparation area</td>
+            <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase preparation area en la base de datos</td>
+            <td>4</td>
+            <td>Alan Galavis</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+      <td>TK40</td>
+      <td>Obtener registros de fase preparation area sin ningún registro</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase preparation area en la base de datos</td>
+      <td>4</td>
+      <td>Alan Galavis</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK41</td>
+      <td>Obtener registros de fase bunker</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase bunker en la base de datos</td>
+      <td>4</td>
+      <td>Jessica Commetant</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK42</td>
+      <td>Obtener registros de fase bunker sin ningún registro</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase bunker en la base de datos</td>
+      <td>4</td>
+      <td>Jessica Commetant</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK43</td>
+      <td>Obtener registros de fase tunnel</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase tunnel en la base de datos</td>
+      <td>4</td>
+      <td>Andres Soto</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK44</td>
+      <td>Obtener registros de fase tunnel sin ningún registro</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase tunnel en la base de datos</td>
+      <td>4</td>
+      <td>Andres Soto</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK45</td>
+      <td>Obtener registros de las fases de grow room</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se obtendra la lista de los registro de la fase grow rooms en la base de datos</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+        <tr>
+      <td>TK46</td>
+      <td>Obtener registros de las fases de grow room sin ningún registro</td>
+      <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase grow rooms en la base de datos</td>
+      <td>4</td>
+      <td>Nicolas Espinoza</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+    <td>TK40</td>
+    <td>Obtener registros de fase preparation area sin ningún registro</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase preparation area en la base de datos</td>
+    <td>4</td>
+    <td>Alan Galavis</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK41</td>
+    <td>Obtener registros de fase bunker</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase bunker en la base de datos</td>
+    <td>4</td>
+    <td>Jessica Commetant</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK42</td>
+    <td>Obtener registros de fase bunker sin ningún registro</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase bunker en la base de datos</td>
+    <td>4</td>
+    <td>Jessica Commetant</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK43</td>
+    <td>Obtener registros de fase tunnel</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase tunnel en la base de datos</td>
+    <td>4</td>
+    <td>Andres Soto</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK44</td>
+    <td>Obtener registros de fase tunnel sin ningún registro</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase tunnel en la base de datos</td>
+    <td>4</td>
+    <td>Andres Soto</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK45</td>
+    <td>Obtener registros de las fases de grow room</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se obtendrá la lista de los registro de la fase grow rooms en la base de datos</td>
+    <td>4</td>
+    <td>Nicolas Espinoza</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>TK46</td>
+    <td>Obtener registros de las fases de grow room sin ningún registro</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get se falla al obtener la lista de los registro de la fase grow rooms en la base de datos</td>
+    <td>4</td>
+    <td>Nicolas Espinoza</td>
+    <td>Done</td>
+</tr>
+
+  </thead>
+    </thead>
+</table>
 
 
 <div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review.</h5></div>
@@ -2588,13 +3267,119 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
-|||||||
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|bd8c163|chore: updated DDD of project||4/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|b06288d|feat(login): added login component||9/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|0289523|feat(login): added axios to login||9/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|76721b2|chore: resolved merge conflicts||9/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|2082f19|fix: fixed margin for card components||9/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|e3f13b4|feat(signup): added signup component||10/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|a4f86d1|feat: added pointer cursor to checkboxes||10/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|32e3322|feat: added password reset component and site policy||10/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|af3d8ad|feat(site-policy): added card to site policy||10/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|50f45b0|feat(json-server): Modified json server||15/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|aed0b28|fix(endpoints): Modified endpoints to show the correct data||15/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|629f9d2|feat(locales): Added language change to login/signup from toolbar||16/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|8ad877f|fix(locales): Changed <span> to <pv-dropdown> to change language||16/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|f6e6930|chore(locales): Improved text decoration to dropdown component||16/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|30a415c|chore(toolbar): Added flex to profile_name and organization_name||16/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|7922f22|fix(process-input-dialog): The component was fixed to be dynamic. In addition, the unnecessary components were eliminated and the fixed component was repositioned.||16/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|0b3b963|feat(locales): Added localization to page-not-found, dashboard and harvesting-in-progress||16/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|579232a|chore(locales): Refactored organization of es and en json||17/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|55a48f9|chore: updated db.json file to add crop and organization information, feat(harvesting-api): added json-server api service class for crops, feat(harvesting-in-progress): added data table for crop information||18/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|5afd646|feat(user-profile): Added user profile component||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|e63e2bb|feat(user-profile): Added internationalization to user-profile||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|6d79933|feat(user-profile): Added profile-api service||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|24078e9|fix: Fixed primary font family overwriting awesomefont items||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|5351b1d|fix: Fixed cancel button not working||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|6d6911a|fix: Fixed crops in progress card colors||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|8bca868|feat(dashboard): Added recent records table to dashboard||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|0df4db6|fix(toolbar): warning of toolbar logo directory used.||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|d20c511|fix: changed use of deprecated ::v-deep to :deep||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|476a019|feat(harvesting-in-progress): added post API functionalities to add newly started crops, feat(harvesting-api): added method to post new crops, chore(): refactored popup new crop component into harvesting-in-progress component, chore(): updated db.json to add crops data||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|7509331|fix(db): Fixed db.json to reference users inside company||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|2c72a1b|chore(db): Merged db.json upcoming changes||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|c1b5a2c|chore: changed variable names to ubiquitous language||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|9c14819|feat(user-profile): Added user profile component template and script||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|bf0dffb|feat(stepper): Added crop id and start date to stepper||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|f7c9d21|fix(process-input-dialog): the data is now post into its corresponding endpoint.||20/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|ca17689|feat(process-input-dialog): the data is now post correctly.||20/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|fd844c4|feat(process-table): the table now updates when a new record is created.||21/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|114fffc|feat(harvesting-in-progress): added filtering functionalities to datatable||21/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|1ba857a|feat(dashboard): recent record table shows contents.||21/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|efa8218|feat(crop-history): added crop-history page component||21/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|4d37cce|chore: merged recent crops table||21/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|5e0dd84|chore(dashboard): recent record table shows contents correctly.||21/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|c323863|chore(process-table): process table starts on the current phase and also is saved when a phase is ended.||22/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|8638f3a|feat(company): Added company profile section||23/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|3f1e591|fix: Fixed routing on crop creation||25/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|dc53935|fix(process-table): fixed the data shown on tables of a new crop when saving a record.||25/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|e84c135|chore(process-table): when a crop is finished is state is updated.||25/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|4b1d18|feat(fake-api): changed the endpoints form local sever to My JSON server.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|0536d75|chore: Updated dependencies||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f09177d|feat: Added crop model||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|e3cbc42|feat: Added crop model||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|c1a04b0|feat: Added Crop Repository and Service files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|9041fb5|feat: Added crop Resource and Response files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|2a2b86|feat: Added CropsController||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|32384f3|feat: Added phase model||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7d514a1|feat: Added Phase Repository and Service interfaces||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f39671b|feat: Added Phase Repository and Service files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7098207|feat: Added Phase Resource and Response files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|cb92763|feat: Added PhasesController and CropPhasesController||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|dae3d4b|chore: Added dependency injection and automapper configuration||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|958197b|feat(companies_controller):Added CompaniesController for CRUD operations with Company resources||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|3118dbe|feat(company):Added Company class to represent company information, including relationships with employees.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|3db9714|feat: added bunker model.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|2198607|feat: added bunker repository and service interfaces.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|3096577|chore:add companiescontroller and company model||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|3c0efb9|feat: added bunker repository and service files.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|e8356a4|feat: added bunker resource and response files.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|28e7a63|feat(Company): Defined the ICompanyRepository interface for managing company data operations.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7cf3d4b|feat: added BunkersController.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|17398b7|chore: updated the default connection.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|2b8ae2f|feat: added BaseRepository.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|5890cf8|feat: added UnitOfWork.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|8892c34|feat: added AppDbContext.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|55b5b76|feat(company-services): Defined CompanyResponse class and ICompanyService interface for managing company data with communication support.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f114320|chore(refactor):Refactor services folder location||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|b920ac5|feat(Company): Implemented CompanyRepository for CRUD operations with the database.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7edbaa3|feat(Company-resources): Added CompanyResource and SaveCompanyResource classes for defining data transfer objects.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|013648f|feat(Company-service): Implemented CompanyService for managing company data with CRUD operations and error handling.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7ad7de0|chore:Refactor code||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|1e5edf2|feat(Extensions): Added utility extensions for improving code readability and database naming convention. ModelBuilderExtensions is used to enforce a snake_case naming convention for database tables and columns, ModelStateExtensions is used to extract error messages from ModelStateDictionary, and StringExtensions provides a method for converting strings to snake_case. These extensions enhance code quality and maintainability.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|03b07cd|feat: added tunnel model.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|0ec0966|feat: added tunnel repository and service interfaces.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ac09875|feat: added tunnel repository and service files.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|b4c3c9f|feat: added tunnel resource and response files.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f613e75|feat: added TunnelsController.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|6bbf3d2|fix: deleted workspace.xml||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|d669ede|feat: added UnitOfWork interface and base response class||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|a57b833|feat(Formula): added Formula repositories, response and resources||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|5fe5a20|feat(Formula): added formula controller||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|955cb25|chore: Updated server connection to deployed database||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|a25ab4c|fix: deleted .idea files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|8e92cdd|feat: added growRoomRecord model||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|4ce8dcd|feat: Added growRoomRecord repository and Service interfaces||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|d94550a|feat: Added growRoomRecord repository and service files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|6033661|feat: added growRoomRecord resource and response files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f7db547|feat: added growRoomRecordController||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|b7110d2|feat: added crop Resource file||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|5c6c25b|feat: added employee model||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|81fcc59|feat: added employee repository and service interfaces||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|99c605d|feat: added employee repository and service files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|85a7d0a|feat: modeltoresource and resourcetomodel||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|1efee25|feat: added employee resource files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|0b9e393|feat: added employee controller||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ea55417|feat: added preparation area services, repositories and controller||31/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|upc-pre-202302-si730-sw51-integradis/LandingPage|c2e92cf|feat: Added about the product video||1/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|upc-pre-202302-si730-sw51-integradis/LandingPage|5f0569b|feat: added about the team.||3/11/2023|
+
 
 <div id='5.2.3.4.'><h5>5.2.3.4.Testing Suite Evidence for Sprint Review.</h5></div>
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
-|||||||
+|https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb|upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb|5397392|chore: uploaded acceptance test for user stories||03/11/2023|
 
 
 <div id='5.2.3.5.'><h5>5.2.3.5.Execution Evidence for Sprint Review.</h5></div>
@@ -2612,6 +3397,32 @@ En el sprint 3 se alcanzo un desarrollo parcial del frontend y backend de la web
 ![web_app_company](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/34ec37b5-4317-43f4-9e95-263c82fb2466)
 - US21:
 ![web_app_user](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8bf6318d-df85-4233-a0b3-e51cd0652318)
+- TS01:
+![web_service_formula_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/30b39bb3-58f4-4c3a-9ca2-b90e8e3f02fc)
+- TS03:
+![web_service_crop_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8704d568-0148-42dd-ab5b-a8a120cf20c6)
+- TS04:
+![web_service_bunker_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/bc3d4921-5c68-4bd8-96fe-63912aec18d0)
+![web_service_formula_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/30b39bb3-58f4-4c3a-9ca2-b90e8e3f02fc)
+![web_service_growroomrecords_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/411bf86e-c39e-4563-99ad-3c7825bb7fb1)
+![web_service_phases_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6f2b153d-6456-4154-b5c2-7c6fc94434fd)
+![web_service_preparationareas_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/1868cd7b-6ac5-465f-a452-aba09e4930a3)
+![web_service_tunnels_post](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/03827510-8743-456c-b0ec-dee150b678e6)
+- TS06:
+![web_service_employees_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/4e0e7f91-ba6e-49c7-bf20-b763dab83fcf)
+- TS07:
+![web_service_crops_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cab2ae16-79e7-466a-8101-492d1a07de83)
+- TS08:
+![web_service_bunker_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/803ccabe-196c-49cf-990e-e94e2c153f29)
+![web_service_formulas_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/81c318bd-681a-4587-adca-0aaf8eddb410)
+![web_service_growroomrecords_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/36001343-4fc4-49a6-95ad-1ba9ea7b9f7c)
+![web_service_phases_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/5b61c44c-1310-4dae-ab14-d5bf13e14fab)
+![web_service_preparationareas_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7219bed2-9869-4787-a107-49e0b6124f54)
+![web_service_tunnels_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e598be7e-4704-4cee-9328-072ada531a96)
+
+Enlace para visualizar el video de explicación de los logros del Sprint: 
+
+[https://youtu.be/FG3MVppHkyg](https://youtu.be/FG3MVppHkyg)
 
 <div id='5.2.3.6.'><h5>5.2.3.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -2862,7 +3673,62 @@ https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API
 
 Commits web service:
 
-|Commits|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|0536d75|chore: Updated dependencies||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f09177d|feat: Added crop model||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|e3cbc42|feat: Added crop model||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|c1a04b0|feat: Added Crop Repository and Service files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|9041fb5|feat: Added crop Resource and Response files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|2a2b86|feat: Added CropsController||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|32384f3|feat: Added phase model||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7d514a1|feat: Added Phase Repository and Service interfaces||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f39671b|feat: Added Phase Repository and Service files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7098207|feat: Added Phase Resource and Response files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|cb92763|feat: Added PhasesController and CropPhasesController||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|dae3d4b|chore: Added dependency injection and automapper configuration||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|958197b|feat(companies_controller):Added CompaniesController for CRUD operations with Company resources||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|3118dbe|feat(company):Added Company class to represent company information, including relationships with employees.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|3db9714|feat: added bunker model.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|2198607|feat: added bunker repository and service interfaces.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|3096577|chore:add companiescontroller and company model||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|3c0efb9|feat: added bunker repository and service files.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|e8356a4|feat: added bunker resource and response files.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|28e7a63|feat(Company): Defined the ICompanyRepository interface for managing company data operations.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7cf3d4b|feat: added BunkersController.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|17398b7|chore: updated the default connection.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|2b8ae2f|feat: added BaseRepository.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|5890cf8|feat: added UnitOfWork.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|8892c34|feat: added AppDbContext.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|55b5b76|feat(company-services): Defined CompanyResponse class and ICompanyService interface for managing company data with communication support.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f114320|chore(refactor):Refactor services folder location||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|b920ac5|feat(Company): Implemented CompanyRepository for CRUD operations with the database.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7edbaa3|feat(Company-resources): Added CompanyResource and SaveCompanyResource classes for defining data transfer objects.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|013648f|feat(Company-service): Implemented CompanyService for managing company data with CRUD operations and error handling.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7ad7de0|chore:Refactor code||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|1e5edf2|feat(Extensions): Added utility extensions for improving code readability and database naming convention. ModelBuilderExtensions is used to enforce a snake_case naming convention for database tables and columns, ModelStateExtensions is used to extract error messages from ModelStateDictionary, and StringExtensions provides a method for converting strings to snake_case. These extensions enhance code quality and maintainability.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|03b07cd|feat: added tunnel model.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|0ec0966|feat: added tunnel repository and service interfaces.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ac09875|feat: added tunnel repository and service files.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|b4c3c9f|feat: added tunnel resource and response files.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f613e75|feat: added TunnelsController.||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|6bbf3d2|fix: deleted workspace.xml||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|d669ede|feat: added UnitOfWork interface and base response class||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|a57b833|feat(Formula): added Formula repositories, response and resources||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|5fe5a20|feat(Formula): added formula controller||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|955cb25|chore: Updated server connection to deployed database||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|a25ab4c|fix: deleted .idea files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|8e92cdd|feat: added growRoomRecord model||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|4ce8dcd|feat: Added growRoomRecord repository and Service interfaces||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|d94550a|feat: Added growRoomRecord repository and service files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|6033661|feat: added growRoomRecord resource and response files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f7db547|feat: added growRoomRecordController||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|b7110d2|feat: added crop Resource file||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|5c6c25b|feat: added employee model||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|81fcc59|feat: added employee repository and service interfaces||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|99c605d|feat: added employee repository and service files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|85a7d0a|feat: modeltoresource and resourcetomodel||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|1efee25|feat: added employee resource files||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|0b9e393|feat: added employee controller||30/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ea55417|feat: added preparation area services, repositories and controller||31/10/2023|
 
 <div id='5.2.3.7.'><h5>5.2.3.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
@@ -2872,17 +3738,27 @@ Landing page:
 
 El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
 
-
-
 - Capturas de pantalla landing page:
 
-
+![1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/0c4c9fc3-2284-435c-8dc0-991a6d1cabc5)
+![2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e98099b2-4bcb-4c4f-a753-2120179c1235)
+![3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/41043c07-8cf4-4b4b-804b-7c4a19eb4754)
+![4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/2a5a6ad0-9817-40f2-bb75-232fb9b5ddd8)
+![5](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/fb4fba19-cbfc-4ec9-86a5-10e215544091)
+![6](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8ff75e38-2cdf-4426-8cd1-f3f311e6d41a)
+![7](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/91e4ab9d-5f4f-4639-b71f-c42ce5bded4f)
+![8](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/8dffc1f0-d4cb-43f3-9d46-d0a1b539da2b)
+![9](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/a8f474f8-8dbd-4212-b8ca-3d11c9a6e321)
+![10](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/4efea009-9496-495a-bc25-7c64e9cfba82)
+![11](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/b89afffa-fce9-4758-a8b9-697063414d67)
+![12](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/7f14f842-f502-4f74-a654-4db839a1e4c0)
 
 Web Application front-end:
 
 Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
 
 ![Deploy_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/88749dbc-f162-44fa-bb59-778cdfb47fb2)
+
 - Capturas de pantalla de web application:
 
 ![web_app_login](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d849966d-f0f3-45ba-8cee-bce4434c2ee5)
@@ -2920,7 +3796,12 @@ Al netlify estar conectado a github, al realizar un merge en la rama principal (
 ![crop_completed](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/cca88ab0-f0eb-4fc1-9421-6fbff7a70143)
 
 Web Application back-end:
-.
+
+Ultímo despligue del web service en SmartASP.NET:
+![image2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/1c38bbf8-8e2d-4372-943f-b4d43a3995f4)
+
+Base de Dato en SmartASP.NET:
+![image](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ea1455fa-e46f-40e3-b567-d49044e482d4)
 
 - Capturas de pantalla de web services:
 ![web_service_bunker_get](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/803ccabe-196c-49cf-990e-e94e2c153f29)
@@ -2975,23 +3856,103 @@ Web Application back-end:
 
 Repositorio Landing:
 
-
+![insight_1_landing_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e0c0874d-8098-4922-9f04-bd32eb71e609)
+![insight_2_landing_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f97c1225-0c52-4157-8379-051a0a6e5e83)
 
 Repositorio Web Application:
 
 ![insight_1_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9a107bdc-62fd-4ff5-a007-5dbb4a981f50)
-
 ![insight_2_web](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/6d019244-fdb8-44f7-a800-dc966fcd0b43)
 
 Repositorio Platform:
+
+![insight_1_web_api](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d7998c14-b970-4938-8c7d-0ab32a8b4b7a)
+![insight_2_web_api](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d8282733-2258-4130-8a4c-1c9e3a2531c5)
 =======
 <div id='5.3.'><h5> 5.3. Validation Interviews.</h5></div>
 
+Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la página web destinada a optimizar la gestión de cultivos de champiñones en Perú. Esta fase crítica del proyecto implica un diálogo interactivo con nuestros usuarios primordiales: los administradores y los técnicos supervisores. A través de entrevistas estructuradas, nos proponemos captar sus impresiones y sugerencias. Lo mencionado garantiza que la web no solo cumpla con los estándares técnicos sino que también resuene con las dinámicas operativas y las expectativas del personal de planta. A continuación se procede a especificar los user goals necesarios para la ejecución de entrevistas:
+
 <div id='5.3.1.'><h5> 5.3.1. Diseño de Entrevistas.</h5></div>
+
+Dentro de esta sección, se detalla los objetivos de usuario específicos que orientan nuestras entrevistas. Estos 'user goals' son cruciales para garantizar que la plataforma web cumpla con las exigencias reales de los usuarios en el sector de cultivo de champiñones. En continuidad, se procede a presentar los user goals mencionados:
+
+**User Goal: Iniciar sesión**
+
+User persona: Administradores y Técnicos supervisores. Explicación del flujo: En primer lugar, el usuario deberá de acceder a la aplicación desplegada. Seguidamente, visualizará en pantalla un formulario que solicitará sus datos de inicio de sesión, en este caso, correo electrónico y contraseña. En caso de que estos sean validados, el sistema redirigirá al usuario al dashboard. Caso contrario, se mantendrá en la pestaña de inicio de sesión y se le solicitará reintroducir sus credenciales.
+
+**User Goal: Navegar por el dashboard**
+
+User persona: Administradores. Explicación del flujo: Una vez que el usuario inicie sesión, será redirigido al dashboard en donde visualizará una serie de opciones. La primera opción, llamada "View harvestings in progress", permitirá al administrador revisar los cultivos en progreso y sus respectivos registros. La segunda, denominada "My organization", permitirá al usuario acceder al apartado de la organización. En tercer lugar se encuentra la opción "Statistical reports", la cual mostrará reportes estadísticos de valor para el usuario, como son el estado de las naves, número de registros por cultivo en progreso, insumos utilizados dentro de los cultivos, etc. Finalmente, el botón "Harvest Archive" redirigirá al usuario a la sección homónima.
+
+**User Goal: Crear un nuevo cultivo**
+
+User persona: Técnicos supervisores. Explicación del flujo: En primer lugar el usuario debe de acceder a la sección "Process Log", dentro de la cual podrá encontrar una lista de registros de cultivos creados y catalogados como "En proceso". Cuando el usuario presione el botón ubicado en la parte inferior de la lista, se desplegará un mensaje emergente que solicitará confirmar su intención de crear una nueva cosecha. En caso de ser confirmada, se redireccionará al usuario a la nueva siembra creada.
+
+**User Goal: Registrar procesos**
+
+User persona: Técnicos supervisores. Explicación del flujo: En primer lugar, el usuario debe de elegir un cultivo activo de la lista presente en la sección "Process Log". A continuación, deberá ingresar oprimir el botón situado en la parte inferior del stepper que indica "Crear nuevo registro". Una vez oprimido, se desplegará un "dialog" con casillas de texto, dentro de las cuales los usuarios podrán registrar la información necesaria. Cabe destacar que el presente flujo sienta las bases de el registro de procesos en cada una de las 8 fases existentes.
+
+**User Goal: Ver perfil**
+
+User persona: Administradores y Técnicos supervisores.
+
+Explicación del flujo: En todo momento el usuario visualizará en la parte superior de la aplicación una "navbar". Cuando presione sobre su nombre o foto, los cuales son elementos que están situados en el extremo derecho de la "navbar", podrá acceder a su perfil de usuario. En este podrá realizar actividades de relevancia, tales como ver su rol dentro de la organización y actualizar sus datos personales.
+
+**User Goal: Ver empresa**
+
+User persona: Administradores y Técnicos supervisores.
+
+Explicación del flujo: El usuario podrá visualizar la información relacionada con su empresa de dos maneras diferentes, la primera es ingresando desde el botón situado a la derecha de la "navbar", y la segunda es accediendo a la sección "My organization" desde el dashboard.
 
 <div id='5.3.2.'><h5> 5.3.2. Registro de Entrevistas.</h5></div>
 
-<div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
+**Primer segmento objetivo (Técnico supervisor):**
+
+Entrevista de validación usuario técnico supervisor 01:
+
+|**Entrevistado 01**|Carlos Castillo|
+| :-: | :- |
+|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 001](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/b53b1043-b204-47ef-bd52-e4190c7467e5)|<p>Durante la entrevista de validación, Carlos Castillo, en su rol de supervisor técnico, evaluó la aplicación web GreenHouse. Al inicio, destacó la elección de colores en el diseño de la interfaz. Luego procedió a examinar la facilidad de acceso y la presentación clara de la información esencial. Castillo también revisó la navegación intuitiva entre las diversas secciones, la sencillez del proceso de inicio de sesión, la posibilidad de cambiar el idioma, así como la creación y gestión de datos en tablas. Inspeccionó, igualmente, el acceso a los perfiles de usuario y empresa.</p><p></p><p>Las funcionalidades revisadas coinciden con los user goals identificados anteriormente. Castillo afirmó la efectividad de estos elementos, destacando la buena comprensión y presentación de los componentes de la aplicación. En conclusión, estableció que GreenHouse cumple con su propósito funcional y aborda de manera efectiva las cuestiones planteadas al principio.</p>|
+|Timing: 0:04 – 12:53|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=PARBMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjc3NS45M319)|
+
+Entrevista de validación usuario técnico supervisor 02:
+
+|**Entrevistado 02**|Jean Carlos del Águila|
+| :-: | :- |
+|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 002](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/64ab9cff-8aaf-4b01-b939-896e12ada283)|<p>El entrevistador se presentó e inició la sesión con Jean Carlos del Águila, quien ocupa el puesto de supervisor técnico. Se invitó a del Águila a examinar la landing page y a emitir sus comentarios sobre el diseño y la sección de colaboradores. Tras ello, se le solicitó simular el proceso de inicio de sesión y proseguir con la exploración de la aplicación, centrándose en las áreas alineadas con los objetivos de los usuarios. </p><p></p><p>Mientras navegaba por el panel de control, del Águila destacó la naturaleza intuitiva, fácil y dinámica de la interfaz. No obstante, mencionó una anomalía en la funcionalidad de "Eliminar cuenta", argumentando que dicha acción debería reservarse exclusivamente para el administrador y no estar al alcance de un supervisor técnico. Además, recomendó que la aplicación debería contar con un sistema para respaldar la información antes de su eliminación, como medida de seguridad y protección de la privacidad de los datos.</p>|
+|Timing: 12:54 – 24:44|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=XUb3TX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE0NzguNTN9fQ%3D%3D) |
+
+Entrevista de validación usuario técnico supervisor 03:
+
+|**Entrevistado 03**|Kevin|
+| :-: | :- |
+|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 003](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/4948da55-f6d3-429c-b9ef-d02e9f3e3bae)|<p>Durante la entrevista técnica, Kevin examinó el panel de control de la aplicación, verificó el proceso de inicio de sesión y analizó la estructura del landing page para validar los user goals. Posteriormente, sugirió que se debería permitir la eliminación o edición de datos erróneos en el registro de cultivos, adaptándose a las distintas fases de producción.</p><p></p><p>Kevin también señaló la necesidad de mejorar la interfaz del perfil de usuario. Puntualizó que los supervisores técnicos carecen de las funciones para alterar la información o suprimir cuentas, competencias que corresponden exclusivamente a los administradores. Además, recomendó la asignación de permisos de edición en el registro de usuarios basándose en el rol específico que desempeñan en el proceso productivo.</p><p></p><p>Para concluir, Kevin destacó que la interfaz de usuario es intuitiva, simple y adaptativa. Confirmó que el diseño se mantiene consistente en la versión móvil de la aplicación.</p>|
+|Timing: 24:48 – 41:41|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=8Zj1Ea&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE0ODQuODd9fQ%3D%3D)|
+
+**Segundo segmento objetivo ( administrador):**
+
+Entrevista de validación usuario administrador 01:
+
+|**Entrevistado 01**|Rosalie|
+| :-: | :- |
+|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 004](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/8f3eb4a9-355f-4d90-8dd0-299e04cd1e33)|<p>Rosalie examinó la landing page del servicio y seguidamente inició la validación del primer objetivo de usuario: el proceso de inicio de sesión en la aplicación. Tras una verificación exitosa, exploró de manera autónoma el panel de control y, al finalizar, ofreció su retroalimentación.</p><p>Durante su revisión, Rosalie confirmó la facilidad de navegación entre los registros de cultivos y propuso la adición de opciones para imprimir y exportar las tablas de registros. Además, hizo hincapié en que la modificación de la información de perfil y de miembros de la empresa debe restringirse exclusivamente a los administradores, un punto que ya fue destacado en entrevistas anteriores.</p>|
+|Timing: 41:44 – 49:40|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=4AmhJK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjI1MDQuODh9fQ%3D%3D)|
+
+Entrevista de validación usuario administrador 02:
+
+|**Entrevistado 02**|Frank Du Bois|
+| :-: | :- |
+|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 005](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/a5dacb61-b61e-45a2-ad6e-adbdbcf618f6)|<p>El entrevistado inició describiendo las características del landing page, destacando su alineación con los objetivos comerciales iniciales de lograr un diseño que fuera a la vez persuasivo y funcional, criterios que, según su perspectiva, el landing page cumple con éxito. A continuación, procedió a acceder a la aplicación a través del formulario de inicio de sesión, logrando una entrada rápida y sin complicaciones, validando así el primer objetivo de usuario.</p><p>En cuanto a las secciones de “perfil de empresa” y “perfil de usuario”, el entrevistado propuso añadir una opción para personalizar el diseño, específicamente para cambiar la paleta de colores de la aplicación. Respecto al panel de control, resaltó su carácter intuitivo y sugirió incorporar una funcionalidad para regresar a la vista anterior con facilidad, sugiriendo un botón de "atrás" como solución práctica.</p><p>Para finalizar, el entrevistado hizo notar la ausencia de iconografías claras que representen las funcionalidades clave en cada sección del dashboard. También recomendó la inclusión de un calendario que permita marcar las fechas de inicio y fin en el registro de cultivos, facilitando así la gestión temporal de las tareas.</p>|
+|Timing: 49:41 – 59:13|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=STEF2c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjI5ODQuNjV9fQ%3D%3D)|
+
+Entrevista de validación usuario administrador 03: 
+
+|**Entrevistado 03**|Julio Du Bois|
+| :-: | :- |
+|![Aspose Words 5b58c99c-2717-4f3d-98f0-a66fb0728aff 006](https://github.com/Integradis-OpenSource/Greenhouse_FrontEnd/assets/105735491/8fe57694-56e3-4fa2-8973-e5e03a0ca17d)|<p>Julio Du Bois participó en una entrevista para evaluar la interfaz de usuario del administrador de la empresa. A lo largo de la conversación, se abordaron temas como la creación de cuentas, el ajuste del idioma, el registro de empresas, el inicio de sesión y la configuración de perfiles tanto de usuario como de empresa, junto con la monitorización de los cultivos en curso. Julio consideró que, aunque la interfaz es simple, resulta incompleta, recomendando su mejora para incrementar su potencial comercial y optimización.</p><p></p><p>Tras iniciar sesión en la aplicación, Julio propuso la inclusión de colores más vivos y que contrasten mejor con el estilo de la empresa, además de mejorar el tamaño de la fuente para facilitar la lectura. Al registrar una empresa, se introdujo la denominación social entre otros datos necesarios. En cuanto al acceso a los perfiles de usuario y de empresa, las políticas de privacidad impiden al administrador entrar en la cuenta de un trabajador. Julio sugirió entonces permitir que el supervisor técnico otorgue permisos para que el administrador pueda acceder a su perfil, lo que facilitaría la verificación del progreso del empleado sin comprometer datos personales o privados.</p><p></p><p>El entrevistado recomendó establecer el español como idioma predeterminado de la aplicación para evitar dificultades con el personal técnico que no domina el inglés. Al intentar acceder a la sección de cultivos en curso, encontró dificultades, aunque las tablas de registro resultaron ser claras y ofrecían información pertinente. Simuló también la entrada de datos en una tabla, como la fecha y la temperatura del aire, pero señaló que esta función no parece prioritaria para la gestión del administrador.</p><p></p><p>La entrevista concluyó destacando la simplicidad y facilidad de uso de la interfaz. Julio subrayó que, con las mejoras adecuadas, la aplicación tiene el potencial de convertirse en una herramienta de gran valor para la gestión de cultivos.</p>|
+|Timing: 59:14 – 1:14:04|URL: [upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EfLjwiJCmqBDhumdezqZ-NMB0diLoR3KpTXgetyN3EpBeA?e=eRD3kS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM1NzAuNzN9fQ%3D%3D)|
+
 
 ##
 ## <a name="_bsbm2lqnd4ue"></a><a name="_fjsfkllc63ok"></a>**SITE o APP A EVALUAR:**
@@ -3654,6 +4615,9 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
 <br>
 
 
+![insight_1_web_api](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d7998c14-b970-4938-8c7d-0ab32a8b4b7a)
+![insight_2_web_api](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d8282733-2258-4130-8a4c-1c9e3a2531c5)
+
 ## Conclusiones y recomendaciones
 
 1. Existe una gran demanda en el mercado internacional de cetas (champiñones) hacia el Perú con una exportación en aumento del 11%, comparado con el año 2021.
@@ -3670,6 +4634,10 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
 12. Realizar los criterios de aceptación en lenguaje Gherkin de las historias de usuario designadas para este sprint validan los escenarios posibles dentro de la interacción entre usuario y plataforma. Ello aporta en el descarte de posibles resultados y la comprobación de funcionalidades. 
 13. Es necesario estimar tiempos adicionales para cada uno de los sprints para corregir historias de usuario carry over o pendientes no planificados. El sprint 2 tuvo un tiempo de desarrollo ajustado debido a complicaciones de esta índole.
 14. La documentación de los módulos y artefactos de Angular Material nos permite conocer mediante ejemplos interactivos las funcionalidades disponibles en los componentes visuales de la biblioteca.
+
+<br>
+
+Enlace para acceder al video About the team [https://youtu.be/GHF8mKq5Sak](https://youtu.be/GHF8mKq5Sak)
 
 ## Bibliografía
 
@@ -3693,4 +4661,10 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
   
 - Enlace para visualizar el video exposición TP: upc-pre-202302-si730-sw51-integradis-expo-tp1.mp4
   
+- Enlace para acceder al video About the team subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EemV0VzF7xRIuAuOYAoIni4B8XXzYMZBbXo3gp_I__R5kQ?e=qdWLmh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
+- Enlace para acceder al video About the team subido a YouTube: [https://youtu.be/GHF8mKq5Sak](https://youtu.be/GHF8mKq5Sak)
+
+- Enlace para acceder al video About the product subido a Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EdaVMxDIIrRJvrbekgUSX0EBVPZ2oHJIdDQQ7krYG88OyA?e=e5PUUn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
+
+- Enlace para acceder al video About the product subido a YouTube: [https://youtu.be/BMjgyGefraM][https://youtu.be/BMjgyGefraM]

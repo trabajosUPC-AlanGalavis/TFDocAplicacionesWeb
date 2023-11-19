@@ -1947,7 +1947,7 @@ Dentro del framework Scrum, un Sprint representa un plazo fijo y reducido de tie
 #####         **2.1.2. Sprint Backlog 1.**
 En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retraso el proceso de creación llevandolo a tener en su mayoria el aspecto visual de la landing page.
 
-![Imagenes/Trello Sprint 1.png](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Trello%20Sprint%201.png)
+![Imagenes/Trello Sprint 1.png](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Trello%20Sprint%201.png?raw=true)
 
 Link del Trello: https://trello.com/invite/b/NPGvTnNT/ATTI9153fa51cc4fe33ed5308ea03c7f900a33150458/sprint
 
@@ -3844,7 +3844,7 @@ Base de Dato en SmartASP.NET:
 ![web_service_tunnels_delete](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/622e9ea3-5d10-403d-a92e-b561a1106ec5)
 
 
-<div id='5.2.3.8.'><h5>5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
+<div id='5.2.3.8.'><h5>5.2.3.8.Team Collaboration Insights during Sprint.</h5></div>
 
 |Alumno|Actividad|
 |-|-|
@@ -3868,7 +3868,127 @@ Repositorio Platform:
 
 ![insight_1_web_api](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d7998c14-b970-4938-8c7d-0ab32a8b4b7a)
 ![insight_2_web_api](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d8282733-2258-4130-8a4c-1c9e3a2531c5)
-=======
+
+
+<div id='5.2.3.'><h4> 5.4.1. Sprint 4.</h4></div>
+<div id='5.2.3.1.'><h5> 5.2.4.1. Sprint Planning 4.</h5></div>
+
+El Sprint #3 tiene como fecha de inicio el 06/11/2023 y como meta establece culminar, conectar y desplegar el front end y el back end de la aplicación.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2023-11-06</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:00 AM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Alan Galavis</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Nicolás Espinoza, Alan Galavis, Andrés Soto, Carlo Seminario
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Review Summary</td>
+            <td>
+                Lorem ipsum
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+                Lorem ipsum
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>
+                Elaborar la sección "Reportes estadísticos", conectar la aplicación con un API de terceros para enviar invitaciones por correo electrónico a los trabajadores, culminar los endpoints restantes, implementar el security e inicio de sesión del usuario, y finalmente conectar el front end y el back end.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>
+                Lorem ipsum
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                Lorem ipsum
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div id='5.2.3.2.'><h5> 5.2.4.2. Sprint Backlog 4.</h5></div>
+
+Durante el cuarto sprint backlog, el equipo completó el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se puedan dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros de acuerdo a sus diferentes habilidades.
+
+Link del Trello: 
+
+<table>
+    <thead>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 4</th>
+    </tr>
+    <tr>
+      <th colspan="2">Technical User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+        <td rowspan="3"></td>
+        <td rowspan="3"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>4</td>
+        <td>Alan Galavis</td>
+        <td>Done</td>
+        </tr>
+  </thead>
+    </thead>
+</table>
+
+
+<div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review.</h5></div>
+
+===
 <div id='5.3.'><h5> 5.3. Validation Interviews.</h5></div>
 
 Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la página web destinada a optimizar la gestión de cultivos de champiñones en Perú. Esta fase crítica del proyecto implica un diálogo interactivo con nuestros usuarios primordiales: los administradores y los técnicos supervisores. A través de entrevistas estructuradas, nos proponemos captar sus impresiones y sugerencias. Lo mencionado garantiza que la web no solo cumpla con los estándares técnicos sino que también resuene con las dinámicas operativas y las expectativas del personal de planta. A continuación se procede a especificar los user goals necesarios para la ejecución de entrevistas:

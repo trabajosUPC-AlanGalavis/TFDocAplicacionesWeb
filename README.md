@@ -4008,15 +4008,74 @@ Link del Trello:
       <th>Status(To-do/In-Process/To-Review/Done)</th>
     </tr>
     <tr>
-        <td rowspan="3"></td>
-        <td rowspan="3"></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td rowspan="1">US19</td>
+        <td rowspan="1">Visualizar reportes estadísticos</td>
+        <td>TK47</td>
+        <td>Crear componente gráfico de líneas</td>
+        <td>Importar las dependencias necesarias para crear un componente gráfico de líneas que permita visualizar un reporte estadístico del estado actual de las naves</td>
         <td>4</td>
         <td>Alan Galavis</td>
         <td>Done</td>
-        </tr>
+    </tr>
+        <tr>
+        <td rowspan="1">US06</td>
+        <td rowspan="1">Iniciar sesión</td>
+        <td>TK48</td>
+        <td>Autenticar al usuario</td>
+        <td>Enviar las credenciales del usuario al back end de la aplicación para que estas se validen y pueda iniciar sesión</td>
+        <td>4</td>
+        <td>Andrés Soto</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td rowspan="2">US06</td>
+        <td rowspan="2">Iniciar sesión</td>
+        <td>TK49</td>
+        <td>Autenticar al usuario</td>
+        <td>Enviar las credenciales del usuario al back end de la aplicación para que estas se validen y pueda iniciar sesión</td>
+        <td>4</td>
+        <td>Andrés Soto</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TK50</td>
+        <td>Mostrar información correspondiente al usuario autenticado</td>
+        <td>Asegurar que el usuario que haya iniciado sesión visualice la información asociada a su cuenta</td>
+        <td>4</td>
+        <td>Andrés Soto</td>
+        <td>Done</td>
+    </tr>
+        <tr>
+        <td rowspan="2">TS10</td>
+        <td rowspan="2">Get crop</td>
+        <td>TK51</td>
+        <td>Crear endpoint para obtener un cultivo</td>
+        <td>Elaborar un endpoint que permita recuperar un cultivo en específico, al igual que toda la información asociada al mismo</td>
+        <td>4</td>
+        <td>Carlo Seminario</td>
+        <td>Done</td>
+    </tr>
+    </tr>
+        <tr>
+        <td rowspan="2">TS11</td>
+        <td rowspan="2">Get crop by grow phase</td>
+        <td>TK51</td>
+        <td>Crear endpoint para obtener un cultivo de acuerdo a la fase en la que se encuentran</td>
+        <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo a la fase en la que se encuentre, al igual que toda la información asociada al mismo</td>
+        <td>4</td>
+        <td>Carlo Seminario</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td rowspan="2">TS12</td>
+        <td rowspan="2">Get crop by user</td>
+        <td>TK51</td>
+        <td>Crear endpoint para obtener un cultivo de acuerdo al usuario que elaboró el registro</td>
+        <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo al usuario que realizó el registro correspondiente, al igual que toda la información asociada al mismo</td>
+        <td>4</td>
+        <td>Nicolás Espinoza</td>
+        <td>Done</td>
+    </tr>
   </thead>
     </thead>
 </table>

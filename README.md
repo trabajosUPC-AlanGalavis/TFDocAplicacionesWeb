@@ -1023,10 +1023,10 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |TS06|Get Payment Cards|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de pago de las organizacionesde mediante una API <br> **Para**  recibir los pagos en la aplicación cuando sea solicite.|
 |TS08|Get Roles per User|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de los usuarios por sus roles mediante una API <br> **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|
 |TS09|Get Organization by membership|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de las organizaciones por sus membresías mediante una API <br> **Para** brindar la diferenciación de funcionalides en la aplicación según su rol.|
-|TS10|Post Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** registrar a una nueva cosecha mediante una API <br> **Para** mantener el registro de las cosechas|
-|TS11|Get Harvestings|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de las cosechas mediante una API <br> **Para** mostrarla en la aplicación cuando se solicite.|
-|TS12|Get Harvestings by Grow Phase|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de los cultivos por cada fase mediante una API <br> **Para** mostrarla en la aplicación cuando sea solicite.|
-|TS13|Get Harvestings by User|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de que usuarios realizan los registros de los cultivos una API <br> **Para** mostrarla en la aplicación cuando sea solicite.|
+|TS10|Post Crops|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** registrar a una nueva cosecha mediante una API <br> **Para** mantener el registro de las cosechas|
+|TS11|Get Crops|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de las cosechas mediante una API <br> **Para** mostrarla en la aplicación cuando se solicite.|
+|TS12|Get Crops by Grow Phase|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de los cultivos por cada fase mediante una API <br> **Para** mostrarla en la aplicación cuando sea solicite.|
+|TS13|Get Crops by User|**Como** desarrollador que trabaja en la aplicación de Greenhouse <br> **Quiero** obtener la información de que usuarios realizan los registros de los cultivos una API <br> **Para** mostrarla en la aplicación cuando sea solicite.|
 
 
 
@@ -1043,27 +1043,47 @@ Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk
 
 | # Orden | User Story ID | Título | Descripción| Story Points |
 |:-:|:-:|-|-|:-:|
-|1|US12|Documentar fase de patio|Como técnico supervisor Quiero poder registrar información crucial sobre el compostaje Para que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost|8|
-|2|US13|Documentar fase de túnel|Como técnico supervisor Quiero poder registrar información crucial sobre la pasteurización, enfriamiento y acondicionamiento del compost Para que los administradores obtengan un reporte periódico que refleje el estado y evolución del compost durante la fase de “túnel”|8|
-|3|US14|Documentar fase de siembra|Como técnico supervisor Quiero poder registrar información crucial sobre el cultivo de champiñones Para que los administradores obtengan un reporte periódico que refleje el estado y evolución del crecimiento del champiñón durante la fase de “siembra”|8|
-|4|US15|Documentar fase de cosecha|Como técnico supervisor Quiero poder registrar información crucial sobre la fase final del cultivo de champiñones Para que los administradores obtengan un reporte periódico que refleje el estado de la cosecha del champiñón durante la fase de “cosecha”|8|
-|5|US16|Ver registros|Como administrador Quiero visualizar todos los registros realizados en cada una de las fases Para mantenerme informado sobre el estado actual de la fábrica|5|
-|6|US20|Visualizar reportes estadísticos de fases|Como administrador / técnico supervisor Quiero poder ver reportes estadísticos específicos para cada fase del proceso de producción de champiñones Para evaluar el rendimiento y la eficiencia de cada fase de manera individual|8|
-|7|US09|Registrar empresa|Como administrador Quiero poder crear una cuenta y registrar una empresa Para comenzar a registrar los procesos de mi fábrica|8|
-|8|US11|Iniciar sesión|Como administrador / técnico supervisor Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación Greenhouse|5|
-|9|US10|Registrar empleados|Como administrador Quiero enviar enlaces de invitación por correo electrónico a los técnicos supervisores Para que registren una cuenta Y comiencen a utilizar la aplicación Greenhouse|8|
-|10|US18|Editar registros|Como administrador Quiero editar la información contenida por un registro Para reescribir los datos ingresados incorrectamente|5|
-|11|US19|Eliminar registros|Como administrador Quiero eliminar los registros que considere incorrectos Para mantener la integridad del historial de reportes|5|
-|12|US17|Editar registros|Como administrador Quiero editar la información contenida por un registro Para reescribir los datos ingresados incorrectamente|5|
-|13|US21|Eliminar cuenta|Como administrador registrado Quiero tener la capacidad de eliminar mi cuenta y la de los técnicos supervisores que trabajan para la empresa Para eliminar completamente los datos almacenados y dejar de utilizar la aplicación Greenhouse|5|
-|14|US05|Descripción de la aplicación|Como visitante de la landing page Quiero poder visualizar más información de la aplicación Greenhouse Para conocer a más detalle la app y verificar si es una solución efectiva para la empresa en la que trabajo|3|
-|15|US08|Elección de plan de membresía para crear una cuenta en la aplicación web|Como visitante de la landing page decidido a ser cliente de Greenhouse Quiero elegir mi membresía en la landing page y dirigirme a la pestaña de creación de cuentas de la aplicación web Para registrar mi empresa en la aplicación bajo el plan de membresía elegido|3|
-|16|US07|Acceso a la creación de cuenta en la aplicación web|Como visitante de la landing page decidido a ser cliente de Greenhouse Quiero dirigirme a la pestaña de creación de cuentas de la aplicación web Para registrar mi empresa para el uso de la aplicación en los procesos|5|
-|17|US01|Llenar formulario|Como visitante de la landing page Quiero poder llenar un formulario con mis datos personales Para contactar con la startup creadora de la aplicacion|3|
-|18|US03|Preguntas frecuentes|Como visitante de la landing page Quiero abrir las pestañas con las preguntas frecuentes de la aplicación Para resolver mis consultas antes de inscribirme y elegir una membresía|2|
-|19|US04|Navegación vía el menú superior|Como visitante de la landing page Quiero navegar por la landing page usando los hipervínculos del menú superior Para desplazarme rápidamente hacia las secciones que me sean de mayor importancia|1|
-|20|US02|Enlaces relacionados|Como visitante de la landing page Quiero acceder a las redes sociales de Integradis Para contactar por medios de comunicación más oficiales con la startup|1|
-|21|US06|Navegación vía el menú al pie de la landing page|Como visitante de la landing page Quiero navegar por la landing page usando los hipervínculos del menú inferior y acceder al apartado legal de la aplicación Para desplazarme rápidamente hacia las secciones que me sean de mayor importancia y conocer los términos legales involucrados.|1|
+|1|US03|Acceder a la aplicación desde la landing page|Como visitante de la landing page Quiero poder acceder a la aplicación directamente desde la landing page Para comenzar a utilizar las funcionalidades ofrecidas|1|
+|2|US02|Obtener información de la aplicación|Como visitante de la landing page Quiero quiero obtener información relacionada con el producto ofrecido Para conocer los beneficios que puedo adquirir mediante el uso de la aplicación|1|
+|3|US01|Contactar a la startup|Como visitante de la landing page Quiero proporcionar mi correo electrónico Para que los desarrolladores reciban mi retroalimentación, dudas e inquietudes relacionadas con la aplicación|1|
+|4|US09|Documentar fase insumos|Como técnico supervicsor Quiero registrar los insumos necesarios para comenzar una cosecha Para que los administradores obtengan un reporte periódico que refleje el estado del nuevo cultivo durante la etapa inicial|2|
+|5|US10|Documentar fase patio|Como técnico supervicor Quiero poder registrar información crucial sobre los insumos mezclados en el patio Para que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost|5|
+|6|US11|Documentar fase búnker|Como técnico supervicor Quiero poder registrar información crucial sobre el compost cocinado Para que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost|5|
+|7|US12|Documentar fase túnel|Como técnico supervicor Quiero poder registrar información crucial sobre el compost dentro del túnel de pasteurización Para que los administradores obtengan un reporte periódico que refleje el estado y evolución en la pasteurización, enfriamiento y acondicionamiento del compost|5|
+|8|US13|Documentar fase incubación|Como técnico supervicor Quiero poder registrar información crucial sobre la primera etapa de los champiñones dentro de las naves Para que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost|5|
+|9|US14|Documentar fase cobertura|Como técnico supervicor Quiero poder registrar información crucial sobre la segunda etapa de los champiñones dentro de las naves Para que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost|5|
+|10|US15|Documentar fase inducción|Como técnico supervicor Quiero poder registrar información crucial sobre la tercera etapa de los champiñones dentro de las naves Para que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost|5|
+|11|US16|Documentar fase cosecha|Como técnico supervicor Quiero poder registrar información crucial sobre la última etapa de los champiñones dentro de las naves Para que los administradores obtengan un reporte periódico que refleje el estado y evolución en la elaboración del compost|5|
+|12|US07|Crear nuevo cultivo|Como técnico supervisor Quiero crear un nuevo cultivo Para registrar todas las actividades que ocurren dentro de cada una de las fases del cultivo de champiñones|8|
+|13|US08|Ver cultivos en progreso|Como administrador / técnico supervisor Quiero obtener una colección de los cultivos que se encuentran en progreso Para conocer el estado actual de la fábrica de acuerdo a los registros que se han realizado|5|
+|14|US18|Eliminar registros|Como administrador Quiero eliminar los registros que considere incorrectos Para mantener la integridad del historial de reportes|5|
+|15|US17|Editar registros|Como administrador Quiero editar la información contenida por un registro Para reescribir los datos que fueron ingresados|5|
+|16|US24|Eliminar cultivos|Como administrador Quiero eliminar un cultivo existente Para mantener la integridad de la información almacenada|5|
+|17|US25|Cambiar datos personales|Como técnico supervisor / administrador Quiero cambiar los datos asociados a mi perfil Para actualizar la información|3|
+|18|US19|Visualizar reportes estadísiticos|Como administrador / técnico supervisor Quiero poder ver reportes estadísticos específicos para cada fase del proceso de producción de champiñones Para evaluar el rendimiento y la eficiencia de cada fase de manera individual|8|
+|19|US20|Visualizar perfil de la empresa|Como técnico supervisor / administrador Quiero visualizar el perfil de la empresa en la cual trabajo Para visualizar la información y estructura de la misma|2|
+|20|US21|Visualizar perfil del usuario|Como técnico supervisor / administrador Quiero acceder al perfil de un usuario en específico Para ver la información asociada al trabajador seleccionado|2|
+|21|US04|Registrar empresa|Como administrador Quiero poder crear una cuenta y registrar una empresa Para comenzar a documentar los procesos de mi fábrica|3|
+|22|US05|Registrar empleados|Como administrador Quiero enviar enlaces de invitación por correo electrónico a los técnicos supervisores Para que registren una cuenta y comiencen a utilizar la aplicación Greenhouse|3|
+|23|US06|Iniciar sesión|Como administrador / técnico supervisor Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación Greenhouse|5|
+|24|US22|Eliminar trabajador|Como administrador Quiero eliminar a los trabajadores que ya no formen parte del equipo Para actualizar la estructura de la empresa|2|
+|25|US23|Eliminar cuenta de empresa|Como administrador Quiero eliminar la cuenta de mi empresa Para dejar de usar los servicios ofrecidos por Greenhouse|5|
+|26|TS01|Post company|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero registrar a una nueva organización mediante una API Para visualizar las organizaciones afiliadas a nuestra aplicación|3|
+|27|TS02|Get company|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de una organización mediante una API Para mostrarla en la aplicación cuando se solicite.|3|
+|28|TS03|Post user|Como desarrollador que trabaja en la aplicación de Greenhouse
+Quiero registrar a un nuevo usuario mediante una API
+Para visualizar los usuarios afiliados a nuestra aplicación|3|
+|29|TS04|Get user|Como desarrollador que trabaja en la aplicación de Greenhouse
+Quiero obtener la información de un usuario mediante una API
+Para mostrarla en la aplicación cuando se solicite.|3|
+|30|TS05|Post payment cards|Como desarrollador que trabaja en la aplicación de GreenhouseQuiero registrar la información de pago de las organizaciones mediante una API Para contar con la información para pagos futuros|3|
+|31|TS06|Get payment cards|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de pago de las organizacionesde mediante una API Para recibir los pagos en la aplicación cuando sea solicite.|3|
+|32|TS06|Get roles per user|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de los usuarios por sus roles mediante una API Para brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
+|32|TS06|Get company by membership|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de las organizaciones por sus membresías mediante una API Para brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
+|32|TS07|Post crop|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero registrar a una nueva cosecha mediante una API Para mantener el registro de las cosechas|5|
+|33|TS08|Get crop|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de las cosechas mediante una API Para mostrarla en la aplicación cuando se solicite.|5|
+|34|TS09|Get crops by grow phase|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de los cultivos por cada fase mediante una API Para mostrarla en la aplicación cuando sea solicite.|5|
+|35|TS10|Get crop by user|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de que usuarios realizan los registros de los cultivos una API Para mostrarla en la aplicación cuando sea solicite.|5|
 
 ## Capítulo IV: Product Design
 ### 1. **Style Guidelines.**
@@ -1193,7 +1213,7 @@ Esta meta etiqueta nos sirve para proporcionar un resumen del contenido de la p�
 
 En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.
 
-    <meta name="keywords" content="process, management, application, records, mushroom, harvest, growing"/>
+    <meta name="keywords" content="process, management, application, records, mushroom, crop, growing"/>
 
 **Autor y Derechos de Autor:**
 
@@ -1292,7 +1312,7 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Fin_Wireframe_EN.png?raw=true)
 ###### Finalizar cultivo
 
-![WebApp_Desktop_Wireframe_EN_End_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_End_Crop](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png?raw=true)
 ###### Histórico de cultivos
 ![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Wireframes_EN.png?raw=true)
 ![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Detalle_Wireframes_EN.png?raw=true)
@@ -1341,16 +1361,16 @@ User persona: Administradores.
 
 ##### User Goal: Crear un nuevo cultivo
 User persona: Técnicos supervisores.
-![WebApp_Desktop_Wireflow_New_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Nuevo_Cultivo.png?raw=true)
+![WebApp_Desktop_Wireflow_New_Crop](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Nuevo_Cultivo.png?raw=true)
 
 ##### User Goal: Registrar procesos
 User persona: Técnicos supervisores.
-![WebApp_Desktop_Wireflow_New_Harvesting](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Fase.png?raw=true)
+![WebApp_Desktop_Wireflow_New_Crop](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Fase.png?raw=true)
 
 
 ##### User Goal: Ver registro pasado
 User persona: Administradores.
-![WebApp_Desktop_Wireflow_New_Harvesting](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireflow_Ver_Registro_Pasado.png?raw=true)
+![WebApp_Desktop_Wireflow_New_Crop](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireflow_Ver_Registro_Pasado.png?raw=true)
 
 
 ####     4.3. Web Applications Mock-ups.
@@ -1482,7 +1502,7 @@ Explicación del flujo: El usuario podrá visualizar la información relacionada
 ##### User Goal: Navegar a través del dashboard
 User persona: Administradores.
 
-Explicación del flujo: Como se explicó anteriormente, una vez que el usuario inicie sesión, será redirigido al dashboard en donde visualizará una serie de opciones. La primera opción, llamada "View harvestings in progress", permitirá al administrador revisar los cultivos en progreso y sus respectivos registros. La segunda, denominada "My organization", permitirá al usuario acceder al apartado de la organización. En tercer lugar se encuentra la opción "Statistical reports", la cual mostrará reportes estadísticos de valor para el usuario, como son el estado de las naves, número de registros por cultivo en progreso, insumos utilizados dentro de los cultivos, etc. Finalmente, el botón "Harvest Archive" redirigirá al usuario a la sección homónima.
+Explicación del flujo: Como se explicó anteriormente, una vez que el usuario inicie sesión, será redirigido al dashboard en donde visualizará una serie de opciones. La primera opción, llamada "View crops in progress", permitirá al administrador revisar los cultivos en progreso y sus respectivos registros. La segunda, denominada "My organization", permitirá al usuario acceder al apartado de la organización. En tercer lugar se encuentra la opción "Statistical reports", la cual mostrará reportes estadísticos de valor para el usuario, como son el estado de las naves, número de registros por cultivo en progreso, insumos utilizados dentro de los cultivos, etc. Finalmente, el botón "Crop Archive" redirigirá al usuario a la sección homónima.
 ![User_Flow_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Dashboard.png?raw=true)
 
 
@@ -1620,16 +1640,16 @@ Class Observation
 | content| string| Content of the observation|
 | author| User| User that is author of the observation|
 
-Class MushroomHarvest
+Class MushroomCrop
 
 | Atribute | Type | Description |
 | -------- | -------- | -------- |
-|id|int|Unique code for MushroomHarvest|
-|startDate|String| Date that the harvest starts|
+|id|int|Unique code for MushroomCrop|
+|startDate|String| Date that the crop starts|
 |publishedDate|String| Date that the report was published|
 |publishedHour|String| Hour that the report was published|
 |observation|Observation|Additional comments for the reports|
-|phases|String|Phase that the harvest is at the moment|
+|phases|String|Phase that the crop is at the moment|
 |author|User| User that is author of the report|
 
 Class NotificationManager
@@ -2428,7 +2448,7 @@ Link del Trello: https://trello.com/invite/b/q8SkLCMK/ATTIf9a61ba0854f31e5246de6
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|70c3747|feat(records): Added pv-card for stepper-content||20/09/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|64f4720|feat: added about the team and about the project sections||20/09/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|97b96b4|feat(process-table): added process-table component||21/09/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|45a86c6|feat(router): Added routing to access harvest stepper||21/09/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|45a86c6|feat(router): Added routing to access crop stepper||21/09/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|41e3f36|feat(header): added header component||21/09/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|LandingPage/main|3737b7e|feat: improved about the team section and added correct image for about the project||22/09/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse|Greenhouse/main|efd9827|feat(tailwind): Added tailwind to project||22/09/2023|
@@ -2515,7 +2535,7 @@ Para el sprint 2 únicamente se planificó abarcar únicamente la landing page y
 | /grow_room_record?processType=Incubation | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase incubation del grow room| 
 | /grow_room_record?processType=Casing | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase casing del grow room| 
 | /grow_room_record?processType=Induction | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase induction del grow room| 
-| /grow_room_record?processType=Harvest | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase harvest del grow room| 
+| /grow_room_record?processType=Crop | Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase crop del grow room| 
 
 <table>
     <thead>
@@ -3286,9 +3306,9 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|f6e6930|chore(locales): Improved text decoration to dropdown component||16/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|30a415c|chore(toolbar): Added flex to profile_name and organization_name||16/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|7922f22|fix(process-input-dialog): The component was fixed to be dynamic. In addition, the unnecessary components were eliminated and the fixed component was repositioned.||16/10/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|0b3b963|feat(locales): Added localization to page-not-found, dashboard and harvesting-in-progress||16/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|0b3b963|feat(locales): Added localization to page-not-found, dashboard and crop-in-progress||16/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|579232a|chore(locales): Refactored organization of es and en json||17/10/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|55a48f9|chore: updated db.json file to add crop and organization information, feat(harvesting-api): added json-server api service class for crops, feat(harvesting-in-progress): added data table for crop information||18/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|55a48f9|chore: updated db.json file to add crop and organization information, feat(crop-api): added json-server api service class for crops, feat(crop-in-progress): added data table for crop information||18/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|5afd646|feat(user-profile): Added user profile component||19/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|e63e2bb|feat(user-profile): Added internationalization to user-profile||19/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|6d79933|feat(user-profile): Added profile-api service||19/10/2023|
@@ -3298,7 +3318,7 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|8bca868|feat(dashboard): Added recent records table to dashboard||19/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|0df4db6|fix(toolbar): warning of toolbar logo directory used.||19/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|d20c511|fix: changed use of deprecated ::v-deep to :deep||19/10/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|476a019|feat(harvesting-in-progress): added post API functionalities to add newly started crops, feat(harvesting-api): added method to post new crops, chore(): refactored popup new crop component into harvesting-in-progress component, chore(): updated db.json to add crops data||19/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|476a019|feat(crop-in-progress): added post API functionalities to add newly started crops, feat(crop-api): added method to post new crops, chore(): refactored popup new crop component into crop-in-progress component, chore(): updated db.json to add crops data||19/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|7509331|fix(db): Fixed db.json to reference users inside company||19/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|2c72a1b|chore(db): Merged db.json upcoming changes||19/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|c1b5a2c|chore: changed variable names to ubiquitous language||19/10/2023|
@@ -3307,7 +3327,7 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|f7c9d21|fix(process-input-dialog): the data is now post into its corresponding endpoint.||20/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|ca17689|feat(process-input-dialog): the data is now post correctly.||20/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|fd844c4|feat(process-table): the table now updates when a new record is created.||21/10/2023|
-|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|114fffc|feat(harvesting-in-progress): added filtering functionalities to datatable||21/10/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|114fffc|feat(crop-in-progress): added filtering functionalities to datatable||21/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|1ba857a|feat(dashboard): recent record table shows contents.||21/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|efa8218|feat(crop-history): added crop-history page component||21/10/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|4d37cce|chore: merged recent crops table||21/10/2023|
@@ -4019,7 +4039,7 @@ User persona: Administradores y Técnicos supervisores. Explicación del flujo: 
 
 **User Goal: Navegar por el dashboard**
 
-User persona: Administradores. Explicación del flujo: Una vez que el usuario inicie sesión, será redirigido al dashboard en donde visualizará una serie de opciones. La primera opción, llamada "View harvestings in progress", permitirá al administrador revisar los cultivos en progreso y sus respectivos registros. La segunda, denominada "My organization", permitirá al usuario acceder al apartado de la organización. En tercer lugar se encuentra la opción "Statistical reports", la cual mostrará reportes estadísticos de valor para el usuario, como son el estado de las naves, número de registros por cultivo en progreso, insumos utilizados dentro de los cultivos, etc. Finalmente, el botón "Harvest Archive" redirigirá al usuario a la sección homónima.
+User persona: Administradores. Explicación del flujo: Una vez que el usuario inicie sesión, será redirigido al dashboard en donde visualizará una serie de opciones. La primera opción, llamada "View crops in progress", permitirá al administrador revisar los cultivos en progreso y sus respectivos registros. La segunda, denominada "My organization", permitirá al usuario acceder al apartado de la organización. En tercer lugar se encuentra la opción "Statistical reports", la cual mostrará reportes estadísticos de valor para el usuario, como son el estado de las naves, número de registros por cultivo en progreso, insumos utilizados dentro de los cultivos, etc. Finalmente, el botón "Crop Archive" redirigirá al usuario a la sección homónima.
 
 **User Goal: Crear un nuevo cultivo**
 

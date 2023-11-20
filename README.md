@@ -1057,12 +1057,12 @@ Quiero obtener la información de un usuario mediante una API
 Para mostrarla en la aplicación cuando se solicite.|3|
 |30|TS05|Post payment cards|Como desarrollador que trabaja en la aplicación de GreenhouseQuiero registrar la información de pago de las organizaciones mediante una API Para contar con la información para pagos futuros|3|
 |31|TS06|Get payment cards|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de pago de las organizacionesde mediante una API Para recibir los pagos en la aplicación cuando sea solicite.|3|
-|32|TS06|Get roles per user|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de los usuarios por sus roles mediante una API Para brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
-|32|TS06|Get company by membership|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de las organizaciones por sus membresías mediante una API Para brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
-|32|TS07|Post crop|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero registrar a una nueva cosecha mediante una API Para mantener el registro de las cosechas|5|
-|33|TS08|Get crop|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de las cosechas mediante una API Para mostrarla en la aplicación cuando se solicite.|5|
-|34|TS09|Get crops by grow phase|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de los cultivos por cada fase mediante una API Para mostrarla en la aplicación cuando sea solicite.|5|
-|35|TS10|Get crop by user|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de que usuarios realizan los registros de los cultivos una API Para mostrarla en la aplicación cuando sea solicite.|5|
+|32|TS07|Get roles per user|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de los usuarios por sus roles mediante una API Para brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
+|33|TS08|Get company by membership|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de las organizaciones por sus membresías mediante una API Para brindar la diferenciación de funcionalides en la aplicación según su rol.|3|
+|34|TS09|Post crop|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero registrar a una nueva cosecha mediante una API Para mantener el registro de las cosechas|5|
+|35|TS10|Get crop|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de las cosechas mediante una API Para mostrarla en la aplicación cuando se solicite.|5|
+|36|TS11|Get crops by grow phase|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de los cultivos por cada fase mediante una API Para mostrarla en la aplicación cuando sea solicite.|5|
+|37|TS12|Get crop by user|Como desarrollador que trabaja en la aplicación de Greenhouse Quiero obtener la información de que usuarios realizan los registros de los cultivos una API Para mostrarla en la aplicación cuando sea solicite.|5|
 
 ## Capítulo IV: Product Design
 ### 1. **Style Guidelines.**
@@ -3889,6 +3889,7 @@ Repositorio Platform:
 
 El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culminar, conectar y desplegar el front end y el back end de la aplicación.
 
+
 <table>
     <thead>
         <tr>
@@ -3925,13 +3926,13 @@ El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culm
         <tr>
             <td>Sprint 4 Review Summary</td>
             <td>
-                Lorem ipsum
+                El sprint anterior propuso continuar el desarrollo del front end de la aplicación, y desplegar una primera versión del back end con endpoints funcionales. Se evidencia que el equipo logró cumplir con todos los objetivos propuestos.
             </td>
         </tr>
         <tr>
             <td>Sprint 4 Retrospective Summary</td>
             <td>
-                Lorem ipsum
+                <b>¿Qué funciona bien?</b> Los story points fueron acertados. A su vez, la comunicación activa durante el sprint permitió que los miembros del grupo se mantengan informados sobre el proceso de desarrollo del proyecto. <b> ¿Qué no salió bien o cómo se esperaba? </b> El testing pudo haber sido documentado de mejor manera. Sintaxis de historias de usuario poco claras <b> ¿Qué deberíamos intentar hacer a continuación? </b> Investigar sobre testing y documentarlo de manera apropiada. Revisar las user stories y reestructurarlas para que todos los developers comprendan con simplicidad su propósito. 
             </td>
         </tr>
         <tr>
@@ -3946,13 +3947,13 @@ El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culm
         <tr>
             <td>Sprint 4 Velocity</td>
             <td>
-                Lorem ipsum
+                33
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                Lorem ipsum
+                33
             </td>
         </tr>
     </tbody>

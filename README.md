@@ -265,12 +265,6 @@ Integradis busca ser reconocido como un modelo de negocio sostenible y compromet
 ![logotipo_servicio](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/24685994-1b60-4a6e-9c38-0380e92027d8)
 
 
-##### Logotipo de la Startup:
-![logotipo_start](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/e6a54426-ae3c-4f8f-a684-a6bfcc53ee35)
-##### Logotipo del servicio
-![logotipo_servicio](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/24685994-1b60-4a6e-9c38-0380e92027d8)
-
-
 ####     1.2. Perfiles de los integrantes del equipo
 
 ||Perfiles de los integrantes del equipo|
@@ -433,9 +427,6 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 <head>
     <title>Tabla HTML</title>
     <style>
-       body {
-            font-family:"Zizou Slab Light";
-        }
         table {
             border-collapse: collapse;
             width: 100%;
@@ -447,37 +438,16 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
             text-align: center;
             font-size: 12px;
         }
-        ul{
-            text-align: justify;
-            padding: 10px 25px 10px 25px;
-        }
-        img {
-            width: 100px; 
-            height: auto; 
-            display: block;
-            margin: auto;
-            margin-top: 4px;
-        }
-        .sub{
-            font-weight: bold;
-        }
-        th{
-                background-color: #f2f2f2;
-        }
-        h1, h3 {
-            margin-bottom: 10px;
-            margin-top: 10px;
-        }
     </style>
 </head>
 <body>
     <table >
         <tr>
-           <td colspan="6" class="sub">  <h1>Competitive Analysis Landscape</h1></td>
+           <td colspan="6">  <h1>Competitive Analysis Landscape</h1></td>
         </tr>
         <tr>
-            <td colspan="2" rowspan="2" class="sub">¿Por qué llevar acabo este análisis?</td>
-            <td colspan="4" class="sub"><h3>¿Quiénes son nuestros principales competidores?</h3></td>
+            <td colspan="2" rowspan="2">¿Por qué llevar acabo este análisis?</td>
+            <td colspan="4"><h3>¿Quiénes son nuestros principales competidores?</h3></td>
         </tr>
         <!-- Filas restantes (13 filas) -->
         <tr>
@@ -486,8 +456,8 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
                 directos e indirectos, trazar estrategia a través de información recopilada sobre  su posicionamiento actual en el mercado.</td>
         </tr>
         <tr>
-            <td rowspan="3" class="sub">PERFIL</td>
-            <td rowspan="2" class="sub">Overview</td>
+            <td rowspan="3">PERFIL</td>
+            <td rowspan="2">Overview</td>
             <td> GreenHouse <img src=https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/c8412e74-a9bb-4e9e-b49e-d5faa094d456> </td>
             <td>Agroptima <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/3a4b2b57-bfad-4d96-83dc-59fb6819a945"> </td>
             <td>Agrio Software<img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/2a1a6055-a109-4916-b109-1640b2aad4f0"> </td>

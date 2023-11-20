@@ -2793,8 +2793,7 @@ Web Application:
 
 Se certifica la exitosa implementación de la aplicación web frontend en Netlify, utilizando la rama principal ("master") del repositorio. Las configuraciones incluyen el comando de construcción "npm run build" para generar la carpeta "dist", sin modificar el directorio base, y la selección de "dist/greenhouse" como directorio de publicación, seguido de la ejecución exitosa del despliegue bajo la opción "Deploy Greenhouse".
 
-<img width="805" alt="Screenshot 2023-09-29 at 2 02 01 AM" src="<img width="805" alt="Screenshot 2023-09-29 at 2 02 01 AM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/f6bf1ed6-507c-47ae-bbda-83a0c63b88cf">
-">
+<img width="805" alt="Screenshot 2023-09-29 at 2 02 01 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/271495274-f6bf1ed6-507c-47ae-bbda-83a0c63b88cf.png">
 
 https://greenhouse-web.netlify.app/
 
@@ -3799,7 +3798,7 @@ Al netlify estar conectado a github, al realizar un merge en la rama principal (
 - Capturas de pantalla de web application:
 <img alt="web_app_login" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244740-d849966d-f0f3-45ba-8cee-bce4434c2ee5.png">
 <img alt="web_app_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244747-496240a4-e076-447a-b73c-1f444be261d1.png">
-<img alt="web_app_dashboard" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/1bce197b-a96d-45f2-beea-c9787781f7ec">
+<img alt="web_app_dashboard" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244769-1bce197b-a96d-45f2-beea-c9787781f7ec.png">
 <img alt="web_app_company" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244769-1bce197b-a96d-45f2-beea-c9787781f7ec.png">
 <img alt="web_app_user" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244795-8bf6318d-df85-4233-a0b3-e51cd0652318.png">
 <img alt="web_app_crop_archive" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244816-c5e35b11-13db-4c93-8cd4-39f3a124e015.png">
@@ -3807,7 +3806,7 @@ Al netlify estar conectado a github, al realizar un merge en la rama principal (
 <img alt="web_app_progress_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244850-8ba8f0bb-bc50-4df0-adeb-bedb2ae8a9c0.png">
 <img alt="web_app_stock" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244859-b15bf8b4-a16a-4491-852b-489b601c362c.png">
 <img alt="web_app_stock_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244865-fc925eab-0df5-4bc3-b2c1-214a68b88e29.png">
-<img alt="web_app_stock_warning" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c14f5302-3ed9-49de-8c3a-2372e83949e5">
+<img alt="web_app_stock_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244872-c14f5302-3ed9-49de-8c3a-2372e83949e5.png">
 <img alt="web_app_preparation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244872-c14f5302-3ed9-49de-8c3a-2372e83949e5.png">
 <img alt="web_app_preparation_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244977-46e26408-2ec3-4ac3-853b-319091f81dbc.png">
 <img alt="web_app_preparation_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244998-144bcf7e-a37d-44f9-9ba7-17a587a96b40.png">
@@ -3845,7 +3844,7 @@ Base de Dato en SmartASP.NET:
 <img alt="web_service_buker_put" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279252233-5271df28-4be7-4fcf-8c2b-9c0364b46acc.png">
 <img alt="web_service_bunker_delete" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279252255-43637381-2d8d-4061-a2e7-4e254dde2f7f.png">
 <img alt="web_service_companies_get" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279252267-fbc15a2b-16ea-4c1e-86d3-45c09ec002ea.png">
-<img alt="web_service_companies_post" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/2d107f3c-3f47-4714-9eb3-d65db80eb2b1">
+<img alt="web_service_companies_post" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279252275-2d107f3c-3f47-4714-9eb3-d65db80eb2b1.png">
 <img alt="web_service_companies_put" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279252277-6d1b90fa-4580-47b5-b8e3-4483a6cc4122.png">
 <img alt="web_service_companies_delete" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279252281-f16b0816-35f1-43bc-88cc-9463c35c84b9.png">
 <img alt="web_service_companyemployees_get" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279252290-f72adcb7-feb7-47cf-acad-64454d797271.png">
@@ -3980,11 +3979,13 @@ El Sprint #3 tiene como fecha de inicio el 06/11/2023 y como meta establece culm
     </tbody>
 </table>
 
-<div id='5.2.3.2.'><h5> 5.2.4.2. Sprint Backlog 4.</h5></div>
+<div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog 4.</h5></div>
 
 Durante el cuarto sprint backlog, el equipo completó el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se puedan dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros de acuerdo a sus diferentes habilidades.
 
-Link del Trello: 
+<img alt="insight_2_web_api" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284130872-e3316cca-ac67-457d-b3cc-2d8b27edb216.png">
+
+Link del Trello: https://trello.com/invite/b/JdTlnrD8/ATTI6cc1194d704d650af2070c2188d8af1c2B931F0F/sprint-4
 
 <table>
     <thead>
@@ -4016,10 +4017,9 @@ Link del Trello:
         <td>4</td>
         <td>Alan Galavis</td>
         <td>Done</td>
-    </tr>
-        <tr>
-        <td rowspan="1">US06</td>
-        <td rowspan="1">Iniciar sesión</td>
+    <tr>
+        <td rowspan="2">US06</td>
+        <td rowspan="2">Iniciar sesión</td>
         <td>TK48</td>
         <td>Autenticar al usuario</td>
         <td>Enviar las credenciales del usuario al back end de la aplicación para que estas se validen y pueda iniciar sesión</td>
@@ -4028,17 +4028,7 @@ Link del Trello:
         <td>Done</td>
     </tr>
     <tr>
-        <td rowspan="2">US06</td>
-        <td rowspan="2">Iniciar sesión</td>
         <td>TK49</td>
-        <td>Autenticar al usuario</td>
-        <td>Enviar las credenciales del usuario al back end de la aplicación para que estas se validen y pueda iniciar sesión</td>
-        <td>4</td>
-        <td>Andrés Soto</td>
-        <td>Done</td>
-    </tr>
-    <tr>
-        <td>TK50</td>
         <td>Mostrar información correspondiente al usuario autenticado</td>
         <td>Asegurar que el usuario que haya iniciado sesión visualice la información asociada a su cuenta</td>
         <td>4</td>
@@ -4046,9 +4036,9 @@ Link del Trello:
         <td>Done</td>
     </tr>
         <tr>
-        <td rowspan="2">TS10</td>
-        <td rowspan="2">Get crop</td>
-        <td>TK51</td>
+        <td rowspan="1">TS10</td>
+        <td rowspan="1">Get crop</td>
+        <td>TK50</td>
         <td>Crear endpoint para obtener un cultivo</td>
         <td>Elaborar un endpoint que permita recuperar un cultivo en específico, al igual que toda la información asociada al mismo</td>
         <td>4</td>
@@ -4057,8 +4047,8 @@ Link del Trello:
     </tr>
     </tr>
         <tr>
-        <td rowspan="2">TS11</td>
-        <td rowspan="2">Get crop by grow phase</td>
+        <td rowspan="1">TS11</td>
+        <td rowspan="1">Get crop by grow phase</td>
         <td>TK51</td>
         <td>Crear endpoint para obtener un cultivo de acuerdo a la fase en la que se encuentran</td>
         <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo a la fase en la que se encuentre, al igual que toda la información asociada al mismo</td>
@@ -4067,9 +4057,9 @@ Link del Trello:
         <td>Done</td>
     </tr>
     <tr>
-        <td rowspan="2">TS12</td>
-        <td rowspan="2">Get crop by user</td>
-        <td>TK51</td>
+        <td rowspan="1">TS12</td>
+        <td rowspan="1">Get crop by user</td>
+        <td>TK52</td>
         <td>Crear endpoint para obtener un cultivo de acuerdo al usuario que elaboró el registro</td>
         <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo al usuario que realizó el registro correspondiente, al igual que toda la información asociada al mismo</td>
         <td>4</td>

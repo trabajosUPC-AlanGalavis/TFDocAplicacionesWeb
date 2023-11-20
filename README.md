@@ -3875,10 +3875,10 @@ Repositorio Platform:
 <img alt="insight_2_web_api" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150942-d8282733-2258-4130-8a4c-1c9e3a2531c5.png">
 
 
-<div id='5.2.3.'><h4> 5.4.1. Sprint 4.</h4></div>
-<div id='5.2.3.1.'><h5> 5.2.4.1. Sprint Planning 4.</h5></div>
+<div id='5.2.4.'><h4> 5.4.1. Sprint 4.</h4></div>
+<div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4.</h5></div>
 
-El Sprint #3 tiene como fecha de inicio el 06/11/2023 y como meta establece culminar, conectar y desplegar el front end y el back end de la aplicación.
+El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culminar, conectar y desplegar el front end y el back end de la aplicación.
 
 <table>
     <thead>
@@ -4042,6 +4042,329 @@ Link del Trello: https://trello.com/invite/b/JdTlnrD8/ATTI6cc1194d704d650af2070c
 
 
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review.</h5></div>
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+
+
+<div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review.</h5></div>
+En el sprint 4 se alcanzo un desarrollo completo del frontend y backend de la web application. La cual muestra nuevas vistas relevantes acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. A continuación se muestran algunas evidencias:
+
+- US19:
+
+
+- US06:
+
+
+- TS12:
+
+
+- TS11:
+
+
+- TS12:
+
+
+
+Enlace para visualizar el video de explicación de los logros del Sprint: 
+
+
+
+<div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
+Para el sprint 4 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con un json server de forma local y luego se pasó a realizar la implementación con My Json Server. El back-end fue creado y cuenta con vinculos con el front-end, para realizar consultas y obtener datos. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service](http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html)
+
+Json server:
+
+<img alt="JSON1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279255332-b7d3cadd-6071-4661-bb99-a241fc6e4693.png">
+<img alt="JSON2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279255330-9ebb2721-5e1a-4db9-a47f-d663a09d1a77.png">
+
+| Endpoint | Details |
+| - | - | 
+|/user|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/companies|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/crops|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/stock|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/preparation_area|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/bunker|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/tunnel|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+|/grow_room_record|Se implementaron las operaciones CRUD desde base.service.ts de las cuáles se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock| 
+
+Web Service:
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="5">Bunkers</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/bunkers</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/bunkers</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/bunkers/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/bunkers/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Companies</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/companies/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/companies/{id}</td>
+        </tr>
+        <tr>
+            <td>CompanyEmployees</td>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/companies/{comapnyId}/employees</td>
+        </tr>
+        <tr>
+            <td>CropPhases</td>
+            <td>GET</td>
+            <td>{phaseId}</td>
+            <td>api/v1/phases/{phaseId}/crops</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/crops/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/crops/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Employees</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/employees/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/employees/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Formulas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/formulas</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/formulas/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/forumals/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">GrowRoomRecords</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/growroomrecords</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/growroomrecords</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/growroomrecord/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/growroomrecords/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Phases</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/phases</td>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/phases/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">PreparationAreas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/preparationareas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/preparationareas</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/preparationareas/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/preparationareas/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Tunnels</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/tunnels</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/tunnels</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{id}</td>
+            <td>api/v1/tunnels/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{id}</td>
+            <td>api/v1/tunnels/{id}</td>
+        </tr>   
+    </tbody>
+</table>
+
+Link del repositorio: 
+
+https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API 
+
+Commits web service:
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+|-|-|-|-|-|-|
+
+
+<div id='5.2.4.7.'><h5>5.2.4.7.Software Deployment Evidence for Sprint Review.</h5></div>
+
+Para la entrega del cuarto sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application completa. Asimismo, se desplego el back-end completo.
+
+Landing page:
+
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+- Capturas de pantalla landing page:
+
+
+Web Application front-end:
+
+Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
+
+- Deploy_web:
+
+
+- Capturas de pantalla de web application:
+
+
+Web Application back-end:
+
+Ultímo despligue del web service en SmartASP.NET:
+
+
+Base de Dato en SmartASP.NET:
+
+
+- Capturas de pantalla de web services:
+
+
+<div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint.</h5></div>
+
+|Alumno|Actividad|
+|-|-|
+|Soto Kong Requena, Andres Eduardo|Desarrollo de sinin, singup y singout con la conexion al backend|
+|Galavis Du Bois, Alan Enrique|Desarrollo de la vista y funcionalidad de registros estadisticos|
+|Seminario Garvín, Carlo Luca|Creación de endpoints|
+|Espinoza Rodriguez, Nicolas Antonio|Creación de endpoints|
 
 ===
 <div id='5.3.'><h5> 5.3. Validation Interviews.</h5></div>

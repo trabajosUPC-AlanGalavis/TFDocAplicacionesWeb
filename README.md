@@ -83,7 +83,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Alan Galavis|Corrección del modelo de base de datos. Completar explicaciones de flows. Sprint Backlog 2.|
 |Carlo Seminario|Corrección de impact map. Documentation Evidence for Sprint Review|
 |Jessica Comettant|Correcciones en Lean UX, completar explicación de collaboration|
-|Andres Soto|Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+|Andres Soto|Sprint Planning 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
 
 **TB2**
 
@@ -93,7 +93,16 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Alan Galavis|Corrección del diagrama de base de datos. Corrección de diagramas C4. Elaboración de video about the product. Elaboración de entrevistas de validación.|
 |Carlo Seminario|Software deployment configuration. Documentation Evidence for Sprint Review.|
 |Jessica Comettant|Evaluación según heurísticas, análisis de entrevistas de validación|
-|Andres Soto|Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+|Andres Soto|Sprint Planning 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+
+**TF**
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nicolás Espinoza|Corrección de diagramas C4.|
+|Alan Galavis|Sprint Planning 4, Sprint backlog|
+|Carlo Seminario|Software deployment configuration. Documentation Evidence for Sprint Review, Testing Suite Evidence for Sprint Review.|
+|Andres Soto| Execution Evidence for Sprint Review|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización Integradis.
 
@@ -109,16 +118,12 @@ Los integrantes son:
 * Jessica Comettant (Mei0202)
 * Andrés Soto (asotito231)
 
-**TB1**
-
 ![Commit_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f1c3c7a1-fe67-410b-b845-fb77abe41021)
 ![Commit_Graph_Individual1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a87b9990-4d55-44da-b146-c320da0b09e9)
 ![Commit_Graph_Individual2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b4c8014b-70e7-4b09-b885-ad36cad31e64)
 ![Commit_Graph_Individual3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/79f17bfb-7ec3-4233-8a55-da9a57164db5)
 
 En el siguiente gráfico se muestran la cantidad total de commits realizados en todas las ramas del proyecto.
-
-**TB1**
 
 ![Pull_Graphs](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5c3dc89f-65e0-4d38-adbc-b8ef3fa3476b)
 
@@ -132,7 +137,7 @@ Se explican las ramas más prominentes:
 
 ![Branch_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/02a276ed-2c6b-4714-9f9c-932aee761f3b)
 
-El siguiente gráfico incluye la cantidad de commits realizados en la semana con más actividad durante el desarrollo del informe. 
+El siguiente gráfico incluye la cantidad de commits realizados en la semana con más actividad durante el desarrollo del informe.
 
 ![Commit_Timeline](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/062a8d50-d5d4-4467-8c87-3363decc22eb)
 
@@ -4148,12 +4153,8 @@ Enlace para visualizar el video de explicación de los logros del Sprint:
 
 <div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
-Para el sprint 4 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con un json server de forma local y luego se pasó a realizar la implementación con My Json Server. El back-end fue creado y cuenta con vinculos con el front-end, para realizar consultas y obtener datos. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service](http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html)
+Para el sprint 4 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con un json server de forma local y luego se pasó a realizar la implementación con My Json Server. El back-end fue creado y cuenta con vinculos con el front-end, para realizar consultas y obtener datos. Enlace para acceder al [Web Service](http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html)
 
-Json server:
-
-<img alt="JSON1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279255332-b7d3cadd-6071-4661-bb99-a241fc6e4693.png">
-<img alt="JSON2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279255330-9ebb2721-5e1a-4db9-a47f-d663a09d1a77.png">
 
 | Endpoint | Details |
 | - | - | 
@@ -5322,7 +5323,7 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
 
 ## Conclusiones y recomendaciones
 
-1. Existe una gran demanda en el mercado internacional de cetas (champiñones) hacia el Perú con una exportación en aumento del 11%, comparado con el año 2021.
+1. Existe una gran demanda en el mercado internacional de champiñones hacia el Perú con una exportación en aumento del 11%, comparado con el año 2021.
 2. La mayoría de las aplicaciones en el mercado dirigidas al segmento objetivo presenta deficiencias dentro del registro de información sobre cultivos en las industrias champiñoneras.
 3. Las repositorios y funcionalidades de la herramienta GitHub aumentaron la eficiencia, calidad y colaboración del equipo en el desarrollo de software. Aseguraron la gestión de activos y versiones con un control riguroso de código fuente y documentación. Es así que, se lograron cumplir las demandas del segmento objetivo.
 4. El diseño y desarrollo de entrevistas proporciona la comprensión, comunicación y validación de requisitos y expectativas de los stakeholders. Gracias a ello, se identifican las frustraciones, objetivos, pensamientos y percepciones relacionados al dilema a atender por la propuesta de solución y, así, alcanzar la satisfacción adecuada de sus necesidades.
@@ -5331,11 +5332,9 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
 7. El desarrollo de los User Stories y del Product Backlog, prioriza las características de la solución software para que el equipo de desarrollo sepa que hay que entregar primero.
 8. El planteamiento de los Wireframes estableció bases sólidas para el desarrollo de la plataforma interactiva. Enfocó los detalles visuales antes de la codificación lo que resultó en un producto más eficaz y atractivo para el usuario.
 9. Los sprints son necesarios para avanzar de forma continua y ordenada. Es bueno tener un límite de user story points para no sobrecargar de tareas al equipo y poder desarrollar de manera correcta el Landing Page.
-10. La creación del Sprint 1, fue una excelente forma de integrar los user stories priorizables para el primer entregable. Esto se debe a que cada integrante participó del desarrollo del Landing Page dentro del repositorio colaborativo y se realizaron reuniones respectivas para el feedback grupal.
 11. Se concluye que es importante sentar las bases del diseño antes de comenzar a codificar. En ese sentido, realizar el diagrama de clases respectivo para visualizar la interacción de las entidades implementadas.
 12. Realizar los criterios de aceptación en lenguaje Gherkin de las historias de usuario designadas para este sprint validan los escenarios posibles dentro de la interacción entre usuario y plataforma. Ello aporta en el descarte de posibles resultados y la comprobación de funcionalidades. 
-13. Es necesario estimar tiempos adicionales para cada uno de los sprints para corregir historias de usuario carry over o pendientes no planificados. El sprint 2 tuvo un tiempo de desarrollo ajustado debido a complicaciones de esta índole.
-14. La documentación de los módulos y artefactos de Angular Material nos permite conocer mediante ejemplos interactivos las funcionalidades disponibles en los componentes visuales de la biblioteca.
+13. Es necesario estimar tiempos adicionales para cada uno de los sprints para corregir historias de usuario carry over o pendientes no planificados. El sprint 2, por ejemplo, tuvo un tiempo de desarrollo ajustado debido a complicaciones de esta índole.
 
 <br>
 

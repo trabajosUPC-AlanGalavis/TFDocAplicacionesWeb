@@ -4124,6 +4124,9 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
 
+<img alt="Test" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/285027263-b86e5dca-55f5-4ccb-bbaf-23b85b822395.png">
+
+Se llevó a cabo un test correspondiente a la creación de un nuevo crop, haciendo uso de Specflow como herramineto de testing. La lógica de la prueba yace en que llamado al endpoint correspondiente se debería crear un crop nuevo y que se obtenga un correcto response del endpoint, además de dado que un crop siempre empieza en la fase de "Formula" y en el estado activo (True) esto también se consideró como assertions.
 
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review.</h5></div>
 En el sprint 4 se alcanzo un desarrollo completo del frontend y backend de la web application. La cual muestra nuevas vistas relevantes acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. A continuación se muestran algunas evidencias:

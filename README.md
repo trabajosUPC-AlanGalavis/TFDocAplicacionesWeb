@@ -4068,19 +4068,22 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 En el sprint 4 se alcanzo un desarrollo completo del frontend y backend de la web application. La cual muestra nuevas vistas relevantes acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. A continuación se muestran algunas evidencias:
 
 - US19:
+<img alt="Reportes estadisticos" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284788583-93f9a279-1c16-46b7-bb98-1aff1356e8ed.png">
 
 
 - US06:
+<img alt="Sign in" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284788578-43759b91-f564-47b9-b9bb-b46d84393c26.png">
+<img alt="Sign up" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284788585-a718a19b-3fe7-483d-86d0-a9fe63962ca7.png">
 
 
-- TS12:
-
+- TS10:
+<img alt="TS10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284792501-e6b34862-36b4-4e62-9458-43b302e3766c.png">
 
 - TS11:
-
+<img alt="TS11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284792498-ec4c266c-a389-436a-b5bb-cfaa6292042e.png">
 
 - TS12:
-
+<img alt="TS12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284792504-bb72a085-fc44-4c7c-83cb-0895942c16cc.png">
 
 
 Enlace para visualizar el video de explicación de los logros del Sprint: 
@@ -4120,29 +4123,6 @@ Web Service:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="5">Bunkers</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>No tiene</td>
-            <td>api/v1/bunkers</td>
-        </tr>
-        <tr>
-            <td>POST</td>
-            <td>No tiene</td>
-            <td>api/v1/bunkers</td>
-        </tr>
-        <tr>
-            <td>PUT</td>
-            <td>{id}</td>
-            <td>api/v1/bunkers/{id}</td>
-        </tr>
-        <tr>
-            <td>DELETE</td>
-            <td>{id}</td>
-            <td>api/v1/bunkers/{id}</td>
-        </tr>
-        <tr>
             <td rowspan="5">Companies</td>
         </tr>
         <tr>
@@ -4166,32 +4146,33 @@ Web Service:
             <td>api/v1/companies/{id}</td>
         </tr>
         <tr>
-            <td>CompanyEmployees</td>
+            <td>CompanyEmployee</td>
+        </tr>
+        <tr>
             <td>GET</td>
             <td>{companyId}</td>
-            <td>api/v1/companies/{comapnyId}/employees</td>
+            <td>api/v1/companies/{companyId}/employees</td>
         </tr>
         <tr>
-            <td>CropPhases</td>
-            <td>GET</td>
-            <td>{phaseId}</td>
-            <td>api/v1/phases/{phaseId}/crops</td>
-        </tr>
-        <tr>
-            <td rowspan="5">Crops</td>
+            <td rowspan="6">Crops</td>
         </tr>
         <tr>
             <td>GET</td>
             <td>No tiene</td>
             <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/crops/{companyId}</td>
         </tr>
         <tr>
             <td>POST</td>
-            <td>No tiene</td>
-            <td>api/v1/crops</td>
+            <td>{companyId}</td>
+            <td>api/v1/crops/{companyId}</td>
         </tr>
         <tr>
-            <td>PUT</td>
+            <td>PATCH</td>
             <td>{id}</td>
             <td>api/v1/crops/{id}</td>
         </tr>
@@ -4201,7 +4182,122 @@ Web Service:
             <td>api/v1/crops/{id}</td>
         </tr>
         <tr>
-            <td rowspan="5">Employees</td>
+            <td rowspan="5">Crops Bunker</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunkers</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunkers</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/bunkers/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/bunkers/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops Formulas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/formulas/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/formulas/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops Grow Room Records</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/growroomrecords/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/growroomrecords</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/growroomrecords/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/growroomrecords/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops Preparation Areas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparationareas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparationareas</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/preparationareas/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/preparationareas/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops Tunnel</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/tunnels/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/tunnels/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops Employees</td>
         </tr>
         <tr>
             <td>GET</td>
@@ -4216,7 +4312,7 @@ Web Service:
         <tr>
             <td>PUT</td>
             <td>{id}</td>
-            <td>api/v1/employees/{id}</td>
+            <td>api/v1/emlpoyees/{id}</td>
         </tr>
         <tr>
             <td>DELETE</td>
@@ -4224,109 +4320,33 @@ Web Service:
             <td>api/v1/employees/{id}</td>
         </tr>
         <tr>
-            <td rowspan="5">Formulas</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>No tiene</td>
-            <td>api/v1/formulas</td>
+            <td rowspan="6">Crops Users</td>
         </tr>
         <tr>
             <td>POST</td>
             <td>No tiene</td>
-            <td>api/v1/formulas</td>
-        </tr>
-        <tr>
-            <td>PUT</td>
-            <td>{id}</td>
-            <td>api/v1/formulas/{id}</td>
-        </tr>
-        <tr>
-            <td>DELETE</td>
-            <td>{id}</td>
-            <td>api/v1/forumals/{id}</td>
-        </tr>
-        <tr>
-            <td rowspan="5">GrowRoomRecords</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>No tiene</td>
-            <td>api/v1/growroomrecords</td>
+            <td>api/v1/users/sign-in</td>
         </tr>
         <tr>
             <td>POST</td>
-            <td>No tiene</td>
-            <td>api/v1/growroomrecords</td>
-        </tr>
-        <tr>
-            <td>PUT</td>
-            <td>{id}</td>
-            <td>api/v1/growroomrecord/{id}</td>
-        </tr>
-        <tr>
-            <td>DELETE</td>
-            <td>{id}</td>
-            <td>api/v1/growroomrecords/{id}</td>
-        </tr>
-        <tr>
-            <td rowspan="3">Phases</td>
+            <td>{cropId}</td>
+            <td>api/v1/users/sign-in</td>
         </tr>
         <tr>
             <td>GET</td>
             <td>No tiene</td>
-            <td>api/v1/phases</td>
-        <tr>
-            <td>PUT</td>
-            <td>{id}</td>
-            <td>api/v1/phases/{id}</td>
-        </tr>
-        <tr>
-            <td rowspan="5">PreparationAreas</td>
+            <td>api/v1/users</td>
         </tr>
         <tr>
             <td>GET</td>
-            <td>No tiene</td>
-            <td>api/v1/preparationareas</td>
-        </tr>
-        <tr>
-            <td>POST</td>
-            <td>No tiene</td>
-            <td>api/v1/preparationareas</td>
-        </tr>
-        <tr>
-            <td>PUT</td>
             <td>{id}</td>
-            <td>api/v1/preparationareas/{id}</td>
+            <td>api/v1/users/{id}</td>
         </tr>
         <tr>
             <td>DELETE</td>
             <td>{id}</td>
-            <td>api/v1/preparationareas/{id}</td>
+            <td>api/v1/users/{id}</td>
         </tr>
-        <tr>
-            <td rowspan="5">Tunnels</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>No tiene</td>
-            <td>api/v1/tunnels</td>
-        </tr>
-        <tr>
-            <td>POST</td>
-            <td>No tiene</td>
-            <td>api/v1/tunnels</td>
-        </tr>
-        <tr>
-            <td>PUT</td>
-            <td>{id}</td>
-            <td>api/v1/tunnels/{id}</td>
-        </tr>
-        <tr>
-            <td>DELETE</td>
-            <td>{id}</td>
-            <td>api/v1/tunnels/{id}</td>
-        </tr>   
     </tbody>
 </table>
 
@@ -4349,7 +4369,18 @@ Landing page:
 El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
 
 - Capturas de pantalla landing page:
-
+<img alt="1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150943-0c4c9fc3-2284-435c-8dc0-991a6d1cabc5.png">
+<img alt="2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150944-e98099b2-4bcb-4c4f-a753-2120179c1235.png">
+<img alt="3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150945-41043c07-8cf4-4b4b-804b-7c4a19eb4754.png">
+<img alt="4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150946-2a5a6ad0-9817-40f2-bb75-232fb9b5ddd8.png">
+<img alt="5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150949-fb4fba19-cbfc-4ec9-86a5-10e215544091.png">
+<img alt="6" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284789392-47f52bba-bdeb-415b-9ec5-82ecaed0d8ee.png">
+<img alt="7" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284789388-3df9d097-a285-43f6-812d-db4eb4ba9eb3.png">
+<img alt="8" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284789397-95813632-a957-4bd9-ba4e-44581c10f8f9.png">
+<img alt="9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150931-a8f474f8-8dbd-4212-b8ca-3d11c9a6e321.png">
+<img alt="10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150935-b89afffa-fce9-4758-a8b9-697063414d67.png">
+<img alt="11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150935-b89afffa-fce9-4758-a8b9-697063414d67.png">
+<img alt="12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150937-7f14f842-f502-4f74-a654-4db839a1e4c0.png">
 
 Web Application front-end:
 
@@ -4359,6 +4390,42 @@ Al netlify estar conectado a github, al realizar un merge en la rama principal (
 
 
 - Capturas de pantalla de web application:
+
+<img alt="Sign in" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284788578-43759b91-f564-47b9-b9bb-b46d84393c26.png">
+<img alt="Sign up" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284788585-a718a19b-3fe7-483d-86d0-a9fe63962ca7.png">
+<img alt="Politica de privacidad" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d5b319cb-d48b-4999-992e-e65e63914d53">
+<img alt="web_app_dashboard" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244769-1bce197b-a96d-45f2-beea-c9787781f7ec.png">
+<img alt="web_app_company" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244769-1bce197b-a96d-45f2-beea-c9787781f7ec.png">
+<img alt="web_app_user" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244795-8bf6318d-df85-4233-a0b3-e51cd0652318.png">
+<img alt="Reportes estadisticos" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284788583-93f9a279-1c16-46b7-bb98-1aff1356e8ed.png">
+<img alt="web_app_crop_archive" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244816-c5e35b11-13db-4c93-8cd4-39f3a124e015.png">
+<img alt="web_app_progress" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244833-6e9173d8-053d-48f6-8b62-18f5e8d053d2.png">
+<img alt="web_app_progress_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244850-8ba8f0bb-bc50-4df0-adeb-bedb2ae8a9c0.png">
+<img alt="web_app_stock" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244859-b15bf8b4-a16a-4491-852b-489b601c362c.png">
+<img alt="web_app_stock_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244865-fc925eab-0df5-4bc3-b2c1-214a68b88e29.png">
+<img alt="web_app_stock_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244872-c14f5302-3ed9-49de-8c3a-2372e83949e5.png">
+<img alt="web_app_preparation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244872-c14f5302-3ed9-49de-8c3a-2372e83949e5.png">
+<img alt="web_app_preparation_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244977-46e26408-2ec3-4ac3-853b-319091f81dbc.png">
+<img alt="web_app_preparation_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244998-144bcf7e-a37d-44f9-9ba7-17a587a96b40.png">
+<img alt="web_app_bunker" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245020-b8272d64-0123-4f53-8f93-9f9c12b533dc.png">
+<img alt="web_app_bunker_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245027-e228e345-e164-4506-ae82-9934710a7a84.png">
+<img alt="web_app_bunker_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245053-ac05ade0-c346-4848-bf65-2ee021d1d886.png">
+<img alt="web_app_tunnel" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245076-4d606ff8-7ace-42c7-adc3-25898f03d9ca.png">
+<img alt="web_app_tunnel_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245094-69a1a08e-c657-4697-b883-35544c1c3807.png">
+<img alt="web_app_tunnel_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245108-166c673c-0fe0-47b4-9862-aa9e1fbd15be.png">
+<img alt="web_app_incubation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245121-0166100c-4594-4206-a985-7cba143f1513.png">
+<img alt="web_app_incubation_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245139-ee707e33-85e1-4230-955d-ef86ccde17f0.png">
+<img alt="web_app_incubation_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245153-6354d051-3965-453d-9a4c-33211ff1f269.png">
+<img alt="web_app_casing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245178-bbef04e8-2815-445f-9b79-2a30a92b8f47.png">
+<img alt="web_app_casing_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245187-0bb69c10-6301-43bf-8283-1c3fedd3f1ee.png">
+<img alt="web_app_casing_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245200-4cbe95c8-a1b6-45f5-8327-21325ba58475.png">
+<img alt="web_app_induction" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245217-3e6d8d4a-ede1-4531-a94a-5d43eb7c367f.png">
+<img alt="web_app_induction_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245231-fb066815-d342-4f0f-bf45-a2ced0063e69.png">
+<img alt="web_app_induction_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245240-df055634-67b8-498e-8abe-8d338625687f.png">
+<img alt="web_app_harvest" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245247-8310d2a1-0162-426e-a229-3f7ae88f9672.png">
+<img alt="web_app_harvest_regeister" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245252-9ffe99a3-38bd-4acc-b97e-629f91e8eccb.png">
+<img alt="web_app_harvest_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245264-e9f07741-90b4-4ae0-98fe-c37f03f1d25b.png">
+<img alt="crop_completed" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245274-cca88ab0-f0eb-4fc1-9421-6fbff7a70143.png">
 
 
 Web Application back-end:

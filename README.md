@@ -4123,6 +4123,7 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|076e909|feat(cropTest): added crop service unit test||20/11/2023|
 
 <img alt="Test" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/285027263-b86e5dca-55f5-4ccb-bbaf-23b85b822395.png">
 
@@ -4566,6 +4567,21 @@ Base de Dato en SmartASP.NET:
 
 
 <div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint.</h5></div>
+
+Inisghts:
+
+- Landing: 
+<img src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c330a457-cbf2-48f5-967e-91354e91b122" alt="i_l">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285061757-8b22a276-8ed3-4a40-b6ad-711e263aa1b3.png" alt="i_l2">
+
+- Front end:
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285061752-cbe63981-d2de-4845-bcc7-bf1d89ac794f.png" alt="i_f">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285061748-86ed553e-25d3-491c-bc09-ccf4b88d35f3.png" alt="i_f2">
+
+- Back end:
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285061756-1bffa024-6e2d-47f5-9f89-77ed4aa3bba1.png" alt="i_api">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285061754-5f6866c6-2e3a-4c89-9df0-5a48fba03e3e.png" alt="i2_api">
+
 
 |Alumno|Actividad|
 |-|-|

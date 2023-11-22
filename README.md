@@ -56,6 +56,7 @@ width=50%"/>
 |3.4|1/11/2023|Comettant| Análisis de entrevistas de validación|
 |4.1|18/11/2023|Galavis| Mejora y repuntuación del product backlog|
 |4.2|18/11/2023|Galavis| Sprint planning 4, sprint backlog 4|
+|4.3|21/11/2023|Espinoza| Student Outcomes, testing|
 
 ## Project Report Collaboration Insights
 

@@ -3929,13 +3929,13 @@ El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culm
             </td>
         </tr>
         <tr>
-            <td>Sprint 4 Review Summary</td>
+            <td>Sprint 3 Review Summary</td>
             <td>
                 El sprint anterior propuso continuar el desarrollo del front end de la aplicación, y desplegar una primera versión del back end con endpoints funcionales. Se evidencia que el equipo logró cumplir con todos los objetivos propuestos.
             </td>
         </tr>
         <tr>
-            <td>Sprint 4 Retrospective Summary</td>
+            <td>Sprint 3 Retrospective Summary</td>
             <td>
                 <b>¿Qué funciona bien?</b> Los story points fueron acertados. A su vez, la comunicación activa durante el sprint permitió que los miembros del grupo se mantengan informados sobre el proceso de desarrollo del proyecto. <b> ¿Qué no salió bien o cómo se esperaba? </b> El testing pudo haber sido documentado de mejor manera. Sintaxis de historias de usuario poco claras <b> ¿Qué deberíamos intentar hacer a continuación? </b> Investigar sobre testing y documentarlo de manera apropiada. Revisar las user stories y reestructurarlas para que todos los developers comprendan con simplicidad su propósito. 
             </td>
@@ -4149,7 +4149,7 @@ En el sprint 4 se alcanzo un desarrollo completo del frontend y backend de la we
 
 Enlace para visualizar el video de explicación de los logros del Sprint: 
 
-
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EWnxtb7vEedDouL282nG6T0BSkPwLNeaVbOqeYm1nfNZ6w?e=LWEu6K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EWnxtb7vEedDouL282nG6T0BSkPwLNeaVbOqeYm1nfNZ6w?e=LWEu6K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review.</h5></div>
 

@@ -4038,10 +4038,10 @@ Link del Trello: https://trello.com/invite/b/JdTlnrD8/ATTI6cc1194d704d650af2070c
     </tr>
     <tr>
         <td rowspan="1">TS12</td>
-        <td rowspan="1">Get crop by user</td>
+        <td rowspan="1">Get crop by comapny</td>
         <td>TK52</td>
-        <td>Crear endpoint para obtener un cultivo de acuerdo al usuario que elaboró el registro</td>
-        <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo al usuario que realizó el registro correspondiente, al igual que toda la información asociada al mismo</td>
+        <td>Crear endpoint para obtener un cultivo de acuerdo a la compañia que elaboró el registro</td>
+        <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo a la compañia que realizó el registro correspondiente, al igual que toda la información asociada al mismo</td>
         <td>4</td>
         <td>Nicolás Espinoza</td>
         <td>Done</td>
@@ -4057,6 +4057,62 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|aad502|fix: Relocated company profile component and added plural to phases names||14/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|63ead26|feat(company_profile): Company profile now showcases employee list||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|74c9b4c|chore: Installed dependencies||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|3fbefdf|feat: Created bar chart component||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|c83a57f|feat: Created line chart component||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|3d07000|fix: fixed dashboard card route location||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|c35a12a|feat: Addded internationalization to steps||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|26e4546|feature: added domain model and services for security.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7539be3|feature: added mapping for security with ModelToResourceProfile and ResourceToModelProfile.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ee2179c|feature: added Interface User Repository.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ef12d81|feat: added User Service interface.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|d2d3816|chore(security): added constraints to the AppDb context||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|5c493c1|feat: added user repository implementation||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|9502468|chore(security): added dependencies.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|2087ac2|feat: added User Service implementation.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|423e607|feat: added security controller.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7b03bc9|chore: updated program cs.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|dd3ab4e|feat: functional security.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|a3bf1ad|feature: connected login with backend, create token, connected register with backend||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|1a41103|feature: views according to endpoints||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|203fc78|chore(company): made invite employee dialog bigger||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|7e881a5|feat(company): added update and delete functionalities to company profile||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|f17e7c5|feat: Added localization to phase 4 of stepper||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|79d434e|feat: Added localization to remaining phases of stepper||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|46c1d5d|feat: Added localization stepper buttons||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|8f9d466|feat: Added localization to crop finished dialog||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|20a5df0|chore: the crop phase endpoint now always creates a crop on the firstphase.||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|4e3323f|chore: crops now are being correctly patch when ending a phase.||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|2eb9dbb|fix: name of the endpoint is now sign-in and sign-up.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|3b204aa|chore: updated methods to work with the back-end||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|9e74405|chore: shows the crops with state false.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|896335c|chore: shows the crops with state true, with the correct data.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|236816b|chore: updated the endpoints that are sent to the process-table.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|3fdd851|chore: the core of the business is now working with the back-end.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|68dc7df|chore: TODO startDate should have its format changed.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|f48affc|chore: company and employee are being created on the back-end.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|9e5ac27|chore: made the connection with the deployed back-end||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|89a30ab|fix: some endpoints were not being called correctly from the back-end.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|c644d3f|fix: values of the internationalization.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f4dac09|chore: updated the formulas endpoint.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|fe73651|chore: updated the preparation areas endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|21f4a2e|chore: updated the bunker endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|9146338|chore: updated the tunnel endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|21ce118|chore: updated the grow room records endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|524e2a2|chore: added company id to the crop entity.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|221949c|chore: structure the bunker endpoint.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ae7b2f2|chore: structure the formula endpoint.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|3157c86|chore: structure the tunnel endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|06817df|chore: structure the preparation area endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|97007229|chore: finish to structure the preparation area and grow-room endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|d4eab7f|fix: App db context deprecated and sign to sign name.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|1b5e3ff|fix: some naming endpoints and relationships||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|fe2fe10|fix: updated type of startDate and endDate to DateOnly.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|be77bac|chore: changed deployed back-end to Azure in order to have https for communication with the front-end.||20/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|upc-pre-202302-si730-sw51-integradis/LandingPage|cc78307|fix: changed group section due to departure of one member||20/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|upc-pre-202302-si730-sw51-integradis/LandingPage|ecf9863|fix: size of cards of group sections||20/11/2023|
 
 <div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review.</h5></div>
 
@@ -4147,8 +4203,6 @@ Web Service:
         </tr>
         <tr>
             <td>CompanyEmployee</td>
-        </tr>
-        <tr>
             <td>GET</td>
             <td>{companyId}</td>
             <td>api/v1/companies/{companyId}/employees</td>
@@ -4358,7 +4412,33 @@ Commits web service:
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
-
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|26e4546|feature: added domain model and services for security.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7539be3|feature: added mapping for security with ModelToResourceProfile and ResourceToModelProfile.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ee2179c|feature: added Interface User Repository.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ef12d81|feat: added User Service interface.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|d2d3816|chore(security): added constraints to the AppDb context||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|5c493c1|feat: added user repository implementation||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|9502468|chore(security): added dependencies.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|2087ac2|feat: added User Service implementation.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|423e607|feat: added security controller.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7b03bc9|chore: updated program cs.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|dd3ab4e|feat: functional security.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|20a5df0|chore: the crop phase endpoint now always creates a crop on the firstphase.||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|4e3323f|chore: crops now are being correctly patch when ending a phase.||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f4dac09|chore: updated the formulas endpoint.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|fe73651|chore: updated the preparation areas endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|21f4a2e|chore: updated the bunker endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|9146338|chore: updated the tunnel endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|21ce118|chore: updated the grow room records endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|524e2a2|chore: added company id to the crop entity.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|221949c|chore: structure the bunker endpoint.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ae7b2f2|chore: structure the formula endpoint.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|3157c86|chore: structure the tunnel endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|06817df|chore: structure the preparation area endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|97007229|chore: finish to structure the preparation area and grow-room endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|d4eab7f|fix: App db context deprecated and sign to sign name.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|1b5e3ff|fix: some naming endpoints and relationships||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|fe2fe10|fix: updated type of startDate and endDate to DateOnly.||19/11/2023|
 
 <div id='5.2.4.7.'><h5>5.2.4.7.Software Deployment Evidence for Sprint Review.</h5></div>
 

@@ -4387,7 +4387,7 @@ Web Application front-end:
 Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
 
 - Deploy_web:
-
+<img alt="f1" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/4b3a24af-ea52-4fee-9bce-79e8f22320a3">
 
 - Capturas de pantalla de web application:
 
@@ -4430,13 +4430,55 @@ Al netlify estar conectado a github, al realizar un merge en la rama principal (
 
 Web Application back-end:
 
-Ultímo despligue del web service en SmartASP.NET:
-
+Ultímo despligue del web service en Microsoft Azure
+<img alt="b1" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e259564a-aac5-453e-893f-5a2a47eed96f">
+<img alt="b2" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9d7fc7d9-26a3-4698-a21d-978bc86bede8">
+<img alt="b3" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c731ad5b-4ff2-4120-81e9-709f3011a0b2">
 
 Base de Dato en SmartASP.NET:
-
+<img alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280447205-ea1455fa-e46f-40e3-b567-d49044e482d4.png">
 
 - Capturas de pantalla de web services:
+
+<img alt="comapnies1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803316-e58f0fb5-96da-4831-876a-20a85b92c82a.png">
+<img alt="companies2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803314-9500325a-4084-47ec-bfc5-5be453caa6c7.png">
+<img alt="companies3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803313-ea5d6872-72a7-4f71-8add-91f0f86dd40a.png">
+<img alt="companies4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803312-d54f9e31-a892-4d42-b1ea-3eab14d96a94.png">
+<img alt="companyE" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803308-169fcbdc-1722-464c-ad40-9c9bb20a48be.png">
+<img alt="crops1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803306-d0def72e-e83f-4c57-9a04-a2ea14ec8666.png">
+<img alt="crops2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803303-1a660714-e516-4d0e-a74a-3f20b03da1e9.png">
+<img alt="crops3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803301-8efc9faf-a705-40b1-959a-00aa651a0dfc.png">
+<img alt="crops4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803298-b0d66abc-2043-48db-adf0-c4f866c94694.png">
+<img alt="crops5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803295-1f013282-ac2a-4a4f-ac7f-22ca827ad7e5.png">
+<img alt="cropsb1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803294-691fe1d7-25a7-430c-95a7-fbaddafbdee6.png">
+<img alt="cropsb2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803291-519a20cf-1b15-4bda-ae89-b7da6c60745d.png">
+<img alt="cropsb3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803289-e4fdf95d-9ab5-4255-b283-a2a01ee49bcf.png">
+<img alt="cropsb4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803288-9b1346f0-674c-4973-a846-5ad886ea3c42.png">
+<img alt="cropsf1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803287-c238a11e-70e9-4ee1-9b19-eae5878594cd.png">
+<img alt="cropsf2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803286-a405723f-7b00-474a-acad-bfa40145e1ff.png">
+<img alt="cropsf3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803283-5d80b76c-4f0b-47d6-be03-5f651088778b.png">
+<img alt="cropsf4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803281-2db12602-a1bb-4cb7-a0f3-7797955d3cbe.png">
+<img alt="cropsg1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803279-5341861a-cdaf-4fa5-a6fb-8b825a25547d.png">
+<img alt="cropsg2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803277-ac4655fa-3f16-470b-991b-6138e7fdbd7f.png">
+<img alt="cropsg3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803275-8865a4a4-a1fd-4bde-a2e1-f2e951c7cbfc.png">
+<img alt="cropsg4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803274-74916f3f-da6f-434a-b1c1-0ee09f9e196b.png">
+<img alt="cropsa1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803271-e421d6b3-6fbe-4ca4-b6f4-5e123526cebc.png">
+<img alt="cropsa2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803269-5d4de84d-e971-4238-8a99-ed12b9507c67.png">
+<img alt="cropsa3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803268-5b70d176-e33d-4ac8-bdee-067233cb0766.png">
+<img alt="cropsa4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803265-bb2e633a-9d9d-4bff-943e-a9f39c9bbe9c.png">
+<img alt="cropst1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803262-89948b7c-ff7c-4296-aded-ffeea30fde8b.png">
+<img alt="cropst2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803260-1c6eeaa3-d6ce-4014-968c-3853ac401193.png">
+<img alt="cropst3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803258-914088cc-a863-41c6-abf7-58c67782962f.png">
+<img alt="cropst4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803256-985b402b-58a6-4c62-b30b-4a66f9e4c053.png">
+<img alt="emp1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803254-250fd3cd-5669-4a6f-91d9-40b089038fbc.png">
+<img alt="emp2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803252-8b8fb753-11cb-4410-8498-b18e81bc5269.png">
+<img alt="emp3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803250-5451cc1f-a5e8-43dc-905b-4dc9d3cb6dd5.png">
+<img alt="emp4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803246-984006f9-c319-4329-8a0e-0dfb8c305550.png">
+<img alt="user1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803243-63bd4a4d-f102-4eb8-9709-22e3132b0aa8.png">
+<img alt="user2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803241-a3f29663-9144-424c-a920-4144e857dcfb.png">
+<img alt="user3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803239-afce3d4a-e333-4085-91ca-a438fda39ac2.png">
+<img alt="user4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803237-c1b2058c-6e12-4117-82d1-686df574361b.png">
+<img alt="user5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803232-edb9e98f-e9f5-4a8f-b81c-3524469f1e54.png">
 
 
 <div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint.</h5></div>

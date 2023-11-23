@@ -4115,6 +4115,9 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 |https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|be77bac|chore: changed deployed back-end to Azure in order to have https for communication with the front-end.||20/11/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|upc-pre-202302-si730-sw51-integradis/LandingPage|cc78307|fix: changed group section due to departure of one member||20/11/2023|
 |https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|upc-pre-202302-si730-sw51-integradis/LandingPage|ecf9863|fix: size of cards of group sections||20/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|75e1030|feat: solved logo re-direct||22/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|3961ed6|fix: solved logo re-direct||22/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|6c4d1c0|fix: solved logo re-direct endpoint||22/11/2023|
 
 <div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review.</h5></div>
 

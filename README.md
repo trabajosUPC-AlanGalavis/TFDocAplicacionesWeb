@@ -1812,32 +1812,6 @@ Para poder desplegar el Front End Web Application resulta necesario contar con u
 
 Ingresar con tu cuenta de Github en la opción Sign Up with Github:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img width="1440" alt="Sing Up" src="https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/8daffd5d-d361-4d4a-98dd-261e1b5c1c20">
 
 Brindar autorización a Netlify para Github.

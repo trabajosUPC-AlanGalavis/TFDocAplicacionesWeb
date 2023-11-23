@@ -273,9 +273,9 @@ La startup, presentada con el nombre de “Integradis”, se enfoca en ofrecer u
 Integradis busca ser reconocido como un modelo de negocio sostenible y comprometido en brindar un servicio de calidad capaz de satisfacer las necesidades de los usuarios.
 
 ##### Logotipo de la Startup:
-![logotipo_start](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/e6a54426-ae3c-4f8f-a684-a6bfcc53ee35)
+![logotipo_start](https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/265119749-e6a54426-ae3c-4f8f-a684-a6bfcc53ee35.jpeg)
 ##### Logotipo del servicio
-![logotipo_servicio](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/24685994-1b60-4a6e-9c38-0380e92027d8)
+![logotipo_servicio](https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/265119557-24685994-1b60-4a6e-9c38-0380e92027d8.jpeg)
 
 
 ####     1.2. Perfiles de los integrantes del equipo
@@ -416,7 +416,7 @@ El producto debe integrar una interfaz sencilla, inclusiva y dinámica. Debe ent
 #####         **2.2.4.Lean UX Canvas.**
 El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
 
-![Integradis_Lean Canvas](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/901dcbe9-c395-4f62-9fb0-bf32980a4ba8)
+![Integradis_Lean Canvas](https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/265129358-901dcbe9-c395-4f62-9fb0-bf32980a4ba8.png)
 
 Enlace para acceder al [Canvas](https://app.mural.co/t/integradis6182/m/integradis6182/1693601172741/46f0026bfe73d12af59e3bc71c203bee710eb32a?sender=ufdf66b413172c812625a4806 )
 
@@ -428,7 +428,7 @@ Finalmente, en relación a las principales empresas exportadoras de champiñones
 * **Stakelholder Internos:** Equipo Integradis y resto de integrantes del equipo de desarrollo
 * **Stakelholder Externos:** Personal técnico supervisor y administrador de las industrias enfocadas en el cultivo de champiñones, estudiantes y/o profesionales en carreras involucradas en agronomía, gerencia de agroempresas comerciales.
 
-![Stakeholders Externos](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/b28e7264-8fe6-4da1-9275-59a114145d72)
+![Stakeholders Externos](https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/265119339-b28e7264-8fe6-4da1-9275-59a114145d72.png)
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 1. **Competidores.**
@@ -470,10 +470,10 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
         <tr>
             <td rowspan="3">PERFIL</td>
             <td rowspan="2">Overview</td>
-            <td> GreenHouse <img src=https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/c8412e74-a9bb-4e9e-b49e-d5faa094d456> </td>
-            <td>Agroptima <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/3a4b2b57-bfad-4d96-83dc-59fb6819a945"> </td>
-            <td>Agrio Software<img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/2a1a6055-a109-4916-b109-1640b2aad4f0"> </td>
-            <td>AgrioBit <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/168e05dc-b992-4707-86bb-7dba446d5eac"> </td> 
+            <td> GreenHouse <img src=https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/270193277-c8412e74-a9bb-4e9e-b49e-d5faa094d456.png> </td>
+            <td>Agroptima <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/270193365-3a4b2b57-bfad-4d96-83dc-59fb6819a945.png"> </td>
+            <td>Agrio Software<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/270193399-2a1a6055-a109-4916-b109-1640b2aad4f0.png"> </td>
+            <td>AgrioBit <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/270193414-168e05dc-b992-4707-86bb-7dba446d5eac.png"> </td> 
         </tr>
         <tr>
             <td>Plataforma direccionada al registro y monitoreo de procesos productivos involucrados en los cultivos de las industrias de champiñones
@@ -780,21 +780,21 @@ ___
 |-|-|
 |Edad|52|
 |Distrito|Chilca|
-|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/5dc0fcff-afad-4a5d-b767-a5c03963c1e0">|Cuenta con 17 años trabajando en plantas de cultivo de champiñones, actualmente es el técnico de producción en Perú Agro. Las funciones que desempeña son las relacionadas al proceso de las naves. Tiene un conocimiento muy claro del proceso y todo lo que este involucra como lo son los tiempos, condiciones de temperatura, CO2, Humedad. Trabaja en el turno de día y realiza un registro cada 4 horas. Se evidencia que no es una persona muy familiarizada con el entorno digital puesto que ciertas preguntas relacionadas al tema le costaban comprenderlas. No considera tedioso el tener que hacer los registros manualmente pero si considera que el proceso se podría agilizar mediante la implementación de una aplicación web. |
+|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/263503328-5dc0fcff-afad-4a5d-b767-a5c03963c1e0.png">|Cuenta con 17 años trabajando en plantas de cultivo de champiñones, actualmente es el técnico de producción en Perú Agro. Las funciones que desempeña son las relacionadas al proceso de las naves. Tiene un conocimiento muy claro del proceso y todo lo que este involucra como lo son los tiempos, condiciones de temperatura, CO2, Humedad. Trabaja en el turno de día y realiza un registro cada 4 horas. Se evidencia que no es una persona muy familiarizada con el entorno digital puesto que ciertas preguntas relacionadas al tema le costaban comprenderlas. No considera tedioso el tener que hacer los registros manualmente pero si considera que el proceso se podría agilizar mediante la implementación de una aplicación web. |
 |Timing: 0:07-15:15 |URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=O84h23&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjcuMDR9fQ%3D%3D)|
 
 |Entevistado 2|Kevin Urbano|
 |-|-|
 |Edad|32|
 |Distrito|Chilca|
-|<img width="1293" alt="Screenshot 2023-08-27 at 12 11 33 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/23a5a75c-c964-4f2b-8ec4-239a862c664b">|Cuenta con 2 años y 3 meses trabajando en plantas de cultivo de champiñones, actualmente es el técnico de pasteurización y búnker en Perú Agro. Las funciones que desempeña son las relacionadas a los proceso previos a las naves, como lo son los bunkers y la pasteurización. Comenta que las cantidades para las mezclas se manejan con un excel del encargado. Trabaja en el turno de día y realiza un registro cada hora u hora y media. Comenta que se tienen registros tanto por WhatsApp como por informes manuales que se envían a oficina. Considera que una aplicación para el registro brindaría mayor organización puesto que todo estaría en la computadora. Comenta la posibilidad de añadir el seguimiento de las mejores naves|
+|<img width="1293" alt="Screenshot 2023-08-27 at 12 11 33 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/263509741-23a5a75c-c964-4f2b-8ec4-239a862c664b.png">|Cuenta con 2 años y 3 meses trabajando en plantas de cultivo de champiñones, actualmente es el técnico de pasteurización y búnker en Perú Agro. Las funciones que desempeña son las relacionadas a los proceso previos a las naves, como lo son los bunkers y la pasteurización. Comenta que las cantidades para las mezclas se manejan con un excel del encargado. Trabaja en el turno de día y realiza un registro cada hora u hora y media. Comenta que se tienen registros tanto por WhatsApp como por informes manuales que se envían a oficina. Considera que una aplicación para el registro brindaría mayor organización puesto que todo estaría en la computadora. Comenta la posibilidad de añadir el seguimiento de las mejores naves|
 |Timing: 15:16-27:45|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=gW7L3K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjkxNi4zN319)|
 
 |Entevistado 3|Danny Martinez|
 |-|-|
 |Edad|33|
 |Distrito|Chilca|
-|<img width="1287" alt="Screenshot 2023-08-27 at 12 29 47 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/607c0533-4415-4dd0-997c-38efb3fefb77">|El entrevistado posee un año y seis meses trabajando en la planta de cultivo de champiñones, y, actualmente está encargado de la coordinación general de los procesos productivos, ventas, cosecha. Se encarga de que todos los procesos se cumplan a cabalidad. Menciona que el registro de temperatura es diario y en algunas áreas se manejan por horas. Comenta que se tienen registros tanto por WhatsApp como por informes manuales que se envían a oficina. Considera que una aplicación para el registro brindaría mayor organización puesto que es a tiempo real de manera digital a diferencia de por escrito. Menciona la posibilidad de implementar una base de datos. Considera que el uso de la aplicación tendría como mayor problema capacitar al personal.
+|<img width="1287" alt="Screenshot 2023-08-27 at 12 29 47 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/263510282-607c0533-4415-4dd0-997c-38efb3fefb77.png">|El entrevistado posee un año y seis meses trabajando en la planta de cultivo de champiñones, y, actualmente está encargado de la coordinación general de los procesos productivos, ventas, cosecha. Se encarga de que todos los procesos se cumplan a cabalidad. Menciona que el registro de temperatura es diario y en algunas áreas se manejan por horas. Comenta que se tienen registros tanto por WhatsApp como por informes manuales que se envían a oficina. Considera que una aplicación para el registro brindaría mayor organización puesto que es a tiempo real de manera digital a diferencia de por escrito. Menciona la posibilidad de implementar una base de datos. Considera que el uso de la aplicación tendría como mayor problema capacitar al personal.
 |Timing: 27:45-35:46|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=6oRCHi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjE2NjYuNH19)|
 
 **Entrevista a administradores**
@@ -803,21 +803,21 @@ ___
 |-|-|
 |Edad|42|
 |Distrito|Miraflores|
-|<img width="1293" alt="Screenshot 2023-08-27 at 1 43 50 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/0f3fab5e-3c0c-4eb6-81d1-cb16452b6916">|Cuenta con 5 años en el rubro, con una trayectoria previa en la industria de la construcción. Actualmente se encarga principalmente de labores administrativas dentro de la fábrica. Posee profundos conocimientos de todas las etapas de producción, y comenta que para realizar champiñones se requiere de un estricto control. Con respecto al sistema de registro, el entrevistado señala que documentar manualmente los procesos puede resultar complicado debido a la potencial acumulación de errores con el tiempo. Uno de los problemas que encuentra es que en caso de equivocación, ninguno de los técnicos asume la responsabilidad de sus actos. Adicionalmente, asegura apoyarse de una hoja de cálculo en Excel para tener una trazabilidad de las producción diaria de cada nave. Desde su perspectiva, la facilidad de uso es un aspecto muy importante que la aplicación debe cumplir. 
+|<img width="1293" alt="Screenshot 2023-08-27 at 1 43 50 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/263512554-0f3fab5e-3c0c-4eb6-81d1-cb16452b6916.png">|Cuenta con 5 años en el rubro, con una trayectoria previa en la industria de la construcción. Actualmente se encarga principalmente de labores administrativas dentro de la fábrica. Posee profundos conocimientos de todas las etapas de producción, y comenta que para realizar champiñones se requiere de un estricto control. Con respecto al sistema de registro, el entrevistado señala que documentar manualmente los procesos puede resultar complicado debido a la potencial acumulación de errores con el tiempo. Uno de los problemas que encuentra es que en caso de equivocación, ninguno de los técnicos asume la responsabilidad de sus actos. Adicionalmente, asegura apoyarse de una hoja de cálculo en Excel para tener una trazabilidad de las producción diaria de cada nave. Desde su perspectiva, la facilidad de uso es un aspecto muy importante que la aplicación debe cumplir. 
 |Timing: 35:54-59:29|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=F4cCyp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjIxNTQuMDN9fQ%3D%3D)|
 
 |Entevistado 2|Rosalyn Perez Clemente|
 |-|-|
 |Edad|41|
 |Distrito|Chilca|
-|<img width="1299" alt="Screenshot 2023-08-27 at 1 32 49 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9a54b9c5-35a4-44ca-ab5a-d77a6415a6e3">|Trabaja en la planta de cultivo de champiñones desde agosto de 2018 y actualmente ocupa una posición en el área administrativa. Se encarga de la gestión de pagos, trámites y la administración de documentación relacionada con las operaciones internas. Lleva la documentanción de los registros de los procesos y las producciones por naves. Rosalyn recibe informes de registros en un promedio de cinco ocasiones mensuales, lo cual concuerda con la frecuencia de las siembras realizadas en ese periodo específico. Sin embargo, sugiere que existe la posibilidad de enfrentar retrasos en la entrega de la documentación,  un aspecto que podría afectar la capacidad de toma de decisiones oportunas por parte de la empresa. Opina que una aplicación sería de utilidad para agilizar la comunicación, y que el mayor incoveniente de esta misma sería la necesidad de proporcionar capacitación adecuada al personal, con el objetivo de garantizar un uso efectivo de la aplicación.
+|<img width="1299" alt="Screenshot 2023-08-27 at 1 32 49 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/263512154-9a54b9c5-35a4-44ca-ab5a-d77a6415a6e3.png">|Trabaja en la planta de cultivo de champiñones desde agosto de 2018 y actualmente ocupa una posición en el área administrativa. Se encarga de la gestión de pagos, trámites y la administración de documentación relacionada con las operaciones internas. Lleva la documentanción de los registros de los procesos y las producciones por naves. Rosalyn recibe informes de registros en un promedio de cinco ocasiones mensuales, lo cual concuerda con la frecuencia de las siembras realizadas en ese periodo específico. Sin embargo, sugiere que existe la posibilidad de enfrentar retrasos en la entrega de la documentación,  un aspecto que podría afectar la capacidad de toma de decisiones oportunas por parte de la empresa. Opina que una aplicación sería de utilidad para agilizar la comunicación, y que el mayor incoveniente de esta misma sería la necesidad de proporcionar capacitación adecuada al personal, con el objetivo de garantizar un uso efectivo de la aplicación.
 |Timing: 59:30-1:03:30|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=LqataW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM1NzAuOTF9fQ%3D%3D)|
 
 |Entevistado 3|Julio Victor Du Bois Yabar|
 |-|-|
 |Edad|77|
 |Distrito|San Borja|
-|<img width="1295" alt="Screenshot 2023-08-28 at 1 57 27 AM" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9d6ce2a3-1ff3-4f84-b424-5eebfaeb59b8">|Gerente de la fábrica de champiñones de la marca Campo Alegre. Lleva 5 años en el cargo y se encarga principalmente de la parte financiera, estructural. Recibe a menudo reportes y hace las anotaciones y correciones correspondientes según el caso. Comenta que recibe los reportes por teléfono y tiene una constancia del registro a mano. Cuenta con los conocimientos técnicos referentes al cultivo de champiñones adquiridos a través de los años de experiencia. Menciona que aún no cuentan con la tecnología necesaria en la mayoría de procesos, y que buscan la integración de esta misma. |
+|<img width="1295" alt="Screenshot 2023-08-28 at 1 57 27 AM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/263618186-9d6ce2a3-1ff3-4f84-b424-5eebfaeb59b8.png">|Gerente de la fábrica de champiñones de la marca Campo Alegre. Lleva 5 años en el cargo y se encarga principalmente de la parte financiera, estructural. Recibe a menudo reportes y hace las anotaciones y correciones correspondientes según el caso. Comenta que recibe los reportes por teléfono y tiene una constancia del registro a mano. Cuenta con los conocimientos técnicos referentes al cultivo de champiñones adquiridos a través de los años de experiencia. Menciona que aún no cuentan con la tecnología necesaria en la mayoría de procesos, y que buscan la integración de esta misma. |
 |Timing: 1:03:31-1:22:35|URL: [upc-pre-202302-si729-SW51-Integradis- needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a475_upc_edu_pe/EW0WUUHzXK5Nmzo3JosW8YoB8PYQfaqreFVmqAPr8VespQ?e=qop9GL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjM4MTEuMzN9fQ%3D%3D)|
 
 ####     2.3. Análisis de entrevistas.
@@ -832,8 +832,8 @@ En primer lugar, el 33% de los entrevistados pertenece al sector de adultos mayo
 
 ### 3. **Needfinding.**
 ####     3.1. User Personas.
-![Luis_Flores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/9ef30eba-ef4f-4d54-a254-9bcc0c1e823b)
-![Alvaro_Morales](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/d1eb858b-32a4-4d2b-bc99-4deab0af3534)
+![Luis_Flores](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/264434330-9ef30eba-ef4f-4d54-a254-9bcc0c1e823b.png)
+![Alvaro_Morales](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/264434308-d1eb858b-32a4-4d2b-bc99-4deab0af3534.png)
 ####     3.2. User Task Matrix.
 
 Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas por los segmentos objetivos de los técnicos supervisores y los administradores. 
@@ -884,7 +884,7 @@ En la presente sección se ilustra el _end-to-end_ journey de la aplicación Gre
 
 Técnico Supervisor:
 
-![Customer Journey Map Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/39bba487-4e82-4c1d-b1cc-77e0d3a6a122)
+![Customer Journey Map Técnico Supervisor](https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/265245280-39bba487-4e82-4c1d-b1cc-77e0d3a6a122.png)
 
 
 Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/0cWAy)
@@ -892,7 +892,7 @@ Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/0cWAy
 
 Administrador:
 
-![Customer Journey Map Adminsitrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/d68c667c-947e-415e-ac20-3527611cd73b)
+![Customer Journey Map Adminsitrador](https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/265239832-d68c667c-947e-415e-ac20-3527611cd73b.png)
 
 
 Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/6xYWr)
@@ -902,7 +902,7 @@ Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/m/6xYWr
 
 * Técnico Supervisor:
 
-![Empathy Map Técnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/e4c3829e-d60f-4e7b-bf96-39dece6dd4cc)
+![Empathy Map Técnico](https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/264839901-e4c3829e-d60f-4e7b-bf96-39dece6dd4cc.png)
 
 
 Eblace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/obQDr)
@@ -910,7 +910,7 @@ Eblace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/obQDr
 
 * Administrador:
 
-![Empathy Map Administrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/3e915a48-741d-4088-8145-d7bc43655d04)
+![Empathy Map Administrador](https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/264918320-3e915a48-741d-4088-8145-d7bc43655d04.png)
 
 
 Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/p/I5oHs)
@@ -922,7 +922,7 @@ Para la realizar el As-is Scenario Mapping el equipo realizó el proceso de need
 
 * Técnico Supervisor:
 
-![As-Is Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/5b109c1b-1223-48bf-b39a-4cb3ed34a1c7)
+![As-Is Técnico Supervisor](https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/264277715-5b109c1b-1223-48bf-b39a-4cb3ed34a1c7.jpg)
 
 
 
@@ -931,7 +931,7 @@ Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWid
 
 * Administrador:
 
-![As-Is Administrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/84add9a5-b170-44b4-9cb4-0eb98782987b)
+![As-Is Administrador](https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/264494908-84add9a5-b170-44b4-9cb4-0eb98782987b.jpg)
 
 
 Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801771&cot=14)
@@ -944,14 +944,14 @@ Para la realizar el To-be Scenario Mapping el equipo determinó como se vería e
 
 * Técnico Supervisor:
 
-![To-Be Técnico Supervisor](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4d18a5af-5deb-4152-8d7c-082035b2d4a7)
+![To-Be Técnico Supervisor](https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/264277952-4d18a5af-5deb-4152-8d7c-082035b2d4a7.jpg)
 
 Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441801833&cot=14)
 
 
 * Administrador:
 
-![Greenhouse As-Is_To-Be - To-Be Adminstrador](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9efc203e-9302-49bb-8373-08c93a83041a)
+![Greenhouse As-Is_To-Be - To-Be Adminstrador](https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/264506679-9efc203e-9302-49bb-8373-08c93a83041a.jpg)
 
 
 Enlace para acceder al [Miro](https://miro.com/app/board/uXjVMqkRnQw=/?moveToWidget=3458764562441933032&cot=14)
@@ -1015,7 +1015,7 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 ### 3. **Impact Mapping.**
 
 
-![Greenhouse Impact map](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/9d6d3a10-e60a-45d3-bdd9-dbdcc792abb6)
+![Greenhouse Impact map](https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/265248691-9d6d3a10-e60a-45d3-bdd9-dbdcc792abb6.png)
 
 
 Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk)
@@ -1082,19 +1082,19 @@ La startup, presentada con el nombre de “Integradis”, se enfoca en ofrecer u
 
 **Visión:** GreenHouse se direcciona a ser la plataforma más destacada dentro del mercado respecto al registro de procesos para los próximos tres años. Integradis busca ser reconocido como un modelo de negocio sostenible y comprometido en brindar un servicio de calidad capaz de satisfacer las necesidades de los usuarios.
 
-![logotipo_start](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/ed2c7bc7-691e-4adc-a282-9ce82222b1b4) 
+![logotipo_start](https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/266467223-ed2c7bc7-691e-4adc-a282-9ce82222b1b4.jpeg) 
 
 **Brand Name:**
 
 El nombre de la propuesta de solución es GreenHouse. La idea surge de la unión de dos palabras traducidas como “Casa Verde”, con un significado más complejo “Invernadero”. Este aspecto se relaciona con el dilema que busca solventar la plataforma y el rubro al que direcciona (la agronomía). En ese sentido, la aplicación se centraliza en la creación de un sistema para automatizar el registro de cultivos en las industrias champiñoneras del Perú.
 
-![logotipo_servicio](https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/5a31b0ea-105f-49c4-8dd0-dd0e0af32c38) 
+![logotipo_servicio](https://github-production-user-asset-6210df.s3.amazonaws.com/105735491/266467258-5a31b0ea-105f-49c4-8dd0-dd0e0af32c38.jpeg) 
 
 **Colores:**
 
 Los colores toman protagonismo de la primera percepción visual de los usuarios. Es así que, guiados por los principios de la psicología del color, se destinó al color verde como tonalidad principal de la paleta cromática en la implementación de la plataforma. El verde simboliza balance, crecimiento y prestigio, uno de los alcances de la startup. Por otra parte, el pigmento verde se asocia con la agronomía, el rubro al que se direcciona la plataforma; y, al concepto de armonía, lo cual se busca ofrecer al usuario dentro de la interacción en el servicio. Como tonalidades secundarias se tienen a: variedades cromáticas del color marrón, negro y plomo.
 
-![PaletaDeColores](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/8a0f79e3-fcc5-4a89-a374-899402acbf16)
+![PaletaDeColores](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/264758059-8a0f79e3-fcc5-4a89-a374-899402acbf16.png)
 
 **Tipografía:**
 
@@ -1105,7 +1105,7 @@ La tipografía establece jerarquía entre los diversos grupos de contenido de la
 * Heading 04: Presenta un tamaño de 18px.
 
 
-![FontSize](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103398708/889a807f-4898-40ff-8cad-bc598c13b600)
+![FontSize](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/264758308-889a807f-4898-40ff-8cad-bc598c13b600.png)
 
 ####     1.2. Web Style Guidelines.
 El enfoque de "Greenhouse" para la aplicación web es de elegancia, sencillez y eficiencia para realizar los procesos. Las etapas del proceso y los formularios que deben llenarse están representados en formularios y secciones que abarcan la mayoría de la pantalla. 
@@ -1216,25 +1216,25 @@ En la aplicación, los usuarios recorrerán el proceso de cultivo con secciones 
 ### 3. **Landing Page UI Design.**
 ####     3.1. Landing Page Wireframe.
 ##### Landing Page para Desktop Web Browser
-![Landing_Page_Wireframe](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/f5feffb0-1718-4e45-b1b8-f6e6ff684818)
+![Landing_Page_Wireframe](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270137384-f5feffb0-1718-4e45-b1b8-f6e6ff684818.png)
 
 ##### Landing Page para Mobile Web Browser
-![Landing_Page_Mobile_Wireframe](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/104f6722-40ba-4ca4-ab47-5e0173e50b8f)
+![Landing_Page_Mobile_Wireframe](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270137391-104f6722-40ba-4ca4-ab47-5e0173e50b8f.png)
 
 ####     3.2. Landing Page Mock-up.
 ##### Landing page en español
 ###### Landing Page para Desktop Web Browser
-![Landing_Page_ES_Mockup](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/25e3717d-f742-4c1c-be6b-36e0d593b9f4)
+![Landing_Page_ES_Mockup](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270137397-25e3717d-f742-4c1c-be6b-36e0d593b9f4.png)
 
 ###### Landing Page para Mobile Web Browser
-![Landing_Page_ES_Mockup_Mobile](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/22f1dab0-91e0-4a77-aab7-70cc97c5f8b1)
+![Landing_Page_ES_Mockup_Mobile](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270137405-22f1dab0-91e0-4a77-aab7-70cc97c5f8b1.png)
 
 ##### Landing page en inglés
 ###### Landing Page para Desktop Web Browser
-![Landing_Page_EN_Mockup](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/90e0d29d-c30c-4386-9ea0-10301c4f8c13)
+![Landing_Page_EN_Mockup](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270137430-90e0d29d-c30c-4386-9ea0-10301c4f8c13.png)
 
 ##### Landing Page para Mobile Web Browser
-![Landing_Page_EN_Mockup_Mobile](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/ce426be5-d685-4725-9458-9ac060850196)
+![Landing_Page_EN_Mockup_Mobile](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/270137437-ce426be5-d685-4725-9458-9ac060850196.png)
 
 
 ### 4. **Web Applications UX/UI Design.**
@@ -1243,85 +1243,85 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ##### Web Application para Desktop Web Browser
 
 ###### Iniciar sesión
-![WebApp_Desktop_Wireframe_EN_Login](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Log_In_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Login](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Log_In_Wireframe_EN.png)
 ###### Crear cuenta
-![WebApp_Desktop_Wireframe_EN_Registrar_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Registrar_Empresa_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Registrar_Empresa](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Registrar_Empresa_Wireframe_EN.png)
 ###### Elegir plan de pago
-![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Elegir_Plan_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Elegir_Plan_Wireframe_EN.png)
 ###### Pasarela de pagos
-![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Pagar_Wireframe_EN.png?raw=true)
-![WebApp_Desktop_Wireframe_EN_Pagar](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Confirmar_Pago_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Pagar_Wireframe_EN.png)
+![WebApp_Desktop_Wireframe_EN_Pagar](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Confirmar_Pago_Wireframe_EN.png)
 ###### Mi perfil
-![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Perfil_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Perfil_Wireframe_EN.png)
 ###### Perfil de trabajador (Vista administrador)
-![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cuenta_Trabajador_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Cuenta_Trabajador_Wireframe_EN.png)
 ###### Mi empresa (Vista de administrador)
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Empresa_Wireframe_EN.png)
 ###### Mi empresa (Vista de técnico supervisor)
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Vista_Trabajador_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Empresa_Vista_Trabajador_Wireframe_EN.png)
 ###### Panel de control (Dashboard)
-![WebApp_Desktop_Wireframe_EN_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Dashboard_Wireframes_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Dashboard](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Dashboard_Wireframes_EN.png)
 ###### Reportes estadísticos
-![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Reportes_Estadisticos_Wireframes_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Reportes_Estadisticos_Wireframes_EN.png)
 ###### Crear cultivo
-![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png?raw=true)
-![WebApp_Desktop_Wireframe_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN_Wireframe.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png)
+![WebApp_Desktop_Wireframe_EN_CultivosEnProgreso](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Cultivos_En_Progreso_EN_Wireframe.png)
 ###### Elegir plan de pago
-![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Elegir_Plan_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Elegir_Plan_Wireframe_EN.png)
 ###### Pasarela de pagos
-![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Pagar_Wireframe_EN.png?raw=true)
-![WebApp_Desktop_Wireframe_EN_Pagar](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Confirmar_Pago_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Pagar_Wireframe_EN.png)
+![WebApp_Desktop_Wireframe_EN_Pagar](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Confirmar_Pago_Wireframe_EN.png)
 ###### Mi perfil
-![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Perfil_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Perfil_Wireframe_EN.png)
 ###### Perfil de trabajador
-![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cuenta_Trabajador_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Cuenta_Trabajador_Wireframe_EN.png)
 ###### Mi empresa (Vista de administrador)
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Empresa_Wireframe_EN.png)
 ###### Mi empresa (Vista de técnico supervisor)
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Vista_Trabajador_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Empresa_Vista_Trabajador_Wireframe_EN.png)
 ###### Panel de control (Dashboard)
-![WebApp_Desktop_Wireframe_EN_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Dashboard_Wireframes_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Dashboard](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Dashboard_Wireframes_EN.png)
 ###### Reportes estadísticos
-![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Reportes_Estadisticos_Wireframes_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Reportes_Estadisticos_Wireframes_EN.png)
 ###### Cultivos en progreso
-![WebApp_Desktop_Wireframe_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN_Wireframe.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_CultivosEnProgreso](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Cultivos_En_Progreso_EN_Wireframe.png)
 ###### Crear cultivo
-![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_CrearCultivo](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Crear_Cultivo_Wireframe_EN.png)
 
 ###### Fases 0, 1, 2, 3 y 4
-![WebApp_Desktop_Wireframe_EN_FaseEmpty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Empty_Wireframe_EN.png?raw=true)
-![WebApp_Desktop_Wireframe_EN_Fases](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Wireframe_EN.png?raw=true)
-![WebApp_Desktop_Wireframe_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_Fin_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_FaseEmpty](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_Empty_Wireframe_EN.png)
+![WebApp_Desktop_Wireframe_EN_Fases](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_Wireframe_EN.png)
+![WebApp_Desktop_Wireframe_EN_End](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_Fin_Wireframe_EN.png)
 ###### Finalizar cultivo
 
-![WebApp_Desktop_Wireframe_EN_End_Crop](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_End_Crop](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-4_Fin_Wireframe_EN.png)
 ###### Histórico de cultivos
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Wireframes_EN.png?raw=true)
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Detalle_Wireframes_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Archivo_Cosechas_Wireframes_EN.png)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Archivo_Cosechas_Detalle_Wireframes_EN.png)
 
 ##### Web Application para Mobile Web Browser
 ###### Panel de control (Dashboard)
-![Wireframe_WebApp_Mobile_EN_Dashboard](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_panel_control.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Dashboard](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_panel_control.png)
 ###### Registrar proceso
-![Wireframe_WebApp_Mobile_EN_Process](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_registro_procesos.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Process](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_registro_procesos.png)
 ###### Fase 0
-![Wireframe_WebApp_Mobile_EN_Fase0](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_1.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Fase0](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_fase_1.png)
 ###### Fase 1
-![Wireframe_WebApp_Mobile_EN_Fase1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_1.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Fase1](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_fase_1.png)
 ###### Fase 2
-![Wireframe_WebApp_Mobile_EN_Fase2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_2.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Fase2](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_fase_2.png)
 ###### Fase 3
-![Wireframe_WebApp_Mobile_EN_Fase3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_3.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Fase3](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_fase_3.png)
 ###### Fase 4.1
-![Wireframe_WebApp_Mobile_EN_Fase4.1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.1.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Fase4.1](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_fase_4.1.png)
 ###### Fase 4.2
-![Wireframe_WebApp_Mobile_EN_Fase4.2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.2.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Fase4.2](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_fase_4.2.png)
 ###### Fase 4.3
 ![Wireframe_WebApp_Mobile_EN_Fase4.3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.3.png?raw=true)
 ###### Fase 4.4
-![Wireframe_WebApp_Mobile_EN_Fase4.4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_fase_4.4.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Fase4.4](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_fase_4.4.png)
 ###### Finalizar fase
-![Wireframe_WebApp_Mobile_EN_Fin](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireframe_finalizar_fases.png?raw=true)
+![Wireframe_WebApp_Mobile_EN_Fin](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireframe_finalizar_fases.png)
 
 
 ####     4.2. Web Applications Wireflow Diagrams.
@@ -1330,29 +1330,29 @@ Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-
 
 ##### User Goal: Registrar empresa
 User persona: Administradores y Técnicos supervisores.
-![WebApp_Desktop_Wireflow_Crear_Cuenta](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Registrar_Empresa_EN.png?raw=true)
+![WebApp_Desktop_Wireflow_Crear_Cuenta](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Wireflow_Registrar_Empresa_EN.png)
 
 ##### User Goal: Iniciar sesión
 User persona: Administradores y Técnicos supervisores.
-![WebApp_Desktop_Wireflow_Iniciar_Sesion](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Log_In_EN.png?raw=true)
+![WebApp_Desktop_Wireflow_Iniciar_Sesion](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Wireflow_Log_In_EN.png)
 
 ##### User Goal: Navegar por el dashboard
 User persona: Administradores.
-![WebApp_Desktop_Wireflow_Dashboard](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireflow_Dashboard.png?raw=true)
+![WebApp_Desktop_Wireflow_Dashboard](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireflow_Dashboard.png)
 
 
 ##### User Goal: Crear un nuevo cultivo
 User persona: Técnicos supervisores.
-![WebApp_Desktop_Wireflow_New_Crop](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Nuevo_Cultivo.png?raw=true)
+![WebApp_Desktop_Wireflow_New_Crop](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Wireflow_Nuevo_Cultivo.png)
 
 ##### User Goal: Registrar procesos
 User persona: Técnicos supervisores.
-![WebApp_Desktop_Wireflow_New_Crop](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Wireflow_Fase.png?raw=true)
+![WebApp_Desktop_Wireflow_New_Crop](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Wireflow_Fase.png)
 
 
 ##### User Goal: Ver registro pasado
 User persona: Administradores.
-![WebApp_Desktop_Wireflow_New_Crop](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Wireflow_Ver_Registro_Pasado.png?raw=true)
+![WebApp_Desktop_Wireflow_New_Crop](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Wireflow_Ver_Registro_Pasado.png)
 
 
 ####     4.3. Web Applications Mock-ups.
@@ -1360,97 +1360,97 @@ Enlace para acceder al [Figma](https://www.figma.com/file/C8IFBNZ9fA3njpp5vlAwxU
 ##### Web Application para Desktop Web Browser
 
 ###### Iniciar sesión
-![WebApp_Desktop_Wireframe_EN_Login](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Log_In_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Login](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Log_In_EN.png)
 ###### Crear cuenta
-![WebApp_Desktop_Wireframe_EN_Registrar_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Registrar_Empresa_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Registrar_Empresa](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Registrar_Empresa_EN.png)
 ###### Elegir plan de pago
-![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Elegir_Plan_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Elegir_Plan](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Elegir_Plan_EN.png)
 ###### Pasarela de pagos
-![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Pagar_EN.png?raw=true)
-![WebApp_Desktop_Wireframe_EN_Pagar](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Confirmar_Pago_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Pasarela_Pagos](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Pagar_EN.png)
+![WebApp_Desktop_Wireframe_EN_Pagar](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Confirmar_Pago_EN.png)
 ###### Mi perfil
-![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Perfil_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Perfil_EN.png)
 ###### Perfil de trabajador (Vista administrador)
-![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cuenta_Trabajador_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Perfil](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Cuenta_Trabajador_EN.png)
 ###### Mi empresa (Vista de administrador)
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Empresa_EN.png)
 ###### Mi empresa (Vista de técnico supervisor)
-![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Mi_Empresa_Vista_Trabajador_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Mi_Empresa_Tecnico](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Mi_Empresa_Vista_Trabajador_EN.png)
 ###### Panel de control (Dashboard)
-![WebApp_Desktop_Wireframe_EN_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Dashboard_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Dashboard](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Dashboard_EN.png)
 ###### Reportes estadísticos
-![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Reportes_Estadisticos_EN.png?raw=true)
+![WebApp_Desktop_Wireframe_EN_Reportes_Estadísticos](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Reportes_Estadisticos_EN.png)
 
 ###### Crear cultivo
-![WebApp_Desktop_Mockup_EN_CrearCultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Crear_Cultivo_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_CultivosEnProgreso](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Cultivos_En_Progreso_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_CrearCultivo](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Crear_Cultivo_EN.png)
+![WebApp_Desktop_Mockup_EN_CultivosEnProgreso](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Cultivos_En_Progreso_EN.png)
 ###### Fase 0 Insumos
-![WebApp_Desktop_Mockup_EN_Fase0Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_0_Empty_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase0NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_0_Nuevo_Registro_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase0](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_0_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase0Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_0_Fin_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase0Empty](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_0_Empty_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase0NuevoRegistro](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_0_Nuevo_Registro_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase0](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_0_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase0Fin](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_0_Fin_EN.png)
 ###### Fase 1 Patio
-![WebApp_Desktop_Mockup_EN_Fase1Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_1_Empty_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase1NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_1_Nuevo_Registro_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase1](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_1_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_1_Fin_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase1Empty](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_1_Empty_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase1NuevoRegistro](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_1_Nuevo_Registro_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase1](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_1_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase1Fin](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_1_Fin_EN.png)
 ###### Fase 2 Búnker
-![WebApp_Desktop_Mockup_EN_Fase2Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_2_Empty_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase2NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_2_Nuevo_Registro_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase2](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_2_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase2Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_2_Fin_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase2Empty](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_2_Empty_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase2NuevoRegistro](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_2_Nuevo_Registro_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase2](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_2_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase2Fin](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_2_Fin_EN.png)
 ###### Fase 3 Túnel
-![WebApp_Desktop_Mockup_EN_Fase3Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_3_Empty_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase3NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_3_Nuevo_Registro_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase3](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_3_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase3Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_3_Fin_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase3Empty](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_3_Empty_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase3NuevoRegistro](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_3_Nuevo_Registro_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase3](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_3_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase3Fin](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_3_Fin_EN.png)
 ###### Fase 4.1 Incubación
-![WebApp_Desktop_Mockup_EN_Fase4-1Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-1_Empty_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase4-1NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-1_Nuevo_Registro_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase4-1](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-1_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-1_Fin_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-1Empty](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-1_Empty_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase4-1NuevoRegistro](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-1_Nuevo_Registro_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase4-1](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-1_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase4-1Fin](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-1_Fin_EN.png)
 ###### Fase 4.2 Cobertura
-![WebApp_Desktop_Mockup_EN_Fase4-2Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-2_Empty_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase4-2NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-2_Nuevo_Registro_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase4-2](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-2_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-2_Fin_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-2Empty](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-2_Empty_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase4-2NuevoRegistro](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-2_Nuevo_Registro_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase4-2](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-2_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase4-1Fin](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-2_Fin_EN.png)
 ###### Fase 4.3 Inducción
-![WebApp_Desktop_Mockup_EN_Fase4-3Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-3_Empty_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase4-3NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-3_Nuevo_Registro_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase4-3](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-3_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-3_Fin_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-3Empty](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-3_Empty_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase4-3NuevoRegistro](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-3_Nuevo_Registro_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase4-3](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-3_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase4-1Fin](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-3_Fin_EN.png)
 ###### Fase 4.4 Cosecha
-![WebApp_Desktop_Mockup_EN_Fase4-4Empty](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Empty_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Fase4-4NuevoRegistro](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Nuevo_Registro_EN.png?raw=true)
-![WebApp__Desktop_Mockup_EN_Fase4-4](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_EN.png?raw=true)
-![WebApp__Desktop_Mockup_EN_Fase4-1Fin](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Fase_4-4_Fin_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Fase4-4Empty](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-4_Empty_EN.png)
+![WebApp_Desktop_Mockup_EN_Fase4-4NuevoRegistro](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-4_Nuevo_Registro_EN.png)
+![WebApp__Desktop_Mockup_EN_Fase4-4](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-4_EN.png)
+![WebApp__Desktop_Mockup_EN_Fase4-1Fin](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Fase_4-4_Fin_EN.png)
 ###### Finalizar cultivo
-![WebApp_Desktop_Mockup_EN_End](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Finalizar_Cultivo.png?raw=true)
+![WebApp_Desktop_Mockup_EN_End](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Finalizar_Cultivo.png)
 
 ###### Histórico de cultivos
-![WebApp_Desktop_Mockup_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_EN.png?raw=true)
-![WebApp_Desktop_Mockup_EN_Mi_Empresa_Tecnico](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Archivo_Cosechas_Detalle_EN.png?raw=true)
+![WebApp_Desktop_Mockup_EN_Mi_Empresa_Tecnico](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Archivo_Cosechas_EN.png)
+![WebApp_Desktop_Mockup_EN_Mi_Empresa_Tecnico](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Archivo_Cosechas_Detalle_EN.png)
 
 ##### Web Application para Mobile Web Browser
 ###### Panel de control (Dashboard)
-![WebApp_Mobile_Mockup_EN_Dashboard](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_panel_control.png?raw=true)
-![WebApp_Mobile_Mockup_EN_Registrar_Proceso](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_registro_procesos.jpg?raw=true)
+![WebApp_Mobile_Mockup_EN_Dashboard](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Mockup_panel_control.png)
+![WebApp_Mobile_Mockup_EN_Registrar_Proceso](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Mockup_registro_procesos.jpg)
 ###### Fase 1
-![WebApp_Mobile_Mockup_EN_Fase1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_1.png?raw=true)
+![WebApp_Mobile_Mockup_EN_Fase1](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Mockup_fase_1.png)
 ###### Fase 2
-![WebApp_Mobile_Mockup_EN_Fase2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_2.png?raw=true)
+![WebApp_Mobile_Mockup_EN_Fase2](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Mockup_fase_2.png)
 ###### Fase 3
-![WebApp_Mobile_Mockup_EN_Fase3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_3.png?raw=true)
+![WebApp_Mobile_Mockup_EN_Fase3](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Mockup_fase_3.png)
 ###### Fase 4.1
-![WebApp_Mobile_Mockup_EN_Fase4.1](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_4.1.png?raw=true)
+![WebApp_Mobile_Mockup_EN_Fase4.1](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Mockup_fase_4.1.png)
 ###### Fase 4.2
-![WebApp_Mobile_Mockup_EN_Fase4.2](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_4.2.png?raw=true)
+![WebApp_Mobile_Mockup_EN_Fase4.2](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Mockup_fase_4.2.png)
 ###### Fase 4.3
-![WebApp_Mobile_Mockup_EN_Fase4.3](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_4.3.png?raw=true)
+![WebApp_Mobile_Mockup_EN_Fase4.3](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Mockup_fase_4.3.png)
 ###### Fase 4.4
-![WebApp_Mobile_Mockup_EN_Fase4.4](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_fase_4.4.png?raw=true)
+![WebApp_Mobile_Mockup_EN_Fase4.4](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Mockup_fase_4.4.png)
 ###### Finalizar fases
-![WebApp_Mobile_Mockup_EN_Fin](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Mockup_finalizar_fases.png?raw=true)
+![WebApp_Mobile_Mockup_EN_Fin](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Mockup_finalizar_fases.png)
 
 
 ####     4.4. Web Applications User Flow Diagrams.
@@ -1461,81 +1461,75 @@ Enlace para acceder al [Lucid Chart](https://lucid.app/lucidchart/3044ab2c-ab1e-
 User persona: Administradores.
 
 Explicación del flujo: En primer lugar, los administradores deberán ingresar a la aplicación desplegada. A continuación, deberán dirigirse al apartado de "Register organization", dentro del cual se mostrará un formulario que solicitará ingresar información relevante para la creación de la cuenta, como, por ejemplo, razón social, RUC, nombre del registrante y contraseña de la cuenta. Seguidamente, se mostrarán dos botones, uno que representa la confirmación del usuario de haber leído los términos y condiciones de uso, y otro que confirma su intención de crear una cuenta. En segundo lugar, el usuario será redirigido a la pasarela de pagos, donde deberá de elegir entre uno de los tres planes ofrecidos al cliente. Una vez seleccionado el plan, se mostrará una pasarela de pagos donde el usuario deberá de ingresar su información asociada a la tarjeta de crédito con la que hará efectiva la suscripción. En caso de que proceda el método de pago, el usuario será redirigido al perfil de la empresa creada, en esta sección podrá subir el logo de la organización e invitar trabajadores. En caso de que la transacción sea rechazada, se mantendrá en la pasarela de pagos y se le solicitará reingresar la información.
-![User_Flow_Registrarse](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Registrarse.png?raw=true)
+![User_Flow_Registrarse](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/User_Flow_Registrarse.png)
 
 ##### User Goal: Iniciar sesión
 User persona: Administradores y Técnicos supervisores.
 
 Explicación del flujo: En primer lugar, el usuario deberá de acceder a la aplicación desplegada. Seguidamente, visualizará en pantalla un formulario que solicitará sus datos de inicio de sesión, en este caso, correo electrónico y contraseña. En caso de que estos sean validados, el sistema redirigirá al usuario al dashboard. Caso contrario, se mantendrá en la pestaña de inicio de sesión y se le solicitará reintroducir sus credenciales.
-![User_Flow_LogIn](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_LogIn.png?raw=true)
+![User_Flow_LogIn](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/User_Flow_LogIn.png)
 
 ##### User Goal: Ver perfil
 User persona: Administradores y Técnicos supervisores.
 
 Explicación del flujo: En todo momento el usuario visualizará en la parte superior de la aplicación una "navbar". Cuando presione sobre su nombre o foto, los cuales son elementos que están situados en el extremo derecho de la "navbar", podrá acceder a su perfil de usuario. En este podrá realizar actividades de relevancia, tales como ver su rol dentro de la organización y actualizar sus datos personales.
-![User_Flow_Ver_Perfil](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Ver_Perfil.png?raw=true)
+![User_Flow_Ver_Perfil](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/User_Flow_Ver_Perfil.png)
 
 ##### User Goal: Ver empresa
 User persona: Administradores y Técnicos supervisores.
 
 Explicación del flujo: El usuario podrá visualizar la información relacionada con su empresa de dos maneras diferentes, la primera es ingresando desde el botón situado a la derecha de la "navbar", y la segunda es accediendo a la sección "My organization" desde el dashboard. 
-![User_Flow_Ver_Empresa](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Ver_Empresa.png?raw=true)
+![User_Flow_Ver_Empresa](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/User_Flow_Ver_Empresa.png)
 
 ##### User Goal: Navegar a través del dashboard
 User persona: Administradores.
 
 Explicación del flujo: Como se explicó anteriormente, una vez que el usuario inicie sesión, será redirigido al dashboard en donde visualizará una serie de opciones. La primera opción, llamada "View crops in progress", permitirá al administrador revisar los cultivos en progreso y sus respectivos registros. La segunda, denominada "My organization", permitirá al usuario acceder al apartado de la organización. En tercer lugar se encuentra la opción "Statistical reports", la cual mostrará reportes estadísticos de valor para el usuario, como son el estado de las naves, número de registros por cultivo en progreso, insumos utilizados dentro de los cultivos, etc. Finalmente, el botón "Crop Archive" redirigirá al usuario a la sección homónima.
-![User_Flow_Dashboard](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Dashboard.png?raw=true)
-
+![User_Flow_Dashboard](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/User_Flow_Dashboard.png)
 
 ##### User Goal: Crear un nuevo cultivo
 User persona: Técnicos supervisores.
 
 Explicación del flujo: En primer lugar el usuario debe de acceder a la sección "Process Log", dentro de la cual podrá encontrar una lista de registros de cultivos creados y catalogados como "En proceso". Cuando el usuario presione el botón ubicado en la parte inferior de la lista, se desplegará un mensaje emergente que solicitará confirmar su intención de crear una nueva cosecha. En caso de ser confirmada, se redireccionará al usuario a la nueva siembra creada.
 
-![User_Flow_Nuevo_Cultivo](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Nuevo_Cultivo.png?raw=true)
-
+![User_Flow_Nuevo_Cultivo](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/User_Flow_Nuevo_Cultivo.png)
 
 ##### User Goal: Documentar Fase 0
 User persona: Técnicos supervisores.
 
-Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". 
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". 
 
-![User_Flow_Fase_0](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_0.png?raw=true)
+![User_Flow_Fase_0](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/User_Flow_Fase_0.png)
 
 ##### User Goal: Documentar Fase 1
 User persona: Técnicos supervisores.
 
-Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 2". 
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 2". 
 
-![User_Flow_Fase_1](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_1.png?raw=true)
-
+![User_Flow_Fase_1](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/User_Flow_Fase_1.png)
 
 ##### User Goal: Documentar Fase 2
 User persona: Técnicos supervisores.
 
-Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 3". 
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 3". 
 
-![User_Flow_Fase_2](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_2.png?raw=true)
-
+![User_Flow_Fase_2](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/User_Flow_Fase_2.png)
 
 ##### User Goal: Documentar Fase 3
 User persona: Técnicos supervisores.
 
-Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 4". 
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper", en este caso, la "Fase 4". 
 
-![User_Flow_Fase_3](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_3.png?raw=true)
-
+![User_Flow_Fase_3](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/User_Flow_Fase_3.png)
 
 ##### User Goal: Documentar Fase 4
 User persona: Técnicos supervisores.
 
-Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". Sin embargo, en caso de que el usuario se encuentre en la etapa 4.4, el mensaje le indicará al usuario que una vez finalizada la fase, toda la cosecha será catalogado como culminado, y la siembra será archivada en el histórico de cultivos y dejará de ser accesible desde la sección "Process log".
+Explicación del flujo: El usuario debe de acceder a la sección "Process Log" y presionar sobre el cultivo que desea documentar. Una vez elegida la siembra, la aplicación redigirá al usuario al panel de registros, el cual es propio de la cosecha seleccionada. En este, se mostrará un "stepper" que indica la fase en la que se encuentra la siembra. En caso de que no existan registros para la fase actual, se mostrará un mensaje indicando la situación. De lo contrario, se mostrará una tabla con todos los registros realizados en dicha etapa hasta el momento. Para documentar los procesos de la fase, el usuario deberá presionar sobre el botón que indica "Create new record", y a continuación se desplegará un menú con casillas de texto donde podrá registrar la información necesaria. En caso de que el usuario desee finalizar la fase y continuar a la siguiente, será necesario oprimir el botón "Finish phase", el cual mostrará un mensaje emergente que solicitará confirmar su intención. En caso de ser confirmada, la fase será culminada, los registros archivados y la pantalla mostrará la siguiente etapa del "stepper". Sin embargo, en caso de que el usuario se encuentre en la etapa 4.4, el mensaje le indicará al usuario que una vez finalizada la fase, toda la cosecha será catalogado como culminado, y la siembra será archivada en el histórico de cultivos y dejará de ser accesible desde la sección "Process log".
 
-![User_Flow_Fase_4](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/User_Flow_Fase_4.png?raw=true)
+![User_Flow_Fase_4](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/User_Flow_Fase_4.png)
 
 ### 5. **Web Applications Prototyping.**
-
 
 Para poder elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser, se siguieron una serie de criterios fundamentales, entre ellos:
 
@@ -1546,7 +1540,7 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
 3. **Priorización de Información Relevante:** El diseño de la aplicación se enfoca en mostrar únicamente la información más importante para los usuarios pertenecientes al segmento objetivo.
 
 
-![Web_Applications_Prototyping](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Web_Applications_Prototyping.png?raw=true)
+![Web_Applications_Prototyping](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Web_Applications_Prototyping.png)
 
 Enlace para acceder al video de explicación del [Web Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/Ed0o47tYWx1Aq8iCPDuzPnoBpgV_bDWctRdBohtmb2l6_A?e=VkRyxf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
@@ -1558,24 +1552,24 @@ Domain Driven Design no se trata solamente de usar un lenguaje ubicuo, sino que 
 ####     6.1. Software Architecture Context Diagram.
 El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software Greenhouse, los usuarios y, si es el caso, de otros sistemas externos.
 
-![Greenhouse_context_diagram](https://github.com/Integradis-OpenSource/TFDocOpenSource/blob/develop/Imagenes/Context_Diagram.png?raw=true)
+![Greenhouse_context_diagram](https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/develop/Imagenes/Context_Diagram.png)
 ####     6.2. Software Architecture Container Diagrams.
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software Greenhouse.
-![structurizr-85919-Container-001](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/b84922b6-e4d0-41f0-8223-1860b2f1f79e)
+![structurizr-85919-Container-001](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/b84922b6-e4d0-41f0-8223-1860b2f1f79e)
 ####     6.3. Software Architecture Components Diagrams.
 El diagrama de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
 ##### Login Bounded Context
-![Component_login (1)](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/88e0c546-6539-45fb-9f86-189c47bdebff)
+![Component_login (1)](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/88e0c546-6539-45fb-9f86-189c47bdebff)
 ##### Company Bounded Context
-![Component_Organization](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/c4fc5109-43ea-430f-b769-699961729cfe)
+![Component_Organization](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/c4fc5109-43ea-430f-b769-699961729cfe)
 ##### Payment Bounded Context
-![Component_Payment](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/bffb2bdc-e50b-4457-bb85-efdf15cce8b6)
+![Component_Payment](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/bffb2bdc-e50b-4457-bb85-efdf15cce8b6)
 ##### Crop Bounded Context
-![Component_Process](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/0b1e569e-bb80-4c6e-b82e-e0d5e024eef3)
+![Component_Process](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/0b1e569e-bb80-4c6e-b82e-e0d5e024eef3)
 
 ### 7. **Software Object-Oriented Design.**
 ####     7.1. Class Diagrams.
-![Class Diagram](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/641b1369-6c35-4d3c-99e3-6ed1101e4247)
+![Class Diagram](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/641b1369-6c35-4d3c-99e3-6ed1101e4247)
 
 
 ####     7.2. Class Dictionary.
@@ -1709,7 +1703,7 @@ Class GrowRoomRecord
 ### 8. **Database Design.**
 Para el presente proyecto se ha seleccionado el motor de base de datos MySQL porque es una plataforma escalable con una interfaz sencilla y fácil de usar debido a la familiaridad del grupo con el motor de Microsoft SQL Server. Este motor permite expandir los recursos utilizados en la base de datos del proyecto según las necesidades y requerimientos del negocio. 
 ####     8.1. Database Diagram.
-![GreenhousePhysicalDataModel-2023-09-07_10-55](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/114628079/1a1e8150-46e3-4c41-9888-cc48a993bd12)
+![GreenhousePhysicalDataModel-2023-09-07_10-55](https://github-production-user-asset-6210df.s3.amazonaws.com/114628079/266542848-1a1e8150-46e3-4c41-9888-cc48a993bd12.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 1. Software Configuration Management.
@@ -1806,7 +1800,7 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
 
 
-![GitHub Pages](https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/blob/develop/Imagenes/Github_pages.png?raw=true)
+![GitHub Pages](https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/develop/Imagenes/Github_pages.png)
 
 Enlace para acceder a la [landing page](https://upc-pre-202302-si730-sw51-integradis.github.io/LandingPage/)
 
@@ -1818,42 +1812,68 @@ Para poder desplegar el Front End Web Application resulta necesario contar con u
 
 Ingresar con tu cuenta de Github en la opción Sign Up with Github:
 
-<img width="1440" alt="Sing Up" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/8daffd5d-d361-4d4a-98dd-261e1b5c1c20">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1440" alt="Sing Up" src="https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/8daffd5d-d361-4d4a-98dd-261e1b5c1c20">
 
 Brindar autorización a Netlify para Github.
 
 Una vez tienes una cuenta en Netlify es necesario nombrar a tu Team, en este caso lo nombramos Greenhouse.
 
-<img width="279" alt="Netlify Sidebar" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/ac09ff3c-fd91-4101-b196-f8125994211f">
+<img width="279" alt="Netlify Sidebar" src="https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/ac09ff3c-fd91-4101-b196-f8125994211f">
 
 Se ingresa a la sección Sites y se selecciona la opción Add new site y la sección Import an existing project.
 
-<img width="1106" alt="add new site" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4a0840b9-3d1b-4918-8dde-cdb29db10ec8">
+<img width="1106" alt="add new site" src="https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/4a0840b9-3d1b-4918-8dde-cdb29db10ec8">
 
-<img width="263" alt="Import an existing project" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/10a789e2-e897-4eb9-9ad9-12d8b931d251">
+<img width="263" alt="Import an existing project" src="https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/10a789e2-e897-4eb9-9ad9-12d8b931d251">
 
 Elegimos la opción de “Deploy with Github”. Se configuran el acceso al repositorio de la organización y luego se selecciona el repositorio sobre el cuál se va a realizar el deployment.
 
-<img width="1170" alt="deploy project" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/fbd4fb1a-f5b8-43e9-b32e-7ca2d9f4b6ee">
+<img width="1170" alt="deploy project" src="https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/fbd4fb1a-f5b8-43e9-b32e-7ca2d9f4b6ee">
 
-<img width="843" alt="Screenshot 2023-09-28 at 7 23 01 PM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/195ce94d-4332-470c-9835-c5bdaac474d7">
+<img width="843" alt="Screenshot 2023-09-28 at 7 23 01 PM" src="https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/195ce94d-4332-470c-9835-c5bdaac474d7">
 
-<img width="1055" alt="Screenshot 2023-09-28 at 7 07 21 PM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/fc50518f-9265-4515-a38e-2894e2385ac9">
+<img width="1055" alt="Screenshot 2023-09-28 at 7 07 21 PM" src="https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/fc50518f-9265-4515-a38e-2894e2385ac9">
 
 A continuación se tiene que realizar la configuración para el despliegue. En esta se tiene que ingresar el Team de Netlify, y la branch del repositorio al cuál se le va a hacer deploy, en este caso master. Además se tienen que configurar los build settings, el base directory no se cambia porque es el root directory. El build command es npm run build para generar la carpeta dist, mientras que en el Publish directory se coloca el dist/greenhouse. Finalmente se selecciona la opción de deploy, la cuál es Deploy Greenhouse.
 
-<img width="826" alt="configuration" src="https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/2b7c6e75-193c-435a-bdf9-4918195ccc21">
+<img width="826" alt="configuration" src="https://raw.githubusercontent.com/Integradis-OpenSource/TFDocOpenSource/assets/103552798/2b7c6e75-193c-435a-bdf9-4918195ccc21">
 
-<img width="1000" alt="Screenshot 2023-09-28 at 7 08 03 PM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/476a6e7f-87a3-44a6-a8c2-ac522fc19101">
+<img width="1000" alt="Screenshot 2023-09-28 at 7 08 03 PM" src="https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/476a6e7f-87a3-44a6-a8c2-ac522fc19101">
 
 
 Luego esperas a que la página termine el deployment y en la ventana de sites va encontrarse la página publicada:
 
-<img width="1376" alt="Screenshot 2023-09-28 at 7 08 20 PM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/9040117e-17ac-4348-9ed4-c7ea4eefb036">
+<img width="1376" alt="Screenshot 2023-09-28 at 7 08 20 PM" src="https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/9040117e-17ac-4348-9ed4-c7ea4eefb036">
 
 Ingresas y cuentas con el enlace para ingresar al Front End Web Application, además que te da la opción de Site Configuration en dónde podrás cambiar el Site name de ser necesario.
 
-<img width="788" alt="Screenshot 2023-09-28 at 7 08 41 PM" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/7a8866f9-3aa6-47ba-84bd-8a08b6a190b9">
+<img width="788" alt="Screenshot 2023-09-28 at 7 08 41 PM" src="https://raw.githubusercontent.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103552798/7a8866f9-3aa6-47ba-84bd-8a08b6a190b9">
 
 De este modo ya se contaría con la página desplegada y al estar vinculada y con permisos en el repositorio de la organización cada vez que se realiza un commit a la branch correspondiente se va a actualizar el Front End Web Application sin necesidad de volver a hacer todos los pasos anteriores.
 

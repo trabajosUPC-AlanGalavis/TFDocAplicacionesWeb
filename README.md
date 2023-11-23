@@ -84,7 +84,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Alan Galavis|Corrección del modelo de base de datos. Completar explicaciones de flows. Sprint Backlog 2.|
 |Carlo Seminario|Corrección de impact map. Documentation Evidence for Sprint Review|
 |Jessica Comettant|Correcciones en Lean UX, completar explicación de collaboration|
-|Andres Soto|Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+|Andres Soto|Sprint Planning 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
 
 **TB2**
 
@@ -94,7 +94,16 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Alan Galavis|Corrección del diagrama de base de datos. Corrección de diagramas C4. Elaboración de video about the product. Elaboración de entrevistas de validación.|
 |Carlo Seminario|Software deployment configuration. Documentation Evidence for Sprint Review.|
 |Jessica Comettant|Evaluación según heurísticas, análisis de entrevistas de validación|
-|Andres Soto|Sprint Planning 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+|Andres Soto|Sprint Planning 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review|
+
+**TF**
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nicolás Espinoza|Corrección de diagramas C4.|
+|Alan Galavis|Sprint Planning 4, Sprint backlog|
+|Carlo Seminario|Software deployment configuration. Documentation Evidence for Sprint Review, Testing Suite Evidence for Sprint Review.|
+|Andres Soto| Execution Evidence for Sprint Review|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización Integradis.
 
@@ -107,21 +116,14 @@ Los integrantes son:
 * Alan Galavis (trabajosUPC-AlanGalavis)
 * Nicolás Espinoza (EspinozaNaer)
 * Carlo Seminario (CarloLSG)
-* Jessica Comettant (Mei0202)
 * Andrés Soto (asotito231)
 
-**TB1**
+<img alt="inight_documento" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285063135-9bafd109-fab8-4a4a-a574-c867a2ae9a0a.png">
 
-![Commit_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/f1c3c7a1-fe67-410b-b845-fb77abe41021)
-![Commit_Graph_Individual1](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/a87b9990-4d55-44da-b146-c320da0b09e9)
-![Commit_Graph_Individual2](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/b4c8014b-70e7-4b09-b885-ad36cad31e64)
-![Commit_Graph_Individual3](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/79f17bfb-7ec3-4233-8a55-da9a57164db5)
 
 En el siguiente gráfico se muestran la cantidad total de commits realizados en todas las ramas del proyecto.
 
-**TB1**
-
-![Pull_Graphs](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/5c3dc89f-65e0-4d38-adbc-b8ef3fa3476b)
+![Captura de pantalla 2023-11-22 181251](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285063536-463ac71b-c80b-4240-a4b1-341f9d59bef4.png)
 
 Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
 Se explican las ramas más prominentes:
@@ -131,11 +133,11 @@ Se explican las ramas más prominentes:
 **feature-product-design**: Es representado por el color verde. Incluye el contenido de user flows y wireframes.
 **feature-sprint1**: Es representada por el color amarillo. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
 
-![Branch_Graph](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/02a276ed-2c6b-4714-9f9c-932aee761f3b)
+![Captura de pantalla 2023-11-22 181424](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285063729-5348df75-2c57-471a-b524-7bb705ff7c78.png)
 
-El siguiente gráfico incluye la cantidad de commits realizados en la semana con más actividad durante el desarrollo del informe. 
+El siguiente gráfico incluye la cantidad de commits realizados en la semana con más actividad durante el desarrollo del informe.
 
-![Commit_Timeline](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/062a8d50-d5d4-4467-8c87-3363decc22eb)
+![Captura de pantalla 2023-11-22 181401](https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285063727-9116bf6b-a498-48db-83dc-795293944a7b.png)
 
 ## Student Outcome
 
@@ -3925,13 +3927,13 @@ El Sprint #4 tiene como fecha de inicio el 06/11/2023 y como meta establece culm
             </td>
         </tr>
         <tr>
-            <td>Sprint 4 Review Summary</td>
+            <td>Sprint 3 Review Summary</td>
             <td>
                 El sprint anterior propuso continuar el desarrollo del front end de la aplicación, y desplegar una primera versión del back end con endpoints funcionales. Se evidencia que el equipo logró cumplir con todos los objetivos propuestos.
             </td>
         </tr>
         <tr>
-            <td>Sprint 4 Retrospective Summary</td>
+            <td>Sprint 3 Retrospective Summary</td>
             <td>
                 <b>¿Qué funciona bien?</b> Los story points fueron acertados. A su vez, la comunicación activa durante el sprint permitió que los miembros del grupo se mantengan informados sobre el proceso de desarrollo del proyecto. <b> ¿Qué no salió bien o cómo se esperaba? </b> El testing pudo haber sido documentado de mejor manera. Sintaxis de historias de usuario poco claras <b> ¿Qué deberíamos intentar hacer a continuación? </b> Investigar sobre testing y documentarlo de manera apropiada. Revisar las user stories y reestructurarlas para que todos los developers comprendan con simplicidad su propósito. 
             </td>
@@ -4039,10 +4041,10 @@ Link del Trello: https://trello.com/invite/b/JdTlnrD8/ATTI6cc1194d704d650af2070c
     </tr>
     <tr>
         <td rowspan="1">TS12</td>
-        <td rowspan="1">Get crop by user</td>
+        <td rowspan="1">Get crop by comapny</td>
         <td>TK52</td>
-        <td>Crear endpoint para obtener un cultivo de acuerdo al usuario que elaboró el registro</td>
-        <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo al usuario que realizó el registro correspondiente, al igual que toda la información asociada al mismo</td>
+        <td>Crear endpoint para obtener un cultivo de acuerdo a la compañia que elaboró el registro</td>
+        <td>Elaborar un endpoint que permita recuperar un cultivo en específico de acuerdo a la compañia que realizó el registro correspondiente, al igual que toda la información asociada al mismo</td>
         <td>4</td>
         <td>Nicolás Espinoza</td>
         <td>Done</td>
@@ -4058,44 +4060,106 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|aad502|fix: Relocated company profile component and added plural to phases names||14/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|63ead26|feat(company_profile): Company profile now showcases employee list||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|74c9b4c|chore: Installed dependencies||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|3fbefdf|feat: Created bar chart component||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|c83a57f|feat: Created line chart component||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|3d07000|fix: fixed dashboard card route location||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|c35a12a|feat: Addded internationalization to steps||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|26e4546|feature: added domain model and services for security.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7539be3|feature: added mapping for security with ModelToResourceProfile and ResourceToModelProfile.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ee2179c|feature: added Interface User Repository.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ef12d81|feat: added User Service interface.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|d2d3816|chore(security): added constraints to the AppDb context||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|5c493c1|feat: added user repository implementation||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|9502468|chore(security): added dependencies.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|2087ac2|feat: added User Service implementation.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|423e607|feat: added security controller.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7b03bc9|chore: updated program cs.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|dd3ab4e|feat: functional security.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|a3bf1ad|feature: connected login with backend, create token, connected register with backend||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|1a41103|feature: views according to endpoints||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|203fc78|chore(company): made invite employee dialog bigger||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|7e881a5|feat(company): added update and delete functionalities to company profile||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|f17e7c5|feat: Added localization to phase 4 of stepper||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|79d434e|feat: Added localization to remaining phases of stepper||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|46c1d5d|feat: Added localization stepper buttons||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|8f9d466|feat: Added localization to crop finished dialog||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|20a5df0|chore: the crop phase endpoint now always creates a crop on the firstphase.||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|4e3323f|chore: crops now are being correctly patch when ending a phase.||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|2eb9dbb|fix: name of the endpoint is now sign-in and sign-up.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|3b204aa|chore: updated methods to work with the back-end||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|9e74405|chore: shows the crops with state false.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|896335c|chore: shows the crops with state true, with the correct data.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|236816b|chore: updated the endpoints that are sent to the process-table.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|3fdd851|chore: the core of the business is now working with the back-end.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|68dc7df|chore: TODO startDate should have its format changed.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|f48affc|chore: company and employee are being created on the back-end.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|9e5ac27|chore: made the connection with the deployed back-end||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|89a30ab|fix: some endpoints were not being called correctly from the back-end.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|c644d3f|fix: values of the internationalization.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f4dac09|chore: updated the formulas endpoint.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|fe73651|chore: updated the preparation areas endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|21f4a2e|chore: updated the bunker endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|9146338|chore: updated the tunnel endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|21ce118|chore: updated the grow room records endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|524e2a2|chore: added company id to the crop entity.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|221949c|chore: structure the bunker endpoint.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ae7b2f2|chore: structure the formula endpoint.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|3157c86|chore: structure the tunnel endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|06817df|chore: structure the preparation area endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|97007229|chore: finish to structure the preparation area and grow-room endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|d4eab7f|fix: App db context deprecated and sign to sign name.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|1b5e3ff|fix: some naming endpoints and relationships||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|fe2fe10|fix: updated type of startDate and endDate to DateOnly.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|be77bac|chore: changed deployed back-end to Azure in order to have https for communication with the front-end.||20/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|upc-pre-202302-si730-sw51-integradis/LandingPage|cc78307|fix: changed group section due to departure of one member||20/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage|upc-pre-202302-si730-sw51-integradis/LandingPage|ecf9863|fix: size of cards of group sections||20/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|75e1030|feat: solved logo re-direct||22/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|3961ed6|fix: solved logo re-direct||22/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|upc-pre-202302-si730-sw51-integradis/Greenhouse_FrontEnd|6c4d1c0|fix: solved logo re-direct endpoint||22/11/2023|
 
 <div id='5.2.4.4.'><h5>5.2.4.4.Testing Suite Evidence for Sprint Review.</h5></div>
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|076e909|feat(cropTest): added crop service unit test||20/11/2023|
 
+<img alt="Test" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/285027263-b86e5dca-55f5-4ccb-bbaf-23b85b822395.png">
+
+Se llevó a cabo un test correspondiente a la creación de un nuevo crop, haciendo uso de Specflow como herramineto de testing. La lógica de la prueba yace en que llamado al endpoint correspondiente se debería crear un crop nuevo y que se obtenga un correcto response del endpoint, además de dado que un crop siempre empieza en la fase de "Formula" y en el estado activo (True) esto también se consideró como assertions.
 
 <div id='5.2.4.5.'><h5>5.2.4.5.Execution Evidence for Sprint Review.</h5></div>
 En el sprint 4 se alcanzo un desarrollo completo del frontend y backend de la web application. La cual muestra nuevas vistas relevantes acerca del producto y del start up, tanto en ingles como en español, asi como su version responsive. A continuación se muestran algunas evidencias:
 
 - US19:
+<img alt="Reportes estadisticos" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284788583-93f9a279-1c16-46b7-bb98-1aff1356e8ed.png">
 
 
 - US06:
+<img alt="Sign in" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284788578-43759b91-f564-47b9-b9bb-b46d84393c26.png">
+<img alt="Sign up" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284788585-a718a19b-3fe7-483d-86d0-a9fe63962ca7.png">
 
 
-- TS12:
-
+- TS10:
+<img alt="TS10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284792501-e6b34862-36b4-4e62-9458-43b302e3766c.png">
 
 - TS11:
-
+<img alt="TS11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284792498-ec4c266c-a389-436a-b5bb-cfaa6292042e.png">
 
 - TS12:
-
+<img alt="TS12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284792504-bb72a085-fc44-4c7c-83cb-0895942c16cc.png">
 
 
 Enlace para visualizar el video de explicación de los logros del Sprint: 
 
-
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EWnxtb7vEedDouL282nG6T0BSkPwLNeaVbOqeYm1nfNZ6w?e=LWEu6K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110223_upc_edu_pe/EWnxtb7vEedDouL282nG6T0BSkPwLNeaVbOqeYm1nfNZ6w?e=LWEu6K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <div id='5.2.4.6.'><h5>5.2.4.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
-Para el sprint 4 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con un json server de forma local y luego se pasó a realizar la implementación con My Json Server. El back-end fue creado y cuenta con vinculos con el front-end, para realizar consultas y obtener datos. Enlace para acceder al [My Json Server 1](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI1) y [My Json Server 2](https://my-json-server.typicode.com/CarloLSG/GreenhouseFakeAPI2). Enlace para acceder al [Web Service](http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html)
+Para el sprint 4 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con un json server de forma local y luego se pasó a realizar la implementación con My Json Server. El back-end fue creado y cuenta con vinculos con el front-end, para realizar consultas y obtener datos. Enlace para acceder al [Web Service](http://greenhouseupc-001-site1.ctempurl.com/swagger/index.html)
 
-Json server:
-
-<img alt="JSON1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279255332-b7d3cadd-6071-4661-bb99-a241fc6e4693.png">
-<img alt="JSON2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279255330-9ebb2721-5e1a-4db9-a47f-d663a09d1a77.png">
 
 | Endpoint | Details |
 | - | - | 
@@ -4121,29 +4185,6 @@ Web Service:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="5">Bunkers</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>No tiene</td>
-            <td>api/v1/bunkers</td>
-        </tr>
-        <tr>
-            <td>POST</td>
-            <td>No tiene</td>
-            <td>api/v1/bunkers</td>
-        </tr>
-        <tr>
-            <td>PUT</td>
-            <td>{id}</td>
-            <td>api/v1/bunkers/{id}</td>
-        </tr>
-        <tr>
-            <td>DELETE</td>
-            <td>{id}</td>
-            <td>api/v1/bunkers/{id}</td>
-        </tr>
-        <tr>
             <td rowspan="5">Companies</td>
         </tr>
         <tr>
@@ -4167,32 +4208,31 @@ Web Service:
             <td>api/v1/companies/{id}</td>
         </tr>
         <tr>
-            <td>CompanyEmployees</td>
+            <td>CompanyEmployee</td>
             <td>GET</td>
             <td>{companyId}</td>
-            <td>api/v1/companies/{comapnyId}/employees</td>
+            <td>api/v1/companies/{companyId}/employees</td>
         </tr>
         <tr>
-            <td>CropPhases</td>
-            <td>GET</td>
-            <td>{phaseId}</td>
-            <td>api/v1/phases/{phaseId}/crops</td>
-        </tr>
-        <tr>
-            <td rowspan="5">Crops</td>
+            <td rowspan="6">Crops</td>
         </tr>
         <tr>
             <td>GET</td>
             <td>No tiene</td>
             <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/crops/{companyId}</td>
         </tr>
         <tr>
             <td>POST</td>
-            <td>No tiene</td>
-            <td>api/v1/crops</td>
+            <td>{companyId}</td>
+            <td>api/v1/crops/{companyId}</td>
         </tr>
         <tr>
-            <td>PUT</td>
+            <td>PATCH</td>
             <td>{id}</td>
             <td>api/v1/crops/{id}</td>
         </tr>
@@ -4202,7 +4242,122 @@ Web Service:
             <td>api/v1/crops/{id}</td>
         </tr>
         <tr>
-            <td rowspan="5">Employees</td>
+            <td rowspan="5">Crops Bunker</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunkers</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunkers</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/bunkers/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/bunkers/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops Formulas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/formulas/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/formulas/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops Grow Room Records</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/growroomrecords/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/growroomrecords</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/growroomrecords/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/growroomrecords/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops Preparation Areas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparationareas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparationareas</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/preparationareas/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/preparationareas/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops Tunnel</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/tunnels/{id}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{cropId}, {id}</td>
+            <td>api/v1/crops/{cropId}/tunnels/{id}</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Crops Employees</td>
         </tr>
         <tr>
             <td>GET</td>
@@ -4217,7 +4372,7 @@ Web Service:
         <tr>
             <td>PUT</td>
             <td>{id}</td>
-            <td>api/v1/employees/{id}</td>
+            <td>api/v1/emlpoyees/{id}</td>
         </tr>
         <tr>
             <td>DELETE</td>
@@ -4225,109 +4380,33 @@ Web Service:
             <td>api/v1/employees/{id}</td>
         </tr>
         <tr>
-            <td rowspan="5">Formulas</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>No tiene</td>
-            <td>api/v1/formulas</td>
+            <td rowspan="6">Crops Users</td>
         </tr>
         <tr>
             <td>POST</td>
             <td>No tiene</td>
-            <td>api/v1/formulas</td>
-        </tr>
-        <tr>
-            <td>PUT</td>
-            <td>{id}</td>
-            <td>api/v1/formulas/{id}</td>
-        </tr>
-        <tr>
-            <td>DELETE</td>
-            <td>{id}</td>
-            <td>api/v1/forumals/{id}</td>
-        </tr>
-        <tr>
-            <td rowspan="5">GrowRoomRecords</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>No tiene</td>
-            <td>api/v1/growroomrecords</td>
+            <td>api/v1/users/sign-in</td>
         </tr>
         <tr>
             <td>POST</td>
-            <td>No tiene</td>
-            <td>api/v1/growroomrecords</td>
-        </tr>
-        <tr>
-            <td>PUT</td>
-            <td>{id}</td>
-            <td>api/v1/growroomrecord/{id}</td>
-        </tr>
-        <tr>
-            <td>DELETE</td>
-            <td>{id}</td>
-            <td>api/v1/growroomrecords/{id}</td>
-        </tr>
-        <tr>
-            <td rowspan="3">Phases</td>
+            <td>{cropId}</td>
+            <td>api/v1/users/sign-in</td>
         </tr>
         <tr>
             <td>GET</td>
             <td>No tiene</td>
-            <td>api/v1/phases</td>
-        <tr>
-            <td>PUT</td>
-            <td>{id}</td>
-            <td>api/v1/phases/{id}</td>
-        </tr>
-        <tr>
-            <td rowspan="5">PreparationAreas</td>
+            <td>api/v1/users</td>
         </tr>
         <tr>
             <td>GET</td>
-            <td>No tiene</td>
-            <td>api/v1/preparationareas</td>
-        </tr>
-        <tr>
-            <td>POST</td>
-            <td>No tiene</td>
-            <td>api/v1/preparationareas</td>
-        </tr>
-        <tr>
-            <td>PUT</td>
             <td>{id}</td>
-            <td>api/v1/preparationareas/{id}</td>
+            <td>api/v1/users/{id}</td>
         </tr>
         <tr>
             <td>DELETE</td>
             <td>{id}</td>
-            <td>api/v1/preparationareas/{id}</td>
+            <td>api/v1/users/{id}</td>
         </tr>
-        <tr>
-            <td rowspan="5">Tunnels</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>No tiene</td>
-            <td>api/v1/tunnels</td>
-        </tr>
-        <tr>
-            <td>POST</td>
-            <td>No tiene</td>
-            <td>api/v1/tunnels</td>
-        </tr>
-        <tr>
-            <td>PUT</td>
-            <td>{id}</td>
-            <td>api/v1/tunnels/{id}</td>
-        </tr>
-        <tr>
-            <td>DELETE</td>
-            <td>{id}</td>
-            <td>api/v1/tunnels/{id}</td>
-        </tr>   
     </tbody>
 </table>
 
@@ -4339,7 +4418,33 @@ Commits web service:
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 |-|-|-|-|-|-|
-
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|26e4546|feature: added domain model and services for security.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7539be3|feature: added mapping for security with ModelToResourceProfile and ResourceToModelProfile.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ee2179c|feature: added Interface User Repository.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ef12d81|feat: added User Service interface.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|d2d3816|chore(security): added constraints to the AppDb context||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|5c493c1|feat: added user repository implementation||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|9502468|chore(security): added dependencies.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|2087ac2|feat: added User Service implementation.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|423e607|feat: added security controller.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|7b03bc9|chore: updated program cs.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|dd3ab4e|feat: functional security.||15/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|20a5df0|chore: the crop phase endpoint now always creates a crop on the firstphase.||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|4e3323f|chore: crops now are being correctly patch when ending a phase.||18/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|f4dac09|chore: updated the formulas endpoint.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|fe73651|chore: updated the preparation areas endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|21f4a2e|chore: updated the bunker endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|9146338|chore: updated the tunnel endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|21ce118|chore: updated the grow room records endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|524e2a2|chore: added company id to the crop entity.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|221949c|chore: structure the bunker endpoint.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|ae7b2f2|chore: structure the formula endpoint.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|3157c86|chore: structure the tunnel endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|06817df|chore: structure the preparation area endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|97007229|chore: finish to structure the preparation area and grow-room endpoints.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|d4eab7f|fix: App db context deprecated and sign to sign name.||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|1b5e3ff|fix: some naming endpoints and relationships||19/11/2023|
+|https://github.com/upc-pre-202302-si730-sw51-integradis/Greenhouse.API|upc-pre-202302-si730-sw51-integradis/Greenhouse.API|fe2fe10|fix: updated type of startDate and endDate to DateOnly.||19/11/2023|
 
 <div id='5.2.4.7.'><h5>5.2.4.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
@@ -4350,30 +4455,134 @@ Landing page:
 El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
 
 - Capturas de pantalla landing page:
-
+<img alt="1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150943-0c4c9fc3-2284-435c-8dc0-991a6d1cabc5.png">
+<img alt="2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150944-e98099b2-4bcb-4c4f-a753-2120179c1235.png">
+<img alt="3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150945-41043c07-8cf4-4b4b-804b-7c4a19eb4754.png">
+<img alt="4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150946-2a5a6ad0-9817-40f2-bb75-232fb9b5ddd8.png">
+<img alt="5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150949-fb4fba19-cbfc-4ec9-86a5-10e215544091.png">
+<img alt="6" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284789392-47f52bba-bdeb-415b-9ec5-82ecaed0d8ee.png">
+<img alt="7" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284789388-3df9d097-a285-43f6-812d-db4eb4ba9eb3.png">
+<img alt="8" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284789397-95813632-a957-4bd9-ba4e-44581c10f8f9.png">
+<img alt="9" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150931-a8f474f8-8dbd-4212-b8ca-3d11c9a6e321.png">
+<img alt="10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150935-b89afffa-fce9-4758-a8b9-697063414d67.png">
+<img alt="11" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150935-b89afffa-fce9-4758-a8b9-697063414d67.png">
+<img alt="12" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280150937-7f14f842-f502-4f74-a654-4db839a1e4c0.png">
 
 Web Application front-end:
 
 Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
 
 - Deploy_web:
-
+<img alt="f1" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/4b3a24af-ea52-4fee-9bce-79e8f22320a3">
 
 - Capturas de pantalla de web application:
+
+<img alt="Sign in" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284788578-43759b91-f564-47b9-b9bb-b46d84393c26.png">
+<img alt="Sign up" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284788585-a718a19b-3fe7-483d-86d0-a9fe63962ca7.png">
+<img alt="Politica de privacidad" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/d5b319cb-d48b-4999-992e-e65e63914d53">
+<img alt="web_app_dashboard" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244769-1bce197b-a96d-45f2-beea-c9787781f7ec.png">
+<img alt="web_app_company" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244769-1bce197b-a96d-45f2-beea-c9787781f7ec.png">
+<img alt="web_app_user" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244795-8bf6318d-df85-4233-a0b3-e51cd0652318.png">
+<img alt="Reportes estadisticos" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284788583-93f9a279-1c16-46b7-bb98-1aff1356e8ed.png">
+<img alt="web_app_crop_archive" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244816-c5e35b11-13db-4c93-8cd4-39f3a124e015.png">
+<img alt="web_app_progress" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244833-6e9173d8-053d-48f6-8b62-18f5e8d053d2.png">
+<img alt="web_app_progress_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244850-8ba8f0bb-bc50-4df0-adeb-bedb2ae8a9c0.png">
+<img alt="web_app_stock" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244859-b15bf8b4-a16a-4491-852b-489b601c362c.png">
+<img alt="web_app_stock_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244865-fc925eab-0df5-4bc3-b2c1-214a68b88e29.png">
+<img alt="web_app_stock_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244872-c14f5302-3ed9-49de-8c3a-2372e83949e5.png">
+<img alt="web_app_preparation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244872-c14f5302-3ed9-49de-8c3a-2372e83949e5.png">
+<img alt="web_app_preparation_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244977-46e26408-2ec3-4ac3-853b-319091f81dbc.png">
+<img alt="web_app_preparation_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279244998-144bcf7e-a37d-44f9-9ba7-17a587a96b40.png">
+<img alt="web_app_bunker" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245020-b8272d64-0123-4f53-8f93-9f9c12b533dc.png">
+<img alt="web_app_bunker_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245027-e228e345-e164-4506-ae82-9934710a7a84.png">
+<img alt="web_app_bunker_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245053-ac05ade0-c346-4848-bf65-2ee021d1d886.png">
+<img alt="web_app_tunnel" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245076-4d606ff8-7ace-42c7-adc3-25898f03d9ca.png">
+<img alt="web_app_tunnel_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245094-69a1a08e-c657-4697-b883-35544c1c3807.png">
+<img alt="web_app_tunnel_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245108-166c673c-0fe0-47b4-9862-aa9e1fbd15be.png">
+<img alt="web_app_incubation" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245121-0166100c-4594-4206-a985-7cba143f1513.png">
+<img alt="web_app_incubation_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245139-ee707e33-85e1-4230-955d-ef86ccde17f0.png">
+<img alt="web_app_incubation_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245153-6354d051-3965-453d-9a4c-33211ff1f269.png">
+<img alt="web_app_casing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245178-bbef04e8-2815-445f-9b79-2a30a92b8f47.png">
+<img alt="web_app_casing_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245187-0bb69c10-6301-43bf-8283-1c3fedd3f1ee.png">
+<img alt="web_app_casing_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245200-4cbe95c8-a1b6-45f5-8327-21325ba58475.png">
+<img alt="web_app_induction" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245217-3e6d8d4a-ede1-4531-a94a-5d43eb7c367f.png">
+<img alt="web_app_induction_register" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245231-fb066815-d342-4f0f-bf45-a2ced0063e69.png">
+<img alt="web_app_induction_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245240-df055634-67b8-498e-8abe-8d338625687f.png">
+<img alt="web_app_harvest" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245247-8310d2a1-0162-426e-a229-3f7ae88f9672.png">
+<img alt="web_app_harvest_regeister" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245252-9ffe99a3-38bd-4acc-b97e-629f91e8eccb.png">
+<img alt="web_app_harvest_warning" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245264-e9f07741-90b4-4ae0-98fe-c37f03f1d25b.png">
+<img alt="crop_completed" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/279245274-cca88ab0-f0eb-4fc1-9421-6fbff7a70143.png">
 
 
 Web Application back-end:
 
-Ultímo despligue del web service en SmartASP.NET:
-
+Ultímo despligue del web service en Microsoft Azure
+<img alt="b1" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/e259564a-aac5-453e-893f-5a2a47eed96f">
+<img alt="b2" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/9d7fc7d9-26a3-4698-a21d-978bc86bede8">
+<img alt="b3" src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c731ad5b-4ff2-4120-81e9-709f3011a0b2">
 
 Base de Dato en SmartASP.NET:
-
+<img alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/280447205-ea1455fa-e46f-40e3-b567-d49044e482d4.png">
 
 - Capturas de pantalla de web services:
 
+<img alt="comapnies1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803316-e58f0fb5-96da-4831-876a-20a85b92c82a.png">
+<img alt="companies2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803314-9500325a-4084-47ec-bfc5-5be453caa6c7.png">
+<img alt="companies3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803313-ea5d6872-72a7-4f71-8add-91f0f86dd40a.png">
+<img alt="companies4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803312-d54f9e31-a892-4d42-b1ea-3eab14d96a94.png">
+<img alt="companyE" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803308-169fcbdc-1722-464c-ad40-9c9bb20a48be.png">
+<img alt="crops1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803306-d0def72e-e83f-4c57-9a04-a2ea14ec8666.png">
+<img alt="crops2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803303-1a660714-e516-4d0e-a74a-3f20b03da1e9.png">
+<img alt="crops3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803301-8efc9faf-a705-40b1-959a-00aa651a0dfc.png">
+<img alt="crops4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803298-b0d66abc-2043-48db-adf0-c4f866c94694.png">
+<img alt="crops5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803295-1f013282-ac2a-4a4f-ac7f-22ca827ad7e5.png">
+<img alt="cropsb1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803294-691fe1d7-25a7-430c-95a7-fbaddafbdee6.png">
+<img alt="cropsb2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803291-519a20cf-1b15-4bda-ae89-b7da6c60745d.png">
+<img alt="cropsb3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803289-e4fdf95d-9ab5-4255-b283-a2a01ee49bcf.png">
+<img alt="cropsb4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803288-9b1346f0-674c-4973-a846-5ad886ea3c42.png">
+<img alt="cropsf1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803287-c238a11e-70e9-4ee1-9b19-eae5878594cd.png">
+<img alt="cropsf2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803286-a405723f-7b00-474a-acad-bfa40145e1ff.png">
+<img alt="cropsf3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803283-5d80b76c-4f0b-47d6-be03-5f651088778b.png">
+<img alt="cropsf4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803281-2db12602-a1bb-4cb7-a0f3-7797955d3cbe.png">
+<img alt="cropsg1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803279-5341861a-cdaf-4fa5-a6fb-8b825a25547d.png">
+<img alt="cropsg2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803277-ac4655fa-3f16-470b-991b-6138e7fdbd7f.png">
+<img alt="cropsg3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803275-8865a4a4-a1fd-4bde-a2e1-f2e951c7cbfc.png">
+<img alt="cropsg4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803274-74916f3f-da6f-434a-b1c1-0ee09f9e196b.png">
+<img alt="cropsa1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803271-e421d6b3-6fbe-4ca4-b6f4-5e123526cebc.png">
+<img alt="cropsa2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803269-5d4de84d-e971-4238-8a99-ed12b9507c67.png">
+<img alt="cropsa3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803268-5b70d176-e33d-4ac8-bdee-067233cb0766.png">
+<img alt="cropsa4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803265-bb2e633a-9d9d-4bff-943e-a9f39c9bbe9c.png">
+<img alt="cropst1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803262-89948b7c-ff7c-4296-aded-ffeea30fde8b.png">
+<img alt="cropst2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803260-1c6eeaa3-d6ce-4014-968c-3853ac401193.png">
+<img alt="cropst3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803258-914088cc-a863-41c6-abf7-58c67782962f.png">
+<img alt="cropst4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803256-985b402b-58a6-4c62-b30b-4a66f9e4c053.png">
+<img alt="emp1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803254-250fd3cd-5669-4a6f-91d9-40b089038fbc.png">
+<img alt="emp2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803252-8b8fb753-11cb-4410-8498-b18e81bc5269.png">
+<img alt="emp3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803250-5451cc1f-a5e8-43dc-905b-4dc9d3cb6dd5.png">
+<img alt="emp4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803246-984006f9-c319-4329-8a0e-0dfb8c305550.png">
+<img alt="user1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803243-63bd4a4d-f102-4eb8-9709-22e3132b0aa8.png">
+<img alt="user2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803241-a3f29663-9144-424c-a920-4144e857dcfb.png">
+<img alt="user3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803239-afce3d4a-e333-4085-91ca-a438fda39ac2.png">
+<img alt="user4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803237-c1b2058c-6e12-4117-82d1-686df574361b.png">
+<img alt="user5" src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/284803232-edb9e98f-e9f5-4a8f-b81c-3524469f1e54.png">
+
 
 <div id='5.2.4.8.'><h5>5.2.4.8.Team Collaboration Insights during Sprint.</h5></div>
+
+Inisghts:
+
+- Landing: 
+<img src="https://github.com/upc-pre-202302-si730-sw51-integradis/TFAplicacionesWeb/assets/103398708/c330a457-cbf2-48f5-967e-91354e91b122" alt="i_l">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285061757-8b22a276-8ed3-4a40-b6ad-711e263aa1b3.png" alt="i_l2">
+
+- Front end:
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285061752-cbe63981-d2de-4845-bcc7-bf1d89ac794f.png" alt="i_f">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285061748-86ed553e-25d3-491c-bc09-ccf4b88d35f3.png" alt="i_f2">
+
+- Back end:
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285061756-1bffa024-6e2d-47f5-9f89-77ed4aa3bba1.png" alt="i_api">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103398708/285061754-5f6866c6-2e3a-4c89-9df0-5a48fba03e3e.png" alt="i2_api">
+
 
 |Alumno|Actividad|
 |-|-|
@@ -5134,7 +5343,7 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
 
 ## Conclusiones y recomendaciones
 
-1. Existe una gran demanda en el mercado internacional de cetas (champiñones) hacia el Perú con una exportación en aumento del 11%, comparado con el año 2021.
+1. Existe una gran demanda en el mercado internacional de champiñones hacia el Perú con una exportación en aumento del 11%, comparado con el año 2021.
 2. La mayoría de las aplicaciones en el mercado dirigidas al segmento objetivo presenta deficiencias dentro del registro de información sobre cultivos en las industrias champiñoneras.
 3. Las repositorios y funcionalidades de la herramienta GitHub aumentaron la eficiencia, calidad y colaboración del equipo en el desarrollo de software. Aseguraron la gestión de activos y versiones con un control riguroso de código fuente y documentación. Es así que, se lograron cumplir las demandas del segmento objetivo.
 4. El diseño y desarrollo de entrevistas proporciona la comprensión, comunicación y validación de requisitos y expectativas de los stakeholders. Gracias a ello, se identifican las frustraciones, objetivos, pensamientos y percepciones relacionados al dilema a atender por la propuesta de solución y, así, alcanzar la satisfacción adecuada de sus necesidades.
@@ -5143,11 +5352,9 @@ Para abordar el problema de la incapacidad para retornar a una fase anterior des
 7. El desarrollo de los User Stories y del Product Backlog, prioriza las características de la solución software para que el equipo de desarrollo sepa que hay que entregar primero.
 8. El planteamiento de los Wireframes estableció bases sólidas para el desarrollo de la plataforma interactiva. Enfocó los detalles visuales antes de la codificación lo que resultó en un producto más eficaz y atractivo para el usuario.
 9. Los sprints son necesarios para avanzar de forma continua y ordenada. Es bueno tener un límite de user story points para no sobrecargar de tareas al equipo y poder desarrollar de manera correcta el Landing Page.
-10. La creación del Sprint 1, fue una excelente forma de integrar los user stories priorizables para el primer entregable. Esto se debe a que cada integrante participó del desarrollo del Landing Page dentro del repositorio colaborativo y se realizaron reuniones respectivas para el feedback grupal.
 11. Se concluye que es importante sentar las bases del diseño antes de comenzar a codificar. En ese sentido, realizar el diagrama de clases respectivo para visualizar la interacción de las entidades implementadas.
 12. Realizar los criterios de aceptación en lenguaje Gherkin de las historias de usuario designadas para este sprint validan los escenarios posibles dentro de la interacción entre usuario y plataforma. Ello aporta en el descarte de posibles resultados y la comprobación de funcionalidades. 
-13. Es necesario estimar tiempos adicionales para cada uno de los sprints para corregir historias de usuario carry over o pendientes no planificados. El sprint 2 tuvo un tiempo de desarrollo ajustado debido a complicaciones de esta índole.
-14. La documentación de los módulos y artefactos de Angular Material nos permite conocer mediante ejemplos interactivos las funcionalidades disponibles en los componentes visuales de la biblioteca.
+13. Es necesario estimar tiempos adicionales para cada uno de los sprints para corregir historias de usuario carry over o pendientes no planificados. El sprint 2, por ejemplo, tuvo un tiempo de desarrollo ajustado debido a complicaciones de esta índole.
 
 <br>
 
